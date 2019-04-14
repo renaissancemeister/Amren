@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title> News, Breaking News and More: The Trentonian</title>
+</head>
+        <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-TLFP4R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'http://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TLFP4R');</script>
+<!-- End Google Tag Manager -->
+<div id="DFM-adPos-inter"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-inter');});</script></div>
+    <div id="DFM-adPos-leader"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-leader');});</script></div>
+<header id="site-header" role="banner">
+    <div id="topbar" class="hide-for-phone zero-height">
+        <div class="container-fluid">
+            <div id="topbar-viewport">
+                <div id="topbar-wrapper">
+                    <div class="weather-bar zero-height">
+                        <div class="current-weather">
+                            <div class="current-temp">
+                                <a href="http://www.trentonian.com/weather">
+                                    <span class="currImg"></span>
+                                    <hgroup>
+                                        <h6>Right now</h6>
+                                        <h5></h5>
+                                    </hgroup>
+                                </a>
+                            </div> <!-- .current-temp -->
+                            <div class="high-low">
+                                <div>
+                                    <p><small>Today's high</small></p>
+                                    <a href="http://www.trentonian.com/weather"><p class="temp todayshigh"></p></a>
+                                </div>
+                                <div>
+                                    <p><small>Today's low</small></p>
+                                    <a href="http://www.trentonian.com/weather"><p class="temp todayslow"></p></a>
+                              </div>
+                            </div> <!-- .high-low -->
+                            <div class="forecast">
+                                <ul>
+                                    <li>
+                                        <h6 class="day1Name"></h6>
+                                        <a href="http://www.trentonian.com/weather">
+                                            <span class="day1Img"></span>
+                                            <p class="high-temp day1High"></p>
+                                            <p class="low-temp day1Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day2Name"></h6>
+                                        <a href="http://www.trentonian.com/weather">
+                                            <span class="day2Img"></span>
+                                            <p class="high-temp day2High"></p>
+                                            <p class="low-temp day2Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day3Name"></h6>
+                                        <a href="http://www.trentonian.com/weather">
+                                            <span class="day3Img"></span>
+                                            <p class="high-temp day3High"></p>
+                                            <p class="low-temp day3Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day4Name"></h6>
+                                        <a href="http://www.trentonian.com/weather">
+                                            <span class="day4Img"></span>
+                                            <p class="high-temp day4High"></p>
+                                            <p class="low-temp day4Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day5Name"></h6>
+                                        <a href="http://www.trentonian.com/weather">
+                                            <span class="day5Img"></span>
+                                            <p class="high-temp day5High"></p>
+                                            <p class="low-temp day5Low"></p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div> <!-- .forecast -->
+                        </div> <!-- .current-weather -->
+                        <div id="weather-ad">
+                           <h6><a href="http://www.trentonian.com/weather">Full weather report</a></h6>
+                        </div>
+                    </div> <!-- .weather-bar -->
+                    <div class="traffic-bar zero-height">
+                        <div id="sigAlertClicker" onclick="window.location.assign('/traffic')"></div><iframe width="640" scrolling="auto" height="300" frameborder="0" name="saportal" style="border: 0px solid #000000;" allowtransparency="true" marginheight="0" marginwidth="0" src="http://www.sigalert.com/Portlet/Map.asp?partner=Trentonian&amp;lat=40.25581&amp;lon=-74.73108&amp;z=2&amp;th=blue&amp;urqs=1&amp;url=/traffic"></iframe>
+                        <div class="traffic-ad">
+                            <h6><a href="http://www.trentonian.com/traffic">Full traffic report</a></h6>
+                        </div>
+                    </div><!-- .traffic-bar -->
+                </div>  <!-- #topbar-wrapper -->
+            </div> <!-- #topbar-viewport -->
+        </div> <!-- .container-fluid -->
+    </div> <!-- #topbar -->
+    <section id="flag">
+        <div class="container-fluid">
+            <div class="branding">
+                    <a href="http://www.trentonian.com/"><img class="property-logo small" src="http://local.trentonian.com/assets/logo-large.png" title="The Trentonian" alt="The Trentonian"></a>
+                    <h1 class="page-title">
+                    </h1>
+             </div> <!-- .branding -->
+                 <nav id="topbar-menu">
+                    <ul class="inline-list">
+                        <li><a class="weather-toggle">Weather</a></li>
+                        <li><a class="traffic-toggle">Traffic</a></li>
+                        <li><a class="markets-toggle" href="http://www.trentonian.com/business">Markets</a></li> 
+                    </ul> <!-- .nav -->
+             </nav> <!-- #topbar -->
+             <div id="header-links">
+                    <a href=""></a>
+                </div>
+             <div id="site-search" class="search-bar">                
+                  <form action="http://www.trentonian.com/search" class="form-search input-append">
+                        <input name="text" type="text" placeholder="Search"/>
+                        <button class="btn btn-primary" type="submit">Go</button>
+                        <input type="hidden" name="sort" value="modifiedtime desc"/>
+                        <input type="hidden" name="nocache" value="1"/>
+                  </form>
+                  <!-- Verticals Links -->
+                  <div class="verticals-menu">
+                     <ul id="verticalsLinks"></ul>
+                  </div>
+                  <!-- /Verticals Links -->
+             </div> <!-- #search-bar -->
+        </div> <!-- container-fluid -->
+    </section> <!-- #flag -->
+
+   <nav id="site-navigation" role="navigation" class="navbar">
+   <a href="#main-content" class="hidden">Skip to Main Window</a>
+	<div class="navbar-inner">
+		<div class="container-fluid">
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-responsive-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+        	</a>
+			<div class="nav-collapse collapse navbar-responsive-collapse">
+				<ul class="nav">
+					<li class="dropdown">
+                        <a href="http://www.trentonian.com/news" class="dropdown-toggle">News<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.trentonian.com/local-news">Local</a></li>
+							<li><a href="http://www.trentonian.com/homicide-watch">Homicide Watch</a></li>
+							<li><a href="http://www.trentonian.com/weather">Weather</a></li>
+							<li><a href="http://www.trentonian.com/traffic">Traffic</a></li>
+							<li><a href="http://www.trentonian.com/closings">Closings</a></li>
+							<li><a href="http://www.trentonian.com/national-news-video">National News Video</a></li>
+							<li><a href="http://www.trentonian.com/news-video">Video</a></li>
+							<li><a href="http://www.trentonian.com/news-blogs">Blogs</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.trentonian.com/sports" class="dropdown-toggle">Sports<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.trentonian.com/nhl">NHL</a></li>
+							<li><a href="http://www.trentonian.com/nba">NBA</a></li>
+							<li><a href="http://www.trentonian.com/nfl">NFL</a></li>
+							<li><a href="http://www.trentonian.com/mlb">MLB</a></li>
+							<li><a href="http://www.trentonian.com/Trenton_Thunder">Trenton Thunder</a></li>
+							<li><a href="http://www.trentonian.com/college-sports">College</a></li>
+							<li><a href="http://www.trentonian.com/hs-sports">High School</a></li>
+							<li><a href="http://www.trentonian.com/fish-4-scores">Fish 4 Scores</a></li>
+							<li><a href="http://www.trentonian.com/national-sports-video">National Sports Video</a></li>
+							<li><a href="http://www.trentonian.com/sports-video">Video</a></li>
+							<li><a href="http://www.trentonian.com/sports-blogs">Blogs</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.trentonian.com/business" class="dropdown-toggle">Business</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.trentonian.com/entertainment" class="dropdown-toggle">Entertainment<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.trentonian.com/news-and-gossip">News &amp; Gossip</a></li>
+							<li><a href="http://www.trentonian.com/entertainment-video">Video</a></li>
+							<li><a href="http://www.trentonian.com/entertainment-blogs">Blogs</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.trentonian.com/lifestyle" class="dropdown-toggle">Lifestyle<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.trentonian.com/features-people">Features / People</a></li>
+							<li><a href="http://www.trentonian.com/lifestyle-blogs">Blogs</a></li>
+							<li><a href="http://www.trentonian.com/lifestyle-video">Video</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.trentonian.com/obituaries" class="dropdown-toggle active">Obituaries</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.trentonian.com/opinion" class="dropdown-toggle">Opinion<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.trentonian.com/our-say">Our Say</a></li>
+							<li><a href="http://www.trentonian.com/letters-to-the-editor">Letters to the Editor</a></li>
+							<li><a href="http://www.trentonian.com/columnists">Columnists</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.trentonian.com/blogs" class="dropdown-toggle active">Blogs<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.trentonian.com/staff-blogs">Staff Blogs</a></li>
+							<li><a href="http://www.trentonian.com/community-blogs">Community Blogs</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.trentonian.com/marketplace" class="dropdown-toggle">Marketplace<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.trentonian.com/jobs">Jobs</a></li>
+							<li><a href="http://www.trentonian.com/weekly-ads">Weekly Ads</a></li>
+							<li><a href="http://www.trentonian.com/local-guide">Local Guide</a></li>
+							<li><a href="http://www.trentonian.com/todays-ads">Today's Ads</a></li>
+							<li><a href="http://www.trentonian.com/classifieds">Classifieds</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.trentonian.com/apps/pbcs.dll/section?profile=4002361" class="dropdown-toggle active">Tools<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.trentonian.com/contact">Contact Us</a></li>
+							<li><a href="http://www.trentonian.com/advertise">Advertise with Us</a></li>
+							<li><a href="http://www.trentonian.com/submit">Submit Announcements</a></li>
+							<li><a href="http://www.trentonian.com/careers">Work for Us</a></li>
+							<li><a href="http://www.trentonian.com/photo-reprints">Order Photo Reprints</a></li>
+							<li><a href="http://www.trentonian.com/contest">Contests</a></li>
+							<li><a href="http://www.trentonian.com/subscribe">Subscribe</a></li>
+							<li><a href="http://www.trentonian.com/manage-subscription">Manage Your Subscription</a></li>
+							<li><a href="http://www.trentonian.com/epaper">E-Paper</a></li>
+							<li><a href="http://www.trentonian.com/mobile">Mobile</a></li>
+							<li><a href="http://www.trentonian.com/sms">Text Alerts</a></li>
+							<li><a href="http://www.trentonian.com/email_signup">Email Newsletter Sign up</a></li>
+							<li><a href="http://www.trentonian.com/email_preferences">Manage Email Newsletters</a></li>
+							<li><a href="http://www.trentonian.com/rss">RSS</a></li>
+							<li><a href="http://www.trentonian.com/nie">Newspapers in Education</a></li>
+							<li><a href="http://www.trentonian.com/gasbuddy">GasBuddy</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+				</ul> <!-- .nav -->
+			</div> <!-- .nav-collapse -->
+		</div> <!-- .container-fluid -->
+	</div> <!-- .navbar-inner -->
+</nav> <!-- #site-navigation -->
+
+
+<!-- Begin ShareBar.pbo-->
+<script type="text/javascript">
+	var smrtPhone   = false;
+	var domainUrl   = dfm.api("data","siteDomain");
+	var thisTitle   = dfm.api("data","pageTitle");
+	var thisURL     = dfm.api("data","pageUrl");
+	var thisTumb    = thisURL.replace(/.*?:\/\//g, "");
+	var aArticleid  = dfm.api("data","contentId");
+	var twitterAdd  = "https://twitter.com/trentonian";
+	var splittWIT   = twitterAdd.split("/");	
+	var twitterHand = splittWIT[3];	
+	var splitUrl    = domainUrl.split(".");
+	var splitDom    = splitUrl[0];
+</script>
+<div id="shareBarWrapper" class="shareBarHide">
+	<div class="share-barADD">
+		<ul>
+			<li class="facebook">
+				<a>#</a>
+				<ul class="share-options">
+					<li class="shareBarFacebook">
+						<div class="fb-like" data-href="http://www.trentonian.com/articles/2010/04/07/entertainment/" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+					</li>
+				</ul>
+        </li>
+        <li class="twitter">
+        <a>Twitter</a>
+            <ul class="share-options"></ul>
+ 			</li>
+			<li class="google">
+				<a onclick="javascript:window.open('http://plus.google.com/share?url=http://www.trentonian.com/articles/2010/04/07/entertainment/', 'gpluswin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"></a>
+			</li>
+			<li class="reddit">
+				<a href="javascript:void(open('http://reddit.com/submit?url=http://www.trentonian.com/articles/2010/04/07/entertainment/&amp;title='+thisTitle+''));" title="Share on Reddit">
+					<i class="reddit"></i>
+					Reddit
+				</a>
+			</li>
+			<li class="pinterest">
+				<a href="javascript:javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It!" title="Share on Pinterest">
+					<i class="pinterest"></i>
+					Pinterest
+				</a>
+			</li>
+			<li class="comments-share">
+				<div id="shareDisqus">
+					<a class="timestamp shareBarCommentCount" href="#disqus_thread" data-disqus-identifier="trentonian-4"></a>
+				</div>
+			</li>
+			<li class="more">
+				<a>...</a>
+				<script type="text/javascript">
+					var addthis_options = 'facebook, myspace, google, delicious, digg, favorites, live, buzz, twitter, fark, friendfeed';
+					addthis_pub = 'ra-4f57b03e596f553e';
+					var addthis_config = {"data_track_clickback": true};
+				</script>
+				<ul class="more-share-options">
+					<li>
+						<a href="http://www.addthis.com/bookmark.php" class="addthis_button_email">
+							<i class="icon-inbox"></i>
+							Email
+						</a>
+					</li>
+					<li>					
+						<a href="http://www.trentonian.com/articles/2010/04/07/entertainment/&amp;template=printart" class="articleOptions">
+							<i class="icon-print"></i>
+							Print
+						</a>					
+					</li>
+					<li>
+						<a href="javascript:void(open('https://www.tumblr.com/share?s=&amp;v=3&amp;t='+thisTitle+'&amp;u='+thisTumb+''));" title="Share on Tumblr">
+							<i class="tumblr"></i>
+							Tumblr
+						</a>
+					</li>
+					<li>
+						<a href="javascript:void(open('http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.trentonian.com/articles/2010/04/07/entertainment/&amp;title='+thisTitle+'&amp;source=http://www.trentonian.com/articles/2010/04/07/entertainment/'));" title="Share on LinkedIn">
+							<i class="linkedin"></i>
+							LinkedIn
+						</a>
+					</li>
+					<li>
+						<a href="javascript:void(open('https://www.stumbleupon.com/submit?url=http://www.trentonian.com/articles/2010/04/07/entertainment/&amp;title='+thisTitle+''));" title="Share on StumbleUpon">
+							<i class="stumbleupon"></i>
+							StumbleUpon
+						</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+<div id="fb-root"></div>
+<script type="text/javascript">
+	(function(d, s, id) {
+		var js, fjs=d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s);
+		js.id = id; js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+<div id="tempTwitterDiv" style="height:0px; overflow:hidden; width: 50px">
+	<!-- FireFox does not like iframes being created or moved into currently hidden elements so we have to create it here and move it into place on hover -->
+	<li><a href="https://twitter.com/share" class="twitter-share-button" data-via="trentonian" data-count="vertical" data-url="trentonian.com/article/TT/s/2010/4">Tweet</a>                
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
+</div>
+<script>
+	placeSbarTop = function(){
+		var t=$(window).scrollTop()+($('#topbar').height()-60);
+		var articleOffset=$("#main-story").offset().top - t;
+		var articleEnd=$("#main-story").height()-400;
+		var newArticleEnd=articleEnd+$("#main-story").offset().top;
+		var t=$(window).scrollTop()+($('#topbar').height()+90);
+		if (articleOffset>100)    { $('#shareBarWrapper').css({'top':articleOffset,'position':'fixed','margin-top':0}); }
+		else if (t>newArticleEnd) { $('#shareBarWrapper').css({'position':'absolute','margin-top':newArticleEnd}); }
+		else                      { $('#shareBarWrapper').css({'top':100,'position':'fixed','margin-top':0}); }
+	}
+	placeSbar = function(){
+		var divPos     = $("#main-story").offset();
+		var sBarWidth  = $('#shareBarWrapper').outerWidth();
+		var newLeftPos = divPos.left - sBarWidth -70;
+		$('#shareBarWrapper').css('left', newLeftPos);
+		$('#shareBarWrapper').css('display','block');
+		$('#shareBarWrapper').removeClass('shareBarHide');
+	}
+	//placeSbarTop must run before placeSbar
+	$(document).ready(placeSbarTop);
+	$(document).ready(placeSbar);
+	$(document).ready(function(){
+		/* FireFox does not like iframes being created or moved into currently hidden elements so we had to create the twitter buttons on the page and move them into place on hover */
+		$(".share-barADD .twitter").hover(
+			function(){
+				if($('#tempTwitterDiv').width()>0) {
+					$('#tempTwitterDiv li').appendTo($('.share-barADD .twitter .share-options'));
+					$('#tempTwitterDiv').remove();
+				}
+			},
+			function(){}
+		);
+   });
+	$(window).bind('resize', placeSbar);
+	$(window).scroll('resize', placeSbarTop);
+</script>
+<script>
+	$shareBarRegions = $(".share-barADD ul li");
+	$shareBarRegions.hover(
+		function(){ $(this).addClass("shareBarHover"); },
+		function(){ if(!$(this).hasClass("shareBarInternalHover")){ $(this).removeClass("shareBarHover"); } }
+	);
+	$(".share-barADD ul li ul.share-options li").hover(
+		function(){ $shareBarRegions.addClass("shareBarInternalHover"); },
+		function(){ $shareBarRegions.removeClass("shareBarInternalHover"); }
+	);
+</script>
+<!-- End ShareBar.pbo-->
+
+<div id="DFM-adPos-pencil"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-pencil');});</script></div>
+</header> <!-- #site-header -->
+
+<section id="content" class="container-fluid">
+    <div class="row-fluid">
+        <!-- This article call will be used for all standard data -->
+                    <div class="span4">
+            	<div class="row-fluid">
+               	<section class="left-column span2"></section>
+                  <section class="middle-column span4"> 
+                  	<div class="404">
+<h3> The page you are looking for was not found.  You might be interested in:<h3>
+<h4>Breaking News</h4>
+<div class="left-row breaking-news">
+    <ul>
+        <li>
+    <h3><a href="http://www.trentonian.com/sports/20161115/giants-hold-off-bengals-for-fourth-straight-win">Giants hold off Bengals for fourth straight win</a></h3>
+    <div class="meta no-border"><p class="timestamp">1 min ago</p></div>
+</li>
+    <li>
+    <h3><a href="http://www.trentonian.com/general-news/20161114/source4teachers-we-failed-trenton-students">Source4Teachers: We failed Trenton students</a></h3>
+    <div class="meta no-border"><p class="timestamp">4 hrs ago</p></div>
+</li>
+    <li>
+    <h3><a href="http://www.trentonian.com/sports/20161114/rider-womens-basketball-races-past-lafayette">Rider women&#x2019;s basketball races past Lafayette</a></h3>
+    <div class="meta no-border"><p class="timestamp">4 hrs ago</p></div>
+</li>
+    <li>
+    <h3><a href="http://www.trentonian.com/social-affairs/20161114/racist-image-shows-black-students-receiving-last-free-meal-at-allentown-high-school">&#x2018;Racist&#x2019; image shows black students receiving &#x2018;Last free meal&#x2019; at Allentown High School</a></h3>
+    <div class="meta no-border"><p class="timestamp">5 hrs ago</p></div>
+</li>
+    <li>
+    <h3><a href="http://www.trentonian.com/sports/20161114/ryan-fitz-or-bryce-petty-todd-bowles-in-no-rush-to-make-call-on-jets-qb">Ryan Fitz or Bryce Petty? Todd Bowles in no rush to make call on Jets QB</a></h3>
+    <div class="meta no-border"><p class="timestamp">6 hrs ago</p></div>
+</li>
+    <li>
+    <h3><a href="http://www.trentonian.com/sports/20161114/rider-mens-soccer-handed-trip-to-vermont-in-ncaa-tournament-first-round">Rider men&#x2019;s soccer handed trip to Vermont in NCAA Tournament first round</a></h3>
+    <div class="meta no-border"><p class="timestamp">6 hrs ago</p></div>
+</li>
+    <li>
+    <h3><a href="http://www.trentonian.com/sports/20161114/after-loss-to-mexico-us-heads-to-costa-rica">After loss to Mexico, US heads to Costa Rica</a></h3>
+    <div class="meta no-border"><p class="timestamp">7 hrs ago</p></div>
+</li>
+    <li>
+    <h3><a href="http://www.trentonian.com/sports/20161114/what-to-watch-for-in-njsiaa-girls-soccer-semifinals-hopewell-valley-robbinsville-both-two-wins-away-from-state-titles">What to watch for in NJSIAA girls soccer semifinals: Hopewell Valley, Robbinsville both two wins away from state titles</a></h3>
+    <div class="meta no-border"><p class="timestamp">7 hrs ago</p></div>
+</li>
+    <li>
+    <h3><a href="http://www.trentonian.com/general-news/20161114/albert-stark-the-statement-episode-31-a-novel-in-serial-form">Albert Stark: The Statement, Episode 31; a novel in serial form</a></h3>
+    <div class="meta no-border"><p class="timestamp">7 hrs ago</p></div>
+</li>
+    <li>
+    <h3><a href="http://www.trentonian.com/20161114/la-parker-pei-kids-urges-us-to-get-up-speak-up-and-stand-up-for-childrens-rights">L.A. Parker: PEI Kids urges us to get up, speak up and stand up for childrens&#x2019; rights</a></h3>
+    <div class="meta no-border"><p class="timestamp">7 hrs ago</p></div>
+</li>
+    </ul>
+</div>
+<br/>
+                  </section>
+               </div><!-- /row-fluid -->
+            </div><!-- /span4 -->
+				<script>
+					$('#flag h1').text('OOPS!');
+				</script>
+
+        	 <section id="right-rail" class="span2">
+		  <ul class="widgets">
+				<li class="ad">
+					<div id="DFM-adPos-cube1"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-cube1');});</script></div>
+				</li>
+ 				<li class="widget">
+ 				</li>
+				<li class="widget">
+					<div id="tout-right-rail"></div>
+				</li>
+				<li class="ad">
+					<div id="DFM-adPos-cube3"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-cube3');});</script></div>
+				</li>
+            <li class="ad">
+               <div id="DFM-adPos-cube3b_Flex"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-cube3b_Flex');});</script></div>
+            </li>
+				<li class="widget" style="width: 100%;">
+						<div id="ownLocalWidgy"></div>
+				</li>
+				<li class="ad">
+					 <div class="ad ad-bottomline" id="DFM-adPos-bottomline"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-bottomline');});</script></div>
+				</li>
+		  </ul>
+	 </section> <!-- #right-rail -->
+
+    </div> <!-- .row-fluid -->
+</section>
+ 
+<script type="text/javascript" src="http://local.trentonian.com/common/dfm/assets/js/dfm-core-level2.min.js"></script>
+<script type="text/javascript" src="http://local.trentonian.com/common/dfm/assets/js/bootstrap-carousel.js"></script> 
+<script type="text/javascript" src="http://local.trentonian.com/common/dfm/assets/js/bootstrap-transition.js"></script>
+<script type="text/javascript" src="http://local.trentonian.com/common/dfm/assets/js/handlebars-1.0.0-rc.4.min.js"></script>
+<script type="text/javascript">
+    function removeHrefsFromNav(){
+        $('.dropdown').each(function(){
+        switch($(this).children('a').text()){
+          case 'Tools':
+          case 'Services':
+          case 'Marketplace':
+          case 'Special Reports':
+            $(this).children('a').attr({href:'',onclick:'return false'})
+            break;
+        }
+        })
+    }
+</script>
+<script type="text/javascript">
+  $.getScript("http://local.trentonian.com/common/dfm/assets/js/disqus/dfm_disqus_drawer_saxo.js",function(){
+    loadDfmDisqusDrawer("#dfm_disqus_comments",'pathetrentonian','trentonian-4', window.location.href);
+  });
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<script>
+    $(document).ready(function(){
+        removeHrefsFromNav();
+        setTimeout("$('#topbar, .weather-bar, .traffic-bar').removeClass('zero-height').hide()", 750);
+    });
+    function create_DFM_ad(d){
+        if($('#'+d).html()==''){
+            var tagOrd=Math.random()*10000000000000000;
+            switch(d){                
+                case 'DFM-adPos-weather':     DFM_temp_Ad_string="<iframe width='120px' height='60px'  frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=pos%3Dweather_report&sz=120x60&c="+tagOrd+"'></iframe>"; break;
+                case 'DFM-adPos-traffic':     DFM_temp_Ad_string="<iframe width='120px' height='60px'  frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=pos%3Dtraffic_report&sz=120x60&c="+tagOrd+"'></iframe>"; break;
+                //case 'DFM-adPos-jBar-teaser': DFM_temp_Ad_string="<iframe width='300px' height='30px'  frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=kv%3Dtoolbar&sz=300x30&c="+tagOrd+"'></iframe>"; break;
+                //case 'DFM-adPos-jBar-popup':  DFM_temp_Ad_string="<iframe width='300px' height='250px' frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=kv%3Dtoolbar&sz=300x250&c="+tagOrd+"'></iframe>"; break;
+            }
+        DFM_temp_Ad_location=d;
+        setTimeout('finish_DFM_ad()',50);
+        }
+    setTimeout('finish_DFM_chk_el()',500);
+    }
+    function finish_DFM_ad(){
+        $('#'+DFM_temp_Ad_location).html(DFM_temp_Ad_string);
+        $("#"+DFM_temp_Ad_location+" iFrame").on("mouseover", function(){ 
+            $(this).parents(".dropdown-menu").css('display', 'block');
+        });
+        $("#"+DFM_temp_Ad_location+" iFrame").on("mouseout", function(){ 
+            $(this).parents(".dropdown-menu").css('display', '');
+        });
+    }
+    function finish_DFM_chk_el(){ if($('#topbar').height()<100) { $('#shareBarWrapper').css('display','block') } }
+    var DFM_temp_Ad_location=DFM_temp_Ad_string='';
+//***** AccuWeather *****//
+var siteDebug = "";
+        $(function () {
+            var isMetric = false;            
+            var language = "en";            
+            var apiUrl = "http://api.accuweather.com/";
+            var apiKey = "230548dfe5d54776aaaf5a1f2a19b3f5";
+            var current = new Array();
+            var forecasts = new Array();
+            //weatherUrl = "";
+            var isDayTime = false;            
+            var getWeather = function (zipcode) {                
+                var locationUrl = apiUrl + "/locations/v1/US/search?q=" + zipcode + "&apikey=" + apiKey;
+                //var locationKey = "";
+                $.ajax({
+                    type: "GET",
+                    url: locationUrl,
+                    dataType: "jsonp",
+                    cache: true,
+                    jsonpCallback: "awxCallback",
+                    success: function (data) {                        
+                        if(data && data.length > 0) {
+                            locationKey = data[0].Key;
+                            //city = data[0].LocalizedName+","+data[0].AdministrativeArea.ID;                            
+                            getCurrentConditions(locationKey);
+                            getForecasts(locationKey);
+                        } else {
+                            msg = "No locations found."
+                            console.log(msg);                            
+                        }                                                   
+                    }
+                });
+            };
+            // Gets current conditions for the location.            
+             var getCurrentConditions = function (locationKey) {
+                var currentConditionsUrl = apiUrl + "/currentconditions/v1/" + locationKey + ".json?language=" + language + "&apikey=" + apiKey;
+                $.ajax({
+                    type: "GET",
+                    url: currentConditionsUrl,
+                    dataType: "jsonp",
+                    cache: true,
+                    jsonpCallback: "awxCallback",
+                    success: function (data) {                            
+                            if(data && data.length > 0) {
+                                var conditions = data[0];                                   
+                                var temp = isMetric ? conditions.Temperature.Metric.Value : conditions.Temperature.Imperial.Value;                                
+                                current['icon'] = (conditions.WeatherIcon < 10) ? "0"+conditions.WeatherIcon : conditions.WeatherIcon;                                                                                                
+                                current['weatherurl'] = conditions.Link;
+                                if(siteDebug) {
+                                    console.log("Current ");console.log(current);
+                                }
+                                //set global leaf page weather url and current condition here..
+                                $('.current-weather .current-temp h5').html(temp+'&deg;')
+                                $('#topbar-wrapper .currImg')   .html('<img src="http://local.dailynews.com/common/dfm/assets/img/accuweather/'+current['icon']+'.png" alt="" class="weather-icon" />');
+                            }
+                            else {
+                                msg = "No data returned for locaton key: "+locationKey;
+                                console.log(msg);
+                            }                        
+                    }
+                });
+                //console.log(current);
+            };
+            var getForecasts = function(locationKey) {
+                var forcastUrl = apiUrl + "/forecasts/v1/daily/10day/" + locationKey + ".json?language=" + language + "&apikey=" + apiKey;
+                var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+                $.ajax({
+                    type: "GET",
+                    url: forcastUrl,
+                    dataType: "jsonp",
+                    cache: true,
+                    //jsonpCallback: "awxCallback",
+                    success: function (data) {
+                            var html;
+                            if(data) {                                                                
+                                var forecast = data.DailyForecasts;                                
+                                for(var day in forecast) {                                    
+                                    if (day == 7) { break;} 
+                                    var dateobj = new Date(forecast[day].Date);
+                                    //var icon = isDayTime ? forecast[day].Day.Icon : forecast[day].Night.Icon;     
+                                    if(day == 0) {
+                                        $('#topbar-wrapper .todayshigh').html(forecast[day].Temperature.Maximum.Value + '&deg;');                                        
+                                        $('#topbar-wrapper .todayslow') .html(forecast[day].Temperature.Minimum.Value  + '&deg;');
+                                    } else {
+                                        icon = (forecast[day].Day.Icon < 10) ? "0"+forecast[day].Day.Icon : forecast[day].Day.Icon;                                    
+                                        $('#topbar-wrapper .day'+day+'Name')  .html(days[dateobj.getDay()]);
+                                        $('#topbar-wrapper .day'+day+'High')  .html(forecast[day].Temperature.Maximum.Value + '&deg;');
+                                        $('#topbar-wrapper .day'+day+'Img')   .html('<img src="http://local.dailynews.com/common/dfm/assets/img/accuweather/'+icon+'.png" alt="" class="weather-icon" />');
+                                        $('#topbar-wrapper .day'+day+'Low')   .html(forecast[day].Temperature.Minimum.Value  + '&deg;').siblings('h6').html();
+                                    }
+                                }   
+                                if(siteDebug) {
+                                    console.log("Forecasts");console.log(forecasts);
+                                }
+                                //set forecast values here..
+                            }
+                            else {
+                                msg = "No data returned for location key: "+locationKey;
+                                console.log(msg);
+                            }                        
+                    }
+                });
+            };
+                getWeather("08611");
+            });
+
+//***** QuantCast *****//
+    _qoptions={qacct:"p-BdLLmNP313cFc", labels: "21CM%2ePennsylvania"};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript><img src="http://pixel.quantserve.com/pixel/p-BdLLmNP313cFc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
+<script>
+//***** Breaking News Alert Cookie *****//
+    if(!$.cookie('DFM_BNA')){$('#alerts').animate({'height':'62'},'fast');}
+    function DFM_BNA_COOKIE(){var date=new Date();date.setTime(date.getTime()+(3600*1000));$.cookie('DFM_BNA','set',{expires: date});}
+    $('.weather-toggle').click(function(e){ e.preventDefault(); activateTopBar($(this), $('.weather-bar')); $('.traffic-toggle').removeClass('active'); });
+    $('.traffic-toggle').click(function(e){ e.preventDefault(); activateTopBar($(this), $('.traffic-bar')); $('.weather-toggle').removeClass('active'); });
+    function activateTopBar($btn, $target) {
+        if($('#topbar').is(':visible')) {
+            if($btn.hasClass('active')) { $('#topbar').slideUp('fast', function(){ $('.weather-bar, .traffic-bar').hide();});}
+            else {
+                $('#topbar').slideUp('fast', function(){
+                    $('.weather-bar, .traffic-bar').hide();
+                    $target.show();
+                    $('#topbar').slideDown('fast');
+                });
+            }
+        } else {
+            $('.weather-bar, .traffic-bar').hide();
+            $target.addClass('visible').show();
+            $('#topbar').slideDown('fast');
+        }
+        $btn.toggleClass('active');
+    }
+// ***** MediaCenterWidget ***** //
+    if (document.getElementById("mc-widget-container-large")){
+        var mc_rotator_large_options = {
+            domain:  'trentonian' 
+        }
+    $.ajax({async:true, url:"http://local.trentonian.com/common/dfm/assets/js/mc-widget-large.min.js", dataType:'script', timeout:500});
+    }
+     function create_mc_gallery(){
+       $.ajax({async:true, url:"http://extras.mnginteractive.com/live/partners/MediaCenter/embedded_galleries/mc_embed_1.0.8.1.js", dataType:'script', timeout:500});
+       var mediaCenterCodeLoadTester = self.setInterval(
+           function(){
+               if(typeof mc_embed_gallery != 'undefined'){
+                   mc_embed_gallery.initWidget();
+                   window.clearInterval(mediaCenterCodeLoadTester);
+               }
+           },100
+       )
+    }
+</script>
+<script type="text/javascript" src="http://extras.mnginteractive.com/live/js/jquery/jBar/plugIns_SAXO.js"></script>
+	<script id="ownLocalJS" type="text/javascript" src="http://local.trentonian.com/common/dfm/assets/js/own-local-saxoRDS.js?domain=mylocal.trentonian.com&amp;city=Trenton&amp;state=NJ"></script>
+<script type="text/javascript" src="http://local.trentonian.com/common/dfm/assets/js/tout/tout-functions.js"></script>
+<script type="text/javascript">
+// ***** BrightTag ***** //
+    (function () {
+        var tagjs = document.createElement("script");
+        var s = document.getElementsByTagName("script")[0];
+        tagjs.text = "{'site':'sfWGaRL'}";
+        tagjs.async = true;
+        tagjs.src = "http://s.btstatic.com/tag.js";
+        s.parentNode.insertBefore(tagjs, s);
+    }());
+</script>
+<noscript>
+    <iframe src="http://s.thebrighttag.com/iframe?c=sfWGaRL" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+    <!-- CleanPrint functionality -->
+<script type="text/javascript">    
+    $(".icon-print").next().removeAttr("onclick")    
+    $(".icon-print").next().attr("href", "/apps/pbcs.dll/article?AID=/s/2010/04/07/news/doc4bbc155ea7c45510896581.txt&template=printart");    
+</script>
+<!-- End: CleanPrint functionality -->
+<!-- iPad Paywall -->
+<!-- End: iPad Paywall -->
+
+<!-- Verticals links -->
+<script type="text/javascript">
+(function($) {
+   var domain = "http://local.trentonian.com/";
+   //JSON file lives in Akamai netstorage
+   var jsonToGet = domain + '/assets/verticals.json';
+   $.ajax({
+      url: jsonToGet,
+      dataType: 'jsonp',
+      contentType: 'application/json',
+      cache: true,
+      async: false,
+      jsonpCallback: 'pubData',
+      success: function (data) {
+         //Check to see if each item exists, and if it does, append it to verticalsLinks list in FinishHead.pbo
+        if (typeof data.verticalsCustom !== 'undefined'  && data.verticalsCustom.length > 0) 
+       {
+          for(var i=0;i<data.verticalsCustom.length;i++)
+          {
+            $('ul#verticalsLinks').append('<li><a href="'+ data.verticalsCustom[i].link +'">' + data.verticalsCustom[i].title + '</a></li>');
+            if(i<(data.verticalsCustom.length-1))
+              $('ul#verticalsLinks').append('<li>|</li>');
+          }         
+       }
+       else
+       {
+           //Autos
+           if(typeof data.verticals.autos.link !== 'undefined' && data.verticals.autos.link !== '') {
+              if(data.verticals.autos.link.substring(0,1) == "/") {
+                 data.verticals.autos.link = "http://www.trentonian.com/" + data.verticals.autos.link;
+              }
+              $('ul#verticalsLinks').append('<li><a href="'+ data.verticals.autos.link +'">' + data.verticals.autos.title + '</a></li><li>|</li>');
+           }
+           //Real Estate
+           if(typeof data.verticals.realestate.link !== 'undefined' && data.verticals.realestate.link !== '') {
+              if(data.verticals.realestate.link.substring(0,1) == "/") {
+                 data.verticals.realestate.link = "http://www.trentonian.com/" + data.verticals.realestate.link;
+              }
+              $('ul#verticalsLinks').append('<li><a href="'+ data.verticals.realestate.link +'">' + data.verticals.realestate.title + '</a></li><li>|</li>');
+           }
+           //Jobs
+           if(typeof data.verticals.jobs.link !== 'undefined' && data.verticals.jobs.link !== '') {
+              if(data.verticals.jobs.link.substring(0,1) == "/") {
+                 data.verticals.jobs.link = "http://www.trentonian.com/" + data.verticals.jobs.link;
+              }
+              $('ul#verticalsLinks').append('<li><a href="'+ data.verticals.jobs.link +'">' + data.verticals.jobs.title + '</a></li>');
+           }
+        }
+      },
+      error: function(jqXHR, textStatus, errorThrown) {
+         //log the error to the console
+         console.log("The following error occured: " + textStatus, errorThrown);
+      },
+   });
+}(jQuery));
+</script>
+
+<footer id="site-footer">
+    <div class="foot">
+        <div class="container-fluid">
+            <div class="branding" style="text-align:center; width:437px; margin:0 auto;">
+                <a href="http://www.trentonian.com/"><img src="http://local.trentonian.com/assets/logo-small.png"><h4 class="property-logo">The Trentonian</h4></a>
+            </div>
+            <ul class="share-widget">
+                  <li>
+                     <a rel="tooltip" data-placement="top" title="Follow us on Facebook" data-original-title="Follow us on Facebook" class="fc-webicon facebook" href="https://www.facebook.com/Trentonian">Facebook</a>
+                  </li>
+                  <li>
+                     <a rel="tooltip" data-placement="top" title="Follow us on Twitter" data-original-title="Follow us on Twitter" class="fc-webicon twitter" href="https://twitter.com/trentonian">Twitter</a>
+                  </li>
+                  <li>
+                     <a rel="publisher" data-placement="top" title="Follow us on Google Plus" data-original-title="Follow us on Google Plus" class="fc-webicon googleplus" href="https://plus.google.com/u/1/b/112226676402907008800/112226676402907008800/posts">Google+</a>
+                  </li>
+                  <li>
+                     <a rel="publisher" data-placement="top" title="Follow us on Instagram" data-original-title="Follow us on Instagram" class="fc-webicon instagram" href="http://instagram.com/thetrentonian">Instagram</a>
+                  </li>
+               <li>
+                  <a rel="tooltip" data-placement="top" title="RSS Feed" data-original-title="RSS Feed" class="fc-webicon rss" href="http://www.trentonian.com/rss">RSS Feed</a>
+               </li>
+            </ul> <!-- .share-widget -->
+            <p class="top-border">
+              <span>Copyright &copy; The Trentonian</span>
+              <a href="http://www.trentonian.com/copyright">Copyright notice</a>
+              <a href="http://www.trentonian.com/privacy">Privacy Policy</a>
+              <a href="http://www.trentonian.com/section?template=sitemap_page">Site Map</a>
+              <a href="http://local.trentonian.com/common/dfm/arbitration.pdf">Arbitration</a>
+              <a href="http://www.digitalfirstmedia.com/">Digital First Media</a> 
+            </p>
+        </div> <!-- .container-fluid -->
+    </div> <!-- .foot -->
+</footer><!-- #site-footer -->
+
+    </body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 00:18:41 Nov 16, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:33:15 Mar 27, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 104.895 (3)
+  esindex: 0.012
+  captures_list: 286.909
+  CDXLines.iter: 16.394 (3)
+  PetaboxLoader3.datanode: 98.39 (4)
+  exclusion.robots: 0.195
+  exclusion.robots.policy: 0.18
+  RedisCDXSource: 161.256
+  load_resource: 115.648
+-->

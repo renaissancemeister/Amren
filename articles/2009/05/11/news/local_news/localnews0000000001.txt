@@ -1,0 +1,963 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title></title>
+</head>
+
+<body>
+<script type="text/javascript" src="http://stats.townnews.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('stlamerican.com'); TNTracker.setTrackerDomain('stats.townnews.com'); TNTracker.trackPageView(); }
+// -->
+</script>
+
+
+
+<div class="text-center">
+  <center>
+
+<table width="805" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" style="border-collapse: collapse" bordercolor="#111111">
+  <tr>
+    <td align="center" valign="top">
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"/></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[506] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1219640400) && (nAdsysTime <= 1535259599)) {
+aAd = new Array('news+verytop', '144512-1219676533', 'jpg');
+aAd[3] = 'http://www.metrostlouis.org/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 506;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'stlamerican.com', aAds, aCampaigns);
+
+// -->
+</script></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td align="left" valign="middle">
+			  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+				  <tr>
+					<td align="center" valign="top"><a href="http://wwwa.accuweather.com/adcbin/public/local_index.asp?zipcode=63108&amp;partner=townnews" target="_blank"> <img src="http://wxport.accuweather.com/wxpost/graphic.aspx?zipcode=63108&amp;type=51&amp;partner=townnews" border="0" alt="WXPort"></a> </td>
+				  </tr>
+				  <tr>
+					<td align="center" valign="top"><a href="http://wwwa.accuweather.com/adcbin/public/local_index.asp?zipcode=63108&amp;partner=townnews" target="_blank" class="masthead">View 15-day Forecast</a> </td>
+				  </tr>
+			  </table>
+		  </td>
+          <td align="center"><a href="http://www.stlamerican.com/"><img src="http://images.townnews.com/stlamerican.com/art/toplogo.gif" border="0"></a></td>
+          <td align="right" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="center" valign="top" class="masthead-header">Archives Search </td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><form action="http://www.stlamerican.com/shared-content/search/" method="GET" class="form">
+	<input type="HIDDEN" name="search" value="1">
+    <input type="HIDDEN" name="o" value="0">
+    <input type="HIDDEN" name="l" value="25">
+    <input type="TEXT" name="q" size="8" maxlength="25">
+    <br>
+    <input type="SUBMIT" value="Search!" name="SUBMIT">
+</form></td>
+              </tr>
+              <tr>
+                <td align="center" valign="top"><a href="http://www.stlamerican.com/archives?search=advanced" class="masthead">Advanced Search </a> </td>
+              </tr>
+          </table></td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="11" align="left"><img src="http://images.townnews.com/stlamerican.com/art/topnav/topnavl.gif"></td>
+          <td align="center" valign="middle" background="http://www.stlamerican.com/art/topnav/topnavbg.gif" class="top"><a href="http://www.stlamerican.com/" class="topnav">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#149;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.stlamerican.com/about_us" class="topnav">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#149;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.stlamerican.com/contact_us" class="topnav">Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#149;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.stlamerican.com/subscription_services" class="topnav">Subscription Services</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#149;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.stlamerican.com/archives" class="topnav">Article Archives</a></td>
+          <td width="10" align="right"><img src="http://images.townnews.com/stlamerican.com/art/topnav/topnavr.gif"></td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="1" height="5"></td>
+  </tr>
+  <tr>
+    <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="10"></td>
+          <td></td>
+          <td width="10"></td>
+        </tr>
+    </table></td>
+  </tr>
+</table></td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="130" align="center"><table width="118" border="0" cellspacing="0" cellpadding="0">
+  
+    <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules-header">News</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules">&#149;&nbsp;<a href="http://www.stlamerican.com/news/awards/" class="leftnav">Awards</a><br>&#149;&nbsp;<a href="http://www.stlamerican.com/news/columnists/" class="leftnav">Columnists</a><br>&#149;&nbsp;<a href="http://www.stlamerican.com/news/community_news/" class="leftnav">Community News</a><br>&#149;&nbsp;<a href="http://www.stlamerican.com/news/editorials/" class="leftnav">Editorials</a><br>&#149;&nbsp;<a href="http://www.stlamerican.com/news/local_news/" class="leftnav">Local News</a><br>&#149;&nbsp;<a href="http://www.stlamerican.com/news/obituaries/" class="leftnav">Obituaries</a><br>&#149;&nbsp;<a href="http://www.stlamerican.com/news/political_eye/" class="leftnav">Political Eye</a></td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+
+
+   <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules-header">Entertainment</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules">
+		  <p style="margin-bottom: -20">&#149;&nbsp;<a target="_blank" href="http://stlamerican.com/livingit.pdf">Living It FrontPage</a></p>
+          <p style="margin-bottom: -20">ï <a href="http://www.stlamerican.com/dirscripts/calendar_directory/" class="leftnav">Calendar</a><br>
+&#149;&nbsp;<a href="http://www.stlamerican.com/entertainment/hot_sheet/" class="leftnav">Hot Sheet</a><br>
+          &#149;&nbsp;<a href="http://www.stlamerican.com/entertainment/living_it/" class="leftnav">Living It</a><br>
+          &#149;&nbsp;<a href="http://www.stlamerican.com/entertainment/partyline/" class="leftnav">Partyline</a><br>
+          &#149;&nbsp;<a href="http://www.stlamerican.com/entertainment/partyline_forum/" class="leftnav">Partyline Forum</a>
+		  <!--<br>&#149;&nbsp;<a href="http://www.soapnet.com" class="leftnav" target="_new">Soapnet.com</a>-->
+		</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+ <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules-header">Your Health Matters</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules">&#149;&nbsp;<a href="http://www.stlamerican.com/your_health_matters/health_news/" class="leftnav">Health News</a><br>&#149;&nbsp;<a href="http://www.stlamerican.com/your_health_matters/health_studies/" class="leftnav">Health Studies</a><br>&#149;&nbsp;<a href="http://www.stlamerican.com/your_health_matters/health_videos/" class="leftnav">Health Videos</a></td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules-header">Business</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules">&#149;&nbsp;<a href="http://www.stlamerican.com/business/business_briefs/" class="leftnav">Business Briefs</a><br>
+          &#149;&nbsp;<a href="http://www.stlamerican.com/business/local_business/" class="leftnav">Local Business</a><br>
+          &#149;&nbsp;<a href="http://www.stlamerican.com/business/people_on_the_move/" class="leftnav">People On The Move</a><br>
+          &#149;&nbsp;<a href="http://www.stlamerican.com/business/personal_finance/" class="leftnav">Personal Finance</a>
+		  <!--<br>&#149;&nbsp;<a href="/dirscripts/business_directory/" class="leftnav">Business Directory</a>-->
+		</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules-header">Sports</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules">
+        <p style="margin-bottom: -20">ï
+        <a target="_blank" href="http://stlamerican.com/sports.pdf">Sports 
+        FrontPage PDF</a></p>
+        <p style="margin-bottom: -20">&#149;&nbsp;<a href="http://www.stlamerican.com/sports/local_sports/" class="leftnav">Local Sports</a><br>
+          &#149;&nbsp;<a href="http://www.stlamerican.com/sports/sports_eye/" class="leftnav">Sports Eye</a><br>
+          &#149;&nbsp;<a href="http://www.stlamerican.com/sports/sports_quiz/" class="leftnav">Sports Quiz</a><br>
+          &#149;&nbsp;<a href="http://www.stlamerican.com/sports/sports_soundoff/" class="leftnav">Sports Soundoff</a>
+<!--		  <br>&#149;&nbsp;<a href="http://www.stlamerican.com/shared-content/gallery/?galleryid=3" class="leftnav">Weekly Sports Pics</a></td> -->
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  
+   <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules-header">Reader Interaction</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules">&#149;&nbsp;<a href="http://www.stlamerican.com/reader_interaction/letters_to_the_editor/" class="leftnav">Letters To The Editor</a></td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  
+  
+  
+  
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules-header">Salute to Excellence</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules">&#149;&nbsp;<a href="http://www.stlamerican.com/salute_to_excellence/about_the_salute/" class="leftnav">About The Salute</a><br>
+          &#149;&nbsp;<a href="http://www.stlamerican.com/salute_to_excellence/education/" class="leftnav">Education</a><br>
+          &#149;&nbsp;<a href="http://www.stlamerican.com/salute_to_excellence/healthcare/" class="leftnav">Healthcare</a>
+		  		</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules-header">Religion</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules">&#149;&nbsp;<a href="http://www.stlamerican.com/religion/local_religion/" class="leftnav">Local Religion</a>
+		  <br>&#149;&nbsp;<a href="http://www.stlamerican.com/dirscripts/church_directory/" class="leftnav">Church Directory</a>
+		</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules-header">Career Center</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules"><!--&#149;&nbsp;<a href="/career_center/automotive_news" class="leftnav">Automotive News</a><br>-->
+&#149;&nbsp;<a href="http://www.stlamerican.com/classifieds/?loc=detail&amp;main=Bids%20and%20Public%20Notices&amp;sub=Bids%20and%20Public%20Notices" class="leftnav">Bids &amp; Public 
+Notices</a><br>
+&#149;&nbsp;<a href="http://www.stlamerican.com/classifieds" class="leftnav">Classified Ads</a><br>
+<!--&#149;&nbsp;<a href="javascript:void(0)" onClick="window.open('/topads/topads.html','popuppage','width=525,height=450,top=75,left=75,scrollbars=1');" class="leftnav">Display Ads</a><br>-->
+<!--&#149;&nbsp;<a href="/career_center/employment_columnists" class="leftnav">Employment Columnists</a><br>-->
+&#149;&nbsp;<a href="http://www.stlamerican.com/career_center/employment_news" class="leftnav">Employment News</a><br>
+&#149;&nbsp;<a href="http://www.stlamerican.com/classifieds/?loc=detail&amp;main=General%20Employment&amp;sub=General%20Employment" class="leftnav">Jobs</a>
+</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr valign="top">
+            <td width="10" align="left"><img src="http://images.townnews.com/stlamerican.com/art/modules/bottoml.gif"></td>
+            <td background="http://www.stlamerican.com/art/modules/bottombg.gif"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" height="12"></td>
+            <td width="10" align="right"><img src="http://images.townnews.com/stlamerican.com/art/modules/bottomr.gif"></td>
+          </tr>
+        </table></td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">      
+		<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[506] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1169618400) && (nAdsysTime <= 1485323999)) {
+aAd = new Array('+left1', '69794-1169670615', 'jpg');
+aAd[3] = 'http://www.edwardjonesopportunity.com/usa_home.html';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 506;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'stlamerican.com', aAds, aCampaigns);
+
+// -->
+</script><br>
+		<!-- AdSys ad not found for news/local_news:left2 --><br>
+		<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[506] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1174539600) && (nAdsysTime <= 1490245199)) {
+aAd = new Array('+left3', '76712-1174579428', 'jpg');
+aAd[3] = 'http://www.explorestlouis.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 506;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'stlamerican.com', aAds, aCampaigns);
+
+// -->
+</script><br>
+		<!-- AdSys ad not found for news/local_news:left4 --><br>
+		<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[506] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1218085200) && (nAdsysTime <= 1533704399)) {
+aAd = new Array('+left5', '141724-1241446527', 'jpg');
+aAd[3] = 'http://www.mohistory.org/education-and-events/events/496';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 506;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'stlamerican.com', aAds, aCampaigns);
+
+// -->
+</script><br>
+		<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[506] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1224046800) && (nAdsysTime <= 1539665999)) {
+aAd = new Array('+left6', '154240-1224106073', 'jpg');
+aAd[3] = 'http://www.siteman.wustl.edu/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 506;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'stlamerican.com', aAds, aCampaigns);
+
+// -->
+</script><br>
+
+    </td>
+  </tr>
+  <!--<tr>
+    <td align="center" valign="top"><img src="http://images.townnews.com/stlamerican.com/art/modules/specialsections.gif"></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td class="modules">&#149;&nbsp;<a href="/special_section_index" class="leftnav">View Directory</a><br>
+          <br>
+          [special_section:edition_index]</td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="top">      
+		<table width="100%"  border="0" cellspacing="0" cellpadding="0">
+          <tr valign="top">
+            <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+            <td><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                <tr valign="top">
+                  <td width="10" align="left"><img src="http://images.townnews.com/stlamerican.com/art/modules/bottoml.gif"></td>
+                  <td background="/art/modules/bottombg.gif"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" height="12"></td>
+                  <td width="10" align="right"><img src="http://images.townnews.com/stlamerican.com/art/modules/bottomr.gif"></td>
+                </tr>
+            </table></td>
+            <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+          </tr>
+        </table>
+	</td>
+  </tr>-->
+	 <tr>
+     <!--<td class="modules-header2">Online Poll</td></tr><tr> 
+    <td align="center" valign="top" bordercolordark="#000000" bgcolor="#000000">[poll::left]</td>-->
+  </tr>
+    <tr>
+    <td align="center" valign="top">      
+            <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="117" height="321">
+              <tr>
+                <td bgcolor="#E45B2A" height="23" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+          <p align="center">      
+		<b><font face="Arial" color="#FFFFFF" size="2">Community Partners</font></b></td>
+              </tr>
+              <tr>
+                <td bgcolor="#F1F1F1" height="23" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+          <p align="center"><font size="1" face="Arial" color="#FF6600">
+          <a target="_blank" href="http://www.employmentstl.org/" style="text-decoration: none">
+          <font color="#FF6600">Employment Connection</font></a></font></td>
+              </tr>
+              <tr>
+                <td bgcolor="#FFFFFF" height="23" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+          <p style="margin-bottom: -20">
+          <font color="#FF6600" size="1" face="Arial">
+          <a href="http://www.100bmstl.org/" style="text-decoration: none">
+          <font color="#FF6600">100 Black Men of </font></a></font></p>
+          <p style="margin-bottom: -20">
+          <font color="#FF6600" size="1" face="Arial">
+          <a href="http://www.100bmstl.org/" style="text-decoration: none">
+          <font color="#FF6600">St. Louis</font></a>, MO.</font></p>
+          <p style="margin-bottom: -20">&nbsp;</td>
+              </tr>
+              <tr>
+                <td bgcolor="#f1f1f1" height="23" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+          <div>
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://www.betterfamilylife.org/" style="text-decoration: none"><font color="#FF6600">Better Family Life</font></a></font><p style="margin-bottom:-20" align="left">
+            &nbsp;</div>
+                </td>
+              </tr>
+              <tr>
+                <td height="34" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://www.bbbsemo.org/" style="text-decoration: none"><font color="#FF6600">Big 
+            Brothers</font></a></font><p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://www.bbbsemo.org/" style="text-decoration: none"><font color="#FF6600">
+            Big Sisters of </font></a></font>
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://www.bbbsemo.org/" style="text-decoration: none"><font color="#FF6600">Eastern Missouri</font></a></font><p style="margin-bottom:-20" align="left">
+            &nbsp;</td>
+              </tr>
+              <tr>
+                <td bgcolor="#F1F1F1" height="28" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://cwah.org/" style="text-decoration: none"><font color="#FF6600">Community Women&nbsp; </font></a>
+            </font>
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://cwah.org/" style="text-decoration: none"><font color="#FF6600">
+            Against Hardship </font></a>
+            </font>
+            <p style="margin-bottom:-20" align="left">
+            &nbsp;</td>
+              </tr>
+              <tr>
+                <td height="31" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+          <div style="width: 117; height: 12">
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://www.forestparkforever.org/HTML/" style="text-decoration: none"><font color="#FF6600">Forest Park Forever</font></a></font></div>
+                </td>
+              </tr>
+              <tr>
+                <td height="41" bgcolor="#F1F1F1" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://www.hhbgc.org/" style="text-decoration: none"><font color="#FF6600">Herbert 
+            Hoover </font></a></font>
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://www.hhbgc.org/" style="text-decoration: none"><font color="#FF6600">Boys &amp; Girls Club</font></a></font><p style="margin-bottom:-20" align="left">
+            &nbsp;</td>
+              </tr>
+              <tr>
+                <td height="41" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://stlbmbaa.org/" style="text-decoration: none"><font color="#FF6600">National 
+            Black </font></a> </font>
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://stlbmbaa.org/" style="text-decoration: none"><font color="#FF6600">MBAs -- St. Louis</font></a></font><p style="margin-bottom:-20" align="left">
+            &nbsp;</td>
+              </tr>
+              <tr>
+                <td height="41" bgcolor="#F1F1F1" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            &nbsp;<a target="_blank" href="http://www.powinc.org/drupal/" style="text-decoration: none"><font color="#FF6600">POW -- Professional  </font></a></font>
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://www.powinc.org/drupal/" style="text-decoration: none"><font color="#FF6600">&nbsp;Organization of Women</font></a></font><p style="margin-bottom:-20" align="left">
+            &nbsp;</td>
+              </tr>
+              <tr>
+                <td height="41" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+          <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://scdca.org/" style="text-decoration: none"><font color="#FF6600">Sickle 
+            Cell Disease</font></a></font><p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://scdca.org/" style="text-decoration: none"><font color="#FF6600">
+            Community Advocates</font></a></font><p style="margin-bottom:-20" align="left">
+            &nbsp;</td>
+              </tr>
+              <tr>
+                <td height="41" bgcolor="#F1F1F1" style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#C0C0C0">      
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://www.stl.unitedway.org/" style="text-decoration: none"><font color="#FF6600">United 
+            Way of </font></a></font>
+            <p style="margin-bottom:-20" align="left">
+            <font face="Arial" style="font-weight: 700" color="#FF6600" size="1">
+            <a target="_blank" href="http://www.stl.unitedway.org/" style="text-decoration: none"><font color="#FF6600">Greater St. Louis</font></a></font><p style="margin-bottom:-20" align="left">
+            &nbsp;</td>
+              </tr>
+            </table>
+	</td>
+  </tr>
+</table>
+</td>
+        <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td valign="bottom">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr valign="bottom">
+                    <td width="10" align="left"></td>
+                    <td></td>
+                    <td width="10" align="right"></td>
+                  </tr>
+        	</table>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" valign="top" class="copyright">
+			<!-- AdSys ad not found for news/local_news:top -->
+		</td>
+	</tr>
+</table>
+          <table width="100%" border="0" cellspacing="0" cellpadding="10">
+            <tr>
+              <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td valign="top"><p class="section">Local News</p>
+                        <!--<p class="section"><br>-->
+<!--&nbsp;</p>-->
+                        <!--<p class="section">&nbsp;</p>-->
+                        <p class="headline">President Obama pushes to close black farmers' lawsuit<br>
+                            <span class="content"><b><i></i></b></span> </p>
+                        <p class="byline"><br>
+                            <span class="timestamp"><span class="timestamp">Monday, May 11, 2009 9:31 AM CDT</span></span></p>
+                        <table border="0" cellspacing="0" cellpadding="0" align="right" class="photo-bdr" width="">
+                          <tr>
+                            <td width="" valign="top"> <!-- true --><!-- true --> </td>
+                          </tr>
+                          <tr>
+                            <td width="" valign="top" class="cutline">  </td>
+                            <p align="center"></td>
+
+                          </tr>
+                        </table>
+                        <p class="content">WASHINGTON (NNPA) - President Obama has announced plans to include $1.250 billion in settlement funds in the 2010 budget to bring closure to the long-standing Black farmersí lawsuit against the U.S. Department of Agriculture, the White House has announced.<br/><br/>ìThis is an issue I worked on in the Senate, and Iím pleased that we are now able to close this chapter in the agencyís history and move on,î the President said in a release. ìMy hope is that the farmers and their families who were denied access to USDA loans and programs will be made whole and will have the chance to rebuild their lives and their businesses.î<br/><br/>The White House is describing the potential settlement as ìjust one part of a larger strategy at USDA to improve civil rights enforcement.î<br/><br/>ìI am very pleased that President Obama is taking swift action on this matter as it is something that will help us chart a new course at USDA, one on which all USDA customers and employees are treated equally and fairly,î says Agriculure Secretary Tom Vilsack said.<br/><br/>A White House statement describes the sins of the U. S. government.<br/><br/>ìFor decades in the last century, USDA had a spotted history of discriminating against black farmers in its loan programs and subsidy programs. In 1999, the USDA entered into a consent agreement with black farmers where the agency agreed to pay these farmers for past discrimination in lending and other USDA programs. While thousands of those claims have been adjudicated, thousands of other black farmers never had a chance for their claims to be considered on the merits because of problems with the notification and claims process that made it very difficult for many farmers to participate,î said a White House statement.</p>
+                        <table border="0" cellspacing="0" cellpadding="0" align="right" class="clear-table">
+                          <tr>
+                            <td width="204" valign="top"> <div align="right"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[506] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1235973600) && (nAdsysTime <= 1551592799)) {
+aAd = new Array('+middle', '174706-1236034087', 'jpg');
+aAd[3] = 'http://dillards.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 506;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'stlamerican.com', aAds, aCampaigns);
+
+// -->
+</script> </div></td>
+                          </tr>
+                        </table>
+                        <p class="content">Last year, Congress provided another avenue for those excluded Black farmers to receive restitution through the 2008 Farm Bill.<br/><br/>According to the White House statement, the $1.250 billion will be used to allow those farmers who filed a claim in the original Pigford case, ìbut whose claim was never considered on the merits because the claim was found not to be timely, have the right to file a new claim in federal court.î<br/><br/>Lase week, Vilsack detailed plans to promote civil rights and equal access at USDA. A memo issued by him announced the following:<br/><br/>ï ìThe temporary suspension of all foreclosures within the Farm Service Agency's farm loan program, which will not only aid farmers facing economic hardship but will also provide the opportunity to review the loan granting process for possible discriminatory conduct; ì</p>
+                        <table border="0" cellspacing="0" cellpadding="0" align="right" class="photo-bdr" width="">
+                          <tr>
+                            <td valign="top"></td>
+                          </tr>
+                          <tr>
+                            <td width="" valign="top"><span class="cutline"> </span></td>
+                          </tr>
+                          <tr>
+                            <td width="" valign="top" class="cutline"><div align="right"><!-- AdSys ad not found for news/local_news:middle2 --></div></td>
+                          </tr>
+                        </table>
+                      <p class="content">ï ìThe creation of a Task force to conduct a review of a sample of program civil rights complaints that have been processed or that are currently being processed - the complaints and inquiries total over 14,000, including over 3,000 that have not been processed;î<br/><br/>ï and ìGranting greater authority to USDA's Office of Civil Rights. The Assistant Secretary for Civil Rights will collaborate with the other agencies to develop and implement a proposal for data collection across USDA, make sure all complaints are incorporated as part of one data system; and develop USDA policy and training to ensure that all complaints are received and dealt with in a consistent manner within a specific timeframe.ì</p>
+                      <p class="content">&nbsp;</p>
+                      <p class="content">&nbsp;</p></td>
+                  </tr>
+                </table>
+                  <br>
+                  <table width="100%" border="0" cellspacing="5" cellpadding="0" class="clear-table">
+                    <tr valign="top">
+                      <td width="30%" align="right"><a href="http://www.stlamerican.com/articles/2009/05/11/news/local_news/localnews0000000001.prt" target="printable"><img src="http://www.stlamerican.com/art/print_icon.gif" width="13" height="14" vspace="0" hspace="2" border="0"><span class="more">printable version</span></a></td>
+                      <td width="40%" align="center" valign="bottom"><a href="mailto:letters@stlamerican.com" class="more">comment on this story </a></td>
+                      <td width="30%" align="left"><a href="http://www.stlamerican.com/articles/2009/05/11/news/local_news/localnews0000000001.eml" target="emailafriend"><img src="http://www.stlamerican.com/art/email_icon.gif" width="14" height="14" vspace="0" hspace="2" border="0"><span class="more">e-mail this story</span></a></td>
+                    </tr>
+                </table>
+               <!--Start Simple Blog --><p><table width="97%" border="0" align="center" cellpadding="3" cellspacing="0">
+  <tr>
+    <td bgcolor="#CCCCCC"><strong>Comments:</strong></td>
+  </tr>
+  <tr>
+    <td><a id="blogcomments"></a><div class="simpleblog-results"><div class="simpleblog-comment-1">
+<a id="b631f08ecacde5e1e4733a03266c8fb8"></a><p><span class="simpleblog-name">KansasGirl</span> wrote on <span class="simpleblog-date">May 16, 2009 3:57 AM:</span><div class="simpleblog-response">&quot; How long before Obama confiscates white farmers land and gives it to other minorities? Sound familiar? It's happening in Africa. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="84d1242691efdb8148bbd24c75fa56ee"></a><p><span class="simpleblog-name">DJ</span> wrote on <span class="simpleblog-date">May 11, 2009 10:03 AM:</span><div class="simpleblog-response">&quot; It's about time that someone stood for Justice in the US Government.  For those who have never been a victim of discrimination or who's lives and the lives of their families have been drastically changed due to discrimination you might not understand this.  This issue still exists.  As an HR person I see it all the time, people hire and treat people different based on how they can relate to them.  If you cannot relate to that individual then as a normal human being you might treat that person a bit differently then someone who looks like you and shares the same experiences as you.  I love the Change Obama is bringing to this nation! &quot;</div><br/></p>
+</div>
+</div><br/>
+      <a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.stlamerican.com/articles/2009/05/11/news/local_news/localnews0000000001.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label> <input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-email-block"><label for="personemail" class="simpleblog-form-label">Email:</label> <span class="simpleblog-email-field">(optional)</span> <input type="text" id="personemail" name="personemail" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: <span style="\&quot;font-size:xx-small\&quot;">(Case sensitive)</span></label><img id="simpleblog-captcha" width="125" height="50" src="http://www.stlamerican.com/_captcha/render?id=6951"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/><input type="hidden" id="usernumber_id" name="usernumber_id" value="6951"/><input type="SUBMIT" value="Post Comment"/></div></form></div> </td>
+  </tr>
+</table></p><!--End Simple Blog -->
+</td>
+            </tr>
+          </table>
+          <!-- AdSys ad not found for news/local_news:bottom -->
+		</td>
+        <td width="130" align="center"><table width="130" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top">		
+    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+      <tr>
+        <td width="100%"><table width="175" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: 
+
+collapse" bordercolor="#111111" width="175">
+    <tr>
+      <td>
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%">
+        <tr>
+          <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="175">
+    <tr>
+      <td><ul>
+	  		</ul></td>
+    </tr>
+    <tr>
+      <td>
+      <img border="0" src="http://stlamerican.com/clipart/bgmostread.jpg" width="175" height="37"></td>
+    </tr>
+    <tr>
+      <td style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; padding-bottom: 1" bordercolor="#000000" bgcolor="#FFFFFF">
+      <li class="headlinesm"><a href="http://www.stlamerican.com/articles/2009/05/16/news/local_news/localnews0001.txt">Teen killed in North County McDonaldís parking lot <span class="popular-count">(150)</span></a></li><li class="headlinesm"><a href="http://www.stlamerican.com/articles/2009/05/16/news/local_news/localnews02.txt">Former residents rally support for Annie Malone, 2009 May Day Parade is Sunday, May 17 <span class="popular-count">(122)</span></a></li><li class="headlinesm"><a href="http://www.stlamerican.com/articles/2009/05/16/entertainment/living_it/livingit0001.txt">Willie D may serve 20 years for fraud <span class="popular-count">(100)</span></a></li><li class="headlinesm"><a href="http://www.stlamerican.com/articles/2009/05/18/news/local_news/localnews0000001.txt">St. Louis Urban League receives $8.2 Million in Economic Stimulus Funds <span class="popular-count">(93)</span></a></li><li class="headlinesm"><a href="http://www.stlamerican.com/articles/2009/05/18/news/local_news/localnews00000000001.txt">Execution date set for Reginald Clemons <span class="popular-count">(86)</span></a></li></td>
+    </tr>
+  </table><br>	
+</td></td>
+        </tr>
+      </table>
+                  
+                  	</td>
+  </tr>
+  
+    <tr>
+      <td><ul><!--[font:index:mostpopular:<li>:<span class="headlinesm">:</li>:</span>]
+
+[index:mostpopular:articles:5:weekly:]<ul></td>
+    </tr>
+    <tr>
+      <td>
+      <img border="0" src="http://stlamerican.com/clipart/bgmostread.jpg" width="175" height="37"></td>
+    </tr>
+    <tr>
+      <td style="border-style: solid; border-width: 1; padding-left: 4; padding-right: 4; padding-top: 1; 
+
+padding-bottom: 1" bordercolor="#EA310F" background="http://stlamerican.com/clipart/bgdailyheadlines.jpg">
+      [mostpopular:articles:5:weekly:]</td>
+    </tr>
+  </table><br>	
+</td>
+      </tr>
+    </table>-->
+    <br>
+		<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[506] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1234504800) && (nAdsysTime <= 1550123999)) {
+aAd = new Array('+right1', '171880-1234563511', 'jpg');
+aAd[3] = 'http://www.stlamerican.com/gallery/';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 506;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'stlamerican.com', aAds, aCampaigns);
+
+// -->
+</script><br>
+		<br>
+		<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[506] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1241067600) && (nAdsysTime <= 1556686799)) {
+aAd = new Array('+right2', '184367-1241111096', 'jpg');
+aAd[3] = 'http://www.stlamerican.com/shared-content/gallery/?galleryid=43&gallery_page=0&album_page=0&albumid=198';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 506;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'stlamerican.com', aAds, aCampaigns);
+
+// -->
+</script>	<br>	
+                 <!-- AdSys ad not found for news/local_news:right3 --><br>
+				 <br>
+                  <!-- AdSys ad not found for news/local_news:right4 --> <br>
+                   <br>
+                  <script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[506] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1199340000) && (nAdsysTime <= 1515045599)) {
+aAd = new Array('+right5', '109630-1231783622', 'jpg');
+aAd[3] = 'http://www.schnucks.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 506;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'stlamerican.com', aAds, aCampaigns);
+
+// -->
+</script><br>
+				 <br>
+                  <!-- AdSys ad not found for news/local_news:right6 --> <br>
+                  
+                  	</td>
+  </tr>
+  
+  <tr>
+    <td align="center" valign="top"><br>
+    &nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><img src="http://images.townnews.com/stlamerican.com/art/modules/photojournalism.gif"></td>
+
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        <td align="center" class="modules"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td align="center"><img src="http://images.townnews.com/stlamerican.com/content/current/front/photojournalism.jpg"></td>
+            </tr>
+            <tr>
+              <td><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="1" height="5"></td>
+            </tr>
+            <tr>
+              <td><span class="leftnav"><a href="http://www.stlamerican.com/photojournalism_gallery">Click to view exclusive photos from our award-winning photojournalist Wiley Price.</a>
+</span></td>
+            </tr>
+        </table></td>
+        <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr valign="top">
+          <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr valign="top">
+                <td width="10" align="left"><img src="http://images.townnews.com/stlamerican.com/art/modules/bottoml.gif"></td>
+                <td background="http://www.stlamerican.com/art/modules/bottombg.gif"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" height="12"></td>
+                <td width="10" align="right"><img src="http://images.townnews.com/stlamerican.com/art/modules/bottomr.gif"></td>
+              </tr>
+          </table></td>
+          <td width="6"><img src="http://images.townnews.com/stlamerican.com/art/spacer.gif" width="6"></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="130"> </td>
+        <td align="center">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+				<td align="center" valign="top" class="copyright">					<strong><br>
+				  Copyright &copy; 2009 The St. Louis American</strong><br>
+				  <br>
+				<a href="http://www.stlamerican.com/contact_us" class="copyright">Contact Us</a>&nbsp;&nbsp;<font color="#E45B2A">&#149;</font>&nbsp;&nbsp;<a href="http://www.stlamerican.com/jobs_with_us" class="copyright">Jobs with Us</a>&nbsp;&nbsp;<font color="#E45B2A">&#149;</font>&nbsp;&nbsp;<a href="http://www.stlamerican.com/frequently_asked_questions" class="copyright">FAQ</a>&nbsp;&nbsp;<font color="#E45B2A">&#149;</font>&nbsp;&nbsp;<a href="http://www.stlamerican.com/terms_of_service" class="copyright">Terms of Service</a>&nbsp;&nbsp;<font color="#E45B2A">&#149;</font>&nbsp;&nbsp;<a href="http://www.stlamerican.com/privacy_policy" class="copyright">Privacy Policy </a><br>
+				<br>
+				Would you like to send us an editorial letter or make a comment? <br>
+Please email us at <a href="mailto:letters@stlamerican.com">letters@stlamerican.com</a></td>
+			  </tr>
+			  <tr>
+				<td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tr valign="bottom">
+                    <td width="10" align="left"></td>
+                    <td></td>
+                    <td width="10" align="right"></td>
+                  </tr>
+                </table></td>
+			  </tr>
+			</table>
+		</td>
+        <td width="130"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="10"></td>
+        <td></td>
+        <td width="10"></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 10:55:57 May 19, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:35:09 Mar 28, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 43.351 (3)
+  esindex: 0.01
+  captures_list: 65.637
+  CDXLines.iter: 14.744 (3)
+  PetaboxLoader3.datanode: 73.161 (4)
+  exclusion.robots: 0.178
+  exclusion.robots.policy: 0.166
+  RedisCDXSource: 4.042
+  PetaboxLoader3.resolve: 27.324
+  load_resource: 66.426
+-->

@@ -1,0 +1,278 @@
+<script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app39.us.archive.org';v.server_ms=202;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/ait-client-rewrite.js?v=1553621510" charset="utf-8"></script>
+<script type="text/javascript">
+WB_wombat_Init("https:///web", "20080421221517", "www.coloradodaily.com");
+</script>
+<script type="text/javascript" src="/static/js/wbhack.js?v=1553621510" charset="utf-8"></script>
+<script type="text/javascript">
+__wbhack.init('https:///web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1553621509" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1553621509" />
+<!-- End Wayback Rewrite JS Include -->
+<body>
+<table width="100%" cellspacing="0" cellpadding="2" border="0" summary="heading">
+<tr bgcolor="#6622aa">
+<td valign="bottom">&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>TemplateSyntaxError</strong></big></big></font></td><td align="right" valign="bottom"><font color="#ffffff" face="helvetica, arial">Python 2.3.4: /usr/bin/python2.3<br>Mon Apr 21 16:15:18 2008</font></td></tr></table>
+    
+<p>A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.<p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/toolkit/python/flup/server/scgi_base.py">/opt/local/toolkit/python/flup/server/scgi_base.py</a> in <strong>run</strong>(self=&lt;flup.server.scgi_base.Request object&gt;)</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;190</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.logger.exception('Exception&nbsp;caught&nbsp;from&nbsp;handler')<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;191</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;not&nbsp;self.stdout.dataWritten:<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;192</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self._conn.server.error(self)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;193</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;194</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;end&nbsp;=&nbsp;datetime.datetime.now()<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><strong>self</strong>&nbsp;= &lt;flup.server.scgi_base.Request object&gt;, self.<strong>_conn</strong>&nbsp;= &lt;flup.server.scgi_base.Connection object&gt;, self._conn.<strong>server</strong>&nbsp;= &lt;flup.server.scgi_fork.WSGIServer object&gt;, self._conn.server.<strong>error</strong>&nbsp;= &lt;bound method WSGIServer.error of &lt;flup.server.scgi_fork.WSGIServer object&gt;&gt;</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/toolkit/python/flup/server/scgi_base.py">/opt/local/toolkit/python/flup/server/scgi_base.py</a> in <strong>handler</strong>(self=&lt;flup.server.scgi_fork.WSGIServer object&gt;, request=&lt;flup.server.scgi_base.Request object&gt;)</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;478</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;finally:<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;479</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;not&nbsp;self.multithreaded:<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;480</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self._appLock.release()<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;481</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;482</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;def&nbsp;_sanitizeEnv(self,&nbsp;environ):<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><strong>self</strong>&nbsp;= &lt;flup.server.scgi_fork.WSGIServer object&gt;, self.<strong>_appLock</strong>&nbsp;= &lt;thread.lock object&gt;, self._appLock.<strong>release</strong>&nbsp;= &lt;built-in method release of thread.lock object&gt;</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/core/handlers/wsgi.py">/opt/local/appserv_bundle/django/core/handlers/wsgi.py</a> in <strong>__call__</strong>(self=&lt;django.core.handlers.wsgi.WSGIHandler instance&gt;, environ={'CONTENT_LENGTH': '0', 'DOCUMENT_ROOT': '/internet/www/', 'HTTP_CONNECTION': 'close', 'HTTP_FROM': 'archiveit@archive.org', 'HTTP_HOST': 'www.coloradodaily.com', 'HTTP_REFERER': 'https://archive.amren.com/mtnews/archives/2005/12/my_emails_are_proof_of_white_p.php', 'HTTP_USER_AGENT': 'Mozilla/5.0 (compatible;archive.org_bot/1.10.2; ...nId=1050; Archive-It; +http://www.archive-it.org)', 'PATH_INFO': '/articles/2005/12/03/opinion/letters/letters1.txt', 'QUERY_STRING': '', 'REMOTE_ADDR': '207.241.229.42', ...}, start_response=&lt;function start_response&gt;)</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;154</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;response&nbsp;=&nbsp;self.get_response(request.path,&nbsp;request)<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;155</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;finally:<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;156</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;db.db.close()<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;157</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;158</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Apply&nbsp;response&nbsp;middleware<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><strong>db</strong>&nbsp;= &lt;module 'django.core.db' from '/opt/local/appserv_bundle/django/core/db/__init__.pyc'&gt;, db.<strong>db</strong>&nbsp;= &lt;django.core.db.backends.postgresql.DatabaseWrapper instance&gt;, db.db.<strong>close</strong>&nbsp;= &lt;bound method DatabaseWrapper.close of &lt;django.c...db.backends.postgresql.DatabaseWrapper instance&gt;&gt;</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/core/handlers/base.py">/opt/local/appserv_bundle/django/core/handlers/base.py</a> in <strong>get_response</strong>(self=&lt;django.core.handlers.wsgi.WSGIHandler instance&gt;, path='/articles/2005/12/03/opinion/letters/letters1.txt', request=&lt;DjangoRequest
+GET:{},
+POST:{},
+COOKIES:{},
+META...gi.url_scheme': 'http',
+ 'wsgi.version': (1, 0)}&gt;)</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;&nbsp;93</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else:<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;&nbsp;94</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;callback,&nbsp;param_dict&nbsp;=&nbsp;resolver.resolve404()<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;&nbsp;95</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;callback(request,&nbsp;**param_dict)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;&nbsp;96</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;except&nbsp;db.DatabaseError:<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;&nbsp;97</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;db.db.rollback()<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><strong>callback</strong>&nbsp;= &lt;function page_not_found&gt;, <strong>request</strong>&nbsp;= &lt;DjangoRequest
+GET:{},
+POST:{},
+COOKIES:{},
+META...gi.url_scheme': 'http',
+ 'wsgi.version': (1, 0)}&gt;, <strong>param_dict</strong>&nbsp;= {}</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/views/defaults.py">/opt/local/appserv_bundle/django/views/defaults.py</a> in <strong>page_not_found</strong>(request=&lt;DjangoRequest
+GET:{},
+POST:{},
+COOKIES:{},
+META...gi.url_scheme': 'http',
+ 'wsgi.version': (1, 0)}&gt;)</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;&nbsp;57</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"""<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;&nbsp;58</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t&nbsp;=&nbsp;loader.get_template('404')<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;&nbsp;59</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;httpwrappers.HttpResponseNotFound(t.render(Context()))<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;&nbsp;60</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;&nbsp;61</small>&nbsp;def&nbsp;server_error(request):<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><em>global</em> <strong>httpwrappers</strong>&nbsp;= &lt;module 'django.utils.httpwrappers' from '/opt/local/appserv_bundle/django/utils/httpwrappers.pyc'&gt;, httpwrappers.<strong>HttpResponseNotFound</strong>&nbsp;= &lt;class django.utils.httpwrappers.HttpResponseNotFound&gt;, <strong>t</strong>&nbsp;= &lt;django.core.template.Template instance&gt;, t.<strong>render</strong>&nbsp;= &lt;bound method Template.render of &lt;django.core.template.Template instance&gt;&gt;, <em>global</em> <strong>Context</strong>&nbsp;= &lt;class django.core.template.Context&gt;</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/core/template/__init__.py">/opt/local/appserv_bundle/django/core/template/__init__.py</a> in <strong>render</strong>(self=&lt;django.core.template.Template instance&gt;, context=[{}])</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;114</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;def&nbsp;render(self,&nbsp;context):<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;115</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Display&nbsp;stage&nbsp;--&nbsp;can&nbsp;be&nbsp;called&nbsp;many&nbsp;times"<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;116</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;self.nodelist.render(context)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;117</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;118</small>&nbsp;def&nbsp;compile_string(template_string):<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><strong>self</strong>&nbsp;= &lt;django.core.template.Template instance&gt;, self.<strong>nodelist</strong>&nbsp;= [&lt;Text Node: '&lt;!DOCTYPE html PUBLIC "-/'&gt;, &lt;If node&gt;, &lt;Text Node: ' | &lt;a href="http://member'&gt;], self.nodelist.<strong>render</strong>&nbsp;= &lt;bound method NodeList.render of [&lt;Text Node: '&lt;...node&gt;, &lt;Text Node: ' | &lt;a href="http://member'&gt;]&gt;, <strong>context</strong>&nbsp;= [{}]</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/core/template/__init__.py">/opt/local/appserv_bundle/django/core/template/__init__.py</a> in <strong>render</strong>(self=[&lt;Text Node: '&lt;!DOCTYPE html PUBLIC "-/'&gt;, &lt;If node&gt;, &lt;Text Node: ' | &lt;a href="http://member'&gt;], context=[{}])</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;618</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;node&nbsp;in&nbsp;self:<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;619</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;isinstance(node,&nbsp;Node):<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;620</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bits.append(node.render(context))<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;621</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else:<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;622</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bits.append(node)<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><strong>bits</strong>&nbsp;= ['&lt;!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Tra...head&gt;<font color="#c040c0">\r\n</font>&lt;body&gt;<font color="#c040c0">\r\n\r\n\r\n\r\n\r\n</font>&lt;div id="site_services"&gt;<font color="#c040c0">\r\n</font>'], bits.<strong>append</strong>&nbsp;= &lt;built-in method append of list object&gt;, <strong>node</strong>&nbsp;= &lt;If node&gt;, node.<strong>render</strong>&nbsp;= &lt;bound method IfNode.render of &lt;If node&gt;&gt;, <strong>context</strong>&nbsp;= [{}]</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/core/template/defaulttags.py">/opt/local/appserv_bundle/django/core/template/defaulttags.py</a> in <strong>render</strong>(self=&lt;If node&gt;, context=[{}])</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;180</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;(value&nbsp;and&nbsp;not&nbsp;ifnot)&nbsp;or&nbsp;(ifnot&nbsp;and&nbsp;not&nbsp;value):<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;181</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;self.nodelist_true.render(context)<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;182</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;self.nodelist_false.render(context)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;183</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;184</small>&nbsp;class&nbsp;RegroupNode(Node):<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><strong>self</strong>&nbsp;= &lt;If node&gt;, self.<strong>nodelist_false</strong>&nbsp;= [&lt;Text Node: 'You're logged in as &lt;a hr'&gt;, &lt;Vari..._host&gt;, &lt;Text Node: '&lt;/b&gt;&lt;/a&gt; (&lt;a href="/accou'&gt;], self.nodelist_false.<strong>render</strong>&nbsp;= &lt;bound method NodeList.render of [&lt;Text Node: 'Y...host&gt;, &lt;Text Node: '&lt;/b&gt;&lt;/a&gt; (&lt;a href="/accou'&gt;]&gt;, <strong>context</strong>&nbsp;= [{}]</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/core/template/__init__.py">/opt/local/appserv_bundle/django/core/template/__init__.py</a> in <strong>render</strong>(self=[&lt;Text Node: 'You're logged in as &lt;a hr'&gt;, &lt;Vari..._host&gt;, &lt;Text Node: '&lt;/b&gt;&lt;/a&gt; (&lt;a href="/accou'&gt;], context=[{}])</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;618</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for&nbsp;node&nbsp;in&nbsp;self:<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;619</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;isinstance(node,&nbsp;Node):<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;620</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bits.append(node.render(context))<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;621</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else:<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;622</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bits.append(node)<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><strong>bits</strong>&nbsp;= ['You<font color="#c040c0">\'</font>re logged in as &lt;a href="/accounts/profile/"&gt;&lt;b&gt;'], bits.<strong>append</strong>&nbsp;= &lt;built-in method append of list object&gt;, <strong>node</strong>&nbsp;= &lt;Variable Node: user.username|strip_host&gt;, node.<strong>render</strong>&nbsp;= &lt;bound method VariableNode.render of &lt;Variable Node: user.username|strip_host&gt;&gt;, <strong>context</strong>&nbsp;= [{}]</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/core/template/__init__.py">/opt/local/appserv_bundle/django/core/template/__init__.py</a> in <strong>render</strong>(self=&lt;Variable Node: user.username|strip_host&gt;, context=[{}])</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;659</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;660</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;def&nbsp;render(self,&nbsp;context):<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;661</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;output&nbsp;=&nbsp;resolve_variable_with_filters(self.var_string,&nbsp;context)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;662</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;Check&nbsp;type&nbsp;so&nbsp;that&nbsp;we&nbsp;don't&nbsp;run&nbsp;str()&nbsp;on&nbsp;a&nbsp;Unicode&nbsp;object<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;663</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;not&nbsp;isinstance(output,&nbsp;basestring):<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090">output <em>undefined</em>, <em>global</em> <strong>resolve_variable_with_filters</strong>&nbsp;= &lt;function resolve_variable_with_filters&gt;, <strong>self</strong>&nbsp;= &lt;Variable Node: user.username|strip_host&gt;, self.<strong>var_string</strong>&nbsp;= 'user.username|strip_host', <strong>context</strong>&nbsp;= [{}]</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/core/template/__init__.py">/opt/local/appserv_bundle/django/core/template/__init__.py</a> in <strong>resolve_variable_with_filters</strong>(var_string='user.username|strip_host', context=[{}])</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;587</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;returns&nbsp;the&nbsp;object.<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;588</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"""<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;589</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var,&nbsp;filters&nbsp;=&nbsp;get_filters_from_token(var_string)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;590</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;try:<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;591</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;obj&nbsp;=&nbsp;resolve_variable(var,&nbsp;context)<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090">var <em>undefined</em>, filters <em>undefined</em>, <em>global</em> <strong>get_filters_from_token</strong>&nbsp;= &lt;function get_filters_from_token&gt;, <strong>var_string</strong>&nbsp;= 'user.username|strip_host'</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/core/template/__init__.py">/opt/local/appserv_bundle/django/core/template/__init__.py</a> in <strong>get_filters_from_token</strong>(token='user.username|strip_host')</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;528</small>&nbsp;def&nbsp;get_filters_from_token(token):<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;529</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Convenient&nbsp;wrapper&nbsp;for&nbsp;FilterParser"<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;530</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;p&nbsp;=&nbsp;FilterParser(token)<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;531</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return&nbsp;(p.var,&nbsp;p.filters)<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;532</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090">p <em>undefined</em>, <em>global</em> <strong>FilterParser</strong>&nbsp;= &lt;class django.core.template.FilterParser&gt;, <strong>token</strong>&nbsp;= 'user.username|strip_host'</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/core/template/__init__.py">/opt/local/appserv_bundle/django/core/template/__init__.py</a> in <strong>__init__</strong>(self=&lt;django.core.template.FilterParser instance&gt;, s='user.username|strip_host')</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;392</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;raise&nbsp;TemplateSyntaxError,&nbsp;"Bad&nbsp;character&nbsp;(expecting&nbsp;'%s')&nbsp;'%s'"&nbsp;%&nbsp;(FILTER_SEPARATOR,&nbsp;self.current)<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;393</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;We&nbsp;have&nbsp;a&nbsp;filter&nbsp;separator;&nbsp;start&nbsp;reading&nbsp;the&nbsp;filters<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;394</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;self.read_filters()<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;395</small>&nbsp;<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;396</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;def&nbsp;peek_char(self):<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><strong>self</strong>&nbsp;= &lt;django.core.template.FilterParser instance&gt;, self.<strong>read_filters</strong>&nbsp;= &lt;bound method FilterParser.read_filters of &lt;django.core.template.FilterParser instance&gt;&gt;</font></small></td></tr></table><p>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td bgcolor="#d8bbff"><big>&nbsp;</big><a href="http://file:///opt/local/appserv_bundle/django/core/template/__init__.py">/opt/local/appserv_bundle/django/core/template/__init__.py</a> in <strong>read_filters</strong>(self=&lt;django.core.template.FilterParser instance&gt;)</td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;459</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;filter_name,&nbsp;arg&nbsp;=&nbsp;self.read_filter()<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;460</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;not&nbsp;registered_filters.has_key(filter_name):<br>
+</tt></font></td></tr>
+<tr><td bgcolor="#ffccee"><tt><small>&nbsp;&nbsp;461</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;raise&nbsp;TemplateSyntaxError,&nbsp;"Invalid&nbsp;filter:&nbsp;'%s'"&nbsp;%&nbsp;filter_name<br>
+</tt></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;462</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if&nbsp;registered_filters[filter_name][1]&nbsp;==&nbsp;True&nbsp;and&nbsp;arg&nbsp;is&nbsp;None:<br>
+</tt></font></td></tr>
+<tr><td><font color="#909090"><tt><small>&nbsp;&nbsp;463</small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;raise&nbsp;TemplateSyntaxError,&nbsp;"Filter&nbsp;'%s'&nbsp;requires&nbsp;an&nbsp;argument"&nbsp;%&nbsp;filter_name<br>
+</tt></font></td></tr>
+<tr><td><small><font color="#909090"><em>global</em> <strong>TemplateSyntaxError</strong>&nbsp;= &lt;class django.core.template.TemplateSyntaxError&gt;, <strong>filter_name</strong>&nbsp;= 'strip_host'</font></small></td></tr></table><p><strong>TemplateSyntaxError</strong>: Invalid filter: 'strip_host'
+<br><tt><small>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</small>&nbsp;</tt>args&nbsp;=
+("Invalid filter: 'strip_host'",)
+
+
+<!-- The above is a description of an error in a Python program, formatted
+     for a Web browser because the 'cgitb' module was enabled.  In case you
+     are not reading this in a Web browser, here is the original traceback:
+
+Traceback (most recent call last):
+  File "/opt/local/toolkit/python/flup/server/scgi_base.py", line 188, in run
+    self._conn.server.handler(self)
+  File "/opt/local/toolkit/python/flup/server/scgi_base.py", line 468, in handler
+    result = self.application(environ, start_response)
+  File "/opt/local/appserv_bundle/django/core/handlers/wsgi.py", line 154, in __call__
+    response = self.get_response(request.path, request)
+  File "/opt/local/appserv_bundle/django/core/handlers/base.py", line 95, in get_response
+    return callback(request, **param_dict)
+  File "/opt/local/appserv_bundle/django/views/defaults.py", line 59, in page_not_found
+    return httpwrappers.HttpResponseNotFound(t.render(Context()))
+  File "/opt/local/appserv_bundle/django/core/template/__init__.py", line 116, in render
+    return self.nodelist.render(context)
+  File "/opt/local/appserv_bundle/django/core/template/__init__.py", line 620, in render
+    bits.append(node.render(context))
+  File "/opt/local/appserv_bundle/django/core/template/defaulttags.py", line 182, in render
+    return self.nodelist_false.render(context)
+  File "/opt/local/appserv_bundle/django/core/template/__init__.py", line 620, in render
+    bits.append(node.render(context))
+  File "/opt/local/appserv_bundle/django/core/template/__init__.py", line 661, in render
+    output = resolve_variable_with_filters(self.var_string, context)
+  File "/opt/local/appserv_bundle/django/core/template/__init__.py", line 589, in resolve_variable_with_filters
+    var, filters = get_filters_from_token(var_string)
+  File "/opt/local/appserv_bundle/django/core/template/__init__.py", line 530, in get_filters_from_token
+    p = FilterParser(token)
+  File "/opt/local/appserv_bundle/django/core/template/__init__.py", line 394, in __init__
+    self.read_filters()
+  File "/opt/local/appserv_bundle/django/core/template/__init__.py", line 461, in read_filters
+    raise TemplateSyntaxError, "Invalid filter: '%s'" % filter_name
+TemplateSyntaxError: Invalid filter: 'strip_host'
+
+-->
+<!--
+     FILE ARCHIVED ON 22:15:17 Apr 21, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:05:30 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 83.254 (3)
+  esindex: 0.012
+  captures_list: 105.118
+  CDXLines.iter: 15.618 (3)
+  PetaboxLoader3.datanode: 36.498 (4)
+  exclusion.robots: 0.232
+  exclusion.robots.policy: 0.217
+  RedisCDXSource: 1.967
+  PetaboxLoader3.resolve: 44.728 (2)
+  load_resource: 50.836
+-->

@@ -1,0 +1,1141 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Davidson's Castle Doctrine remarks shock House</title>
+</head>
+        <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-TLFP4R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'http://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TLFP4R');</script>
+<!-- End Google Tag Manager -->
+<div id="DFM-adPos-inter"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-inter');});</script></div>
+    <div id="DFM-adPos-leader"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-leader');});</script></div>
+<header id="site-header" role="banner">
+    <div id="topbar" class="hide-for-phone zero-height">
+        <div class="container-fluid">
+            <div id="topbar-viewport">
+                <div id="topbar-wrapper">
+                    <div class="weather-bar zero-height">
+                        <div class="current-weather">
+                            <div class="current-temp">
+                                <a href="http://www.delcotimes.com/weather">
+                                    <span class="currImg"></span>
+                                    <hgroup>
+                                        <h6>Right now</h6>
+                                        <h5></h5>
+                                    </hgroup>
+                                </a>
+                            </div> <!-- .current-temp -->
+                            <div class="high-low">
+                                <div>
+                                    <p><small>Today's high</small></p>
+                                    <a href="http://www.delcotimes.com/weather"><p class="temp todayshigh"></p></a>
+                                </div>
+                                <div>
+                                    <p><small>Today's low</small></p>
+                                    <a href="http://www.delcotimes.com/weather"><p class="temp todayslow"></p></a>
+                              </div>
+                            </div> <!-- .high-low -->
+                            <div class="forecast">
+                                <ul>
+                                    <li>
+                                        <h6 class="day1Name"></h6>
+                                        <a href="http://www.delcotimes.com/weather">
+                                            <span class="day1Img"></span>
+                                            <p class="high-temp day1High"></p>
+                                            <p class="low-temp day1Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day2Name"></h6>
+                                        <a href="http://www.delcotimes.com/weather">
+                                            <span class="day2Img"></span>
+                                            <p class="high-temp day2High"></p>
+                                            <p class="low-temp day2Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day3Name"></h6>
+                                        <a href="http://www.delcotimes.com/weather">
+                                            <span class="day3Img"></span>
+                                            <p class="high-temp day3High"></p>
+                                            <p class="low-temp day3Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day4Name"></h6>
+                                        <a href="http://www.delcotimes.com/weather">
+                                            <span class="day4Img"></span>
+                                            <p class="high-temp day4High"></p>
+                                            <p class="low-temp day4Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day5Name"></h6>
+                                        <a href="http://www.delcotimes.com/weather">
+                                            <span class="day5Img"></span>
+                                            <p class="high-temp day5High"></p>
+                                            <p class="low-temp day5Low"></p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div> <!-- .forecast -->
+                        </div> <!-- .current-weather -->
+                        <div id="weather-ad">
+                           <h6><a href="http://www.delcotimes.com/weather">Full weather report</a></h6>
+                        </div>
+                    </div> <!-- .weather-bar -->
+                    <div class="traffic-bar zero-height">
+                        <div id="sigAlertClicker" onclick="window.location.assign('/traffic')"></div><iframe width="640" scrolling="auto" height="300" frameborder="0" name="saportal" style="border: 0px solid #000000;" allowtransparency="true" marginheight="0" marginwidth="0" src="http://www.sigalert.com/Portlet/Map.asp?partner=DelcoTimes&amp;lat=39.93404&amp;lon=-75.18651&amp;z=2&amp;th=blue&amp;urqs=1&amp;url=/traffic"></iframe>
+                        <div class="traffic-ad">
+                            <h6><a href="http://www.delcotimes.com/traffic">Full traffic report</a></h6>
+                        </div>
+                    </div><!-- .traffic-bar -->
+                </div>  <!-- #topbar-wrapper -->
+            </div> <!-- #topbar-viewport -->
+        </div> <!-- .container-fluid -->
+    </div> <!-- #topbar -->
+    <section id="flag">
+        <div class="container-fluid">
+            <div class="branding">
+                    <a href="http://www.delcotimes.com/"><img class="property-logo small" src="http://local.delcotimes.com/assets/logo-large.png" title="The Delaware County Daily Times" alt="The Delaware County Daily Times"></a>
+                    <h1 class="page-title">
+                             <a href="http://www.delcotimes.com/news">
+                                News
+                             </a> 
+                    </h1>
+             </div> <!-- .branding -->
+                 <nav id="topbar-menu">
+                    <ul class="inline-list">
+                        <li><a class="weather-toggle">Weather</a></li>
+                        <li><a class="traffic-toggle">Traffic</a></li>
+                        <li><a class="markets-toggle" href="http://www.delcotimes.com/business">Markets</a></li> 
+                    </ul> <!-- .nav -->
+             </nav> <!-- #topbar -->
+             <div id="header-links">
+                    <a href=""></a>
+                </div>
+             <div id="site-search" class="search-bar">                
+                  <form action="http://www.delcotimes.com/search" class="form-search input-append">
+                        <input name="text" type="text" placeholder="Search"/>
+                        <button class="btn btn-primary" type="submit">Go</button>
+                        <input type="hidden" name="sort" value="modifiedtime desc"/>
+                        <input type="hidden" name="nocache" value="1"/>
+                  </form>
+                  <!-- Verticals Links -->
+                  <div class="verticals-menu">
+                     <ul id="verticalsLinks"></ul>
+                  </div>
+                  <!-- /Verticals Links -->
+             </div> <!-- #search-bar -->
+        </div> <!-- container-fluid -->
+    </section> <!-- #flag -->
+
+   <nav id="site-navigation" role="navigation" class="navbar">
+   <a href="#main-content" class="hidden">Skip to Main Window</a>
+	<div class="navbar-inner">
+		<div class="container-fluid">
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-responsive-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+        	</a>
+			<div class="nav-collapse collapse navbar-responsive-collapse">
+				<ul class="nav">
+					<li class="dropdown">
+                        <a href="http://www.delcotimes.com/news" class="dropdown-toggle">News<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.delcotimes.com/local-news">Local News</a></li>
+							<li><a href="http://www.delcotimes.com/closings">Closings</a></li>
+							<li><a href="http://www.delcotimes.com/national-news-video">National News Video</a></li>
+							<li><a href="http://www.delcotimes.com/news-blogs">Blogs</a></li>
+							<li><a href="http://www.delcotimes.com/gasbuddy">Gasbuddy</a></li>
+							<li><a href="http://www.delcotimes.com/traffic">Traffic</a></li>
+							<li><a href="http://www.delcotimes.com/news-video">Video</a></li>
+							<li><a href="http://www.delcotimes.com/weather">Weather</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.delcotimes.com/sports" class="dropdown-toggle">Sports<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.delcotimes.com/topic/76ers">76ers</a></li>
+							<li><a href="http://www.delcotimes.com/topic/eagles">Eagles</a></li>
+							<li><a href="http://www.delcotimes.com/topic/flyers">Flyers</a></li>
+							<li><a href="http://www.delcotimes.com/topic/phillies">Phillies</a></li>
+							<li><a href="http://www.delcotimes.com/highschool">High School</a></li>
+							<li><a href="http://www.delcotimes.com/topic/union">Union</a></li>
+							<li><a href="http://www.delcotimes.com/sports-blogs">Blogs</a></li>
+							<li><a href="http://www.delcotimes.com/national-sports-video">National Sports Video</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.delcotimes.com/business" class="dropdown-toggle">Business</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.delcotimes.com/entertainment" class="dropdown-toggle">Entertainment<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.delcotimes.com/entertainment-blogs">Blogs</a></li>
+							<li><a href="http://www.delcotimes.com/movies-listings">Movies Listings</a></li>
+							<li><a href="http://www.delcotimes.com/tv-listings">Television Listings</a></li>
+							<li><a href="http://www.delcotimes.com/entertainment-video">Video</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.delcotimes.com/lifestyle" class="dropdown-toggle">Lifestyle<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.delcotimes.com/lifestyle-blogs">Blogs</a></li>
+							<li><a href="http://www.delcotimes.com/medialab">Community Media Lab</a></li>
+							<li><a href="http://www.delcotimes.com/lifestyle-video">Video</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.delcotimes.com/obituaries" class="dropdown-toggle active">Obituaries</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.delcotimes.com/opinion" class="dropdown-toggle">Opinion</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.delcotimes.com/blogs" class="dropdown-toggle active">Blogs<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.delcotimes.com/community-blogs">Community Blogs</a></li>
+							<li><a href="http://www.delcotimes.com/staff-blogs">Staff Blogs</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.delcotimes.com/marketplace" class="dropdown-toggle active">Marketplace<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.delcotimes.com/jobs">Jobs</a></li>
+							<li><a href="http://www.delcotimes.com/weekly-ads">Weekly Ads</a></li>
+							<li><a href="http://www.delcotimes.com/local-guide">Local Guide</a></li>
+							<li><a href="http://www.delcotimes.com/todays-ads">Today's Ads</a></li>
+							<li><a href="http://www.delcotimes.com/classifieds">Classifieds</a></li>
+							<li><a href="http://www.delcotimes.com/public-notices">Public Notices</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.delcotimes.com/apps/pbcs.dll/section?profile=4001160" class="dropdown-toggle active">Tools<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.delcotimes.com/contact">Contact Us</a></li>
+							<li><a href="http://www.delcotimes.com/advertise">Advertise With Us</a></li>
+							<li><a href="http://www.delcotimes.com/careers">Work for Us</a></li>
+							<li><a href="http://www.delcotimes.com/photo-reprints">Order Photo Reprints</a></li>
+							<li><a href="http://www.delcotimes.com/contest">Contests</a></li>
+							<li><a href="http://www.delcotimes.com/subscribe">Subscribe</a></li>
+							<li><a href="http://www.delcotimes.com/manage-subscription">Manage Your Subscription</a></li>
+							<li><a href="http://www.delcotimes.com/epaper">E-Paper</a></li>
+							<li><a href="http://www.delcotimes.com/apps/pbcs.dll/article?AID=0818160819633">Mobile Apps</a></li>
+							<li><a href="http://www.delcotimes.com/sms">Text Alerts</a></li>
+							<li><a href="http://www.delcotimes.com/email_signup">Email Newsletter Sign up</a></li>
+							<li><a href="http://www.delcotimes.com/email_preferences">Manage Email Newsletters</a></li>
+							<li><a href="http://www.delcotimes.com/rss">RSS</a></li>
+							<li><a href="http://www.delcotimes.com/nie">Newspapers in Education</a></li>
+							<li><a href="http://www.delcotimes.com/gasbuddy">Gasbuddy</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+				</ul> <!-- .nav -->
+			</div> <!-- .nav-collapse -->
+		</div> <!-- .container-fluid -->
+	</div> <!-- .navbar-inner -->
+</nav> <!-- #site-navigation -->
+
+    <div id="alerts">
+        <div class="container-fluid">
+            <div class="alert alert-block alert-warning fade in">
+                <a class="close" onclick="$('#alerts').slideUp('fast'); DFM_BNA_COOKIE(); return false;" href="#">x</a>
+                <h4 class="alert-heading">Alert: <a href="http://www.delcotimes.com/general-news/20161119/septa-transit-workers-ratify-contract-that-ended-city-transit-strike">SEPTA Transit workers ratify contract that ended city transit strike</a></h4>
+            </div> <!-- .alert -->
+        </div> <!-- .container-fluid -->
+    </div> <!-- #alerts -->
+
+<!-- Begin ShareBar.pbo-->
+<script type="text/javascript">
+	var smrtPhone   = false;
+	var domainUrl   = dfm.api("data","siteDomain");
+	var thisTitle   = dfm.api("data","pageTitle");
+	var thisURL     = dfm.api("data","pageUrl");
+	var thisTumb    = thisURL.replace(/.*?:\/\//g, "");
+	var aArticleid  = dfm.api("data","contentId");
+	var twitterAdd  = "https://twitter.com/delcotimes";
+	var splittWIT   = twitterAdd.split("/");	
+	var twitterHand = splittWIT[3];	
+	var splitUrl    = domainUrl.split(".");
+	var splitDom    = splitUrl[0];
+</script>
+<div id="shareBarWrapper" class="shareBarHide">
+	<div class="share-barADD">
+		<ul>
+			<li class="facebook">
+				<a>#</a>
+				<ul class="share-options">
+					<li class="shareBarFacebook">
+						<div class="fb-like" data-href="http://www.delcotimes.com/general-news/20110415/davidsons-castle-doctrine-remarks-shock-house" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+					</li>
+				</ul>
+        </li>
+        <li class="twitter">
+        <a>Twitter</a>
+            <ul class="share-options"></ul>
+ 			</li>
+			<li class="google">
+				<a onclick="javascript:window.open('http://plus.google.com/share?url=http://www.delcotimes.com/general-news/20110415/davidsons-castle-doctrine-remarks-shock-house', 'gpluswin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"></a>
+			</li>
+			<li class="reddit">
+				<a href="javascript:void(open('http://reddit.com/submit?url=http://www.delcotimes.com/general-news/20110415/davidsons-castle-doctrine-remarks-shock-house&amp;title='+thisTitle+''));" title="Share on Reddit">
+					<i class="reddit"></i>
+					Reddit
+				</a>
+			</li>
+			<li class="pinterest">
+				<a href="javascript:javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It!" title="Share on Pinterest">
+					<i class="pinterest"></i>
+					Pinterest
+				</a>
+			</li>
+			<li class="comments-share">
+				<div id="shareDisqus">
+					<a class="timestamp shareBarCommentCount" href="#disqus_thread" data-disqus-identifier="delcotimes-304159972"></a>
+				</div>
+			</li>
+			<li class="more">
+				<a>...</a>
+				<script type="text/javascript">
+					var addthis_options = 'facebook, myspace, google, delicious, digg, favorites, live, buzz, twitter, fark, friendfeed';
+					addthis_pub = 'ra-4f9adf4b790f86dd';
+					var addthis_config = {"data_track_clickback": true};
+				</script>
+				<ul class="more-share-options">
+					<li>
+						<a href="http://www.addthis.com/bookmark.php" class="addthis_button_email">
+							<i class="icon-inbox"></i>
+							Email
+						</a>
+					</li>
+					<li>					
+						<a href="http://www.delcotimes.com/general-news/20110415/davidsons-castle-doctrine-remarks-shock-house&amp;template=printart" class="articleOptions">
+							<i class="icon-print"></i>
+							Print
+						</a>					
+					</li>
+					<li>
+						<a href="javascript:void(open('https://www.tumblr.com/share?s=&amp;v=3&amp;t='+thisTitle+'&amp;u='+thisTumb+''));" title="Share on Tumblr">
+							<i class="tumblr"></i>
+							Tumblr
+						</a>
+					</li>
+					<li>
+						<a href="javascript:void(open('http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.delcotimes.com/general-news/20110415/davidsons-castle-doctrine-remarks-shock-house&amp;title='+thisTitle+'&amp;source=http://www.delcotimes.com/general-news/20110415/davidsons-castle-doctrine-remarks-shock-house'));" title="Share on LinkedIn">
+							<i class="linkedin"></i>
+							LinkedIn
+						</a>
+					</li>
+					<li>
+						<a href="javascript:void(open('https://www.stumbleupon.com/submit?url=http://www.delcotimes.com/general-news/20110415/davidsons-castle-doctrine-remarks-shock-house&amp;title='+thisTitle+''));" title="Share on StumbleUpon">
+							<i class="stumbleupon"></i>
+							StumbleUpon
+						</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+<div id="fb-root"></div>
+<script type="text/javascript">
+	(function(d, s, id) {
+		var js, fjs=d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s);
+		js.id = id; js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+<div id="tempTwitterDiv" style="height:0px; overflow:hidden; width: 50px">
+	<!-- FireFox does not like iframes being created or moved into currently hidden elements so we have to create it here and move it into place on hover -->
+	<li><a href="https://twitter.com/share" class="twitter-share-button" data-via="delcotimes" data-count="vertical" data-url="http://www.delcotimes.com/article/DC/20110415/NEWS/304159972">Tweet</a>                
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
+</div>
+<script>
+	placeSbarTop = function(){
+		var t=$(window).scrollTop()+($('#topbar').height()-60);
+		var articleOffset=$("#main-story").offset().top - t;
+		var articleEnd=$("#main-story").height()-400;
+		var newArticleEnd=articleEnd+$("#main-story").offset().top;
+		var t=$(window).scrollTop()+($('#topbar').height()+90);
+		if (articleOffset>100)    { $('#shareBarWrapper').css({'top':articleOffset,'position':'fixed','margin-top':0}); }
+		else if (t>newArticleEnd) { $('#shareBarWrapper').css({'position':'absolute','margin-top':newArticleEnd}); }
+		else                      { $('#shareBarWrapper').css({'top':100,'position':'fixed','margin-top':0}); }
+	}
+	placeSbar = function(){
+		var divPos     = $("#main-story").offset();
+		var sBarWidth  = $('#shareBarWrapper').outerWidth();
+		var newLeftPos = divPos.left - sBarWidth -70;
+		$('#shareBarWrapper').css('left', newLeftPos);
+		$('#shareBarWrapper').css('display','block');
+		$('#shareBarWrapper').removeClass('shareBarHide');
+	}
+	//placeSbarTop must run before placeSbar
+	$(document).ready(placeSbarTop);
+	$(document).ready(placeSbar);
+	$(document).ready(function(){
+		/* FireFox does not like iframes being created or moved into currently hidden elements so we had to create the twitter buttons on the page and move them into place on hover */
+		$(".share-barADD .twitter").hover(
+			function(){
+				if($('#tempTwitterDiv').width()>0) {
+					$('#tempTwitterDiv li').appendTo($('.share-barADD .twitter .share-options'));
+					$('#tempTwitterDiv').remove();
+				}
+			},
+			function(){}
+		);
+   });
+	$(window).bind('resize', placeSbar);
+	$(window).scroll('resize', placeSbarTop);
+</script>
+<script>
+	$shareBarRegions = $(".share-barADD ul li");
+	$shareBarRegions.hover(
+		function(){ $(this).addClass("shareBarHover"); },
+		function(){ if(!$(this).hasClass("shareBarInternalHover")){ $(this).removeClass("shareBarHover"); } }
+	);
+	$(".share-barADD ul li ul.share-options li").hover(
+		function(){ $shareBarRegions.addClass("shareBarInternalHover"); },
+		function(){ $shareBarRegions.removeClass("shareBarInternalHover"); }
+	);
+</script>
+<!-- End ShareBar.pbo-->
+
+<div id="DFM-adPos-pencil"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-pencil');});</script></div>
+</header> <!-- #site-header -->
+
+<section id="content" class="container-fluid">
+    <div class="row-fluid">
+        <!-- This article call will be used for all standard data -->
+                <div class="span4">
+            <article id="main-story" class="full-story">
+                <div class="body">
+                        <div class="article">  
+                            <div class="hnews hentry item">
+                                <header id="article-top">
+                                    <!-- built by /general-news/20110415/davidsons-castle-doctrine-remarks-shock-house on 20161119100229 -->
+<ul class="breadcrumb block small hide-for-phone">
+    <li><a href="http://www.delcotimes.com/">Home</a><span class="divider"> →</span></li>
+    <li class="active">News</li>
+</ul>
+                                    <h1 class="title entry-title cleanprint-title">Davidson's Castle Doctrine remarks shock House</h1>
+                                      <div class="ndn_embed" id="ndn-video-player-1" data-config-distributor-id="91712"></div>
+                                        <!-- The Design Class is -->
+                                </header>
+                            </div>
+                            <section id="body-text">
+                                <div class="byline-bar">
+                                        <!--start small ArticleByline1.pbo-->
+<p class="byline cleanprint-byline">
+  By Alex Rose
+</p>
+<!--end small ArticleByline1.pbo-->
+                                    <div class="meta">
+                                        <p class="timestamp">
+                                            Posted: 
+                                        <time datetime="">04/15/11, 12:01 AM EDT</time>
+                                            <span class="divider">|</span>
+                                                <time datetime="">Updated: on 04/15/2011</time>
+                                        </p>
+                                        <a class="timestamp bylineCommentCount" href="#disqus_thread" data-disqus-identifier="delcotimes-304159972"># Comments</a>
+                                    </div><!-- /meta -->
+                                </div><!-- /byline-bar -->
+                              <div class="ndn_embed" id="ndn-video-player-2" data-config-distributor-id="91712"></div>
+                             <div id="body-copy">
+                                    <!--Begin Article7.pbo -->
+<!-- End Article7.pbo -->
+										<!-- start articleparagraph1.pbo -->
+<p>
+State Rep. Margo Davidson, D-164, of Upper Darby, turned heads on the House floor Tuesday during a debate on expanding the "Castle Doctrine" of self-defense to areas outside the home when she asked if current Pennsylvania law would protect her for dispatching a fellow legislator.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+"If the gentleman from Butler County stood yelling, knowing that he's a gun-toter, and I felt threatened, would I be protected under current law if I blew his brains out?" asked Davidson.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Her comment, about state Rep. Daryl Metcalfe, R-Butler County, was one of a series of hypothetical scenarios Democrats posed during the debate on House Bill 40.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+The bill would remove a requirement that victims try to retreat from a threat when outside their homes before resorting to deadly force. The state Senate previously passed a similar bill.
+<style>
+#AD_text{
+	font-size: 11px;
+	color: #999999;
+}
+</style>
+<div id="div_Cube_Article"> 
+<script type="text/javascript">
+(function() {
+	var secondaryMedia =  $("#secondary-media").css('height');
+	var factbox =  $("#factbox").css('height');
+	var internalContent = parseInt(secondaryMedia + factbox);
+	if((internalContent<400) || (!internalContent)) {
+		console.log("Article within AD")	
+	   googletag.cmd.push(function() {
+	   googletag.display("div_Cube_Article");
+	   googletag.pubads().refresh();
+	   });
+	}else { 
+		console.log("No AD in article");
+		$("#div_Cube_Article").css('display', 'none');
+	}
+})(jQuery);
+</script>
+<script>
+$( document ).ready(function() {
+  var ADbox =  parseInt($("#div_Cube_Article").css('height'));
+		if((ADbox<200)){
+			$("#div_Cube_Article").css('display', 'none');
+		}
+})(jQuery);
+</script>
+<span id="AD_text">Advertisement</span>
+</div>
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Davidson said Wednesday she was trying to illustrate that current gun laws already protect victims who use deadly force to fend off attackers, albeit with the retreat caveat. Removing that provision would remove a "moment of pause" before taking someone's life, she said.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+"That's very serious, it's very graphic and we shouldn't do it if we can't discuss it on the House floor," said Davidson. "Now that you've taken away the moment of pause, I think you create, or you could create, a very violent society."
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+She later issued a statement that she knows all too well the toll violence can take, as her brother was gunned down during a home invasion and robbery.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+"He didn't have any money on him and the criminal shot him in the chest at point-blank range," said Davidson. "I sat in the courtroom during the trial, heard graphic descriptions of what that did to him, and saw graphic photos of his wounds. I would not wish that on anyone -- not another member of the House, not anyone."
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Metcalfe said he was shocked by the question. He described at least a cordial relationship with Davidson and said he doesn't believe there is any bad blood there, or with any other member of the House.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Metcalfe noted Republican Speaker of the House Sam Smith struck Davidson's comment from the record, indicating her language was beyond the pale.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+But Metcalfe said as far as he, and probably the House at large, is concerned, that is where it ends. The true yardstick for reprisal lies with the constituency, he added.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+While Davidson acknowledged she could have chosen her words more carefully, she said she was hoping the shock factor of her question would help fellow lawmakers understand House Bill 40 deals with real-life situations that shouldn't be allowed to fall into the realm of "knee-jerk" violent reactions.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+"The point I made illustrates the fact that we are talking about violence and we are talking about killing people in this legislation," she said.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+A similar bill passed through the state House and Senate last session, but was vetoed by former Democratic Gov. Ed Rendell. Republican Gov. Tom Corbett has indicated he supports changing the law.
+<p>
+<!-- end articleparagraph1.pbo -->
+                             </div><!--/body-copy-->
+                              <div class="ndn_embed" id="ndn-video-player-3" data-config-distributor-id="91712"></div>
+                             	<a class="subscriber" id="subscriber-offer-button" href="http://www.delcotimes.com/allaccess" target="_blank">Subscribe to  Home Delivery for only $2.50 per week!</a>
+                             <!-- Begin large ArticleByline1.pbo -->
+<!-- End large ArticleByline1.pbo -->
+                             </section><!-- /body-text -->
+                            <!--no left rail needed here and  needleftrail is 0-->
+                        </div>
+                    </div>
+                </article>
+                <script>
+                	 $("#body-copy a").each(function(){if($(this).attr("target")==undefined)$(this).attr("target","_blank")});
+                </script>
+                	<!-- Outbrain Begin -->   <script type="text/javascript">
+      var outbrainurl = window.location.protocol + "//" + window.location.host + "/" + window.location.pathname;
+      document.write('<div class="OUTBRAIN" data-src="' + outbrainurl + '" data-widget-id="AR_1" data-ob-template="YDR"></div>');
+      document.write('<div class="OUTBRAIN" data-src="' + outbrainurl + '" data-widget-id="AR_2" data-ob-template="YDR"></div>');
+   </script>
+   <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<!-- Outbrain End -->
+                <div id="most-popular-rotator">
+                    <script type="text/javascript" src="http://local.delcotimes.com/common/dfm/assets/js/jCarouselLite_1.0.1.min.js"></script>
+<h4><a id="popular-rotator-title">Top Stories</a></h4>
+<!-- Initialize the rotator -->
+<script type="text/javascript">
+$(document).ready(function() {
+    rotatorInt = setInterval(function(){
+        if ( 'jCarouselLite' in $("#popular-widget-large-carousel") && $('#popular-widget-items li').length > 1 ) {
+            $("#popular-widget-large-carousel").jCarouselLite({ vertical: false, btnNext: "#popular-widget-large-forward", btnPrev: "#popular-widget-large-backward", speed: 550, scroll:1, circular:true});
+            window.clearInterval(rotatorInt);
+        }
+    },500);
+});
+</script>
+<!-- Rotator container markup -->
+<div id="popular-widget-container-large">
+    <div class="carousel slide three-image">
+        <div id="popular-widget-large-carousel" class="carousel-inner">
+                <ul id="popular-widget-items"></ul>
+        </div>
+    </div>
+    <a id="popular-widget-large-backward" class="carousel-control left">&lsaquo;</a>
+    <a id="popular-widget-large-forward" class="carousel-control right">&rsaquo;</a>
+</div>
+<!-- script to generate data for the rotator -->
+<script>
+var siteDebug = "";
+var parentProfile = "1000010";
+DEFAULT_IMAGE = "http://local.delcotimes.com/common/dfm/assets/img/top-stories-rotator/default-saxo.jpg";
+$(function() {
+    var most_pop_list = 'Friends, family seek justice for Chester hit-run victim ~!~/general-news/20161113/friends-family-seek-justice-for-chester-hit-run-victim~!~http://image.delcotimes.com/storyimage/DC/20161113/NEWS/161119850/AR/0/0/AR-161119850.jpg&exactW=150&exactH=108~#~Chester woman killed, man injured in one-car crash~!~/general-news/20161114/chester-woman-killed-man-injured-in-one-car-crash~#~Smoke detectors called lifesavers in Aston inferno~!~/general-news/20161116/smoke-detectors-called-lifesavers-in-aston-inferno~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119754/AR/0/0/AR-161119754.jpg&exactW=150&exactH=108~#~Upper Chi man busted on child porn raps~!~/general-news/20161116/upper-chi-man-busted-on-child-porn-raps~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119733/AR/0/0/AR-161119733.jpg&exactW=150&exactH=108~#~Protest march planned against Lower Merion police Wednesday afternoon~!~/general-news/20161114/protest-march-planned-against-lower-merion-police-wednesday-afternoon~!~http://image.delcotimes.com/storyimage/DC/20161114/NEWS/161119821/AR/0/0/AR-161119821.jpg&exactW=150&exactH=108~#~Operation Ground Zero: $1M drug ring smashed in Darby Township~!~/general-news/20161117/operation-ground-zero-1m-drug-ring-smashed-in-darby-township~!~http://image.delcotimes.com/storyimage/DC/20161117/NEWS/161119712/AR/0/0/AR-161119712.jpg&exactW=150&exactH=108~#~Unionville-Chadds Ford teacher\'s aide allegedly performed sexual acts on 2 high school students~!~/general-news/20161116/unionville-chadds-ford-teachers-aide-allegedly-performed-sexual-acts-on-2-high-school-students~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119726/AR/0/0/AR-161119726.jpg&exactW=150&exactH=108~#~99-year-old Ridley man ties the knot  ~!~/lifestyle/20161114/99-year-old-ridley-man-ties-the-knot~!~http://image.delcotimes.com/storyimage/DC/20161114/NEWS/161119814/AR/0/0/AR-161119814.jpg&exactW=150&exactH=108~#~Ridley cops seek Bucks man for theft of ambulance~!~/general-news/20161114/ridley-cops-seek-bucks-man-for-theft-of-ambulance~#~Neighbors wary of new Springfield High School plans~!~/general-news/20161114/neighbors-wary-of-new-springfield-high-school-plans~!~http://image.delcotimes.com/storyimage/DC/20161114/NEWS/161119813/AR/0/0/AR-161119813.jpg&exactW=150&exactH=108~#~Community activist, education advocate Kate Smith picked to fill Upper Darby vacancy~!~/general-news/20161114/community-activist-education-advocate-kate-smith-picked-to-fill-upper-darby-vacancy~#~Firefighter trapped, injured in Chester fire. ~!~/general-news/20161114/firefighter-trapped-injured-in-chester-fire~!~http://image.delcotimes.com/storyimage/DC/20161114/NEWS/161119848/AR/0/0/AR-161119848.jpg&exactW=150&exactH=108~#~Cops continue to probe alleged racial incident at Villanova University~!~/general-news/20161114/cops-continue-to-probe-alleged-racial-incident-at-villanova-university~!~http://image.delcotimes.com/storyimage/DC/20161114/NEWS/161119829/AR/0/0/AR-161119829.jpg&exactW=150&exactH=108~#~Hundreds rally for \'sanctuary campus\' at Swarthmore~!~/general-news/20161116/hundreds-rally-for-sanctuary-campus-at-swarthmore~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119728/AR/0/0/AR-161119728.jpg&exactW=150&exactH=108~#~Gov. Wolf signs law changing beer sales in Pa. ~!~/general-news/20161115/gov-wolf-signs-law-changing-beer-sales-in-pa~!~http://image.delcotimes.com/storyimage/DC/20161115/NEWS/161119776/AR/0/0/AR-161119776.jpg&exactW=150&exactH=108~#~Rose Tree Media School District voices concern on Sunoco pipeline plans ~!~/general-news/20161113/rose-tree-media-school-district-voices-concern-on-sunoco-pipeline-plans~!~http://image.delcotimes.com/storyimage/DC/20161113/NEWS/161119852/AR/0/0/AR-161119852.jpg&exactW=150&exactH=108~#~Patient says Delco doctor kicked her out over Trump disagreement~!~/general-news/20161114/patient-says-delco-doctor-kicked-her-out-over-trump-disagreement~#~One killed when car, SEPTA bus collide in Tinicum~!~/general-news/20161114/one-killed-when-car-septa-bus-collide-in-tinicum~#~6 arrested for patronizing prostitutes in King of Prussia sting~!~/general-news/20161116/6-arrested-for-patronizing-prostitutes-in-king-of-prussia-sting~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119724/AR/0/0/AR-161119724.jpg&exactW=150&exactH=108~#~Sunoco Logistics plan encounters delay in pipeline application~!~/general-news/20161113/sunoco-logistics-plan-encounters-delay-in-pipeline-application~!~http://image.delcotimes.com/storyimage/DC/20161113/NEWS/161119860/AR/0/0/AR-161119860.jpg&exactW=150&exactH=108~#~';
+    most_pop_list = most_pop_list.split("~#~");
+    if(most_pop_list.length < 7) {
+        /* pull stories for parent profile */
+        var most_pop_list = '';
+        most_pop_list = most_pop_list.split("~#~");
+    }
+    if(most_pop_list.length < 7) {
+        /* pull stories for profile 1030040 */
+        var most_pop_list = 'Smoke detectors called lifesavers in Aston inferno~!~/general-news/20161116/smoke-detectors-called-lifesavers-in-aston-inferno~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119754/AR/0/0/AR-161119754.jpg&exactW=150&exactH=108~#~Upper Chi man busted on child porn raps~!~/general-news/20161116/upper-chi-man-busted-on-child-porn-raps~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119733/AR/0/0/AR-161119733.jpg&exactW=150&exactH=108~#~Operation Ground Zero: $1M drug ring smashed in Darby Township~!~/general-news/20161117/operation-ground-zero-1m-drug-ring-smashed-in-darby-township~!~http://image.delcotimes.com/storyimage/DC/20161117/NEWS/161119712/AR/0/0/AR-161119712.jpg&exactW=150&exactH=108~#~Unionville-Chadds Ford teacher\'s aide allegedly performed sexual acts on 2 high school students~!~/general-news/20161116/unionville-chadds-ford-teachers-aide-allegedly-performed-sexual-acts-on-2-high-school-students~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119726/AR/0/0/AR-161119726.jpg&exactW=150&exactH=108~#~Chester woman killed, man injured in one-car crash~!~/general-news/20161114/chester-woman-killed-man-injured-in-one-car-crash~#~Hundreds rally for \'sanctuary campus\' at Swarthmore~!~/general-news/20161116/hundreds-rally-for-sanctuary-campus-at-swarthmore~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119728/AR/0/0/AR-161119728.jpg&exactW=150&exactH=108~#~Protest march planned against Lower Merion police Wednesday afternoon~!~/general-news/20161114/protest-march-planned-against-lower-merion-police-wednesday-afternoon~!~http://image.delcotimes.com/storyimage/DC/20161114/NEWS/161119821/AR/0/0/AR-161119821.jpg&exactW=150&exactH=108~#~6 arrested for patronizing prostitutes in King of Prussia sting~!~/general-news/20161116/6-arrested-for-patronizing-prostitutes-in-king-of-prussia-sting~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119724/AR/0/0/AR-161119724.jpg&exactW=150&exactH=108~#~Ridley cops seek Bucks man for theft of ambulance~!~/general-news/20161114/ridley-cops-seek-bucks-man-for-theft-of-ambulance~#~99-year-old Ridley man ties the knot  ~!~/lifestyle/20161114/99-year-old-ridley-man-ties-the-knot~!~http://image.delcotimes.com/storyimage/DC/20161114/NEWS/161119814/AR/0/0/AR-161119814.jpg&exactW=150&exactH=108~#~Gov. Wolf signs law changing beer sales in Pa. ~!~/general-news/20161115/gov-wolf-signs-law-changing-beer-sales-in-pa~!~http://image.delcotimes.com/storyimage/DC/20161115/NEWS/161119776/AR/0/0/AR-161119776.jpg&exactW=150&exactH=108~#~Swarthmore students plan immigration protest today~!~/general-news/20161115/swarthmore-students-plan-immigration-protest-today~#~Friends, family seek justice for Chester hit-run victim ~!~/general-news/20161113/friends-family-seek-justice-for-chester-hit-run-victim~!~http://image.delcotimes.com/storyimage/DC/20161113/NEWS/161119850/AR/0/0/AR-161119850.jpg&exactW=150&exactH=108~#~Haverford cops seek man in tire slashing incidents~!~/general-news/20161116/haverford-cops-seek-man-in-tire-slashing-incidents~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119729/AR/0/0/AR-161119729.jpg&exactW=150&exactH=108~#~Neighbors wary of new Springfield High School plans~!~/general-news/20161114/neighbors-wary-of-new-springfield-high-school-plans~!~http://image.delcotimes.com/storyimage/DC/20161114/NEWS/161119813/AR/0/0/AR-161119813.jpg&exactW=150&exactH=108~#~3 more busted for contraband at Delco Prison~!~/general-news/20161118/3-more-busted-for-contraband-at-delco-prison~!~http://image.delcotimes.com/storyimage/DC/20161118/NEWS/161119639/AR/0/0/AR-161119639.jpg&exactW=150&exactH=108~#~Oh Deer! Gwynedd Mercy cross country runner struck by deer, still finishes race~!~/sports/20161117/oh-deer-gwynedd-mercy-cross-country-runner-struck-by-deer-still-finishes-race~!~http://image.delcotimes.com/storyimage/DC/20161117/NEWS/161119689/AR/0/0/AR-161119689.jpg&exactW=150&exactH=108~#~Nam vet gets Radnor High School diploma 46 years after leaving school to serve~!~/general-news/20161115/nam-vet-gets-radnor-high-school-diploma-46-years-after-leaving-school-to-serve~!~http://image.delcotimes.com/storyimage/DC/20161115/NEWS/161119781/AR/0/0/AR-161119781.jpg&exactW=150&exactH=108~#~Lawmakers implored to beef up pipeline safety regs~!~/general-news/20161116/lawmakers-implored-to-beef-up-pipeline-safety-regs~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119742/AR/0/0/AR-161119742.jpg&exactW=150&exactH=108~#~Morning Briefing: Top stories from around the region today~!~/general-news/20161116/morning-briefing-top-stories-from-around-the-region-today~!~http://image.delcotimes.com/storyimage/DC/20161116/NEWS/161119746/AR/0/0/AR-161119746.jpg&exactW=150&exactH=108~#~';
+        most_pop_list = most_pop_list.split("~#~");
+    }
+    if(most_pop_list.length < 7) {
+        $("#most-popular-rotator").hide();
+        console.log("Most Popular Rotator hidden because there are less than 7 articles");
+    }
+    /* fill widget data */
+    // data format => title~!~link~!~imagelink~#!title~!~link~!~imagelink
+    var widgetdata = [];
+    for (var i=0;i<most_pop_list.length;i++) {
+        /* return for empty itme */
+        if(most_pop_list[i].length < 1) continue;
+        widgetdata[i] = [];
+        var story_item = most_pop_list[i];
+        story_item = story_item.split("~!~");
+        /* 3rd item is an imagelink, if any */
+        if(typeof story_item[2] != 'undefined') {
+            widgetdata[i]['image'] = story_item[2];    
+        }
+        /* 2nd item is a story link */
+        if(typeof story_item[1] != 'undefined') {
+            widgetdata[i]['link'] = story_item[1];    
+        }
+        /* 1st item is a story title */
+        if(typeof story_item[0] != 'undefined') {
+            widgetdata[i]['title'] = story_item[0];
+        }
+    }
+    // site debug information
+    if(siteDebug) { console.log('widget data:');console.log(widgetdata);}
+    /* move stories with no image to last positions */
+    var copytable = $.extend({}, widgetdata);    
+    var datasize = widgetdata.length-1;
+    var nextinc = 1;
+    for(var i=0; i < datasize;i++) {
+        if(typeof widgetdata[i]['image'] == 'undefined') {
+            copytable[datasize+nextinc] = widgetdata[i];
+            copytable[i] = ""; nextinc++;
+        }
+    }
+    //renumbering array elements, if any
+    var i=0;
+    var widgetdata = new Array();
+    for(key in copytable) {    
+        if($.isEmptyObject(copytable[key])) { continue;} 
+        /* no image story gets default image */
+        if( $.isEmptyObject(copytable[key]['image']) ) {
+            copytable[key]['image'] = DEFAULT_IMAGE;
+        } else {
+            copytable[key]['image'] = copytable[key]['image'] + "&imageversion=Carousel";
+        } 
+            widgetdata[i] = new Array();
+            widgetdata[i]['image'] = copytable[key]['image'];
+            widgetdata[i]['link'] = copytable[key]['link'] + '?source=topstoriesrot';
+            widgetdata[i]['title'] = copytable[key]['title'];
+            i++;        
+    }    
+    /* start generating widget markup */
+    var output = '<li class="item"><div class="slide">';  
+    var size = widgetdata.length; var rem = size % 3; var setsize = size-rem; var i=0;
+    if(siteDebug) {
+        console.log('size: ');console.log(size); 
+        console.log(setsize);console.log(rem);
+        console.log('widget data  (after sort):');console.log(widgetdata);
+    }
+    for(key in widgetdata) {    
+        if( i >= setsize) break;
+        if ((key%3 === 0) && key != 0) { output += '</div></li><li class="item"><div class="slide">'; }
+        output += '<div class="was-figure">';
+        output += '	  <a href="' + widgetdata[key]['link'] + '" title="' + widgetdata[key]['title'] + '">';
+        output += '      <div style="width:151px; "></div>';
+        if(typeof widgetdata[key]['image'] != 'undefined') {
+            output += '      <img src="'+ widgetdata[key]['image'] + '" alt="' + widgetdata[key]['title'] + '" style="width:151px;" onError="this.onerror=null;this.src=\'http://local.delcotimes.com/assets/images/defaultBlog.png\';">';
+        }
+        output += '	  </a>';
+        output += '   <h3>';
+        output += '      <a href="' + widgetdata[key]['link'] + '" title="' + widgetdata[key]['title'] + '">' + widgetdata[key]['title'] + '</a>';
+        output += '   </h3>';
+        output += '</div>'; i++;
+    }
+    output += '</div></li>';
+    $('#popular-widget-items').html(output);
+    $('#most-popular-rotator').css('clear','both');
+});
+</script>
+                </div>
+                   <div id="circularhub_module_3477"></div>
+   <script src="http://api.circularhub.com/3477/cfb8c29d36b481c1/circularhub_module.js"></script>
+                <div id="dfm_disqus_comments"></div>
+            </div>
+
+        	 <section id="right-rail" class="span2">
+		  <ul class="widgets">
+				<li class="ad">
+					<div id="DFM-adPos-cube1"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-cube1');});</script></div>
+				</li>
+			  	<li class="widget link-list">
+					<div id="rightrailwidget" style="width:300px;">
+						<script type="text/javascript">
+//note: "days" is for how old the content is.  For testing on dev sites, you may need to turn it off with -1.  But please remove or change it before deployment.  Note contentstats tag below as well may need to be changed.
+    var pop_list = {};
+    pop_list['day'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161117/operation-ground-zero-1m-drug-ring-smashed-in-darby-township?source=most_viewed\">Operation Ground Zero: $1M drug ring smashed in Darby Township</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161118/3-more-busted-for-contraband-at-delco-prison?source=most_viewed\">3 more busted for contraband at Delco Prison</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161118/cops-upper-darby-man-cleaned-out-by-craigslist-roomie?source=most_viewed\">Cops: Upper Darby man cleaned out by Craigslist roomie</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161117/students-at-widener-show-how-courageous-they-are?source=most_viewed\">Students at Widener show how Courageous they are</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20161118/sensory-feast-of-a-longwood-christmas-opens-at-longwood-gardens?source=most_viewed\">Sensory feast of \'A Longwood Christmas\' opens at Longwood Gardens</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161118/chester-upland-teachers-rally-for-pay-hike-new-contract?source=most_viewed\">Chester Upland teachers rally for pay hike, new contract</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161117/officials-detail-delcos-efforts-in-batting-opioid-crisis?source=most_viewed\">Officials detail Delco\'s efforts in batting opioid crisis</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161116/upper-chi-man-busted-on-child-porn-raps?source=most_viewed\">Upper Chi man busted on child porn raps</a></li></ul> ';
+    pop_list['week'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161113/friends-family-seek-justice-for-chester-hit-run-victim?source=most_viewed\">Friends, family seek justice for Chester hit-run victim </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161114/chester-woman-killed-man-injured-in-one-car-crash?source=most_viewed\">Chester woman killed, man injured in one-car crash</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161116/smoke-detectors-called-lifesavers-in-aston-inferno?source=most_viewed\">Smoke detectors called lifesavers in Aston inferno</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161116/upper-chi-man-busted-on-child-porn-raps?source=most_viewed\">Upper Chi man busted on child porn raps</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161114/protest-march-planned-against-lower-merion-police-wednesday-afternoon?source=most_viewed\">Protest march planned against Lower Merion police Wednesday afternoon</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161117/operation-ground-zero-1m-drug-ring-smashed-in-darby-township?source=most_viewed\">Operation Ground Zero: $1M drug ring smashed in Darby Township</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161116/unionville-chadds-ford-teachers-aide-allegedly-performed-sexual-acts-on-2-high-school-students?source=most_viewed\">Unionville-Chadds Ford teacher\'s aide allegedly performed sexual acts on 2 high school students</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20161114/99-year-old-ridley-man-ties-the-knot?source=most_viewed\">99-year-old Ridley man ties the knot  </a></li></ul> ';
+    pop_list['news'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161116/smoke-detectors-called-lifesavers-in-aston-inferno?source=most_viewed\">Smoke detectors called lifesavers in Aston inferno</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161116/upper-chi-man-busted-on-child-porn-raps?source=most_viewed\">Upper Chi man busted on child porn raps</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161117/operation-ground-zero-1m-drug-ring-smashed-in-darby-township?source=most_viewed\">Operation Ground Zero: $1M drug ring smashed in Darby Township</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161116/unionville-chadds-ford-teachers-aide-allegedly-performed-sexual-acts-on-2-high-school-students?source=most_viewed\">Unionville-Chadds Ford teacher\'s aide allegedly performed sexual acts on 2 high school students</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161114/chester-woman-killed-man-injured-in-one-car-crash?source=most_viewed\">Chester woman killed, man injured in one-car crash</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161116/hundreds-rally-for-sanctuary-campus-at-swarthmore?source=most_viewed\">Hundreds rally for \'sanctuary campus\' at Swarthmore</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161114/protest-march-planned-against-lower-merion-police-wednesday-afternoon?source=most_viewed\">Protest march planned against Lower Merion police Wednesday afternoon</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20161116/6-arrested-for-patronizing-prostitutes-in-king-of-prussia-sting?source=most_viewed\">6 arrested for patronizing prostitutes in King of Prussia sting</a></li></ul> ';
+    pop_list['sports'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20161116/seahawks-serve-as-barometer-for-eagles-defense?source=most_viewed\">Seahawks serve as barometer for Eagles\' defense</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20161117/oh-deer-gwynedd-mercy-cross-country-runner-struck-by-deer-still-finishes-race?source=most_viewed\">Oh Deer! Gwynedd Mercy cross country runner struck by deer, still finishes race</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20161117/seahawks-cerebral-qb-wilson-has-opposing-defenses-scrambling?source=most_viewed\">Seahawks cerebral QB Wilson has opposing defenses scrambling</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20161117/flyers-gostisbehere-honored-then-takes-seat-as-healthy-scratch?source=most_viewed\">Flyers\' Gostisbehere honored, then takes seat as healthy scratch</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20161116/eagles-still-smarting-over-not-drafting-wilson?source=most_viewed\">Eagles still smarting over not drafting Wilson</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20161115/considering-eagles-road-woes-they-cant-sleep-on-seattle?source=most_viewed\">Considering Eagles\' road woes, they can\'t sleep on Seattle</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20161116/jack-mccaffery-latest-plan-for-embiid-showed-little-respect-for-coach-fans?source=most_viewed\">Jack McCaffery: Latest plan for Embiid showed little respect for coach, fans </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20161115/eagles-ertz-making-an-impact-off-the-field?source=most_viewed\">Eagles\' Ertz making an impact off the field</a></li></ul> ';
+    pop_list['biz'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\">No items to display</a></li></ul> ';
+    pop_list['a&e'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20161116/carrie-fisher-reveals-star-wars-affair-with-harrison-ford?source=most_viewed\">Carrie Fisher reveals \'Star Wars\' affair with Harrison Ford</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20161118/sensory-feast-of-a-longwood-christmas-opens-at-longwood-gardens?source=most_viewed\">Sensory feast of \'A Longwood Christmas\' opens at Longwood Gardens</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20161116/coffee-break-faking-you-out?source=most_viewed\">Coffee Break: Faking you out</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20161118/episcopal-academy-grad-chris-paterno-band-set-to-play-world-cafe?source=most_viewed\">Episcopal Academy grad Chris Paterno, band set to play World Cafe</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20161118/movie-trailers-films-opening-in-theaters-friday-nov-18?source=most_viewed\">MOVIE TRAILERS: Films opening in theaters Friday, Nov. 18</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20161117/its-no-decoy-duck-dynasty-to-wrap-after-11-seasons?source=most_viewed\">It\'s no decoy: \'Duck Dynasty\' to wrap after 11 seasons</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20161117/coffee-break-the-dog-ate-my-homework-and-my-tum-tum-hurts?source=most_viewed\">Coffee Break: The dog ate my homework and my tum-tum hurts</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20161115/coffee-break-is-your-collection-still-in-moms-attic?source=most_viewed\">Coffee Break: Is your collection still in Mom\'s attic?</a></li></ul> ';
+    if ( typeof(pop_list) === 'undefined' ) var pop_list = {};
+pop_list['emailed'] = '<ul class=\"pop\">';
+temp_item_check = '<li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.delcotimes.com/article/DC/20161114/NEWS/161119816#at_pco=cfd-1.0\">Patient says Delco doctor kicked her out over Trump disagreement</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.delcotimes.com/article/DC/20161116/NEWS/161119730#at_pco=cfd-1.0\">Maris Grove remembers missing in action on Veterans Day</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.delcotimes.com/article/DC/20161117/NEWS/161119712#at_pco=cfd-1.0\">Operation Ground Zero: $1M drug ring smashed in Darby Township</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.delcotimes.com/article/DC/20161114/NEWS/161119814#at_pco=cfd-1.0\">99-year-old Ridley man ties the knot</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.delcotimes.com/article/DC/20161115/NEWS/161119768#at_pco=cfd-1.0\">Swarthmore students plan immigration protest today</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.delcotimes.com/article/DC/20161117/NEWS/161119677#at_pco=cfd-1.0\">Media man draws long prison term in child-porn case</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.delcotimes.com/article/DC/20161114/NEWS/161119821#at_pco=cfd-1.0\">Protest march planned against Lower Merion police Wednesday afternoon</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.delcotimes.com/article/DC/20161114/NEWS/161119829#at_pco=cfd-1.0\">Cops continue to probe alleged racial incident at Villanova University</a></li>';
+pop_list['emailed'] += (temp_item_check !== "") ? temp_item_check + '</ul>' : '<li>No items to display</li></ul>' ;
+     pop_list['life'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20161114/99-year-old-ridley-man-ties-the-knot?source=most_viewed\">99-year-old Ridley man ties the knot  </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20161116/norwood-athletic-club-shows-its-true-blue?source=most_viewed\">Norwood Athletic Club shows it\'s true blue</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20161115/county-festival-of-lights-celebrates-40-years?source=most_viewed\">County Festival of Lights celebrates 40 years</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20161116/pldp-pet-of-the-week-peggy?source=most_viewed\">PLDP Pet of the Week: Peggy</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20161116/providence-animal-center-pet-of-the-week-oscar?source=most_viewed\">Providence Animal Center Pet of the Week: Oscar</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20161116/maris-grove-remembers-missing-in-action-on-veterans-day?source=most_viewed\">Maris Grove remembers missing in action on Veterans Day</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20161114/antique-toy-trains-visit-aston-library-through-christmas?source=most_viewed\">Antique toy trains visit Aston library through Christmas</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20161116/providence-animal-center-pet-of-the-week-waffles?source=most_viewed\">Providence Animal Center Pet of the Week: Waffles</a></li></ul> ';
+</script>
+<script type="text/javascript">
+	function pop_load_tab(id, content) {
+		if ( typeof id == 'undefined' || id == null && !'id' in id ) return false;
+		$('#pop-feed').html(content);
+		$('.activetab').addClass('righttab').removeClass('activetab');
+		$('#' + id.id).addClass('activetab').removeClass('righttab');
+	}
+        setTimeout(function(){$("#pop_news").trigger('mouseover');}, 500);
+</script>
+<ul id="mostPopWidget">
+	<li>
+		<a href="http://www.delcotimes.com/popular"><h4>MOST POPULAR</h4></a>
+		<div class="tabbedbox complexListingBox">
+			<div onmouseover="pop_load_tab(this, pop_list['day']);" id="pop_day" class="righttab">
+				<a title="Most-popular posts in the last day" href="javascript:return:false">Day</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['week']);" id="pop_week" class="righttab">
+				<a title="Most-popular posts in the last week" href="javascript:return:false">Week</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['news']);" id="pop_news" class="activetab">
+				<a title="Most-popular News posts" href="javascript:return:false">News</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['sports']);" id="pop_sports" class="righttab">
+				<a title="Most-popular Sports posts" href="javascript:return:false">Sports</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['biz']);" id="pop_business" class="righttab">
+				<a title="Most-popular Biz posts" href="javascript:return:false">Biz</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['a&amp;e']);" id="pop_entertainment" class="righttab">
+				<a title="Most-popular A&amp;E posts" href="javascript:return:false">A&amp;E</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['emailed']);" id="pop_emailed" class="righttab">
+				<a title="Most-popular Email posts" href="javascript:return:false">Email</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['life']);" id="pop_style" class="righttab">
+				<a title="Most-popular Life posts" href="javascript:return:false">Life</a>
+			</div>
+			<br clear="all">
+			<div id="pop-feed" class="tabboxoutline">
+				<ul class="pop"><li class="</ul"> 
+			</div>
+		</div>
+	</li>
+</ul>
+					</div>
+					<div class="clear"></div>
+				</li>
+ 				<li class="widget">
+ 				</li>
+				<li class="widget">
+					<div id="tout-right-rail"></div>
+				</li>
+				<li class="ad">
+					<div id="DFM-adPos-cube3"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-cube3');});</script></div>
+				</li>
+            <li class="ad">
+               <div id="DFM-adPos-cube3b_Flex"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-cube3b_Flex');});</script></div>
+            </li>
+				<li class="widget" style="width: 100%;">
+						<div id="ownLocalWidgy"></div>
+				</li>
+				<li class="ad">
+					 <div class="ad ad-bottomline" id="DFM-adPos-bottomline"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-bottomline');});</script></div>
+				</li>
+		  </ul>
+	 </section> <!-- #right-rail -->
+
+    </div> <!-- .row-fluid -->
+</section>
+ 
+<script type="text/javascript" src="http://local.delcotimes.com/common/dfm/assets/js/dfm-core-level2.min.js"></script>
+<script type="text/javascript" src="http://local.delcotimes.com/common/dfm/assets/js/bootstrap-carousel.js"></script> 
+<script type="text/javascript" src="http://local.delcotimes.com/common/dfm/assets/js/bootstrap-transition.js"></script>
+<script type="text/javascript" src="http://local.delcotimes.com/common/dfm/assets/js/handlebars-1.0.0-rc.4.min.js"></script>
+<script type="text/javascript">
+    function removeHrefsFromNav(){
+        $('.dropdown').each(function(){
+        switch($(this).children('a').text()){
+          case 'Tools':
+          case 'Services':
+          case 'Marketplace':
+          case 'Special Reports':
+            $(this).children('a').attr({href:'',onclick:'return false'})
+            break;
+        }
+        })
+    }
+</script>
+<script type="text/javascript">
+  $.getScript("http://local.delcotimes.com/common/dfm/assets/js/disqus/dfm_disqus_drawer_saxo.js",function(){
+    loadDfmDisqusDrawer("#dfm_disqus_comments",'padelcotimes','delcotimes-304159972', window.location.href);
+  });
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<script>
+    $(document).ready(function(){
+        removeHrefsFromNav();
+        setTimeout("$('#topbar, .weather-bar, .traffic-bar').removeClass('zero-height').hide()", 750);
+    });
+    function create_DFM_ad(d){
+        if($('#'+d).html()==''){
+            var tagOrd=Math.random()*10000000000000000;
+            switch(d){                
+                case 'DFM-adPos-weather':     DFM_temp_Ad_string="<iframe width='120px' height='60px'  frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=pos%3Dweather_report&sz=120x60&c="+tagOrd+"'></iframe>"; break;
+                case 'DFM-adPos-traffic':     DFM_temp_Ad_string="<iframe width='120px' height='60px'  frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=pos%3Dtraffic_report&sz=120x60&c="+tagOrd+"'></iframe>"; break;
+                //case 'DFM-adPos-jBar-teaser': DFM_temp_Ad_string="<iframe width='300px' height='30px'  frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=kv%3Dtoolbar&sz=300x30&c="+tagOrd+"'></iframe>"; break;
+                //case 'DFM-adPos-jBar-popup':  DFM_temp_Ad_string="<iframe width='300px' height='250px' frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=kv%3Dtoolbar&sz=300x250&c="+tagOrd+"'></iframe>"; break;
+            }
+        DFM_temp_Ad_location=d;
+        setTimeout('finish_DFM_ad()',50);
+        }
+    setTimeout('finish_DFM_chk_el()',500);
+    }
+    function finish_DFM_ad(){
+        $('#'+DFM_temp_Ad_location).html(DFM_temp_Ad_string);
+        $("#"+DFM_temp_Ad_location+" iFrame").on("mouseover", function(){ 
+            $(this).parents(".dropdown-menu").css('display', 'block');
+        });
+        $("#"+DFM_temp_Ad_location+" iFrame").on("mouseout", function(){ 
+            $(this).parents(".dropdown-menu").css('display', '');
+        });
+    }
+    function finish_DFM_chk_el(){ if($('#topbar').height()<100) { $('#shareBarWrapper').css('display','block') } }
+    var DFM_temp_Ad_location=DFM_temp_Ad_string='';
+//***** AccuWeather *****//
+var siteDebug = "";
+        $(function () {
+            var isMetric = false;            
+            var language = "en";            
+            var apiUrl = "http://api.accuweather.com/";
+            var apiKey = "230548dfe5d54776aaaf5a1f2a19b3f5";
+            var current = new Array();
+            var forecasts = new Array();
+            //weatherUrl = "";
+            var isDayTime = false;            
+            var getWeather = function (zipcode) {                
+                var locationUrl = apiUrl + "/locations/v1/US/search?q=" + zipcode + "&apikey=" + apiKey;
+                //var locationKey = "";
+                $.ajax({
+                    type: "GET",
+                    url: locationUrl,
+                    dataType: "jsonp",
+                    cache: true,
+                    jsonpCallback: "awxCallback",
+                    success: function (data) {                        
+                        if(data && data.length > 0) {
+                            locationKey = data[0].Key;
+                            //city = data[0].LocalizedName+","+data[0].AdministrativeArea.ID;                            
+                            getCurrentConditions(locationKey);
+                            getForecasts(locationKey);
+                        } else {
+                            msg = "No locations found."
+                            console.log(msg);                            
+                        }                                                   
+                    }
+                });
+            };
+            // Gets current conditions for the location.            
+             var getCurrentConditions = function (locationKey) {
+                var currentConditionsUrl = apiUrl + "/currentconditions/v1/" + locationKey + ".json?language=" + language + "&apikey=" + apiKey;
+                $.ajax({
+                    type: "GET",
+                    url: currentConditionsUrl,
+                    dataType: "jsonp",
+                    cache: true,
+                    jsonpCallback: "awxCallback",
+                    success: function (data) {                            
+                            if(data && data.length > 0) {
+                                var conditions = data[0];                                   
+                                var temp = isMetric ? conditions.Temperature.Metric.Value : conditions.Temperature.Imperial.Value;                                
+                                current['icon'] = (conditions.WeatherIcon < 10) ? "0"+conditions.WeatherIcon : conditions.WeatherIcon;                                                                                                
+                                current['weatherurl'] = conditions.Link;
+                                if(siteDebug) {
+                                    console.log("Current ");console.log(current);
+                                }
+                                //set global leaf page weather url and current condition here..
+                                $('.current-weather .current-temp h5').html(temp+'&deg;')
+                                $('#topbar-wrapper .currImg')   .html('<img src="http://local.dailynews.com/common/dfm/assets/img/accuweather/'+current['icon']+'.png" alt="" class="weather-icon" />');
+                            }
+                            else {
+                                msg = "No data returned for locaton key: "+locationKey;
+                                console.log(msg);
+                            }                        
+                    }
+                });
+                //console.log(current);
+            };
+            var getForecasts = function(locationKey) {
+                var forcastUrl = apiUrl + "/forecasts/v1/daily/10day/" + locationKey + ".json?language=" + language + "&apikey=" + apiKey;
+                var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+                $.ajax({
+                    type: "GET",
+                    url: forcastUrl,
+                    dataType: "jsonp",
+                    cache: true,
+                    //jsonpCallback: "awxCallback",
+                    success: function (data) {
+                            var html;
+                            if(data) {                                                                
+                                var forecast = data.DailyForecasts;                                
+                                for(var day in forecast) {                                    
+                                    if (day == 7) { break;} 
+                                    var dateobj = new Date(forecast[day].Date);
+                                    //var icon = isDayTime ? forecast[day].Day.Icon : forecast[day].Night.Icon;     
+                                    if(day == 0) {
+                                        $('#topbar-wrapper .todayshigh').html(forecast[day].Temperature.Maximum.Value + '&deg;');                                        
+                                        $('#topbar-wrapper .todayslow') .html(forecast[day].Temperature.Minimum.Value  + '&deg;');
+                                    } else {
+                                        icon = (forecast[day].Day.Icon < 10) ? "0"+forecast[day].Day.Icon : forecast[day].Day.Icon;                                    
+                                        $('#topbar-wrapper .day'+day+'Name')  .html(days[dateobj.getDay()]);
+                                        $('#topbar-wrapper .day'+day+'High')  .html(forecast[day].Temperature.Maximum.Value + '&deg;');
+                                        $('#topbar-wrapper .day'+day+'Img')   .html('<img src="http://local.dailynews.com/common/dfm/assets/img/accuweather/'+icon+'.png" alt="" class="weather-icon" />');
+                                        $('#topbar-wrapper .day'+day+'Low')   .html(forecast[day].Temperature.Minimum.Value  + '&deg;').siblings('h6').html();
+                                    }
+                                }   
+                                if(siteDebug) {
+                                    console.log("Forecasts");console.log(forecasts);
+                                }
+                                //set forecast values here..
+                            }
+                            else {
+                                msg = "No data returned for location key: "+locationKey;
+                                console.log(msg);
+                            }                        
+                    }
+                });
+            };
+                getWeather("19082");
+            });
+
+//***** QuantCast *****//
+    _qoptions={qacct:"p-BdLLmNP313cFc", labels: "21CM%2ePennsylvania"};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript><img src="http://pixel.quantserve.com/pixel/p-BdLLmNP313cFc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
+<script>
+//***** Breaking News Alert Cookie *****//
+    if(!$.cookie('DFM_BNA')){$('#alerts').animate({'height':'62'},'fast');}
+    function DFM_BNA_COOKIE(){var date=new Date();date.setTime(date.getTime()+(3600*1000));$.cookie('DFM_BNA','set',{expires: date});}
+    $('.weather-toggle').click(function(e){ e.preventDefault(); activateTopBar($(this), $('.weather-bar')); $('.traffic-toggle').removeClass('active'); });
+    $('.traffic-toggle').click(function(e){ e.preventDefault(); activateTopBar($(this), $('.traffic-bar')); $('.weather-toggle').removeClass('active'); });
+    function activateTopBar($btn, $target) {
+        if($('#topbar').is(':visible')) {
+            if($btn.hasClass('active')) { $('#topbar').slideUp('fast', function(){ $('.weather-bar, .traffic-bar').hide();});}
+            else {
+                $('#topbar').slideUp('fast', function(){
+                    $('.weather-bar, .traffic-bar').hide();
+                    $target.show();
+                    $('#topbar').slideDown('fast');
+                });
+            }
+        } else {
+            $('.weather-bar, .traffic-bar').hide();
+            $target.addClass('visible').show();
+            $('#topbar').slideDown('fast');
+        }
+        $btn.toggleClass('active');
+    }
+// ***** MediaCenterWidget ***** //
+    if (document.getElementById("mc-widget-container-large")){
+        var mc_rotator_large_options = {
+            domain:  'delcotimes' 
+        }
+    $.ajax({async:true, url:"http://local.delcotimes.com/common/dfm/assets/js/mc-widget-large.min.js", dataType:'script', timeout:500});
+    }
+     function create_mc_gallery(){
+       $.ajax({async:true, url:"http://extras.mnginteractive.com/live/partners/MediaCenter/embedded_galleries/mc_embed_1.0.8.1.js", dataType:'script', timeout:500});
+       var mediaCenterCodeLoadTester = self.setInterval(
+           function(){
+               if(typeof mc_embed_gallery != 'undefined'){
+                   mc_embed_gallery.initWidget();
+                   window.clearInterval(mediaCenterCodeLoadTester);
+               }
+           },100
+       )
+    }
+</script>
+<script type="text/javascript" src="http://extras.mnginteractive.com/live/js/jquery/jBar/plugIns_SAXO.js"></script>
+	<script id="ownLocalJS" type="text/javascript" src="http://local.delcotimes.com/common/dfm/assets/js/own-local-saxoRDS.js?domain=mylocal.delcotimes.com&amp;city=Primos&amp;state=PA"></script>
+<script type="text/javascript" src="http://local.delcotimes.com/common/dfm/assets/js/tout/tout-functions.js"></script>
+<script type="text/javascript">
+// ***** BrightTag ***** //
+    (function () {
+        var tagjs = document.createElement("script");
+        var s = document.getElementsByTagName("script")[0];
+        tagjs.text = "{'site':'sfWGaRL'}";
+        tagjs.async = true;
+        tagjs.src = "http://s.btstatic.com/tag.js";
+        s.parentNode.insertBefore(tagjs, s);
+    }());
+</script>
+<noscript>
+    <iframe src="http://s.thebrighttag.com/iframe?c=sfWGaRL" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+    <!-- CleanPrint functionality -->
+<script type="text/javascript">    
+    $(".icon-print").next().removeAttr("onclick")    
+    $(".icon-print").next().attr("href", "/apps/pbcs.dll/article?avis=DC&date=20110415&category=NEWS&lopenr=304159972&Ref=AR&profile=1030040&template=printart");    
+</script>
+<!-- End: CleanPrint functionality -->
+<!-- iPad Paywall -->
+<!-- End: iPad Paywall -->
+
+<!-- Verticals links -->
+<script type="text/javascript">
+(function($) {
+   var domain = "http://local.delcotimes.com/";
+   //JSON file lives in Akamai netstorage
+   var jsonToGet = domain + '/assets/verticals.json';
+   $.ajax({
+      url: jsonToGet,
+      dataType: 'jsonp',
+      contentType: 'application/json',
+      cache: true,
+      async: false,
+      jsonpCallback: 'pubData',
+      success: function (data) {
+         //Check to see if each item exists, and if it does, append it to verticalsLinks list in FinishHead.pbo
+        if (typeof data.verticalsCustom !== 'undefined'  && data.verticalsCustom.length > 0) 
+       {
+          for(var i=0;i<data.verticalsCustom.length;i++)
+          {
+            $('ul#verticalsLinks').append('<li><a href="'+ data.verticalsCustom[i].link +'">' + data.verticalsCustom[i].title + '</a></li>');
+            if(i<(data.verticalsCustom.length-1))
+              $('ul#verticalsLinks').append('<li>|</li>');
+          }         
+       }
+       else
+       {
+           //Autos
+           if(typeof data.verticals.autos.link !== 'undefined' && data.verticals.autos.link !== '') {
+              if(data.verticals.autos.link.substring(0,1) == "/") {
+                 data.verticals.autos.link = "http://www.delcotimes.com/" + data.verticals.autos.link;
+              }
+              $('ul#verticalsLinks').append('<li><a href="'+ data.verticals.autos.link +'">' + data.verticals.autos.title + '</a></li><li>|</li>');
+           }
+           //Real Estate
+           if(typeof data.verticals.realestate.link !== 'undefined' && data.verticals.realestate.link !== '') {
+              if(data.verticals.realestate.link.substring(0,1) == "/") {
+                 data.verticals.realestate.link = "http://www.delcotimes.com/" + data.verticals.realestate.link;
+              }
+              $('ul#verticalsLinks').append('<li><a href="'+ data.verticals.realestate.link +'">' + data.verticals.realestate.title + '</a></li><li>|</li>');
+           }
+           //Jobs
+           if(typeof data.verticals.jobs.link !== 'undefined' && data.verticals.jobs.link !== '') {
+              if(data.verticals.jobs.link.substring(0,1) == "/") {
+                 data.verticals.jobs.link = "http://www.delcotimes.com/" + data.verticals.jobs.link;
+              }
+              $('ul#verticalsLinks').append('<li><a href="'+ data.verticals.jobs.link +'">' + data.verticals.jobs.title + '</a></li>');
+           }
+        }
+      },
+      error: function(jqXHR, textStatus, errorThrown) {
+         //log the error to the console
+         console.log("The following error occured: " + textStatus, errorThrown);
+      },
+   });
+}(jQuery));
+</script>
+
+<footer id="site-footer">
+    <div class="foot">
+        <div class="container-fluid">
+            <div class="branding" style="text-align:center; width:437px; margin:0 auto;">
+                <a href="http://www.delcotimes.com/"><img src="http://local.delcotimes.com/assets/logo-small.png"><h4 class="property-logo">The Delaware County Daily Times</h4></a>
+            </div>
+            <ul class="share-widget">
+                  <li>
+                     <a rel="tooltip" data-placement="top" title="Follow us on Facebook" data-original-title="Follow us on Facebook" class="fc-webicon facebook" href="https://www.facebook.com/delcodailytimes">Facebook</a>
+                  </li>
+                  <li>
+                     <a rel="tooltip" data-placement="top" title="Follow us on Twitter" data-original-title="Follow us on Twitter" class="fc-webicon twitter" href="https://twitter.com/delcotimes">Twitter</a>
+                  </li>
+                  <li>
+                     <a rel="publisher" data-placement="top" title="Follow us on Google Plus" data-original-title="Follow us on Google Plus" class="fc-webicon googleplus" href="https://plus.google.com/117372858719128653692/posts">Google+</a>
+                  </li>
+                  <li>
+                     <a rel="publisher" data-placement="top" title="Follow us on Pinterest" data-original-title="Follow us on Pinterest" class="fc-webicon pinterest" href="https://www.pinterest.com/delcotimes/">Pinterest</a>
+                  </li>
+                  <li>
+                     <a rel="publisher" data-placement="top" title="Follow us on Instagram" data-original-title="Follow us on Instagram" class="fc-webicon instagram" href="http://instagram.com/delcotimes">Instagram</a>
+                  </li>
+               <li>
+                  <a rel="tooltip" data-placement="top" title="RSS Feed" data-original-title="RSS Feed" class="fc-webicon rss" href="http://www.delcotimes.com/rss">RSS Feed</a>
+               </li>
+            </ul> <!-- .share-widget -->
+            <p class="top-border">
+              <span>Copyright &copy; The Delaware County Daily Times</span>
+              <a href="http://www.delcotimes.com/copyright">Copyright notice</a>
+              <a href="http://www.delcotimes.com/privacy">Privacy Policy</a>
+              <a href="http://www.delcotimes.com/section?template=sitemap_page">Site Map</a>
+              <a href="http://local.delcotimes.com/common/dfm/arbitration.pdf">Arbitration</a>
+              <a href="http://www.digitalfirstmedia.com/">Digital First Media</a> 
+            </p>
+        </div> <!-- .container-fluid -->
+    </div> <!-- .foot -->
+</footer><!-- #site-footer -->
+
+    </body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 15:03:17 Nov 19, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 02:44:20 Mar 27, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 33.41 (3)
+  esindex: 0.011
+  captures_list: 121.618
+  CDXLines.iter: 13.688 (3)
+  PetaboxLoader3.datanode: 49.215 (4)
+  exclusion.robots: 0.2
+  exclusion.robots.policy: 0.185
+  RedisCDXSource: 71.053
+  PetaboxLoader3.resolve: 26.273
+  load_resource: 47.62
+-->

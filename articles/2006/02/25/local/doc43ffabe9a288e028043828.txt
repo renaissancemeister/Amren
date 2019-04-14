@@ -1,0 +1,906 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>JournalStar.com - Lincoln, Nebraska  - Local</title>
+</head>
+
+
+<body>
+<div class="main">
+  
+<div id="flag">
+     <div class="front-logo">
+     <a href="http://journalstar.com/search/" title="JournalStar.com"><img src="http://www.journalstar.com/art/section/archives.gif"></a>  <!-- <h4>Lincoln, Nebraska's News and Information Source</h4> -->
+  </div>
+    
+<div class="wx">
+  <div class="wx-curr"><span class="wx-label">Now</span><br/><img src="http://www.journalstar.com/resources/images/wx/bkn.jpg" alt="Mostly Cloudy and Breezy" height="25" width="25"><br/>57&deg;</div>
+  <div class="wx-ad">
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"/></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1136268000) && (nAdsysTime <= 1230789599)) {
+aAd = new Array('+weather', '37043-1208552434', 'swf');
+aAd[3] = '120';
+aAd[4] = '60';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fsurvey.libertyfirstcu.com%2Fliberty_first%2Findex.php';
+aAd[6] = '%2Bweather';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1185944400) && (nAdsysTime <= 1217566799)) {
+aAd = new Array('+weather', '53151-1169655350', 'swf');
+aAd[3] = '120';
+aAd[4] = '60';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.dinnerdatekitchen.com%2F';
+aAd[6] = '%2Bweather';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if (((nAdsysTime >= 1208779200) && (nAdsysTime <= 1208840340) || (nAdsysTime >= 1208865600 && nAdsysTime <= 1208926740))) {
+aAd = new Array('+weather', '118235-1205168373', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+  <div class="wx-fc"><div class="wx-label">High</div>68&deg;</div>
+<div class="wx-fc"><div class="wx-label">Low</div>48&deg;</div>
+  <div class="wx-tright"><a href="http://www.journalstar.com/weather/" title="Full Forecast" onclick="s_objectID='wx-forecast'">Full Forecast<img src="http://www.journalstar.com/resources/images/wx-arrow.png" height="8" width="6"></a></div>
+</div>
+
+
+  <div class="flag-right">
+    <div id="search">
+  <form name="search_compact" action="http://journalstar.com/resources/scripts/search_mapping.php" method="POST">
+    Search: 
+    <select name="search">
+      <option value="news">News</option>
+      <option value="classifieds">Classifieds</option>
+      <option value="adventure">Today's Ads</option>
+      <option value="calendar">Calendar</option>
+      <option value="media">Media</option>
+      <option value="gallery">Gallery</option>
+      <option value="web">Web</option>
+    </select>
+    for:
+    <input type="text" name="keyword" value="" size="20">
+    <input type="submit" value="Go">
+  </form>
+  <div style="float: right; margin: 0 28px 0 0; font-family: Verdana; font-size: 9px;">Web Search powered by <span style="color: #F03;">YAHOO!</span> <span style="color: #545454;">SEARCH</span> | <a href="http://journalstar.com/search/" title="Advanced Search" style="font-size: 9px; font-weigth: bold;">(Advanced Search)</a></div>
+</div>
+      
+          </div>
+<!--    <div class="todayon">
+     <span style="font-weight: bold;">Today on JournalStar.com</span><br />
+     [newswatch:4]   </div>
+   <div class="leaderboard" style="float: left;">
+		<script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/leaderboard/static.js"></script>
+	  </div>  -->
+   <div></div>
+   <div class="mid-verts">
+<div class="circle"><a href="http://journalstar.com/jobs/"><img src="http://www.journalstar.com/resources/images/icons/circles/jobs.gif" target="_blank"><br/>Jobs</a></div>
+<div class="circle"><a href="http://lincoln.wheelsforyou.com/"><img src="http://www.journalstar.com/resources/images/icons/circles/cars.gif" target="_blank"><br/>Cars</a></div>
+<div class="circle"><a href="http://lincolnhomesandrealestate.com/"><img src="http://www.journalstar.com/resources/images/icons/circles/homes.gif" target="_blank"><br/>Homes</a></div>
+<div class="circle"><a href="http://apartmentsforyou.com/"><img src="http://www.journalstar.com/resources/images/icons/circles/rentals.gif" target="_blank"><br/>Rentals</a></div>
+<div class="circle"><a href="http://journalstar.com/services/alerts/" target="_blank"><img src="http://www.journalstar.com/resources/images/icons/circles/alerts.gif"><br/>Alerts</a></div>
+<div class="circle"><a href="http://journalstar.com/services/circulation/" target="_blank"><img src="http://www.journalstar.com/resources/images/icons/circles/subscribe.gif"><br/>Subscribe</a></div>
+</div>
+<div></div>
+  <div id="nav">
+  <div id="date"></div>
+  <ul class="jd_menu">
+    <li><a id="home" href="http://www.journalstar.com/" onclick="s_objectID='nav-home'" title="Home" style="background: none; padding-right: 3px;">Home</a></li>
+    <li><a id="news" href="http://www.journalstar.com/news/" onclick="s_objectID='nav-news'" title="News">News</a>
+        <ul>
+            <li><a href="http://www.journalstar.com/news/local/" title="Local" onclick="s_objectID='subnav-local'">Local</a></li>
+            <li><a href="http://www.journalstar.com/news/nebraska/" title="Nebraska" onclick="s_objectID='subnav-nebraska'">Nebraska</a></li>
+            <li><a href="http://www.journalstar.com/news/world/" title="Nation &amp; World" onclick="s_objectID='subnav-nation'">Nation &amp; World</a></li>
+            <li><a href="http://www.journalstar.com/news/business" title="Business &amp; Markets" onclick="s_objectID='subnav-business'">Business &amp; Markets</a></li> 
+            <li><a href="http://www.journalstar.com/news/politics/" title="Politics &amp; Government" onclick="s_objectID='subnav-politics'">Politics &amp; Government</a></li>
+            <li><a href="http://www.journalstar.com/special_reports/" title="Special Reports" onclick="s_objectID='subnav-specialreports'">Special Reports</a></li>
+            <li><a href="http://www.legacy.com/journalstar/" title="Obituaries" onclick="s_objectID='subnav-newsobits'">Obituaries</a></li>
+        </ul>
+    </li>
+    <li><a id="sports" href="http://www.journalstar.com/sports/" onclick="s_objectID='nav-sports'" title="Sports">Sports</a>
+        <ul>
+             <li><a href="http://www.huskerextra.com/" title="HuskerExtra.com" onclick="s_objectID='subnav-sportshuskerextra'">HuskerExtra</a></li>
+             <li><a href="http://www.journalstar.com/sports/prep_extra/" title="Prep Extra" onclick="s_objectID='subnav-prepextra'">Prep Extra</a></li>
+             <li><a href="http://www.journalstar.com/ap/sports/" title="Sports Wire" onclick="s_objectID='subnav-sportswire'">Sports Wire</a></li>
+        </ul>
+    </li>
+    <li><a id="entertainment" href="http://www.journalstar.com/living/gz/" onclick="s_objectID='nav-entertainment'" title="Entertainment">Entertainment</a>
+        <ul>
+           <li><a href="http://www.journalstar.com/living/gz/" title="Ground Zero" onclick="s_objectID='subnav-gz'">Ground Zero</a></li>
+           <li><a href="http://www.journalstar.com/living/gz/movies/" title="Movies" onclick="s_objectID='subnav-entertainmentmovies'">Movies</a></li>
+           <li><a href="http://www.journalstar.com/blog/gzo.php" title="Ground Zero Blog" onclick="s_objectID='subnav-gzblog'">Ground Zero Blog</a></li>
+           <li><a href="http://www.journalstar.com/calendar/" title="Calendar" onclick="s_objectID='subnav-entertainmentcalendar'">Calendar</a></li>  
+        </ul>
+    </li>
+    <li><a id="living" href="http://www.journalstar.com/living/" onclick="s_objectID='nav-living'" title="Living">Living</a>
+        <ul>
+          <li><a href="http://www.journalstar.com/living/402/" title="The (402)" onclick="s_objectID='subnav-402'">The (402)</a></li>
+          <li><a href="http://www.journalstar.com/living/family/" title="Family" onclick="s_objectID='subnav-family'">Family</a></li>
+          <li><a href="http://www.journalstar.com/living/food/" title="Food" onclick="s_objectID='subnav-food'">Food</a></li>
+          <li><a href="http://www.journalstar.com/living/home_and_garden/" title="Home &amp; Garden" onclick="s_objectID='subnav-homeandgarden'">Home &amp; Garden</a></li>
+          <li><a href="http://www.journalstar.com/celebrate/" title="Celebrate Nebraska" onclick="s_objectID='subnav-celebrate'">Celebrate</a></li>
+          <li><a href="http://www.journalstar.com/living/home_and_garden/go_green/" title="Go Green" onclick="s_objectID='subnav-gogreen'">Go Green</a></li>
+          <li><a href="http://www.starcitybridal.com/" title="Star City Bridal" onclick="s_objectID='subnav-bridal'">Bridal</a></li>
+          <li><a href="http://www.journalstar.com/living/religion/" title="Religion" onclick="s_objectID='subnav-religion'">Religion</a></li>  
+        </ul>
+    </li>
+    <li><a id="opinion" href="http://www.journalstar.com/opinion/" onclick="s_objectID='nav-opinion'" title="Blogs &amp; Opinion">Opinion</a>
+        <ul>
+           <li><a href="http://www.journalstar.com/opinion/editorial/" title="Editorial" onclick="s_objectID='subnav-editorials'">Editorials</a></li>   
+           <li><a href="http://www.journalstar.com/opinion/letters/" title="Letters" onclick="s_objectID='subnav-letters'">Letters</a></li>
+           <li><a href="http://www.journalstar.com/opinion/columns/" title="Columnists" onclick="s_objectID='subnav-columnists'">Columnists</a></li>
+           <li><a href="http://www.journalstar.com/blog/soundoff.php" title="Sound Off" onclick="s_objectID='subnav-soundoff'">Sound Off</a></li>
+           <li><a href="http://www.journalstar.com/blogs/" title="Blogs" onclick="s_objectID='subnav-opinionblogs'">Blogs</a></li>
+        </ul>
+    </li>
+    <li><a id="media" href="http://www.journalstar.com/media/" onclick="s_objectID='nav-media'" title="Media">Media</a>
+       <ul>
+          <li><a href="http://www.journalstar.com/media/videos/" title="Videos" onclick="s_objectID='subnav-videos'">Videos</a></li>
+          <li><a href="http://www.journalstar.com/media/podcast/" title="Podcasts" onclick="s_objectID='subnav-podcasts'">Podcasts</a></li>
+          <li><a href="http://www.journalstar.com/shared-content/gallery/" title="Galleries" onclick="s_objectID='subnav-galleries'">Galleries</a></li>
+	       <li><a href="http://journalstar.mycapture.com/mycapture/index.asp" title="Photo &amp; More Store" onclick="s_objectID='subnav-photostore'">Photo &amp; More Store</a></li>
+      </ul>
+    </li>
+    <li><a id="classifieds" href="http://www.journalstar.com/classifieds/" onclick="s_objectID='nav-classifieds'" title="Classifieds">Classifieds</a>
+        <ul>
+           <li><a href="http://www.journalstar.com/adventure/" title="AdVenture" onclick="s_objectID='subnav-adventure'">AdVenture</a></li>
+           <li><a href="http://www.apartmentsforyou.com/" title="Apartments For You" target="_blank" onclick="s_objectID='subnav-apartments'">Apartments For You</a></li>
+           <li><a href="http://www.journalstar.com/classifieds/" title="Classified Ads" onclick="s_objectID='subnav-classifieds'">Classified Ads</a></li>
+           <li><a href="http://lincoln.wheelsforyou.com/" title="Wheels For You" target="_blank" onclick="s_objectID='subnav-wheels'">Wheels For You</a></li>
+           <li><a href="http://http//www.journalstar.com/media/category/?cid=C47e7de2be24d6" title="Auto Videos" target="_blank" onclick="s_objectID='subnav-autovideos'">Auto Videos</a></li>
+           <li><a href="http://www.journalstar.com/jobs/" title="Work For You" target="_blank" onclick="s_objectID='subnav-jsjobs'">JournalStar.com Jobs</a></li>
+           <li><a href="http://www.lincolnhomesandrealestate.com/" title="Lincoln Homes and Real Estate" onclick="s_objectID='subnav-homes'">Homes and Real Estate</a></li>
+           <li><a href="http://www.journalstar.com/services/advertising/classified/" onclick="s_objectID='subnav-placead'">Place a Classified Ad</a></li>
+            <li><a href="http://www.journalstar.com/advertise/" onclick="s_objectID='subnav-adwithus'">Advertise With Us</a></li>
+        </ul>
+    </li>
+    <li><a id="htlp" href="http://www.journalstar.com/services/contact/" onclick="s_objectID='nav-help'" title="Help">Help</a>
+        <ul>
+           <li><a href="http://www.journalstar.com/services/info/" title="Other Information" onclick="s_objectID='subnav-otherinfo'">About LJS</a></li>
+           <li><a href="http://www.journalstar.com/services/contact/" title="Contact LJS" onclick="s_objectID='subnav-contactus'">Contact Us</a></li>
+           <li><a href="http://www.journalstar.com/services/library/">FAQ's</a></li>
+           <li><a href="http://www.journalstar.com/rss/" title="RSS Feeds" onclick="s_objectID='subnav-helprss'">RSS Feeds</a></li>
+           <li><a href="http://www.journalstar.com/services/circulation/" title="Subscription &amp; Delivery" onclick="s_objectID='subnav-subscription'">Subscription &amp; Delivery</a></li> 
+           <li><a href="http://www.journalstar.com/library/" title="Library" onclick="s_objectID='subnav-library'">LJS Library</a></li>
+           <li><a href="http://www.journalstar.com/services/employment/" title="Employment" onclick="s_objectID='subnav-employment'">Employment</a></li> 
+           <li><a href="http://www.journalstar.com/search/" title="Search LJS" onclick="s_objectID='subnav-helpsearch'">Search JournalStar.com</a></li>
+           <li><a href="http://www.journalstar.com/help/sitemap/" title="Site Map" onclick="s_objectID='subnav-sitemap'">Site Map</a></li>
+        </ul>
+    </li>
+    <li><a id="promos" href="http://www.journalstar.com/promotions/" onclick="s_objectID='nav-promos'" title="Promotions">Promos &amp; Announcements</a>
+     <ul>
+           <li><a href="http://www.journalstar.com/business_achievements/" title="Business Achievements" onclick="s_objectID='subnav-bizachievements'">Business Achievements</a></li>
+           <li><a href="http://www.journalstar.com/celebrate/" title="Celebrate" onclick="s_objectID='subnav-celebrate'">Celebrate!</a></li>
+           <li><a href="http://www.starcitydeals.com/" title="Coupons" target="_blank" onclick="s_objectID='subnav-starcitydeals'">Coupons</a></li>
+            <li><a href="http://www.starcitydiningcard.com/" title="Star City Dining Card" onclick="s_objectID='subnav-diningcard'">Dining Card</a></li>
+           <li><a href="https://secure.townnews.com/journalstar.com/secure/services_forms/circulation/recycle/" title="Journal Star Recycling" onclick="s_objectID='subnav-recycle'">Recycle</a></li>
+    </ul>
+    </li>
+    <li><a id="obits" href="http://www.legacy.com/journalstar/DeathNotices.asp" onclick="s_objectID='nav-obits'" title="Obituaries" style="background: none; padding-right: 3px;">Obituaries</a></li>
+   </ul>
+</div>
+
+</div>
+
+  <div class="extraNav"><div class="breadcrumbs"><a href="http://www.journalstar.com/">Home</a> &gt; 
+
+<a href="http://www.journalstar.com/local/">Local</a></div><div class="bookmark"><a href="javascript:void(0);" onclick="javascript:createBookmark();">Bookmark Us</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href="javascript:void(0);" onclick="javascript:createHomepage();">Make Us Your Homepage</a></div></div>
+  <div id="maincontent">
+  <div class="middle-leaderboard">
+    <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/leaderboard/static.js"></script>
+  </div>
+  <div class="leftcol">
+
+   <div class="content" style="font-size: 12px;">
+ <h1>Soto: Racism, though polite, still exists</h1>
+<script language="JavaScript">
+<!--
+function show_share() {
+  jQuery("#share").toggle();
+}
+-->
+</script>
+<div class="tools">
+  <div class="tool-items">
+    <img src="http://www.journalstar.com/resources/images/comments.gif" alt="Comments">&nbsp;<a href="#blogcomments">3 comment(s)</a>&nbsp;&nbsp;<br/>
+    <img src="http://www.journalstar.com/resources/images/mail-grey.gif" alt="E-mail Story">&nbsp;<a href="javascript:void(0)" onclick="window.open('/articles/2006/02/25/local/doc43ffabe9a288e028043828.eml', 'email', 'scrollbars=1,width=500,height=600')" title="E-mail Story">E-mail Story</a><br/>
+    <img src="http://www.journalstar.com/resources/images/printer.gif" alt="Print Story">&nbsp;<a href="http://www.journalstar.com/articles/2006/02/25/local/doc43ffabe9a288e028043828.prt" target="printable">Print Story</a><br/>
+    <img src="http://www.journalstar.com/resources/images/share.gif" alt="Share">&nbsp; <a href="javascript:void(0);" onclick="show_share();">Share</a><br/>
+    <div id="share" style="display: none;">
+       	<a href="http://digg.com/submit?url=www.journalstar.com//local/doc43ffabe9a288e028043828.txt&amp;title=Soto: Racism, though polite, still exists&amp;bodytext=&amp;media=news&amp;topic="><img src="http://digg.com/img/badges/16x16-digg-guy.gif" width="16" height="16" alt="Digg!"/>&nbsp;digg it!</a><br/>
+         <a href="http://www.facebook.com/sharer.php?u=www.journalstar.com//local/doc43ffabe9a288e028043828.txt&amp;t=JournalStar.com - Soto: Racism, though polite, still exists"><img src="http://www.journalstar.com/resources/images/share/facebook.gif">&nbsp;Facebook</a><br/>
+         <a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent('Soto: Racism, though polite, still exists'), 'delicious','toolbar=no,width=700,height=400'); return false;"><img src="http://www.journalstar.com/resources/images/share/delicious.small.gif">&nbsp;del.icio.us</a><br/>
+         <a href="javascript:void(0)" onclick="window.open('http://www.newsvine.com/_wine/save?popoff=1&amp;u=www.journalstar.com//local/doc43ffabe9a288e028043828.txt','newsvine','toolbar=no,width=590,height=600,resizable=yes,scrollbars=yes')"><img src="http://www.newsvine.com/_vine/images/identity/button_seednewsvine.gif" alt="" border="0" width="16" height="16"/> Seed Newsvine</a><br/>
+         <a href="http://cgi.fark.com/cgi/fark/farkit.pl?u=www.journalstar.com//local/doc43ffabe9a288e028043828.txt&amp;h=Soto: Racism, though polite, still exists"><img src="http://www.journalstar.com/resources/images/share/fark.gif"> Fark It</a><br/>
+         <a href="http://reddit.com/submit?url=www.journalstar.com//local/doc43ffabe9a288e028043828.txt&amp;title=Soto: Racism, though polite, still exists"><img src="http://static.reddit.com/blog_head.png"> Reddit</a>
+    </div>
+  </div>
+  <div style="clear: both; float: left;">Text Size:&nbsp;</div>
+  <a href="javascript:void(0);" onclick="resize_content(00);"><img src="http://www.journalstar.com/resources/images/story/font-size-small.png" style="float: left;"></a>
+  <a href="javascript:void(0);" onclick="resize_content(25);"><img src="http://www.journalstar.com/resources/images/story/font-size-med.png" style="float: left;"></a>
+  <a href="javascript:void(0);" onclick="resize_content(50);"><img src="http://www.journalstar.com/resources/images/story/font-size-large.png" style="float: left;"></a>
+  <!-- <div class="slider"><div id="sliderText"><div id="indicatorText"></div></div></div>-->
+  <div style="clear: both; font-size: 10px; width: 100%; text-align: center;">Tools Sponsor</div>
+  <div class="story_tools_ad"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1208235600) && (nAdsysTime <= 1523854799)) {
+aAd = new Array('+story_tools', '123899-1208355131', 'jpg');
+aAd[3] = 'https://secure.townnews.com/journalstar.com/secure/services_forms/circulation/recycle/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+</div>    
+     <h4>BY JoANNE YOUNG / Lincoln Journal Star</h4> 
+<div class="datestamp" style="margin-left: 2px;">Saturday, Feb 25, 2006 - 12:08:57 am CST</div>
+   
+<p>The two words seem at odds. Racism. Politeness.<br/><br/>But that&rsquo;s the way it is these days, said Jose Soto, the Southeast Community College vice president of diversity, multicultural education and affirmative action.<br/><br/>Racism has taken on a more polite tone, he told students gathered Friday at Lincoln Southwest High School.</p>
+<div class="modSm">
+<div style="width: 98%; text-align: right;"><a href="#image" title="Enlarge" class="image" style="font-size: 10px; color: #333;">[+]Enlarge</a></div>
+<div class="story-image"><a href="#image" title="Enlarge" class="image" style="font-size: 10px; color: #333;"><img src="http://www.journalstar.com/content/articles/2006/02/25/local/doc43ffabe9a288e028043828.jpg" alt="Story Photo"></a></div>
+<div class="content">Jose Soto (LJS File)</div>
+</div>
+
+<div id="imagebox" style="display: none; cursor: default">
+    <img src="http://www.journalstar.com/content/articles/2006/02/25/local/doc43ffabe9a288e028043828.jpg" alt="Story Photo">
+    <div class="content">Jose Soto (LJS File)</div>
+    <a href="#cancel" title="Close" class="cancel" style="display: block; text-align: right; background-color: #eee; padding: 5px; font-weight: bold;"><img src="http://www.journalstar.com/resources/images/story/close.png" style="padding: 0; border: 0;"></a>
+</div>
+
+
+
+
+
+<p>Now it is symbolic, unintentional, passive.<br/><br/>Speaking at Southwest&rsquo;s first annual &ldquo;One World&rdquo; cultural celebration, Soto said racism is hidden in the workplace, schools and public places.<br/><br/>People believe they are open and inclusive.<br/><br/>But racism is real.<br/><br/>&ldquo;And being on the receiving end, whether it&rsquo;s intended or not, it hurts,&rdquo; Soto told the students.<br/><br/>The school&rsquo;s multicultural club designed the &ldquo;One World&rdquo; day to create more understanding of diversity at a high school that has 1,763 white students and 122 students of color, said David Tien, Southwest special education teacher. They brought in six speakers from different cultures to talk about their experiences in Lincoln and other areas of the world.<br/><br/>It is hoped, Tien said, that teachers will continue the discussions of diversity after the day is over.<br/><br/>Racism was a necessary topic, Soto said. To illustrate his point, Soto told the students about his experience after an article appeared in the Journal Star on a speech he gave on diversity.<br/><br/>He got a letter in the mail containing a copy of the article with the words, &ldquo;Soto Sucks,&rdquo; written on it. A balloon was drawn over his picture with &ldquo;I&rsquo;m so cool,&rdquo; written in the balloon. Across the bottom of the article the sender wrote: We have come up with a solution to make us all happy. Move your pompous ass to New Jersey.<br/><br/>Talking about race relations, one of the biggest challenges facing the United States, makes people uncomfortable, he said.<br/><br/>Many just don&rsquo;t even see the problem.<br/><br/>They won&rsquo;t admit race plays a role in the decisions people make everyday.<br/><br/>They say the Civil Rights Act cured the problem.<br/><br/>They say great progress has been made.<br/><br/>They say they don&rsquo;t discriminate. One of their best friends is African-American or Hispanic or Asian.<br/><br/>But racism is a current event, he said, in classrooms in every school in the city, the state and the country. In every workplace.<br/><br/>Most Americans say they are opposed to school segregation, for example, he said. And while they would allow their kids to be bused to another white school, or welcome a few black children at their school, most white parents would oppose busing their kids to a black school.<br/><br/>They are able to disguise their racism, he said. But it is real, nonetheless.<br/><br/>Soto advised the teens to recognize that race still matters and to accept the differences in people not only in their heads or with their mouths, but also in their hearts.<br/><br/>&ldquo;Get beyond the head and mouth, and really mean it,&rdquo; he said.<br/><br/><em>Reach JoAnne Young at 473-7228 or </em><a href="mailto:jyoung@journalstar.com"><em><a href="mailto:jyoung@journalstar.com">jyoung@journalstar.com</a></em></a><em>.</em><br/><br/><strong>Carleen Sanchez<br/><br/>University of Nebraska-Lincoln<br/><br/>Assistant professor of anthropology, geography and ethnic studies</strong><br/><br/>Sanchez&rsquo;s ancestors became American citizens in 1848 when a treaty with Mexico granted Texas, New Mexico and part of California to the United States.<br/><br/>Over the years, her people have been punished, she said, for speaking Spanish on the playground. For not looking or living right.<br/><br/>&ldquo;We&rsquo;re problematic,&rdquo; she said.<br/><br/>But the professor, who has 16 piercings &mdash; in her ears and in her nose &mdash; loves being different.<br/><br/>&ldquo;I assert my differences every single day,&rdquo; she said.<br/><br/>The freedom to be different is one of the primary reasons people live in the United States, she said.<br/><br/>Difference doesn&rsquo;t mean hostile.<br/><br/>&ldquo;Difference is powerful,&rdquo; she said. &ldquo;If we&rsquo;re all the same, it&rsquo;s dull.&rdquo;<br/><br/>Diversity is the way species have been able to endure throughout time.<br/><br/>&ldquo;We should not just celebrate (diversity) on a single day or week,&rdquo; she said. &ldquo;We should embrace it daily.&rdquo;<br/><br/><strong>Kalenda Eaton<br/><br/>University of Nebraska-Lincoln<br/><br/>Assistant professor English and ethnic studies</strong><br/><br/>Eaton, who has been in Lincoln less than a year, said she was prepared for anything when she moved here.<br/><br/>She was prepared because she lived in communities in the San Francisco Bay area, New Orleans and Miami that were cosmopolitan and diverse. She came into contact daily with people who think in very different ways.<br/><br/>Her experiences, she said, prepared her for anything in the world.<br/><br/>People in the Great Plains are friendly, she said. But they are fairly homogenous. They think in very similar ways.<br/><br/>If you know nothing about people who live across town, she told the Southwest students, how can you know about people who live across the ocean?<br/><br/><strong>Patrick Jones<br/><br/>University of Nebraska-Lincoln<br/><br/>Assistant professor of history and ethnic studies</strong><br/><br/>Jones said the &ldquo;white&rdquo; race was not created by biological differences but as a way to justify inequality and create distinctions, he said.<br/><br/>In the beginning, races were identified by the countries people lived in: the French race, Norwegian race.<br/><br/>As concepts of race changed, white people were associated with Christianity and civilization. By the beginning of the slave trade, he said, race distinctions were associated with whiteness and blackness.<br/><br/>&ldquo;The fiction of the white race, we created it,&rdquo; Jones said.<br/><br/>People have even used bad science to try to distinguish the white race, he said, by measuring the size of people&rsquo;s skulls and declaring the white race as superior.<br/><br/>Today, white people don&rsquo;t see the privileges they have, he said. Many will deny any benefits from their skin color.<br/><br/>&ldquo;We need to take the opportunity to untangle that knot and recreate it,&rdquo; he said.</p>
+<br><!--<a href="javascript:void(0);" onclick="window.open('https://secure.townnews.com/journalstar.com/secure/2weeks/', 'TryLJSFree', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=yes, width=600, height=675')" title="Subscribe Today"><img src="/resources/images/tryus.jpg" alt="Try Us Free For 2 weeks."></a>-->
+<a href="https://secure.townnews.com/journalstar.com/secure/services_forms/circulation/subscription_promotion/promo.php?offer=1;sw1;bottomofstory" title="Subscribe Today"><img src="http://www.journalstar.com/resources/images/tryus_sunday.jpg" alt="$1 Sunday Delivery - Subscribe Today!"></a>
+<div style="background-color: #ddd; border: 1px solid #ccc; margin: 10px 0 10px 0; padding: 5px; width: 97%;"><a href="http://www.journalstar.com/local/">Local</a> &gt; <a href="#" title="Back to top">Back to Top of Story</a></div>
+</div>
+<br/>
+<div class="comments">
+<div class="content">
+<div class="box-top-right" style="width: 580px;"><div class="box-links"><div class="sublabel" style="border-top: 0;"><h1>Post Your Comment</h1><a style="color: #036; font-size: 10px; font-weight: normal; background: none; padding: 0; float: right;" href="javascript:void(0)" onclick="javascript:window.open('/help/standards_and_rules/', 'standards', 'scrollbars=1,resizeable=0,width=600,height=600')">Standards and Rules</a></div></div>
+</div>
+<div class="box-left">
+<div class="box-right" style="width: 572px;">
+ <div class="notice">All posts to JournalStar.com are subject to our <a href="javascript:void(0)" onclick="javascript:window.open('/help/terms_of_use/', 'terms', 'scrollbars=1,resizeable=0,,width=600,height=600')">Terms</a> and <a href="javascript:void(0)" onclick="javascript:window.open('/help/standards_and_rules/', 'standards', 'scrollbars=1,resizeable=0,,width=600,height=600')">Standards</a>.<br>Your posted comment will appear after it has been approved.<br><a href="javascript:void(0)" onclick="javascript:window.open('/help/story_commenting_faq/', 'terms', 'scrollbars=1,resizeable=0,,width=600,height=600')">Frequently asked questions</a> about story commenting.</div>
+  <div id="comment-form"><a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.journalstar.com/articles/2006/02/25/local/doc43ffabe9a288e028043828.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label> <input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-email-block"><label for="personemail" class="simpleblog-form-label">Email:</label> <span class="simpleblog-email-field">(optional)</span> <input type="text" id="personemail" name="personemail" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: </label><img id="simpleblog-captcha" width="125" height="50" src="http://www.journalstar.com/shared-content/newsys/common/generatecaptcha.php"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/><input type="SUBMIT" value="Post Comment"/></div></form></div></div>
+</div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right" style="width: 561px;"></div>
+
+
+<div class="tools">
+  <div class="tool-items">
+    <span id="sbct-hide" style="float: left;"><img src="http://www.journalstar.com/resources/images/delete.gif" alt="Hide Comments">&nbsp;<a href="javascript:void(0)" onclick="javascript:toggleComments()" title="Hide Comments">Hide Comments</a>&nbsp;&nbsp;</span>
+    <span id="sbct-show" style="float: left; display: none;"><img src="http://www.journalstar.com/resources/images/add.gif" alt="Show Comments">&nbsp;<a href="javascript:void(0)" onclick="javascript:toggleComments()" title="Show Comments">Show Comments</a>&nbsp;&nbsp;</span>
+    <span id="sbct-desc" style="float: right;"><img src="http://www.journalstar.com/resources/images/arrow_down.gif" alt="Newest First">&nbsp;<a href="javascript:void(0)" onclick="javascript:orderById('desc');" title="Newest First">Newest First</a>&nbsp;&nbsp;</span>
+    <span id="sbct-asc" style="float: right; display: none;"><img src="http://www.journalstar.com/resources/images/arrow_up.gif" alt="Oldest First">&nbsp;<a href="javascript:void(0)" onclick="javascript:orderById('asc');" title="Oldest First">Oldest First</a>&nbsp;&nbsp;</span>
+  </div>
+</div>
+
+<div class="modLg" style="background: none;">
+  <div id="comment-results"><a id="blogcomments"></a><div class="simpleblog-results"><a id="69b9f7b8fb61d642c9de4d7c3e4bd0f1"></a><span class="comment-sort"><span class="simpleblog-name">Yasmin Helen McEwen</span> wrote on <span class="simpleblog-date">February 25, 2006 11:49 am:</span><div class="simpleblog-response">&quot; Its about time. 
+Sadly, in Lincoln, what I sometimes see people doing is smiling
+big on the outside and keeping their feelings about diversity
+tightly bound on the inside. And if a minority does try to say,
+"You know, that comment has racist connotations." Well, then,
+you are just being difficult and trying to cause problems.
+I don't know if or when apathy and ignorance about different races
+and cultures will ever dissapate; this is why people like Jose Soto
+are so valuable here in Lincoln. Who else is there to raise the bar?  &quot;</div><br/></span>
+<a id="64d805ebaa5366ea65b445457ce72d39"></a><span class="comment-sort"><span class="simpleblog-name">me</span> wrote on <span class="simpleblog-date">May 31, 2007 7:55 pm:</span><div class="simpleblog-response">&quot; I am married to a black man,and he treats me like a queen, We've been married for 17 years and have 4 kids and being a byracial faimly, I see there are still problems out there but you need to live your life out there that old saying you cant teach a old dog new tricks but the young ones a life with joy. You cant judge no one GOD dose the judging, you just have to help the wrong ones to get on the path of rightcheseness. God bless. &quot;</div><br/></span>
+<a id="35cb1348b8ea228c89f6832bb9114a92"></a><span class="comment-sort"><span class="simpleblog-name">BLACK-WHITE</span> wrote on <span class="simpleblog-date">May 31, 2007 8:07 pm:</span><div class="simpleblog-response">&quot; people are still on that kick about black and white race, they need to think about the people trying to take your freedom and peace away and think of the black and white and all races that are out there protecting you. thank you.  &quot;</div><br/></span>
+</div></div>
+</div>
+
+</div>
+</div>
+</div>
+  <div class="middlecol">
+
+ <div id="most-box">
+<div class="box-top-right" style="width: 347px;"><div class="box-links"><div class="sublabel" style="border-top: 0; float: left;"><h1><a href="javascript:void(0);" onclick="section_switch('recent-updates', 'most-box');" id="recent-updates-link" style="font-size: 12px;">Recent Updates</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('most-commented', 'most-box');" id="most-commented-link" style="font-size: 12px;">Most Commented</a></h1><h1 class="last-link"><a href="javascript:void(0);" onclick="section_switch('most-read', 'most-box');" id="most-read-link" style="font-size: 12px;">Most Read</a></h1></div></div></div>
+<div class="box-left">
+<div class="box-right">
+ <div class="recent-updates" style="display: none;">
+   <div id="newswatch"><ul style="line-height: 12px;"><li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc480cf0f7045a3518158996.txt">Woman ticketed for 'Single?' signs</a><br/><span class="datestamp">4-21-2008 3:09 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc480cefdcbf5ae714931917.txt">Sheriff: Ariz. men had 75 lbs. of pot</a><br/><span class="datestamp">4-21-2008 3:07 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc480cc57529a22484724639.txt">Lincoln woman accused in sex assault</a><br/><span class="datestamp">4-21-2008 12:17 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc480cc2ede83a4171415597.txt">Tuition hikes for state colleges</a><br/><span class="datestamp">4-21-2008 11:39 AM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc480cb3e022c4c628725922.txt">Report shows UNL's "green" efforts</a><br/><span class="datestamp">4-21-2008 10:43 AM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc480cab3157176789389345.txt">Lincolnites rank safety high in survey</a><br/><span class="datestamp">4-21-2008 10:00 AM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/huskerextra/baseball/doc480ca637df1e8365862899.txt">Report: Yanks boss wants Joba to start</a><br/><span class="datestamp">4-21-2008 8:19 AM</span></li>
+</ul></div> </div>
+ <div class="most-read">
+ <h3>Most Read Local</h3>
+   <ul>	<li><a href="http://www.journalstar.com/articles/2006/06/26/local/doc449f27d508fba130479934.txt">Family, friends remember Wesleyan grad&#8217;s generous spirit</a></li>
+	<li><a href="http://www.journalstar.com/articles/2006/01/08/local/doc43c05269b0b78133439597.txt">Art outsider&#8217;s legacy comes back to Nebraska</a></li>
+	<li><a href="http://www.journalstar.com/articles/2003/04/10/local/obituaries/obituaries01.txt">Obituaries</a></li>
+	<li><a href="http://www.journalstar.com/articles/2005/11/03/local/doc43694061bc162679084909.txt">Cindy Lange-Kubick: I (heart) women, with or without boobs</a></li>
+	<li><a href="http://www.journalstar.com/articles/2006/03/28/local/doc4428273bb13e8660977749.txt">Target vs. Wal-Mart: A shopper's story</a></li>
+</ul>
+ </div>
+  <div class="most-commented" style="display: none;">
+    <h3>Most Commented local</h3>
+   <ul class="topblogs-list"><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2008/04/20/news/local/doc480ac270c3c93762365431.txt">Affirmative action debate growing</a> <span class="topblogs-count">(62)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2008/04/21/news/local/doc480bf791b3128864742286.txt">Council to debate ethics and contracts</a> <span class="topblogs-count">(11)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2008/04/20/news/local/doc480abeab84759371425731.txt">Affirmative action: What you need to know</a> <span class="topblogs-count">(10)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2008/04/21/news/local/doc480cab3157176789389345.txt">Budget survey: Lincolnites rank safety, economic opportunity high</a> <span class="topblogs-count">(9)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2008/04/21/news/local/doc480cb3e022c4c628725922.txt">New report shows UNL's 'green' efforts</a> <span class="topblogs-count">(7)</span></li></ul> </div>
+ </div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right"></div>
+</div>
+
+<div class="story-ad"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1149224400) && (nAdsysTime <= 1464929999)) {
+aAd = new Array('+in_story', '49314-1197572734', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.journalstar.com%2Fliving%2Fgz';
+aAd[5][1] = 'http%3A%2F%2Fwww.journalstar.com%2Fliving%2Fgz%2Fmovies%2F';
+aAd[5][2] = 'http%3A%2F%2Fwww.journalstar.com%2Fliving%2Fgz%2Fmusic%2F';
+aAd[5][3] = 'http%3A%2F%2Fwww.journalstar.com%2Fmedia%2Fpodcast%2F';
+aAd[5][4] = 'http%3A%2F%2Fwww.journalstar.com%2Fblogs';
+aAd[5][5] = 'http%3A%2F%2Fwww.journalstar.com%2Fliving%2Fgz%2Fdining%2F';
+aAd[6] = '%2Bin_story';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1166508000) && (nAdsysTime <= 1482213599)) {
+aAd = new Array('+in_story', '66866-1166553092', 'png');
+aAd[3] = 'http://www.journalstar.com/business_achievements/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 5;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1169100000) && (nAdsysTime <= 1484805599)) {
+aAd = new Array('+in_story', '69259-1190131063', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.goodsearch.com%2F';
+aAd[6] = '%2Bin_story';
+aAd[7] = 5;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1169445600) && (nAdsysTime <= 1453528799)) {
+aAd = new Array('+in_story', '69498-1175716731', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'https%3A%2F%2Fsecure.townnews.com%2Fjournalstar.com%2Fsecure%2Fservices_forms%2Fcirculation%2Fsubscription_promotion%2Fpromo.php%3Foffer%3D1%3Bsw1%3Badnamegoeshere';
+aAd[6] = '%2Bin_story';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1169618400) && (nAdsysTime <= 1500958799)) {
+aAd = new Array('+in_story', '69672-1186769640', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.journalstar.com%2Fresources%2Fpromos%2Fhotjobs.html';
+aAd[6] = '%2Bin_story';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1177650000) && (nAdsysTime <= 1493355599)) {
+aAd = new Array('+in_story', '80866-1177706785', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.journalstar.com%2Fservices%2Fjumpstart%2F';
+aAd[5][1] = 'http%3A%2F%2Fwww.journalstar.com%2Fservices%2Fjumpstart%2F';
+aAd[6] = '%2Bin_story';
+aAd[7] = 5;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1179205200) && (nAdsysTime <= 1506833999)) {
+aAd = new Array('+in_story', '82966-1179244982', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fjournalstar.com%2Fclassifieds%2Fgarage_sales%2F';
+aAd[6] = '%2Bin_story';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1179291600) && (nAdsysTime <= 1494997199)) {
+aAd = new Array('+in_story', '83190-1179336786', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.journalstar.com%2Fclassifieds%2Foutdoor_wheels%2F';
+aAd[6] = '%2Bin_story';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1188882000) && (nAdsysTime <= 1504587599)) {
+aAd = new Array('+in_story', '95419-1201208574', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'https%3A%2F%2Fsecure.townnews.com%2Fjournalstar.com%2Fsecure%2Fservices_forms%2Fcirculation%2Frecycle%2F';
+aAd[6] = '%2Bin_story';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1190005200) && (nAdsysTime <= 1505710799)) {
+aAd = new Array('+in_story', '96892-1190042296', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.journalstar.com%2Fclassifieds%2Flincoln%2Fne%2Fhomes_real_estate%2F';
+aAd[6] = '%2Bin_story';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1190696400) && (nAdsysTime <= 1506401999)) {
+aAd = new Array('+in_story', '98122-1190756422', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fjournalstar.com%2Fadvertise%2Fmap_site%2F';
+aAd[5][1] = 'http%3A%2F%2Fjournalstar.com%2Fadvertise%2Fmap_site%2F';
+aAd[5][2] = 'http%3A%2F%2Fjournalstar.com%2Fadvertise%2Fmap_site%2F';
+aAd[5][3] = 'http%3A%2F%2Fjournalstar.com%2Fadvertise%2Fmap_site%2F';
+aAd[6] = '%2Bin_story';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1201586400) && (nAdsysTime <= 1517291999)) {
+aAd = new Array('+in_story', '112816-1201628695', 'gif');
+aAd[3] = 'http://www.402411.com/jumpstart/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1203919200) && (nAdsysTime <= 1519624799)) {
+aAd = new Array('+in_story', '116241-1203984706', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = '';
+aAd[6] = '%2Bin_story';
+aAd[7] = 5;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1208494800) && (nAdsysTime <= 1524113999)) {
+aAd = new Array('+in_story', '124616-1208538483', 'jpg');
+aAd[3] = 'http://www.journalstar.com/classifieds/lincoln/ne/homes_real_estate/open_house/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+<!-- no subnav for local -->
+
+
+<div style="width: 100%; text-align: center; margin: 5px 0 5px 0;"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1164952800) && (nAdsysTime <= 1480658399)) {
+aAd = new Array('+right_tower', '65313-1165012445', 'gif');
+aAd[3] = 'http://customcoupon.com/cgi-bin/localentry.cgi?config=LEELINCOLN';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 5;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1166508000) && (nAdsysTime <= 1482213599)) {
+aAd = new Array('+right_tower', '66871-1166553368', 'png');
+aAd[3] = 'http://www.journalstar.com/business_achievements/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 5;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1169445600) && (nAdsysTime <= 1453528799)) {
+aAd = new Array('+right_tower', '69495-1175716824', 'swf');
+aAd[3] = '160';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'https%3A%2F%2Fsecure.townnews.com%2Fjournalstar.com%2Fsecure%2Fservices_forms%2Fcirculation%2Fsubscription_promotion%2Fpromo.php%3Foffer%3D1%3Bsw1%3Badnamegoeshere';
+aAd[6] = '%2Bright_tower';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1169618400) && (nAdsysTime <= 1500958799)) {
+aAd = new Array('+right_tower', '69670-1186769600', 'swf');
+aAd[3] = '160';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.journalstar.com%2Fresources%2Fpromos%2Fhotjobs.html';
+aAd[6] = '%2Bright_tower';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1177650000) && (nAdsysTime <= 1493355599)) {
+aAd = new Array('+right_tower', '80865-1177706702', 'swf');
+aAd[3] = '160';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.journalstar.com%2Fservices%2Fjumpstart%2F';
+aAd[5][1] = 'http%3A%2F%2Fwww.journalstar.com%2Fservices%2Fjumpstart%2F';
+aAd[6] = '%2Bright_tower';
+aAd[7] = 5;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1179291600) && (nAdsysTime <= 1494997199)) {
+aAd = new Array('+right_tower', '83194-1179337033', 'swf');
+aAd[3] = '160';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.journalstar.com%2Fclassifieds%2Foutdoor_wheels%2F';
+aAd[6] = '%2Bright_tower';
+aAd[7] = 5;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1185253200) && (nAdsysTime <= 1500958799)) {
+aAd = new Array('+right_tower', '90778-1185307340', 'swf');
+aAd[3] = '160';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fjournalstar.mycapture.com%2Fmycapture%2Findex.asp';
+aAd[6] = '%2Bright_tower';
+aAd[7] = 5;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1188882000) && (nAdsysTime <= 1504587599)) {
+aAd = new Array('+right_tower', '95418-1201208530', 'jpg');
+aAd[3] = 'https://secure.townnews.com/journalstar.com/secure/services_forms/circulation/recycle/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1190005200) && (nAdsysTime <= 1505710799)) {
+aAd = new Array('+right_tower', '96895-1190042794', 'swf');
+aAd[3] = '160';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.journalstar.com%2Fclassifieds%2Flincoln%2Fne%2Fhomes_real_estate%2F';
+aAd[6] = '%2Bright_tower';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1201586400) && (nAdsysTime <= 1517291999)) {
+aAd = new Array('+right_tower', '112817-1201628945', 'gif');
+aAd[3] = 'http://www.402411.com/jumpstart/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1205730000) && (nAdsysTime <= 1521349199)) {
+aAd = new Array('+right_tower', '119228-1205768260', 'swf');
+aAd[3] = '160';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.journalstar.com%2Fadvertise%2Freach_audience.php';
+aAd[6] = '%2Bright_tower';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1208494800) && (nAdsysTime <= 1524113999)) {
+aAd = new Array('+right_tower', '124627-1208540660', 'swf');
+aAd[3] = '160';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.journalstar.com%2Fclassifieds%2Flincoln%2Fne%2Fhomes_real_estate%2Fopen_house%2F';
+aAd[6] = '%2Bright_tower';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+
+<div style="margin: 5px 0 5px 0; clear: both; float: left;">
+
+<script language="JavaScript">
+<!--
+      var oc = new ObjectControl();
+		oc.set_object_attribute('classid','clsid:d27cdb6e-ae6d-11cf-96b8-444553540000');
+		oc.set_object_attribute('codebase','http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0');
+		oc.set_object_attribute('width','345');
+		oc.set_object_attribute('height','177');
+		oc.set_object_attribute('id','carousel');
+      oc.set_object_param('wmode','transparent');  
+      oc.set_embed_attribute('wmode','transparent');
+		oc.set_object_param('allowScriptAccess','sameDomain');
+      oc.set_object_param('movie','/resources/flash/carousel/flipper.swf');
+      oc.set_object_param('quality','best');
+//oc.set_object_param('FlashVars','');
+      oc.set_embed_attribute('src','/resources/flash/carousel/flipper.swf');
+      oc.set_embed_attribute('quality','best');
+		oc.set_embed_attribute('width','345');
+		oc.set_embed_attribute('height','177');
+		oc.set_embed_attribute('name','carousel-embed');
+		oc.set_embed_attribute('id', 'carousel-embed');
+		oc.set_embed_attribute('allowScriptAccess','sameDomain');
+//oc.set_embed_attribute('FlashVars','');
+		oc.set_embed_attribute('type','application/x-shockwave-flash');
+		oc.set_embed_attribute('pluginspage','http://www.macromedia.com/go/getflashplayer');
+
+		oc.write_object();
+      -->
+</script>
+</div>
+
+<div id="topads-box">
+<div class="box-top-right"> <div class="box-links"><div class="sublabel" style="border-top: 0;"><h1><a href="javascript:void(0);" onclick="section_switch('jobs', 'topads-box');" id="jobs-link">Jobs</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('homes', 'topads-box');" id="homes-link" class="sub-link">Homes</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('rentals', 'topads-box');" id="rentals-link" class="sub-link">Rentals</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('wheels', 'topads-box');" id="wheels-link" class="sub-link">Wheels</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('pets', 'topads-box');" id="pets-link" class="sub-link">Pets</a></h1><h1 class="last-link"><a href="javascript:void(0);" onclick="section_switch('stuff', 'topads-box');" id="stuff-link" class="sub-link">Stuff</a></h1></div></div></div>
+<div class="box-left">
+<div class="box-right">
+  <div class="jobs">
+      <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/topjobs/static.js"></script>
+  </div>
+  <div class="homes" style="display: none;">
+      <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/tophomes/static.js"></script>
+  </div>
+   <div class="rentals" style="display: none;">
+      <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/toprentals/static.js"></script>
+  </div>
+  <div class="wheels" style="display: none;">
+       <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/tophorizontal/static.js"></script>
+  </div>
+  <div class="pets" style="display: none;">
+    <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/top_pets/static.js"></script>
+  </div>
+  <div class="stuff" style="display: none;">
+    <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/topstuff/static.js"></script>
+  </div>
+    <div class="morelink">More Top <a href="http://www.journalstar.com/topads/jobs/more/">Jobs</a> | <a href="http://www.journalstar.com/topads/homes/more/">Homes</a> | <a href="http://www.journalstar.com/topads/rentals/more/">Rentals</a> | <a href="http://www.journalstar.com/topads/wheels/more/">Wheels</a> | <a href="http://www.journalstar.com/topads/pets/more/">Pets</a> | <a href="http://www.journalstar.com/topads/stuff/more/">Stuff</a></div>
+  </div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right"></div>
+</div>
+
+
+
+</div>
+  </div>
+
+</div>
+<div id="footer">
+  <div class="content">
+    <div class="message">
+      Copyright &copy; 2002-2008, Lincoln Journal Star. All rights reserved.&nbsp;|&nbsp;
+      <a href="javascript:void(0)" onclick="javascript:window.open('http://journalstar.com/help/privacy_policy/', 'privacy', 'width=600,height=600,scrollbars=1,resizeable=0')" title="Privacy Policy">Privacy Policy</a>&nbsp;|&nbsp;
+      <a href="http://journalstar.com/services/contact/" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;
+      <a href="http://journalstar.com/help/sitemap/" title="Site Map">Site Map</a>
+    </div>
+      <div class="search" style="text-align: right; width: 410px;"><a href="http://us.rd.yahoo.com/my/atm/Lincoln%20Journal%20Star/JournalStar.com%20News/*http://add.my.yahoo.com/rss?url=http%3A//journalstar.com/rss/%3Fcat%3Dlocal" target="_blank"><img src="http://www.journalstar.com/resources/images/icons/yahoo_icon_story.gif" alt="Add to My Yahoo!"></a>
+<a href="http://journalstar.com/rss/?cat=local" style="margin-left: 10px;"><img src="http://www.journalstar.com/resources/images/icons/rss-footer.gif"></a>
+</div></div>
+  </div>
+</div>
+
+<div style="position: absolute; top: 0; left: 0; ">
+  <!-- journalstar omniture extension v1.0.0 -->
+<!-- SiteCatalyst code version: H.7. Copyright 1997-2006 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="http://journalstar.com/resources/omniture/s_code.js"></script>
+<script language="JavaScript"><!--
+/* Omniture Params to record. */
+s.server='Lincoln Journal Star';
+s.channel='journalstar.com';
+s.pageName='Archived Article: local: Soto: Racism, though polite, still exists';
+s.prop6='Lincoln Journal Star';
+s.prop7='Soto: Racism, though polite, still exists';
+s.prop8='BY JoANNE YOUNG / Lincoln Journal Star';
+s.prop15='Monday';
+s.heir1='Lee Enterprises,Lincoln Journal Star,journalstar.com,,,,,';
+s.heir2='Lee Enterprises,,Lincoln Journal Star,journalstar.com,,,,';
+
+var d = new Date();
+s.prop14 = d.getHours() + ':00';
+
+var rss = parseInt(s.getQueryParam('orss'));
+switch(rss) {
+case 1:
+  s.prop21 = 'RSS Article: ' + s.prop7;
+  break;
+case 2:
+  s.prop21 = 'RSS Gallery Photo: ' + s.prop16 + ', ' + s.prop17;
+  break;
+}
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->
+
+</div>
+
+</body>
+</html>
+
+
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 22:14:30 Apr 21, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:13:04 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 471.849 (3)
+  esindex: 0.016
+  captures_list: 507.444
+  CDXLines.iter: 21.419 (3)
+  PetaboxLoader3.datanode: 97.349 (4)
+  exclusion.robots: 0.266
+  exclusion.robots.policy: 0.247
+  RedisCDXSource: 9.316
+  PetaboxLoader3.resolve: 245.415 (2)
+  load_resource: 290.915
+-->

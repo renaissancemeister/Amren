@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Article 404 - Herald Democrat - Sherman, TX</title>
+</head>
+<!--================================================
+==================END: HEADER====================-->
+
+	<body>
+		<div id="fb-root"></div>
+	
+		<a href="#" id="backToTop"><i class="fa fa-chevron-up"></i></a>
+
+		<div id="wrapper-main">
+			
+					<header id="header-main" class="header header-expanded no-gutter static clearfix">
+			<div id="toprail">
+	<div class="inner clearfix">
+		<a id="button-nav-toggle" title="Navigation menu">
+			<i class="fa fa-2x fa-bars"></i>
+		</a>
+			<ul id="toprail-nav-left" class="list-inline"><li><a href="http://www.heralddemocrat.com/news" target="_top">News</a></li><li><a href="http://www.heralddemocrat.com/sports" target="_top">Sports</a></li><li><a href="http://www.heralddemocrat.com/entertainment" target="_top">Entertainment</a></li><li><a href="http://www.heralddemocrat.com/lifestyle" target="_top">Lifestyle</a></li><li><a href="http://shermanheralddemocrat.tx.newsmemory.com/" target="_top">E-edition</a></li><li><a href="http://www.heralddemocrat.com/opinion" target="_top">Opinion</a></li><li><a href="http://www.legacy.com/obituaries/heralddemocrat/" target="_blank">Obits</a></li><li><a href="http://classifieds.heralddemocrat.com/" target="_top">Classifieds</a></li><li><a href="http://www.heralddemocrat.com/cars" target="_top">Cars</a></li><li><a href="http://homes.heralddemocrat.com/" target="_blank">Homes</a></li><li><a href="http://www.heralddemocrat.com/jobs" target="_top">Jobs</a></li></ul>
+		<ul id="toprail-nav-right" class="list-inline">
+			<li class="hidden-sm hidden-xs">
+				<ul class="social list-inline">
+					<li>
+						<a href="http://www.facebook.com/HDTexoma" target="_blank" title="Herald Democrat Facebook" class="fa-stack fa-md icon-facebook">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-facebook"></i>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.twitter.com/heralddemocrat" target="_blank" title="Herald Democrat Twitter" class="fa-stack fa-md icon-twitter">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-twitter"></i>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.heralddemocrat.com/section/feed" title="Herald Democrat RSS Feed" class="fa-stack fa-md icon-rss">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-rss"></i>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.heralddemocrat.com/contact" title="Contact Herald Democrat" class="fa-stack fa-md icon-muted">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-envelope"></i>
+						</a>
+					</li>
+				</ul>
+			</li>
+			<li id="toprail-login" class="divider">
+				<a onclick="$.pressplus.f.pop('login');" href="javascript:void(0);">
+					<i class="fa fa-fw fa-lg fa-user"></i>
+					<span class="hidden-sm hidden-xs">log in</span>
+				</a>
+			</li>
+			<li id="toprail-search" class="divider">
+											<div id="toprail-search-form">
+								<form class="search-bar" role="search" name="siteSearchForm" method="get" action="http://www.heralddemocrat.com/search">
+							        <input class="search-input" name="searchText" placeholder="Search this site" type="search">
+							        <button type="submit" class="fa fa-fw fa-lg fa-search"></button>
+							    </form>
+							</div>
+							<i class="fa fa-fw fa-lg fa-search"></i>
+			</li>
+			<li id="toprail-weather" class="hidden-xs" data-gh-fetch-html-loaded="false" data-gh-fetch-html-url="http://www.heralddemocrat.com/section/?template=ajaxWeather" data-gh-fetch-html-dom="#toprail-weather">
+			</li>
+		</ul>
+	</div>
+</div>
+						<div id="header-main-nameplate">
+				<div id="header-main-left">
+					<div id="header-main-logo">
+						<a href="http://www.heralddemocrat.com/">
+							<img class="mainheadnameplate" src="http://www.heralddemocrat.com/Global/images/head/nameplate/heralddemocrat_logo.png" alt="Herald Democrat"/>
+						</a>
+					</div>
+				</div>
+				<div id="header-main-right" class="hidden-xs">
+					<div id="header-main-promo" data-gh-fetch-html-loaded="false" data-gh-fetch-html-url="http://www.heralddemocrat.com/section/?template=ajaxPromoWiz7" data-gh-fetch-html-dom="#header-main-promo"></div>
+				</div>
+			</div>
+		</header>
+
+
+<!--==================================================
+==========================START: CONTENT===========-->
+			<div id="content" class="clearfix">
+				
+<div id="apoc-breaking-wrapper" data-gh-fetch-html-loaded="false" data-gh-fetch-html-url="http://www.heralddemocrat.com/section?template=breaking_ajax2" data-gh-fetch-html-dom="#apoc-breaking-wrapper"></div>
+				<div class="ad ad-billboard text-center" id="baseLeaderboard" data-size-mapping="baseLeaderboard"></div>
+				<div id="wrapper" class="clearfix">
+					<div id="buckets">
+	Article 404
+</div>
+
+				</div><!-- /wrapper -->
+			</div><!-- /content -->
+
+			<div id="push-main" class="clearfix"></div>
+		</div><!-- /wrapper-main -->
+<!--==================================================
+====================END: CONTENT===================-->
+				<footer id="footer-main" class="clearfix">
+				<div class="inner container">
+					<div id="footer-main-newsletter">
+						<h1 class="heading">About Us</h1>
+						<span class="fa-stack fa-2x">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-envelope"></i>
+						</span>
+						<h2>Sign up</h2>
+						<h3>for daily e-mail</h3>
+						<a href="http://enews.heralddemocrat.com/xs/register">
+							<button type="button" class="btn btn-default">
+								Subscribe
+							</button>
+						</a>
+					</div>
+					<div id="footer-main-info">
+							<div class="footer-col"><h4>Connect</h4><ul><li><a href="http://www.heralddemocrat.com/about" target="_top">About us</a></li><li><a href="http://www.heralddemocrat.com/contact" target="_top">Contacts</a></li><li><a href="http://www.heralddemocrat.com/faq" target="_top">FAQ</a></li><li><a href="http://www.heralddemocrat.com/celebration-submissions" target="_top">Submit Engagement / Wedding</a></li></ul></div><div class="footer-col"><h4>Services</h4><ul><li><a href="https://ghstephensmedia.circulationpro.com/scripts/WebObjects.exe/StephensMediaShermanTXSubWebTools" target="_top">Subscribe</a></li><li><a href="https://ghstephensmedia.circulationpro.com/scripts/WebObjects.exe/StephensMediaShermanTXSubWebTools" target="_top">Manage subscription</a></li><li><a href="http://www.heralddemocrat.com/all-digital-access" target="_top">All-Digital Access</a></li><li><a href="http://shermanheralddemocrat.tx.newsmemory.com/" target="_top">E-edition</a></li><li><a href="http://www.heralddemocrat.com/nie" target="_top">NIE</a></li><li><a href="http://heralddemocrat.stephensmedia.xtenit.com/xs/register" target="_top">eNewsletter Sign Up</a></li></ul></div><div class="footer-col"><h4>Solutions</h4><ul><li><a href="http://www.heralddemocrat.com/advertise" target="_top">Advertise with us</a></li><li><a href="http://www.mypublicnotices.com/PublicNotice.asp?Page=SearchResults&amp;Newspaper=2344" target="_top">Legal Notices</a></li><li><a href="http://www.heralddemocrat.com/all-digital-access" target="_top">Online rates</a></li></ul></div><div class="footer-col"><h4>Affiliates</h4><ul><li><a href="http://carstexoma.com/" target="_top">CarsTexoma.com</a></li><li><a href="http://www.vanalstyneleader.com/" target="_top">Van Alstyne Leader</a></li><li><a href="http://www.amtrib.com/" target="_top">Anna Melissa Tribune</a></li><li><a href="http://www.prosperpressnews.com/" target="_top">Prosper Press</a></li><li><a href="http://www.txheadlines.com/" target="_top">Texas Newspapers</a></li></ul></div>
+						<div id="footer-main-verticals">
+							<ul class="list-inline">
+															<script type="text/javascript">
+						    	var verticalContent = verticals_data['p'+4021+''];
+								for(var key in verticalContent)
+								{
+									if(verticalContent.hasOwnProperty(key))
+									{
+										var vc_title 	= verticalContent[key].title;
+										var vc_url		= verticalContent[key].url;
+										var vc_html		= '<li><a target="_blank" href="'+vc_url+'">'+vc_title+'</a></li>';
+										var vc_job		= '<li><a target="_blank" href="http://www.heralddemocrat.com/jobs">Jobs</a></li>';
+										if(vc_title != '' && vc_title != 'NA' && vc_url != '' && vc_url != 'NA')
+										{	
+											if(vc_title == 'Classifieds' || vc_title == 'Cars')
+											{
+												$('#footer-main-verticals ul').append(vc_html);
+											}
+										}
+										if(vc_title == 'Jobs' && vc_url == 'NA')
+										{
+											$('#footer-main-verticals ul').append(vc_job);
+										}
+									}
+								}
+							</script>
+								<li><a target="_blank" href="http://propelmarketing.com/">Propel Marketing</a></li>
+							</ul>
+						</div>
+						<div id="footer-main-copyright">
+														<p id="footer-copyrightInfo">&copy; Copyright 2006-2016 <a href="http://www.gatehousemedia.com/about-us/" target="_blank">GateHouse Media, LLC.</a> Some rights reserved&nbsp;&nbsp;&bull;&nbsp;&nbsp;GateHouse 2007</p>
+							<p>Original content available for non-commercial use under a Creative Commons license, except where noted.
+							<br/>Herald Democrat  ~ 603 S. Sam Rayburn Fwy., Sherman, TX 75090 ~ <a href="http://www.gatehousemedia.com/privacy-policy/" target="_blank">Privacy Policy</a> ~ <a href="http://www.gatehousemedia.com/terms_of_use/" target="_blank">Terms Of Service</a>
+						</div>
+					</div><!-- /footer-main-info -->
+				</div><!-- /inner -->
+		</footer><!-- /footer -->
+				<nav id="drawer" role="navigation">
+			<a id="drawer-close" href="#">Close</a>
+			<div id="wrapper-drawer">
+					<ul class="nav" data-gh-accordion-loaded="false" data-gh-accordion-panel-dom="#drawer-nav-sections .subnav" data-gh-accordion-toggle-dom="#drawer-nav-sections > li > a" id="drawer-nav-sections"><li><a href="http://www.heralddemocrat.com/" target="_top">Home</a></li><li><a href="http://www.heralddemocrat.com/news"><span class="nav-category">News</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-" 34347"><a href="http://www.heralddemocrat.com/news/crime" target="_top">Crime</a></li><li id="navLink-TEST-" 34348"><a href="http://www.heralddemocrat.com/news/education" target="_top">Education</a></li><li id="navLink-TEST-" 38724"><a href="http://www.heralddemocrat.com/news/shareable" target="_top">Shareable</a></li><li id="navLink-TEST-" 36971"><a href="http://www.heralddemocrat.com/news/databases" target="_top">Databases</a></li><li id="navLink-TEST-" 39194"><a href="http://www.heralddemocrat.com/elections/briefing-2016/todays-topics" target="_top">Election 2016</a></li></ul></li><li><a href="http://www.heralddemocrat.com/sports"><span class="nav-category">Sports</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-" 34349"><a href="http://www.heralddemocrat.com/sports/high-school" target="_top">High School</a></li><li id="navLink-TEST-" 34350"><a href="http://www.heralddemocrat.com/sports/college" target="_top">College</a></li><li id="navLink-TEST-" 38191"><a href="http://www.heralddemocrat.com/sports/motor-racing-network" target="_top">Auto Racing</a></li></ul></li><li><a href="http://www.heralddemocrat.com/entertainment"><span class="nav-category">Entertainment</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-" 34351"><a href="http://www.heralddemocrat.com/entertainment/arts" target="_top">Arts</a></li><li id="navLink-TEST-" 34352"><a href="http://www.heralddemocrat.com/entertainment/food" target="_top">Food</a></li><li id="navLink-TEST-" 34353"><a href="http://www.heralddemocrat.com/entertainment/music" target="_top">Music</a></li><li id="navLink-TEST-" 38433"><a href="http://heralddemocrat.eviesays.com/" target="_top">Calendar</a></li></ul></li><li><a href="http://www.heralddemocrat.com/lifestyle"><span class="nav-category">Lifestyle</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-" 34355"><a href="http://www.heralddemocrat.com/lifestyle/home-garden" target="_top">Home &amp; Garden</a></li><li id="navLink-TEST-" 34356"><a href="http://www.heralddemocrat.com/lifestyle/faith" target="_top">Faith</a></li><li id="navLink-TEST-" 34357"><a href="http://www.heralddemocrat.com/lifestyle/travel" target="_top">Travel</a></li><li id="navLink-TEST-" 34358"><a href="http://www.heralddemocrat.com/lifestyle/columns" target="_top">Columns</a></li><li id="navLink-TEST-" 34359"><a href="http://www.heralddemocrat.com/lifestyle/celebrations" target="_top">Celebrations</a></li></ul></li><li><a href="http://www.heralddemocrat.com/opinion"><span class="nav-category">Opinion</span><span class="caret"></span></a><ul class="subnav"><li id="navLink-TEST-" 34361"><a href="http://www.heralddemocrat.com/opinion/editorials" target="_top">Editorials</a></li><li id="navLink-TEST-" 34362"><a href="http://www.heralddemocrat.com/opinion/letters" target="_top">Letters</a></li><li id="navLink-TEST-" 34363"><a href="http://www.heralddemocrat.com/opinion/columns" target="_top">Columns</a></li></ul></li><li><a href="http://www.heralddemocrat.com/business-news" target="_top">Business</a></li><li><a href="http://www.marketplaceadsonline.com/marketplace/txshe?_ga=1.190853033.260294086.1472827246" target="_blank">Classifieds</a></li><li><a href="http://www.legacy.com/obituaries/heralddemocrat/" target="_blank">Obits</a></li></ul>
+	<ul class="drawer-nav-secondary nav"><header>More</header><li><a href="http://www.heralddemocrat.com/photos" target="_top">Photos</a></li><li><a href="http://www.heralddemocrat.com/videos" target="_top">Videos</a></li><li><a href="http://www.heralddemocrat.com/contests" target="_top">Contests</a></li><li><a href="http://www.heralddemocrat.com/ara" target="_top">Branded Content</a></li><li><a href="http://www.heralddemocrat.com/section?template=submit&amp;subtype=news" target="_top">Submit Your News</a></li><li><a href="http://www.heralddemocrat.com/special" target="_top">Special Sections</a></li><li><a href="http://www.heralddemocrat.com/heroes" target="_top">Heroes</a></li><li><a href="https://drive.google.com/file/d/0B_fH2FUJfjRORHNFNFFuUVdXM00/view" target="_blank">Parade of Homes</a></li></ul>
+	<ul class="drawer-nav-secondary nav"><header class="accented">Subscriber</header><li><a href="https://ghstephensmedia.circulationpro.com/scripts/WebObjects.exe/StephensMediaShermanTXSubWebTools" target="_top">Subscribe</a></li><li><a href="https://ghstephensmedia.circulationpro.com/scripts/WebObjects.exe/StephensMediaShermanTXSubWebTools" target="_top">Manage subscription</a></li><li><a href="http://shermanheralddemocrat.tx.newsmemory.com/" target="_blank">e-edition</a></li></ul>
+	<ul class="drawer-nav-secondary nav"><header>Market Place</header><li><a href="http://www.marketplaceadsonline.com/marketplace/txshe" target="_blank">Classifieds</a></li><li><a href="http://www.heralddemocrat.com/cars" target="_top">Cars</a></li><li><a href="http://www.heralddemocrat.com/jobs" target="_top">Jobs</a></li><li><a href="http://homes.heralddemocrat.com/" target="_blank">Homes</a></li><li><a href="http://local.heralddemocrat.com/" target="_blank">Local Directory</a></li><li><a href="http://www.heralddemocrat.com/shopper" target="_top">Shoppers</a></li><li><a href="http://www.propelmarketing.com/" target="_blank">Propel Marketing Services</a></li></ul>
+<footer id="footer-drawer">
+	<hr>
+	<ul class="drawer-nav-secondary nav">
+		<li>
+			<a href="mailto:hdonline@heralddemocrat.com">Feedback</a>
+		</li>
+		<li>
+			<a href="http://www.gatehousemedia.com/terms_of_use/">Terms of Use</a>
+		</li>
+		<li>
+			<a href="http://www.gatehousemedia.com/privacy-policy/">Privacy Policy</a>
+		</li>		
+		<li>
+			<a href="http://www.gatehousemedia.com/our-markets/">GateHouse Media Publications</a>
+		</li>
+	</ul>
+</footer>
+			</div>
+			<footer id="footer-drawer">
+				<div id="drawer-weather" class="visible-xs-block text-center" data-gh-fetch-html-loaded="false" data-gh-fetch-html-url="http://www.heralddemocrat.com/section/?template=ajaxWeather" data-gh-fetch-html-dom="#drawer-weather">
+				</div>
+				<ul class="social list-inline">
+					<li>
+						<a href="http://www.facebook.com/HDTexoma" " target="_blank" title="Herald Democrat Facebook" class="fa-stack fa-md icon-facebook">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-facebook"></i>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.twitter.com/heralddemocrat" " target="_blank" title="Herald Democrat Twitter" class="fa-stack fa-md icon-twitter">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-twitter"></i>
+						</a>
+					</li>
+					<li>
+						<a href="http://instagram.com/heralddemocrat" target="_blank" title="Herald Democrat Instagram" class="fa-stack fa-md icon-instagram">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-instagram"></i>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.pinterest.com/heraldnewspins" target="_blank" title="Herald Democrat Pintrest" class="fa-stack fa-md icon-pinterest">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-pinterest"></i>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.heralddemocrat.com/section/feed" target="_blank" title="Herald Democrat RSS Feed" class="fa-stack fa-md icon-rss">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-rss"></i>
+						</a>
+					</li>
+					<li>
+						<a href="http://www.heralddemocrat.com/contact" title="Contact Herald Democrat" class="fa-stack fa-md icon-muted">
+							<i class="fa fa-fw fa-stack-2x fa-circle"></i>
+							<i class="fa fa-fw fa-stack-1x fa-inverse fa-envelope"></i>
+						</a>
+					</li>
+				</ul>
+				<!-- <span id="drawer-copyrightInfo">&copy; 2015 __SITENAME__</span> -->
+			</footer>
+		</nav>
+		<div id="drawer-fade-screen"></div>
+
+				<script src="http://cdn.gatehousemedia.com/gh-sites/global/ads/ads.js"></script>
+		<script src="http://cdn.gatehousemedia.com/assets/1.5.236/ext.global.min.js"></script>
+		<script src="http://cdn.gatehousemedia.com/assets/1.5.236/int.global.min.js"></script>
+		<!--Parse.ly-->
+<div id="parsely-root" style="display: none;">
+  <div id="parsely-cfg" data-parsely-site="heralddemocrat.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+		<script src="http://cdn.gatehousemedia.com/assets/1.5.236/article.global.min.js"></script>
+		<script>
+		__gh__webApp.init();
+		__gh__webApp.articlePage.init();
+		</script>
+		<script async src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.5/js/bootstrap.min.js?201604-1"></script>
+
+	<script type="text/javascript">
+//<![CDATA[
+(function() {
+var _analytics_scr = document.createElement('script');
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
+var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
+})();
+// ]]>
+</script></body>
+</html>
+<!--
+     FILE ARCHIVED ON 12:19:25 Nov 15, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:30:24 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 65.06 (3)
+  esindex: 0.01
+  captures_list: 87.775
+  CDXLines.iter: 16.396 (3)
+  PetaboxLoader3.datanode: 31.982 (4)
+  exclusion.robots: 0.17
+  exclusion.robots.policy: 0.159
+  RedisCDXSource: 2.35
+  PetaboxLoader3.resolve: 38.099
+  load_resource: 79.008
+-->

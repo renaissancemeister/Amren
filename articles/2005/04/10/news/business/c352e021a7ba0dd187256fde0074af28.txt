@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Idaho officials weigh RICO lawsuit over illegal workers</title>
+</head>
+<body>
+
+<div class="fixed">
+
+<table><tr><td>
+<!--THIS IS THE HEADER OF THE PAGE-->
+<div class="header">
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+if ((nAdsysTime >= 1139292000) && (nAdsysTime <= 1454911199)) {
+aAd = new Array('news+business+tophalfbanner','39681', 'gif');
+aAd[3] = 'http://www.sutherlands.com/casper.htm';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+displayAd('http://adsys.townnews.com/', 'casperstartribune.net', aAds);
+</script>
+        
+</div>
+<div><div class="menu"><div class="cssnav"><img src="http://www.casperstartribune.net/art/corners.gif"></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/" title="Home"><span class="cssnav">&nbsp; Home &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/news" title="News"><span class="cssnav">&nbsp; News &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/sports" title="Sports"><span class="cssnav">&nbsp;  Sports &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/weather/hw3.php" title="Weather"><span class="cssnav">&nbsp;  Weather &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/admarket" title="Classifieds"><span class="cssnav">&nbsp; Classifieds &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.print2webcorp.com/news/casper/specialsections/" title="Publications"><span class="cssnav">&nbsp; Publications &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/circ" title="Subscribe!"><span class="cssnav"> &nbsp; Subscribe &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/online" title="Interactive"><span class="cssnav">&nbsp; Interactive &nbsp; </span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/features" title="Weekly Features"><span class="cssnav">&nbsp; Weekly Features &nbsp;</span> </a></div>
+<div><img src="http://www.casperstartribune.net/art/cornersrt.gif" class="corner"></div>
+</div>
+
+<div>
+<span class="submenubg" height="23px">
+<a href="http://www.casperstartribune.net/about_us.html" class="submenu">about us</a> |
+<a href="http://www.casperstartribune.net/contact/" class="submenu">contact us</a> |
+<a href="http://www.casperstartribune.net/CST/sendatip.html" class="submenu">send a tip!</a> |
+<a href="http://www.casperstartribune.net/news/rss/" class="submenu">RSS Feeds &nbsp; <img src="http://www.casperstartribune.net/art/xml.gif" border="0"></a>                                    
+</span></div></div>
+  
+  <!--this is the Left NAV menu-->
+<div class="siderbar"><div style="align: center;">
+<span class="smlinks">Increase Font Size</span></br>
+<a href="javascript:chooseStyle('none', 60)" checked="checked"><img src="http://www.casperstartribune.net/art/12pt.gif" border="0"></a>
+<a href="javascript:chooseStyle('medium', 60)"><img src="http://www.casperstartribune.net/art/15pt.gif" border="0"></a>
+<a href="javascript:chooseStyle('large', 60)"><img src="http://www.casperstartribune.net/art/20pt.gif" border="0"></a>
+</div>
+
+ <div class="boxtop">Latest News</div>
+  <div class="boxmid">
+
+	
+	<a href="http://www.casperstartribune.net/articles/2005/04/10/news/casper/8569d2fdc516df7b87256fde007d35bb.txt"><span class="menutext">Family, officials honor fallen Marine</span><br/></a><span class="timestamp">Sunday, April 10, 2005 2:00 AM MDT</span><br/><br/>	
+	<a href="http://www.casperstartribune.net/articles/2005/04/10/news/wyoming/453c7a0415a0f47687256fdf00155e8b.txt"><span class="menutext">Search for missing man ends in sadness</span><br/></a><span class="timestamp">Sunday, April 10, 2005 10:00 PM MDT</span><br/><br/>
+	<a href="http://www.casperstartribune.net/articles/2005/04/10/news/regional/6ebae15c6a35dbc687256fdd0076a226.txt"><span class="menutext">House endorses restrictions on teen drivers</span><br/></a><span class="timestamp">Friday, April 8, 2005 5:02 PM MDT</span><br/><br/>
+	<a href="http://www.casperstartribune.net/articles/2005/04/10/news/national/59319461f38fd73787256fde00838086.txt"><span class="menutext">Family of highway shootings victim hopes for a swift trial</span><br/></a><span class="timestamp">Sunday, April 10, 2005 2:00 AM MDT</span><br/><br/>
+<html>
+
+<br/></div>
+      
+<div class="boxtop"><p>Archive Search</p></div>
+<div class="boxmid">
+          <p>Archive Search <br/>
+<a href="http://www.casperstartribune.net/archives/"><img src="http://www.casperstartribune.net/art/archive.jpg" border="0" alt="Archive" align="middle"></a><br/>
+
+<div class="boxtop"><p>Site Search</p></div>
+<div class="boxmid">
+Search Entire Site 
+<form method="GET" action="http://www.google.com/custom">
+<table bgcolor="#FFFFFF" cellspacing="0" border="0">
+<tr valign="top"><td>
+<input type="text" name="q" size="10" maxlength="255" value=""></td></tr>
+<tr><td><input type="submit" name="sa" value="Search"></td></tr>
+<tr><td><input type="hidden" name="cof" value="GALT:black;S:http://www.casperstartribune.townnews.com;GL:0;VLC:#566a83;AH:center;BGC:white;LH:118;LC:#566a83;GFNT:#c5cf90;L:http://www.casperstartribune.townnews.com/art/CasperOnline.jpg;ALC:#566a83;LW:569;T:Black;GIMP:red;AWFID:adfbccbdf07bb721;" target="_blank">
+<input type="hidden" name="domains" value="www.casperstartribune.net"><input type="radio" name="sitesearch" value="www.casperstartribune.net" checked> <img src="http://www.casperstartribune.net/art/cstsm.jpg" border="0" alt="Google" align="middle"> </td></tr>
+<tr><td><input type="radio" name="sitesearch" value=""><a href="http://www.google.com/search" target="_blank">
+<img src="http://www.casperstartribune.net/art/google.gif" border="0" alt="Google" align="middle"></a> 
+</td></tr></table>
+</form>
+</p>
+</div> 
+
+<div class="boxtop">Photogallery</div>
+  <div class="boxmid">
+<div class="boxtext">
+
+<a href="http://casperstartribune.mycapture.com/">
+<img src="http://casperstartribune.mycapture.com/PHOTOS/CSPR/74197/11190887T.jpg" alt="volleyball picture" width="90" height="52">
+<br/> Click Here for more Photos</a>
+
+</div></div>
+  
+
+<div class="boxtop">Blogs</div>
+  <div class="boxmid"><p class="boxtext">
+This is what Wyoming is Saying...</p>
+<p><a href="http://www.casperstartribune.net/watercooler"><img src="http://www.casperstartribune.net/art/watercooler.jpg"></a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/weblogs">The Gridiron</a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/goulash">Sports Goulash</a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/teen/?cat=1">ONOBlog</a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/uwbball">Under the Dome</a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/locker">The Lockerroom</a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/over_the_boards/">Over the Boards</a></p>
+<!--<p class="menutext"><a href="http://www.casperstartribune.net/wildthings">Wild Things</a></p>-->
+<!--<p class="menutext"><a href="http://www.casperstartribune.net/insideout">Inside and Out</a></p>-->
+</p></div>
+
+
+<div class="boxtop">Forms</div>
+  <div class="boxmid"><p class="boxtext">
+<a href="http://www.casperstartribune.net/forms/wedding.php">Wedding</a><br/>
+<a href="http://www.casperstartribune.net/forms/anniversary.php">Anniversary</a><br/>
+<a href="http://www.casperstartribune.net/forms/engagement.php">Engagements</a><br/>
+<a href="http://www.casperstartribune.net/forms/inkind_brochure.pdf">Inkind Donation</a><br/>
+<a href="http://www.casperstartribune.net/forms/Application%20Form.doc">Application- Word</a><br/>
+<a href="http://www.casperstartribune.net/forms/Application%20Form2.pdf">Application- PDF</a><br/>
+</p></div>
+
+<!--THIS IS THE LAST DIV and IS NEEDED!!!-->
+</div>
+ </div>
+
+ 
+    <!--THIS IS THE MAIN TEXT-->
+
+<div class="middletext"> 
+                <!--<div>[ad:_topright]</div>-->
+             
+            <div>
+            <h1 class="headlinedetail">Idaho officials weigh RICO lawsuit over illegal workers</h1>
+            <p class="bylinedetail">By REBECCA BOONE<br>Associated Press writer Sunday, April 10, 2005</p>
+          </div>
+              
+                  <!--<div border="0" cellspacing="0" cellpadding="0" width="[component:image-photo-width]">-->
+             <div>
+                      <p class="storydetail"></p>
+               
+                      <p class="cutline"></p>
+                  
+                  </div>
+                 
+           
+            <div>
+            <p><span class="storydetail">BOISE, Idaho -- Canyon County commissioners are considering whether they can use a federal law designed to target organized crime to sue local businesses that hire illegal immigrants.<br/><br/>The commissioners, led by Robert Vasquez, agreed Friday to pay a Chicago lawyer &#036;2,500 to look into the feasibility of a lawsuit based on that law.<br/><br/>"I know that there are companies hiring illegal aliens because they make applications for welfare and tell us where they are working," Vasquez said. By going after companies under the federal Racketeer Influenced and Corrupt Organizations Act, known as RICO, Vasquez hopes he can force companies to cover the county's costs for things such as indigent medical care.<br/><br/>"The cost has to be measured against the outlay of tax dollars in all capacities. By that, I mean the county is currently expending &#036;900,000 a year for illegal aliens in our county jail alone," Vasquez said. "Ultimately a lawsuit could be a moneysaving move. If nothing else, it certainly enforces the law of the land, which I am bound by oath to do."</span><span class="ads"><script type="text/javascript" language="javascript">
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+if ((nAdsysTime >= 1142834400) && (nAdsysTime <= 1149224399)) {
+aAd = new Array('news+business+rtcontophorsize.2','43124', 'swf');
+aAd[3] = '336';
+aAd[4] = '280';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.naa.org%2Fadvertiser%2F';
+aAd[6] = 'news%2Bbusiness%2Brtcontophorsize.2';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1142834400) && (nAdsysTime <= 1149224399)) {
+aAd = new Array('news+business+rtcontophorsize.2','43126', 'swf');
+aAd[3] = '336';
+aAd[4] = '280';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.naa.org%2Fadvertiser%2F';
+aAd[6] = 'news%2Bbusiness%2Brtcontophorsize.2';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1144990800) && (nAdsysTime <= 1146373199)) {
+aAd = new Array('news+business+rtcontophorsize.2','45408', 'jpg');
+aAd[3] = '';
+aAd[4] = '0';
+aAds[aAds.length] = aAd;
+}
+displayAd('http://adsys.townnews.com/', 'casperstartribune.net', aAds);
+</script></span></p>
+            <p><span class="storydetail">The American-born Vasquez has said he is of Mexican, Spanish and French descent.<br/><br/>Officials with the Idaho Department of Commerce and Labor and the Caldwell Chamber of Commerce refused to comment. Nampa Chamber of Commerce leaders did not immediately return phone calls from The Associated Press. Caldwell and Nampa both lie in Canyon County, which is near Boise.<br/><br/>If Chicago-based lawyer Howard Foster tells the commissioners that a RICO suit would be viable, Vasquez said he would ask other local officials to step in.<br/><br/>"At that point, we will discuss it with the prosecuting attorney's office, include them in the process and proceed accordingly. I will also contact other county commissioners to see if they would be interested in taking part," Vasquez said.<br/><br/>Neither U.S. Attorney Tom Moss nor his spokeswoman, Jean McNeil, was available for comment Friday.<br/><br/>But Stephanie Lounsbury, a Nampa resident and member of the Idaho Community Action Network, said Vasquez' tactics would not win him many fans.<br/><br/>"Immigration is an American experience and acceptance is an American value," Lounsbury said. "I think that employers know there's a problem and they need real solutions, not an attack. We should work toward comprehensive immigration reform."<br/><br/>Foster said he would likely send a memo to commissioners in the next few weeks with his advice on the feasibility of a RICO Act lawsuit. In the past seven years, Foster has brought five such lawsuits against companies around the nation.<br/><br/>But the pending lawsuits -- against Tyson Foods in Tennessee, against Mohawk Carpets in Georgia, against Zirkle Fruit Co. in Washington -- have all been brought on behalf of employees who claim the use of undocumented workers is lowering wages. Another suit, against IBP, formerly called Iowa Beef Processors, was thrown out in Illinois, and a lawsuit against a Connecticut cleaning company was resolved out of court. Foster said he doesn't know of any RICO Act case that has been filed on behalf of a county or other government agency.<br/><br/>Canyon County's claim may hinge on why illegal immigrants have settled in the area -- whether to work, be with family or for other reasons.<br/><br/>"The county isn't suing regarding wages. They've asked me to write a memo and tell them whether they have standing under RICO to recoup costs the county has incurred for illegal immigrants," Foster said. "There are definitely limits -- the law can only go so far. And the courts around the country have been pretty tough in saying who has standing and who does not."<br/><br/>It's not the first time Vasquez has taken controversial action against illegal immigration. He spearheaded the commission's request earlier this year to have Gov. Dirk Kempthorne declare Canyon County a disaster area in anticipation of an "imminent invasion" of illegal immigrants. Kempthorne turned down that request.<br/><br/>At the time, the commission approved a resolution blaming illegal immigrants for increasing crime, spreading infectious diseases and causing fatal car accidents.<br/><br/>And last year, Vasquez tried to bill the Mexican government &#036;2 million for reimbursement of jail and medical treatment costs he claimed the county provided to Mexican citizens. The effort failed.<br/><br/>Vasquez has formed an exploratory committee to look at a bid for the 1st District congressional seat. The incumbent, Rep. Butch Otter, R-Idaho, in December filed the required papers to begin a campaign for governor.</span></p>
+            <p><a href="http://www.casperstartribune.net/articles/2005/04/10/news/business/c352e021a7ba0dd187256fde0074af28.eml" target="emailafriend"><span class="smlinks">E-MAIL THIS STORY</span></a></p>
+            <p><a href="http://www.casperstartribune.net/articles/2005/04/10/news/business/c352e021a7ba0dd187256fde0074af28.prt" target="printable"><span class="smlinks">PRINTABLE VERSION</span></a></p>
+           <!-- <p><a href="http://www.trib.com/CGI-BIN/braille.php?theurl=//news/business/c352e021a7ba0dd187256fde0074af28.txt"  class='smlinks'>BRAILLE FILE</a><br><span class="breadcrumbhl"> -->
+           	<p><a href="?braille" class="smlinks">BRAILLE FILE</a><br><span class="breadcrumbhl">
+            This will download to your computer a computer braille ASCII file of the current story translated into grade 2 braille. This file may be sent to any standard braille embosser.</span></p>
+              <p class="blogtitle">Add Your Comments Here:</p>
+    <div class="simpleblog">
+    	
+    	<p>
+	<a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.casperstartribune.net/articles/2005/04/10/news/business/c352e021a7ba0dd187256fde0074af28.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label><input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: </label><img id="simpleblog-captcha" width="125" height="50" src="http://www.casperstartribune.net/shared-content/newsys/common/generatecaptcha.png"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/></div><input type="SUBMIT" value="Post Comment"/></div></form></div>
+Casperstartribune.net encourages readers to engage in civil conversation with their neighbors. We will never edit or alter your comments, but we do reserve the right to remove comments that violate our code of conduct.<br/> 
+	<ul>No comment may contain:
+	 <li>Potentially libelous statements.</li> 
+	 <li>Obscene, explicit, or racist language.</li>
+	 <li> Personal attacks, insults, or threats. </li>
+	 <li>Commercial product promotions or consumer complaints.</li></ul></p>
+<p>To submit your comment you must type the characters from the Image Verification box, in the space provided.  This is a feature to help against spam.<br/>
+	 <a href="mailto:fred.jacquot">Click here</a> to report offensive or inappropriate comments. The comments below are from readers of casperstartribune.net and in no way represent the views of The Casper Star Tribune or Lee Enterprises.</p>
+</div>
+<p class="blogtitle">Comments</p>
+<p class="storydetail"><a id="blogcomments"></a></p>
+<p><a href="#" class="menutext">BACK TO TOP</a></p>
+          </div>
+    
+        <div> 
+          <span><script type="text/javascript" language="javascript">
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+if ((nAdsysTime >= 1109829600) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+lfconbothalfbannersize','18907', 'gif');
+aAd[3] = 'http://outreach.uwyo.edu/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1109829600) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+lfconbothalfbannersize','18908', 'gif');
+aAd[3] = 'http://www.worldwidetvl.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1109916000) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+lfconbothalfbannersize','19023', 'gif');
+aAd[3] = 'http://www.casperstartribune.net/subscriber_services';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1115960400) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+lfconbothalfbannersize','23615', 'gif');
+aAd[3] = 'http://www.wonderwash.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1138773600) && (nAdsysTime <= 1454392799)) {
+aAd = new Array('+lfconbothalfbannersize','39025', 'gif');
+aAd[3] = 'http://www.windowandwallgallery.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+displayAd('http://adsys.townnews.com/', 'casperstartribune.net', aAds);
+</script>
+        <script type="text/javascript" language="javascript">
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+if ((nAdsysTime >= 1109829600) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+rtconbothalfbannersize','18907', 'gif');
+aAd[3] = 'http://outreach.uwyo.edu/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1109829600) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+rtconbothalfbannersize','18908', 'gif');
+aAd[3] = 'http://www.worldwidetvl.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1109916000) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+rtconbothalfbannersize','19023', 'gif');
+aAd[3] = 'http://www.casperstartribune.net/subscriber_services';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1115960400) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+rtconbothalfbannersize','23615', 'gif');
+aAd[3] = 'http://www.wonderwash.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1138773600) && (nAdsysTime <= 1454392799)) {
+aAd = new Array('+rtconbothalfbannersize','39025', 'gif');
+aAd[3] = 'http://www.windowandwallgallery.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+displayAd('http://adsys.townnews.com/', 'casperstartribune.net', aAds);
+</script></span>
+        </div>
+</div>
+ </td></tr>
+ <tr><td>
+ <!--THIS IS THE FOOTER-->
+<div class="footer">
+<p><table width="760px" border="0" cellspacing="0" cellpadding="0">
+<tr>
+		<td class="copyright" colspan="2"><center><a href="http://www.casperstartribune.net/">Home</a> ::
+<a href="http://www.casperstartribune.net/news">News </a> ::
+<a href="http://www.casperstartribune.net/sports">Sports </a> ::
+<a href="http://www.casperstartribune.net/weather/hw3.php">Weather </a> ::
+<a href="http://www.casperstartribune.net/admarket">Classifieds </a> ::
+<a href="http://www.print2webcorp.com/news/casper/specialsections/">Publications </a> ::
+<a href="http://www.casperstartribune.net/subscriber_services/">Subscribe </a> ::
+<a href="http://www.casperstartribune.net/online/">Interactive </a> ::
+<a href="http://www.casperstartribune.net/features/">Weekly Features </a></center></td>
+	</tr>
+        <tr> 
+          <td class="copyright">Copyright &copy; 1995&#8211;2006 Lee Enterprises&nbsp;&nbsp;&nbsp; a
+subsidiary of <a href="http://www.lee.net/">Lee Enterprises Incorporated</a>
+          </td><td><a href="http://www.casperstartribune.net/contact/" class="copyright"> CONTACT US</a></td>
+        </tr><tr>
+<td class="copyright" colspan="2"><center><a href="http://www.billingsgazette.com/">Billings Gazette</a> ::
+<a href="http://www.casperjournal.com/">Casper Journal</a> ::
+<a href="http://www.jacksonholestartrib.com/">Jackson Hole Star-Tribune</a> ::
+<a href="http://www.rapidcityjournal.com/">Rapid City Journal</a> ::
+<a href="http://www.theprairiestar.com/">Prairie Star</a> </center></td></tr>      
+</table></p>
+</div>
+
+
+</td></tr></table>
+</div>
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 07:00:09 Apr 27, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:16:30 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 94.557 (3)
+  esindex: 0.009
+  captures_list: 115.133
+  CDXLines.iter: 15.187 (3)
+  PetaboxLoader3.datanode: 90.459 (4)
+  exclusion.robots: 0.159
+  exclusion.robots.policy: 0.146
+  RedisCDXSource: 2.12
+  PetaboxLoader3.resolve: 144.079 (3)
+  load_resource: 162.14
+-->

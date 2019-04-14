@@ -1,0 +1,34 @@
+<html lang="en">  <head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app101.us.archive.org';v.server_ms=181;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/ait-client-rewrite.js?v=1553621510" charset="utf-8"></script>
+<script type="text/javascript">
+WB_wombat_Init("https:///web", "20190330234237", "www.google.com");
+</script>
+<script type="text/javascript" src="/static/js/wbhack.js?v=1553621510" charset="utf-8"></script>
+<script type="text/javascript">
+__wbhack.init('https:///web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1553621509" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1553621509" />
+<!-- End Wayback Rewrite JS Include -->
+   <script nonce="yPT8tCynDl0x0SXLSURwog==">window.google = {};(function(){var e=function(){this.g="";this.h=c};e.prototype.j=!0;e.prototype.i=function(){return this.g.toString()};var f=/^(?:(?:https?|mailto|ftp):|[^:/?#]*(?:[/?#]|$))/i,c={},g=function(b){var d=new e;d.g=b;return d};g("about:blank");google.navigateTo=function(b,d,a){b!=d&&b.google?b.google.r&&(b.google.r=0,b=b.location,a instanceof e||a instanceof e||(a="object"==typeof a&&a.j?a.i():String(a),f.test(a)||(a="about:invalid#zClosurez"),a=g(a)),b.href=a instanceof e&&a.constructor===e&&a.h===c?a.g:"type_error:SafeUrl",d.location.replace("about:blank")):d.location.replace(a)};}).call(this);(function(){var redirectUrl='http://www.udel.edu/educ/gottfredson/reprints/1994WSJmainstream.pdf';google.navigateTo(parent,window,redirectUrl);})();</script> <noscript> <meta content="0;URL=http://www.udel.edu/educ/gottfredson/reprints/1994WSJmainstream.pdf" http-equiv="refresh"></meta> </noscript> </head>  </html>
+<!--
+     FILE ARCHIVED ON 23:42:37 Mar 30, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:11:12 Apr 01, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 65.581 (3)
+  esindex: 0.01
+  captures_list: 106.717
+  CDXLines.iter: 27.887 (3)
+  PetaboxLoader3.datanode: 36.415 (4)
+  exclusion.robots: 0.205
+  exclusion.robots.policy: 0.192
+  RedisCDXSource: 9.34
+  PetaboxLoader3.resolve: 55.335 (2)
+  load_resource: 68.545
+-->

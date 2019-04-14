@@ -1,0 +1,2876 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Stay Current With Today's Top Breaking News Headlines - Examiner.com</title>
+</head>
+<body>
+
+
+
+
+<script language="javascript">
+var myimages=new Array()
+function preloadimages(){
+for (i=0;i<preloadimages.arguments.length;i++){
+myimages[i]=new Image()
+myimages[i].src=preloadimages.arguments[i]
+}
+}
+preloadimages("/img/weatherbg.gif")
+</script>
+
+<div class="headerbg">
+<div class="headerbg_left">
+<div class="headerbg_right">&nbsp;
+  <div id="container">
+	<div id="header_shadow">
+		<div id="header_shadow_left">
+			<div id="header_shadow_right">
+			</div>
+		</div>
+ 	</div>
+<style>
+#header {
+	margin: 0;
+	padding: 0;
+	background:url(http://www.examiner.com/img/cityscapes/header_San_Francisco.jpg) no-repeat;
+	background-position:right;
+	background-color:#000000;
+	width: 1010px;
+	height: 126px;
+}
+</style>
+	<div id="header">
+		<div align="center" class="top_ad"><a href="http://www.examiner.com/rss/" onclick="var s=s_gi('examinercom'); s.tl(this,'o','RSS Button');"><img src="http://www.examiner.com/img/rssbutton.gif" width="31" height="13" border="0" align="right" style="padding:77px 130px 0 0"/></a>
+		
+		
+						<script language="JavaScript">
+								GA_googleFillSlot("Section_Front-728x90-A");
+							</script>		
+						
+		
+		</span></div>
+	
+	
+		<div style="position:absolute; margin-left:135px; top:190px; left:50%; width:340px; height:31px; z-index:40; overflow:hidden">
+		
+  <div style="position: relative; width: 340px; height: 31px; top: 0px; left: 0px; overflow: hidden;">
+   
+    <div id="examplePanel2" style="overflow: hidden; position: absolute; width: 348px; height: 31px; top: 0px; left:0px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;background-image: url(http://www.examiner.com/img/weatherbg.gif); padding-left: 10px; background-repeat: no-repeat; padding-top: 1px;">
+	  <div style="float:left">
+	  <a href="http://www.examiner.com/San_Francisco-Weather.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Weather');"><img src="http://www.examiner.com/img/spacer.gif" width="70" height="32" border="0"/></a>	  </div>
+	  <div style="float:left">
+    <div style="float:left"><a href="http://www.examiner.com/San_Francisco-Weather.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Weather');">
+	<img src="http://www.examiner.com/weather/images/66_notext.gif" alt="weatherimage" width="30" height="30" border="0" align="left">
+	</a></div>
+	<div align="left"><a href="http://www.examiner.com/San_Francisco-Weather.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Weather');">
+        <div class="smallweather" style="margin-top:5px">
+		<strong>57/46</strong><br>
+        Complete Forecast 
+		
+		</div></a>
+		</div>
+  
+	</div>
+<div style=" padding:0 0px; height:20px; float:left; margin:5px 5px 0 5px; border-left:1px solid #666666"></div>
+<div style="float:left">
+  <a href="http://www.examiner.com/San_Francisco-Weather.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Weather');">
+    <span class="smallweather"><img src="http://www.examiner.com/weather/images/85_notext.gif" alt="weatherimage" width="30" height="30" border="0" align="left"/>Thu.<br/>66/50</span></a><a href="http://www.examiner.com/San_Francisco-Weather.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Weather');">    <span class="smallweather"></span></a>
+  
+	  </div>
+
+ 		<div style="float:left; padding-left:5px">
+ 		  <a href="http://www.examiner.com/San_Francisco-Weather.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Weather');">
+	  	<span class="smallweather"><img src="http://www.examiner.com/weather/images/66_notext.gif" alt="weatherimage" width="30" height="30" border="0" align="left">Fri.<br/>63/50</span>
+	 	 <span class="smallweather"></span></a>
+ 		
+ 		</div>
+		
+		
+	</div>
+</div>
+
+
+		</div>
+	  
+	  
+	  
+	  
+
+
+		<div align="center" style="position:absolute; z-index:5; width:305px; margin-left:205px;  height:62px; top:122px; left:50%; font-size:8px; color:#000000; overflow:hidden">
+		
+		
+							<script language="JavaScript">
+								GA_googleFillSlot("Section_Front-234x60-A");
+							</script>		
+							
+		
+		
+
+		
+		
+		
+		
+		
+	  </div>
+
+		<div style="float:left"><img src="http://www.examiner.com/img/headercorner.jpg" width="49" height="126"/></div>
+		
+		
+		<div class="location"><a href="http://www.examiner.com/san_francisco/" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Examiner Logo');"><img src="http://www.examiner.com/img/logos/newlogo.gif" border="0"/></a><br/>
+		<div class="locationcity">San Francisco</div>
+  		<div class="changemylocation"><a href="http://www.examiner.com/cityswitcher.html"><img src="http://www.examiner.com/img/grey_arrow.gif" border="0"/> Change my location </a></div>
+  		</div>
+		
+<div class="searchfield_top">
+		
+		<div id="search_box">
+			<form id="search" name="search" action="http://www.examiner.com/search.html" method="get" style="margin:0;">
+				<input name="source" value="all" type="hidden">
+				<input name="phrase" value="no" type="hidden">
+				<input name="queryType" value="text" type="hidden">
+				<input name="q" type="text" id="q" maxlength="255"/>
+				<input type="image" name="submit" src="http://www.examiner.com/img/searchtext.gif" width="42" height="7" id="submit-search" title="submit"/>
+			</form>
+		</div>
+	  </div>
+	</div>
+	<div id="body_contentborder">
+		<div id="body_content">
+		<div style="margin:0 -20px;">
+
+
+
+
+
+ </script>
+
+<div class="menuBar" style="width:950px; height: 41px; background-image: url(http://www.examiner.com/img/menubg.gif); background-repeat: no-repeat;">
+	
+	<div align="center" style=" width:670px; float:left">
+		
+			
+				
+				<a class="menuButton" id="nav_74" href="http://www.examiner.com/san_francisco" onmouseover="buttonMouseover(event, 'topmenu_74');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Home'); ">Home</a>
+			
+		
+			
+				
+				<a class="menuButton" id="nav_219" href="http://www.examiner.com/San_Francisco-Examiners.html" onmouseover="buttonMouseover(event, 'topmenu_219');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Examiners'); ">Examiners</a>
+			
+		
+			
+				
+				<a class="menuButton" id="nav_73" href="http://www.examiner.com/San_Francisco-News.html" onmouseover="buttonMouseover(event, 'topmenu_73');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-News'); ">News</a>
+			
+		
+			
+				
+				<a class="menuButton" id="nav_7" href="http://www.examiner.com/San_Francisco-Politics.html" onmouseover="buttonMouseover(event, 'topmenu_7');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Politics'); ">Politics</a>
+			
+		
+			
+				
+				<a class="menuButton" id="nav_1" href="http://www.examiner.com/San_Francisco-Entertainment.html" onmouseover="buttonMouseover(event, 'topmenu_1');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Entertainment'); ">Entertainment</a>
+			
+		
+			
+				
+				<a class="menuButton" id="nav_4" href="http://www.examiner.com/San_Francisco-Sports.html" onmouseover="buttonMouseover(event, 'topmenu_4');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Sports'); ">Sports</a>
+			
+		
+			
+				
+				<a class="menuButton" id="nav_5" href="http://www.examiner.com/San_Francisco-Business.html" onmouseover="buttonMouseover(event, 'topmenu_5');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Business'); ">Business</a>
+			
+		
+			
+				
+				<a class="menuButton" id="nav_10" href="http://www.examiner.com/San_Francisco-Health.html" onmouseover="buttonMouseover(event, 'topmenu_10');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Health'); ">Health</a>
+			
+		
+			
+		 
+	</div>
+	
+	<div align="center" style=" width:280px; float:left;  ">
+		
+			
+				
+				<a class="menuButton" href="http://www.examiner.com/classified/index.cfm?setCity=San_Francisco" onmouseover="buttonMouseover(event,  'topmenu_44');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Classifieds'); ">classifieds</a>
+			
+		
+			
+				
+				<a class="menuButton" href="http://sanfranciscoautos.examiner.com/" onmouseover="buttonMouseover(event,  'topmenu_34');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Autos'); ">autos</a>
+			
+		
+			
+				
+				<a class="menuButton" href="http://www.examiner.com/monster" onmouseover="buttonMouseover(event,  'topmenu_38');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Jobs'); ">jobs</a>
+			
+		
+			
+				
+				<a class="menuButton" href="http://www.examiner.com/San_Francisco-Real_Estate.html" onmouseover="buttonMouseover(event,  'topmenu_36');" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Real_Estate'); ">real estate</a>
+			
+		
+	</div>
+</div>
+
+
+
+	
+		
+		
+		
+		
+		
+			<div id="topmenu_74"> 
+				
+			</div>
+		
+	
+
+	
+		
+		
+		
+		
+		
+			<div id="topmenu_219"> 
+				
+			</div>
+		
+	
+
+	
+		
+		
+		
+		
+		
+			<div id="topmenu_73" class="menu">
+				<div class="menucolumn">
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Local_News'); " href="http://www.examiner.com/San_Francisco-Local_News.html">Local News</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-San_Francisco'); " href="http://www.examiner.com/City-San_Francisco-c10-California.html">San Francisco</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Peninsula'); " href="http://www.examiner.com/Topic-Redwood_City.html">Peninsula</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-San_Jose'); " href="http://www.examiner.com/Topic-San_Jose.html">San Jose</a>
+					
+						</div> 
+						<div class="menucolumn">
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-California'); " href="http://www.examiner.com/State-California.html">California</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-US'); " href="http://www.examiner.com/US.html">US</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-World'); " href="http://www.examiner.com/World.html">World</a>
+					
+				
+				</div>
+			</div>
+		
+	
+
+	
+		
+		
+		
+		
+		
+			<div id="topmenu_7" class="menu">
+				<div class="menucolumn">
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Local_Politics'); " href="http://www.examiner.com/San_Francisco-Local_Politics.html">Local Politics</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-White_House'); " href="http://www.examiner.com/Topic-White_House.html">White House</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Iraq'); " href="http://www.examiner.com/Topic-Iraq_War.html">Iraq</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Race_for_2008'); " href="http://www.examiner.com/Topic-2008_Trail.html?cid=tpc-nav-racefor2008">Race for 2008</a>
+					
+				
+				</div>
+			</div>
+		
+	
+
+	
+		
+		
+		
+		
+		
+			<div id="topmenu_1" class="menu">
+				<div class="menucolumn">
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Local_Entertainment'); " href="http://www.examiner.com/San_Francisco-Local_Entertainment.html">Local Entertainment</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Movie_Reviews'); " href="http://www.examiner.com/Topic-Examiner_Movie_Reviews.html?cid=tpc-nav-moviereviews">Movie Reviews</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Movies'); " href="http://www.examiner.com/Movies.html">Movies</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Movie_Showtimes'); " href="http://www.examiner.com/San_Francisco-Movie_Showtimes.html">Movie Showtimes</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-TV'); " href="http://www.examiner.com/TV.html">TV</a>
+					
+						</div> 
+						<div class="menucolumn">
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Music'); " href="http://www.examiner.com/Music.html">Music</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Dining_Reviews'); " href="http://www.examiner.com/Topic-by_Patricia_Unterman.html">Dining Reviews</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Events_Calendar'); " href="http://events.examiner.com/San_Francisco/">Events Calendar</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Strange'); " href="http://www.examiner.com/San_Francisco-Strange.html">Strange</a>
+					
+				
+				</div>
+			</div>
+		
+	
+
+	
+		
+		
+		
+		
+		
+			<div id="topmenu_4" class="menu">
+				<div class="menucolumn">
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Local_Sports'); " href="http://www.examiner.com/San_Francisco-Local_Sports.html">Local Sports</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-49ers'); " href="http://www.examiner.com/Topic-San_Francisco_49ers.html">49ers</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Giants'); " href="http://www.examiner.com/Topic-San_Francisco_Giants.html">Giants</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Raiders'); " href="http://www.examiner.com/Topic-Oakland_Raiders.html">Raiders</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Athletics'); " href="http://www.examiner.com/Topic-Oakland_Athletics.html">Athletics</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Sharks'); " href="http://www.examiner.com/Topic-San_Jose_Sharks.html">Sharks</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Warriors'); " href="http://www.examiner.com/Topic~Golden_State_Warriors.html">Warriors</a>
+					
+						</div> 
+						<div class="menucolumn">
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-NASCAR'); " href="http://www.examiner.com/NASCAR.html">NASCAR</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Basketball'); " href="http://www.examiner.com/Basketball.html">Basketball</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-College'); " href="http://www.examiner.com/College.html">College</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Football'); " href="http://www.examiner.com/Football.html">Football</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Soccer'); " href="http://www.examiner.com/Soccer.html">Soccer</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Hockey'); " href="http://www.examiner.com/Topic-NHL.html">Hockey</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Baseball'); " href="http://www.examiner.com/Topic-Baseball.html">Baseball</a>
+					
+				
+				</div>
+			</div>
+		
+	
+
+	
+		
+		
+		
+		
+		
+			<div id="topmenu_5" class="menu">
+				<div class="menucolumn">
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Local_Business'); " href="http://www.examiner.com/San_Francisco-Local_Business.html">Local Business</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Technology'); " href="http://www.examiner.com/San_Francisco-Technology.html">Technology</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Science'); " href="http://www.examiner.com/San_Francisco-Science.html">Science</a>
+					
+						</div> 
+						<div class="menucolumn">
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Stock_Market'); " href="http://www.examiner.com/Stock_Market.html">Stock Market</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Stock_Quotes'); " href="http://www.examiner.com/Stock_Quotes.html?osymb=&amp;siteid=C69D5445-446A-4BB3-97CB-BDBCBA2EC990&amp;symb=GE">Stock Quotes</a>
+					
+				
+					
+					
+					<a class="menuItem" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-News_Releases'); " href="http://www.examiner.com/Releases.html">News Releases</a>
+					
+				
+				</div>
+			</div>
+		
+	
+
+	
+		
+		
+		
+		
+		
+			<div id="topmenu_10"> 
+				
+			</div>
+		
+	
+
+	
+
+
+
+
+	
+		
+		
+		
+		
+		 
+			<div id="topmenu_44"> 
+				
+			</div>
+		
+	
+
+	
+		
+		
+		
+		
+		 
+			<div id="topmenu_34" class="menu" style="background-image:url(http://www.examiner.com/img/submenutop_orange.gif); border-bottom:#B9520E 2px solid;">
+				<div class="menucolumn">
+				
+					
+					
+					
+					<a class="menuItemRight" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Autos_Home'); " href="http://sanfranciscoautos.examiner.com/autos.home.asp">Autos Home</a>
+					
+				
+					
+					
+					
+					<a class="menuItemRight" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Used_Cars'); " href="http://sanfranciscoautos.examiner.com/Search.Autos.byMake.asp">Used Cars</a>
+					
+				
+					
+					
+					
+					<a class="menuItemRight" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-New_Cars'); " href="http://sanfranciscoautos.examiner.com/autos.buildnew.asp">New Cars</a>
+					
+						</div> 
+						<div class="menucolumn">
+					
+				
+					
+					
+					
+					<a class="menuItemRight" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Sell_a_Vehicle'); " href="http://sanfranciscoautos.examiner.com/SellVehicle.asp">Sell a Vehicle</a>
+					
+				
+					
+					
+					
+					<a class="menuItemRight" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Find_a_Dealer'); " href="http://sanfranciscoautos.examiner.com/Autos.finddealer.asp">Find a Dealer</a>
+					
+				
+					
+					
+					
+					<a class="menuItemRight" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Research_a_Vehicle'); " href="http://sanfranciscoautos.examiner.com/autos.research.asp">Research a Vehicle</a>
+					
+				
+				</div>
+			</div>
+		
+	
+
+	
+		
+		
+		
+		
+		 
+			<div id="topmenu_38"> 
+				
+			</div>
+		
+	
+
+	
+		
+		
+		
+		
+		 
+			<div id="topmenu_36"> 
+				
+			</div>
+		
+	
+
+
+ </div>
+		        <div class="breakingnews">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="breakingnews_ticker"> <img src="http://www.examiner.com/img/black_arrow.gif" width="3" height="5" border="0"/>
+  
+
+	
+	<a href="javascript:void(0);" id="tickerurl" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Breaking News Ticker'); "></a><span id="blinky"> </span>
+
+<script language="javascript">
+/*--- timing settings ---*/
+var typerate = 150;
+var blinkrate = 600; 
+var maxblinks = 18; /*  2 * the number of blinks between headlines*/
+var bannerrate = 6000;
+var textmax = 60;
+/*-----*/
+
+var i = 0;
+var blinkcount = 0;
+var current_headline = "";
+var headline_sofar = "";
+var headline_number = 0;
+var HeadlineList = new Array();
+var HeadlineURL = new Array();
+var TopicBanner = new Array();
+var TopicIcon = new Array();
+var LastBanner = "";
+
+
+	
+	HeadlineList[1]  = "US troop deaths push monthly toll to 7-month high in Iraq" ;
+	HeadlineURL[1]  = "http://www.examiner.com/a-1368142~US_troop_deaths_push_monthly_toll_to_7_month_high_in_Iraq.html";
+	
+	
+	HeadlineList[2]  = "Federal Reserve cuts key interest rate by quarter-point" ;
+	HeadlineURL[2]  = "http://www.examiner.com/a-1368075~Federal_Reserve_cuts_key_interest_rate_by_quarter_point.html";
+	
+	
+	HeadlineList[3]  = "US report says al-Qaida gaining strength" ;
+	HeadlineURL[3]  = "http://www.examiner.com/a-1367815~US_report_says_al_Qaida_gaining_strength.html";
+	
+	
+	HeadlineList[4]  = "Obama, Clinton court working families" ;
+	HeadlineURL[4]  = "http://www.examiner.com/a-1368146~Obama__Clinton_court_working_families.html";
+	
+	
+	HeadlineList[5]  = "Documents show US considered using nuclear weapons" ;
+	HeadlineURL[5]  = "http://www.examiner.com/a-1368135~Documents_show_US_considered_using_nuclear_weapons.html";
+	
+	
+	HeadlineList[6]  = "Texas officials looking at possible abuse among FLDS boys" ;
+	HeadlineURL[6]  = "http://www.examiner.com/a-1367992~Texas_officials_looking_at_possible_abuse_among_FLDS_boys.html";
+	
+	
+	HeadlineList[7]  = "CDC: 3 out of 4 new moms in US now breast-feed their infants" ;
+	HeadlineURL[7]  = "http://www.examiner.com/a-1368137~CDC__3_out_of_4_new_moms_in_US_now_breast_feed_their_infants.html";
+	
+	
+	HeadlineList[8]  = "David Blaine breaks world record for holding one\'s breath" ;
+	HeadlineURL[8]  = "http://www.examiner.com/a-1367942~David_Blaine_breaks_world_record_for_holding_one_s_breath.html";
+	
+	
+	HeadlineList[9]  = "Chilean town giving free Viagra to senior citizens" ;
+	HeadlineURL[9]  = "http://www.examiner.com/a-1368133~Chilean_town_giving_free_Viagra_to_senior_citizens.html";
+	
+ 
+var tickercount = 0;
+var currentheadlinelen = 0;
+var headline_number = 1 + Math.floor(Math.random()*HeadlineList.length);
+function IncrementText(){
+	if(tickercount < currentheadlinelen){
+		document.getElementById('tickerurl').innerHTML = current_headline.substring(0,tickercount + 1);
+		tickercount++
+		timerDM = self.setTimeout("IncrementText()",typerate);
+		}
+	else
+		{
+		Blink();
+		}
+}
+
+function StartHeadline(url,msg) {
+	document.getElementById('blinky').innerHTML = "|";
+	document.getElementById('tickerurl').href = url;
+	current_headline=msg + "  ";
+	currentheadlinelen = current_headline.length;
+	tickercount = 0
+	IncrementText();
+}
+
+function DisplayNextItem(){
+
+	i=0;
+	headline_sofar="";
+	blinkcount=0;
+	if(document.getElementById('tickerprev')){
+		document.getElementById('tickerprev').href = document.getElementById('tickerurl').href;
+		document.getElementById('tickerprev').innerHTML = document.getElementById('tickerurl').innerHTML;
+		document.getElementById('tickerprev').title = document.getElementById('tickerurl').title;
+		
+	}
+	
+	headline_number++;
+	if(headline_number >= HeadlineList.length)
+		{headline_number = 1}
+		StartHeadline(HeadlineURL[headline_number],HeadlineList[headline_number])
+	}
+
+function Blink(){
+if(blinkcount < maxblinks){
+	if (blinkcount & 1)
+		{
+		document.getElementById('blinky').innerHTML = "|";
+		}
+	else
+		{
+		document.getElementById('blinky').innerHTML = "";
+		}
+	blinkcount++;
+	timerDM = self.setTimeout("Blink()",600);
+	}
+	else /* blinkcount met */
+	{
+		blinkcount = 0
+		timerDM = self.setTimeout("DisplayNextItem()",200);
+		}
+}
+/* This line kicks it off */
+		timerDM = self.setTimeout("DisplayNextItem()",5000);
+</script>
+
+</span></div> 
+		<div style="position:relative; display: none ; left:360px; width:130px; z-index:24; top:-45px"><img src="http://www.examiner.com/img/rollovermock.gif"/></div>
+
+ 
+<!-- headercontent.cfm ends here -->
+
+
+
+ 
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	 
+
+	
+  
+  
+	
+	
+	
+	
+		
+		
+	
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+				
+
+	
+	
+
+	
+	
+	
+	
+	
+		
+
+		
+	
+	
+	
+	
+ 	
+	
+	
+	
+ 			
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	  
+  
+  
+  
+  
+  
+  
+ 		
+  
+  
+  
+  
+  	
+  
+ 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+		
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+
+		
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+  
+ 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+	
+	
+
+	
+
+	
+
+
+
+		
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+
+ 
+
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
+	
+
+	
+
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+
+	
+	
+	
+	
+	
+	 
+	
+	
+	
+	
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+ 
+	
+	
+	
+	 
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+
+
+	
+	
+	
+	
+
+	
+
+	
+
+	
+	
+	
+
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+
+	
+
+	
+
+	
+	
+	
+	
+
+
+	
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+		
+
+			<!-- slots -->
+			
+	
+		
+			
+			
+			
+		
+	
+
+
+
+ 
+
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+
+<table border="0" width="915px;">
+	<tr>
+		<td align="left" valign="center">
+			<img src="http://www.examiner.com/img/examiner_eagle_lg.gif" border="0">
+		</td>
+		<td align="right" valign="top">
+			 
+				
+							
+						<script language="JavaScript">
+							GA_googleFillSlot("Section_Front-300x100-A");
+						</script>		
+					
+			  
+		</td>
+	</tr>
+</table><br>
+
+
+<div style="width:160px; float:right; margin-left:20px; overflow:hidden; font-weight: normal; ">
+ 
+	
+		<a href="http://sfpaper.examiner.com/">
+			
+		<div class="local_dot"></div> 		
+		<div class="breadcrumb"> The&nbsp;SF&nbsp;Examiner</div>
+		<div class="thincolunderline" style="margin-bottom: 10px;"> </div>
+		</a>
+	<div class="newsagg_headline" align="center">
+ 
+		
+			<iframe name="FRAME1" src="http://www.examiner.com/promos/pageform/SFtodayspaper.html" width="160" height="111" frameborder="0" scrolling="no"></iframe>	
+			 
+	</div>
+	<div style="padding-bottom:5px"> </div>
+	
+
+
+
+
+
+
+
+
+
+	<!-- looping directories -->
+		
+		
+		
+		<!--looking for /assets/San_Francisco/promo/newsroom/rightcol.html-->
+		
+		
+			
+				
+				
+			
+		
+		
+	
+
+	<!-- looping directories -->
+		
+		
+		
+		<!--looking for /assets/National/promo/newsroom/rightcol.html-->
+		
+		
+	
+
+
+
+
+	
+		
+			
+				<a href="http://intranet.dcexaminer.com/examinerintranet/sfrackLocations.cfm"><img src="http://www.examiner.com/assets/images/rack_card.gif" width="160" height="124"/></a>
+<a href="http://intranet.dcexaminer.com/examinerintranet/sfrackLocations.cfm"><img src="http://www.examiner.com/assets/images/rack_btn.gif" width="160" height="18"/></a>
+<p>
+<a href="http://www.examiner.com/delivery"><img src="http://www.examiner.com/assets/images/deliver_card.gif"/></a>
+<a href="http://www.examiner.com/delivery"><img src="http://www.examiner.com/assets/images/deliver_btn.gif"/></a>
+<br/>
+<div class="classifieds_title_dot"></div>
+<div class="breadcrumb">Examiner Writers</div>
+<div class="thincolunderline" style="padding-bottom:10px"> </div>
+<div class="tabbed_headline">
+<a href="http://www.examiner.com/Topic-by_Glenn_Dickey.html?cid=sf-nr-Dickey">Glenn Dickey</a><br/>
+<a href="http://www.examiner.com/blogs-103-Fault_Lines">Ken Garcia</a><br/>
+<a href="http://www.examiner.com/Topic-by_Bonnie_Eslinger.html?cid=sf-nr-Eslinger">Bonnie Eslinger</a><br/>
+<a href="http://www.examiner.com/Topic-by_Adam_Martin.html?cid=sf-nr-Martin">Adam Martin</a><br/>
+<a href="http://www.examiner.com/Topic-by_Beth_Winegarner.html?cid=sf-nr-Winegarner">Beth Winegarner</a><br/>
+<a href="http://www.examiner.com/Topic-by_Edward_Carpenter.html?cid=sf-nr-Carpenter">Edward Carpenter</a><br/>
+<a href="http://www.examiner.com/Topic-by_Kate_Williamson.html?cid=sf-nr-Williamson">Kate Williamson</a>
+</div>
+<p>
+<div class="section_title_dot"></div>
+<div class="breadcrumb">Opinion	</div>
+<div class="thincolunderline" style="padding-bottom:10px"> </div>
+<div class="linklist_headline">
+<a href="http://www.examiner.com/San_Francisco-Commentary.html">Commentary</a><br/>
+<a href="http://www.examiner.com/San_Francisco-Editorial.html">Editorials</a><br/>
+<a href="http://www.examiner.com/San_Francisco-Letters.html">Letters</a><br/>
+</div>
+			
+		
+	
+
+	
+	<div style="margin-bottom: 16px;">
+				
+		<form name="search" action="http://www.examiner.com/search.html" method="get" id="search">
+			<input type="hidden" name="phrase" value="no">
+			<input type="hidden" name="submitted" value="submitted">
+		
+				<span class="newsroom_widget">Search Archives:</span><br>
+				<span style="font-size:9px">Search archives of our print editions.</span><br>
+				<input id="q" type="text" name="q" size="18" maxlength="40" style="font-size:10px">
+				<input type="submit" name="submitted2" value="Go" style="font-size:10px"/>
+				<div style="background-color:#f5f5f5; width:140px; margin-top:5px">
+				<input type="radio" name="source" value="all" checked/>
+				All Examiner Pages<br/>
+				<input type="radio" name="source" value="3"/>
+DC 
+				 <br/>
+			     <input type="radio" name="source" value="4"/>
+Baltimore<br/>
+<input type="radio" name="source" value="2" checked/>
+San Francisco
+		  </div>
+		</form>
+	
+
+
+
+	</div>
+	
+ 
+		
+		
+
+			
+			
+			
+			
+				
+					<div>
+						<script language="JavaScript">
+							GA_googleFillSlot("Section_Front-160x600-A");
+						</script>
+					</div>
+				
+			
+		
+		
+	   
+</div>
+	
+<table border="0" width="730" cellpadding="0" cellspacing="0">
+	<tr valign="top">
+		<td width="300px">		
+		
+			
+		
+		
+		
+			
+			
+			<div class="local_dot"></div>
+					<div class="breadcrumb">Local</div>
+					 <div class="thincolunderline" style="margin-bottom:10px"></div>
+			
+		
+			
+							
+				<div id="NewsroomSection" class="panel_divider">
+					
+
+		
+		
+		
+		
+		
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+			
+			
+	
+	
+	
+	
+		
+		 
+		
+		 
+			
+			
+		
+		 
+		
+		 						
+	
+		
+
+	
+	
+			
+	
+	
+		
+				
+					
+			
+				
+				
+				
+				
+				
+	
+									
+	
+	
+		
+	
+						
+		
+			<div class="newsagg_headline">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td> 
+	
+			
+				<a href="http://www.examiner.com/a-1367741~Police_prepare_for_worst_case_scenario.html">Police prepare for worst-case scenario</a>
+			
+				 
+			</td>
+		</tr>
+		<tr valign="top">
+			<td>
+			
+			
+			
+									
+										
+			<div id="panel_leadstory">						
+				<span class="new_timestamp">
+					
+					
+					by Beth Winegarner
+				</span>
+				
+					<br/>
+				
+				
+			
+				
+					
+					
+					
+									
+						
+					
+				
+				
+	
+
+				
+				
+					
+				
+			
+				
+					Gunmen will open fire inside a San Francisco Catholic high school this morning in a mock shooting designed to teach police, students and faculty how to respond to a genuine school attack. 
+				
+			
+			</div>
+	
+		 </td>
+			
+		</tr>
+		</table>		
+
+	</div>
+							
+				</div>
+				
+					<div id="NewsroomSection">
+						
+
+		
+		
+		
+		
+		
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+			
+			
+	
+	
+	
+	
+		
+		 
+		
+		 
+			
+			
+		
+		 
+		
+		 						
+	
+		
+
+	
+	
+			
+	
+	
+		
+				
+					
+			
+				
+					
+			
+				
+				
+				
+				
+				
+	
+									
+	
+	
+		
+	
+						
+		
+			<div class="newsagg_headline">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td> 
+	
+			
+				<a href="http://www.examiner.com/a-1367336~Muni_deployments_leave_buses_vulnerable.html">Muni deployments leave buses vulnerable</a>
+			
+				 
+			</td>
+		</tr>
+		<tr valign="top">
+			<td>
+			
+			
+			
+									
+										
+			<div id="panel_leadstory">						
+				<span class="new_timestamp">
+					
+					
+					by Will Reisman
+				</span>
+				
+					<br/>
+				
+				
+			
+				
+					
+					
+					
+									
+						
+					
+				
+				
+	
+
+				
+				
+					
+				
+			
+				
+					While Muni has increased the number of inspectors over the past year in an effort to crack down on freeloading transit users who cost The City millions in unpaid fares, none of those charged with checking for tickets and passes are deployed on The City’s buses — where, critics complain, they are needed most. 
+				
+			
+			</div>
+	
+		 </td>
+			
+		</tr>
+		</table>		
+
+	</div>
+							
+					</div>				
+				
+			
+			
+						
+				
+				
+						
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+	
+		
+		
+	
+		
+
+	
+
+	
+			
+			
+	
+	
+	 
+	<div>
+		
+				
+		
+				
+		
+						
+			<div id="feature_no_top">
+				
+				
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367329~Virgin_takes_off_while_competitors_lay_low.html">Virgin takes off while competitors lay low</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367748~Dufty_seeks_city_study_of_Patrol_Special.html">Dufty seeks city study of Patrol Special</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367341~City_Hall_Watch__Board_backs_big_settlement_in_lawsuit.html">City Hall Watch: Board backs big settlement in lawsuit</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367333~Peninsula_Police_Blotter__Neighborhood_crime_log.html">Peninsula Police Blotter: Neighborhood crime log</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367340~Killer_tree_was_flagged_as_danger.html">Killer tree was flagged as danger</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367337~Opposition_growing_against_proposed_Potrero_power_plant.html">Opposition growing against proposed Potrero power plant</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367334~S_F__Police_Blotter__Neighborhood_crime_log.html">S.F. Police Blotter: Neighborhood crime log</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367328~Alleged_wife_slayer_s_ex_girlfriend_to_take_the_stand.html">Alleged wife-slayer’s ex-girlfriend to take the stand</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367331~Toddler_appears_to_be_recovering__family_friend_says.html">Toddler appears to be recovering, family friend says</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367330~County_jobless_rate_at_two_year_high.html">County jobless rate at two-year high</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367332~3_Minute_Interview__Dave_Wang.html">3-Minute Interview: Dave Wang</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367335~San_Carlos_police_escape_staff_reductions____for_now.html">San Carlos police escape staff reductions ­— for now</a>
+								
+								
+							
+						</div>
+					
+       	     	
+					
+					
+	      	        	<div class="newsagg_headline">
+							
+								<a href="http://www.examiner.com/a-1367327~Plea_deal_accepted_in_deadly_DUI_chase.html">Plea deal accepted in deadly DUI chase</a>
+								
+								
+							
+						</div>
+					
+       	     	
+			</div>
+				
+		
+
+	</div>
+		
+	
+				 			
+		 	<br>
+		
+
+
+			<br>
+			
+			
+				
+					
+						
+						<script language="JavaScript">
+							GA_googleFillSlot("Section_Front-300x250-A");
+						</script>		
+					
+				
+				
+			
+			<br>
+			
+				<div class="section_title_dot"></div>
+					<div class="breadcrumb">Editorial</div>
+					 <div class="thincolunderline" style="margin-bottom:10px"></div>
+										
+					
+
+		
+		
+		
+		
+		
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+			
+			
+	
+	
+	
+	
+		
+
+	
+	
+			
+	
+	
+		
+				
+					
+			
+				
+				
+				
+				
+				
+	
+									
+	
+	
+		
+	
+						
+		
+			<div class="linklist_headline">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td> 
+	
+			
+				<a href="http://www.examiner.com/a-1367338~Biggest_solar_installer_dumped_on.html">Biggest solar installer dumped on</a>
+			
+				 
+			</td>
+		</tr>
+		<tr valign="top">
+			<td>
+			
+			
+			
+									
+										
+			<div id="panel_leadstory">						
+				<span class="new_timestamp">
+					
+					
+					9 hrs ago
+				</span>
+				
+					<br/>
+				
+				
+			
+				
+					
+					
+					
+									
+						
+					
+				
+				
+	
+
+				
+				
+					
+				
+			
+				
+					Next in line to abandon San Francisco for a more hospitable Bay Area business venue is Solar City, the company that installs more solar panels each week than any other company in California. The Solar City CEO said he will not proceed with plans to open a worker-training academy in San Francisco’s job-hungry Bayview neighborhood unless The City finalizes its promised rebate program within 30 days. 
+				
+			
+			</div>
+	
+		 </td>
+			
+		</tr>
+		</table>		
+
+	</div>
+								
+				<br>
+			
+			
+			
+			
+		
+	
+				
+		</td>
+	
+		
+	 
+		<td width="20"><img src="http://www.examiner.com/img/blank.gif" width="20" height="1"></td>
+		<td>
+		
+		
+		<td>
+
+	 
+	 <div class="classifieds_title_dot"></div>
+					<div class="breadcrumb">Only on Examiner</div>
+					 <div class="thincolunderline" style="margin-bottom:10px"></div>
+	  
+			</div>	 
+				
+							
+		
+		 
+			<div class="tabbed_headline">
+				<a href="http://www.examiner.com/blogs-73-Yeas_and_Nays" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Newspaper Promo'); "><span style="font-size: 22px;">Djimon Hounsou discusses his own homelessness</span></a><br>
+			<span class="new_timestamp">YEAS &amp; NAYS - People, power and politics.</span>
+				<br>	
+			</div>
+		 
+
+		
+	
+			
+			
+						 
+					 
+							
+				
+
+			<div class="tabbed_headline">
+				<a href="http://www.examiner.com/a-1367748~Dufty_seeks_city_study_of_Patrol_Special.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Newspaper Promo'); "><span style="font-size: 22px;">Dufty seeks city study of Patrol Special</span></a><br>
+			<span class="new_timestamp">The San Francisco Examiner - Latest From The Local Section</span>
+				<br>	
+			</div>
+
+		
+	
+			
+			
+			
+					
+				
+
+			<div class="tabbed_headline">
+				<a href="http://www.examiner.com/a-1367220~It_takes_more_than_PR_to_reduce_violent_crime.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Newspaper Promo'); "><span style="font-size: 22px;">It takes more than PR to reduce violent crime</span></a><br>
+			<span class="new_timestamp">NATIONAL EDITORIAL - The Examiner's viewpoint</span>
+				<br>	
+			</div>
+
+		
+
+	
+			
+			
+				
+							
+		
+		 
+			<div class="tabbed_headline">
+				<a href="http://www.examiner.com/blogs-11-beeler" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Newspaper Promo'); "><span style="font-size: 22px;">The Economic Pacifier</span></a><br>
+			<span class="new_timestamp">EDITORIAL CARTOONS BY NATE BEELER - Commentary from the artist.</span>
+				<br>	
+			</div>
+		 
+
+		
+	
+			
+			
+			<br>
+				
+			
+			
+			
+			
+			
+			
+		
+			
+			
+			
+		
+			
+			
+			
+		
+		
+		
+			
+			
+			<div class="section_title_dot"></div>
+					<div class="breadcrumb">Entertainment</div>
+					 <div class="thincolunderline" style="margin-bottom:10px"></div>
+			
+		
+			
+							
+				<div id="NewsroomSection">
+					
+
+		
+		
+		
+		
+		
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+			
+			
+	
+	
+	
+	
+		
+		 
+		
+		 
+			
+			
+		
+		 
+		
+		 						
+	
+		
+
+	
+	
+			
+	
+	
+		
+				
+					
+			
+				
+				
+				
+				
+					
+					
+					
+				
+				
+	
+									
+	
+	
+		
+			
+			
+			
+		
+		
+	
+		
+	
+						
+		
+			<div class="linklist_headline">
+	<table border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td> 
+	
+			
+				<a href="http://www.examiner.com/a-1367342~Kelley_Deal_knits_up_new_recording.html">Kelley Deal knits up new recording</a>
+			
+				 
+			</td>
+		</tr>
+		<tr valign="top">
+			<td>
+			
+			
+						
+								
+					<a href="http://www.examiner.com/a-1367342~Kelley_Deal_knits_up_new_recording.html"><img src="http://www.examiner.com/images/newsroom/small/small_9CE9866C-3048-7D2A-C27FDF10E873D1E5.jpg" alt="Twin sisters Kim Deal, left, and Kelley Deal lead The Breeders onstage at Slim’s in San Francisco today." border="0" align="left" class="img_left" width="180" height="113"></a>		
+				
+			
+									
+										
+			<div id="panel_leadstory">						
+				<span class="new_timestamp">
+					
+					
+					by Tom Lanham
+				</span>
+				
+					<br/>
+				
+				
+			
+				
+					
+					
+					
+									
+						
+					
+				
+				
+	
+
+				
+				
+					
+				
+			
+				
+					If possible, Breeders guitarist Kelley Deal would like to clear up a little misconception about her past: that in a notorious 1995 incident she FedEx-ed herself a packet of smack, leading to her arrest and subsequent rehab.  
+				
+			
+			</div>
+	
+		 </td>
+			
+		</tr>
+		</table>		
+
+	</div>
+							
+				</div>
+				
+			
+				 			
+		 	<br>
+		
+
+
+			
+			
+						
+			
+				
+					
+					<script language="JavaScript">
+						GA_googleFillSlot("Section_Front-300x250-A");
+					</script>		
+				
+			
+			
+			
+			
+			
+				<br>
+				<div class="classifieds_title_dot"></div> 
+		<div class="breadcrumb"> More from the Newsroom</div>
+		<div class="thincolunderline" style="margin-bottom: 10px;"> </div>
+				 
+				<div style="margin-top: 8px; margin-bottom: 16px;">
+											
+							
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+	
+	
+		
+		
+	
+		
+
+	
+
+	
+			
+			
+	
+	
+	 
+	<div>
+		
+				
+		
+				
+		
+						
+			<div id="feature_no_top">
+				
+				
+					
+					
+	      	        	<div class="tabbed_headline">
+							
+								<a href="http://www.examiner.com/a-1367339~Mental_illness_and_murder.html">Mental illness and murder</a>
+								
+								
+							
+						</div>
+					
+       	     	
+			</div>
+				
+		
+
+	</div>
+		
+
+				</div>
+				<br>
+			
+			
+			
+		
+		
+			
+		
+		<div class="classifieds_title_dot"></div> 
+		<div class="breadcrumb"> San Francisco Classifieds</div>
+		<div class="thincolunderline" style="margin-bottom: 10px;"> </div>
+
+		<div style="width:300px; ">
+			
+	
+	<!-- new code -->
+	
+		
+	
+	
+		
+		
+		
+			
+			
+		
+		
+		
+	
+
+	
+		
+
+
+	<div style="font-size:10px;">
+	<div style="float:right; padding-left:10px">
+  	<img src="http://www.examiner.com/img/monster/monsterintro_classifieds.gif" width="111" height="82"/></div>
+	
+	<span style="font-size:14px;"><strong>Jobs</strong></span><br/>
+	
+	
+		Browse all San Francisco<br> employment listings to find<br>your next dream job.<br><br> <a href="http://sfexaminer.monster.com/search.aspx?cnme=San Francisco&amp;sid=11&amp;rad=50&amp;re=93">Browse all San Francisco jobs...</a>
+		
+	<div style="padding-top:5px; margin-bottom;5px; font-size:5px"></div>
+		<form id="shortsearch" method="get" action="http://sfexaminer.monster.com/search.aspx" style="margin: 0px; padding: 0px;">
+		<input id="q" name="keyword" type="text" value="Search San Francisco Jobs" size="43" style="color:#999999" onclick="clickclear(this, 'Search San Francisco Jobs')" onblur="clickrecall(this,'Search San Francisco Jobs')">
+        <input type="hidden" value="us" id="cy" name="cy"/>
+		
+ 		<input type="image" name="submit" src="http://www.examiner.com/img/classified/searchJobs.gif"/> 
+    	</form>
+		
+		
+	
+	
+	</div>
+	<div style=" border-bottom:1px dotted #333333; margin:10px 0;"> </div>
+
+
+			
+	
+	<!-- new code -->
+	
+		
+	
+	
+		
+		
+		
+		
+	
+
+	
+		
+
+
+	<div style="font-size:10px;">
+	<div style="float:right; padding-left:10px">
+  	<img src="http://www.examiner.com/img/classified/car.jpg" width="111" height="82"/></div>
+	
+	<span style="font-size:14px;"><strong>Autos</strong></span><br/>
+	
+	
+		
+		
+			
+		<a href="
+		
+		
+			http://sanfranciscoautos.examiner.com/Search.Autos.byMake.asp">Used Cars</a><br/>
+			<a href="
+		
+		
+			http://sanfranciscoautos.examiner.com/autos.buildnew.asp">New Cars</a><br/>
+			<a href="
+		
+		
+			http://sanfranciscoautos.examiner.com/Autos.finddealer.asp">Find a Dealer</a><br/>
+			<a href="
+		
+		
+			http://sanfranciscoautos.examiner.com/autos.research.asp">Reviews</a><br/>
+			<a href="
+		
+		
+			http://sanfranciscoautos.examiner.com/compare.asp">Compare Cars</a><br/>
+			<a href="
+		
+		
+			http://sanfranciscoautos.examiner.com">....More</a>		
+		
+	
+	
+	</div>
+	<div style=" border-bottom:1px dotted #333333; margin:10px 0;"> </div>
+
+
+			
+	
+	<!-- new code -->
+	
+		
+	
+	
+		
+		
+		
+		
+	
+
+	
+		
+
+
+	<div style="font-size:10px;">
+	<div style="float:right; padding-left:10px">
+  	<img src="http://www.examiner.com/img/classified/homes.jpg" width="111" height="82"/></div>
+	
+	<span style="font-size:14px;"><strong>Homes</strong></span><br/>
+	
+	
+		
+		
+			
+ 		Apartments and Condos,<br> Vacation Property, Mobile<br> Homes, Commercial,<br> Homes and
+		<a href="http://www.examiner.com/classified/index.cfm?action=EstateResult&amp;SetCity=San_Francisco&amp;function=estateCategory&amp;category=0&amp;cid="> more...</a>
+		
+		<div style="padding-top:5px; margin-bottom;5px; font-size:5px"></div>
+		<form action="http://www.examiner.com/classified/index.cfm?action=EstateResult&amp;SetCity=San_Francisco" method="post" style="margin: 0px; padding: 0px;">
+		<input id="q" name="keyword" type="text" value="Search San Francisco Homes" size="43" style=" color:#999999" onclick="clickclear(this, 'Search San Francisco Homes')" onblur="clickrecall(this,'Search San Francisco ')">
+		<input name="function" value="AdvanceSearch" type="hidden">
+		<input type="image" name="submit" src="http://www.examiner.com/img/classified/searchHomes.gif" title="submit"/>
+		<input type="hidden" name="cid" value=""/>
+		</form>
+		</center>
+	
+	
+	</div>
+	<div style=" border-bottom:1px dotted #333333; margin:10px 0;"> </div>
+
+
+			
+	
+	<!-- new code -->
+	
+		
+	
+	
+		
+		
+		
+		
+	
+
+	
+		
+
+
+	<div style="font-size:10px;">
+	<div style="float:right; padding-left:10px">
+  	<img src="http://www.examiner.com/img/classified/other.jpg" width="111" height="82"/></div>
+	
+	<span style="font-size:14px;"><strong>Other</strong></span><br/>
+	
+	
+		
+		
+			
+ 		Miscellaneous, Public <br> Notices, Furniture, <br> Computer, Garage Sales,<br> and
+		<a href="http://www.examiner.com/classified/index.cfm?action=otherResult&amp;SetCity=San_Francisco&amp;function=otherCategory&amp;category=0&amp;cid="> more...</a>
+		
+		<div style="padding-top:5px; margin-bottom;5px; font-size:5px"></div>
+		<form action="http://www.examiner.com/classified/index.cfm?action=otherResult&amp;SetCity=San_Francisco" method="post" style="margin: 0px; padding: 0px;">
+		<input id="q" name="keyword" type="text" value="Search San Francisco Other" size="43" style=" color:#999999" onclick="clickclear(this, 'Search San Francisco Other')" onblur="clickrecall(this,'Search San Francisco ')">
+		<input name="function" value="AdvanceSearch" type="hidden">
+		<input type="image" name="submit" src="http://www.examiner.com/img/classified/searchOther.gif" title="submit"/>
+		<input type="hidden" name="cid" value=""/>
+		</form>
+		</center>
+	
+	
+	</div>
+	<div style=" border-bottom:1px dotted #333333; margin:10px 0;"> </div>
+
+
+		</div>
+
+			
+			
+		 
+		</td>
+	</tr>
+</table> 
+
+
+
+
+
+
+
+<!-- footer template begins here -->
+ 
+
+
+
+
+<div style="clear:right;"></div> 
+ 
+<div class="footermap"><table width="900" border="1" cellpadding="10" cellspacing="0" class"footer_text" bordercolor="#999999" style="border:1px solid #999999">
+      <tr>
+<td width="20%" valign="top" style="border:1px solid #e2e2e2">
+ <p>
+ <a href="http://www.examiner.com/san_francisco" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Home'); "><strong>Home</strong></a><br/>
+ <p>
+ <a href="http://www.examiner.com/San_Francisco-Examiners.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Examiners'); "><strong>Examiners</strong></a><br/>
+ <p>
+ <a href="http://www.examiner.com/San_Francisco-News.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-News'); "><strong>News</strong></a><br/>
+<a href="http://www.examiner.com/San_Francisco-Local_News.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Local_News'); ">Local News</a><br/>
+<a href="http://www.examiner.com/City-San_Francisco-c10-California.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-San_Francisco'); ">San Francisco</a><br/>
+<a href="http://www.examiner.com/Topic-Redwood_City.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Peninsula'); ">Peninsula</a><br/>
+<a href="http://www.examiner.com/Topic-San_Jose.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-San_Jose'); ">San Jose</a><br/>
+<a href="http://www.examiner.com/State-California.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-California'); ">California</a><br/>
+<a href="http://www.examiner.com/US.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-US'); ">US</a><br/>
+<a href="http://www.examiner.com/World.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-World'); ">World</a><br/>
+</td><td width="20%" valign="top" style="border:1px solid ##e2e2e2">
+ <p>
+ <a href="http://www.examiner.com/San_Francisco-Politics.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Politics'); "><strong>Politics</strong></a><br/>
+<a href="http://www.examiner.com/San_Francisco-Local_Politics.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Local_Politics'); ">Local Politics</a><br/>
+<a href="http://www.examiner.com/Topic-White_House.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-White_House'); ">White House</a><br/>
+<a href="http://www.examiner.com/Topic-Iraq_War.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Iraq'); ">Iraq</a><br/>
+<a href="http://www.examiner.com/Topic-2008_Trail.html?cid=tpc-nav-racefor2008" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Race_for_2008'); ">Race for 2008</a><br/>
+ <p>
+ <a href="http://www.examiner.com/San_Francisco-Entertainment.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Entertainment'); "><strong>Entertainment</strong></a><br/>
+<a href="http://www.examiner.com/San_Francisco-Local_Entertainment.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Local_Entertainment'); ">Local Entertainment</a><br/>
+<a href="http://www.examiner.com/Topic-Examiner_Movie_Reviews.html?cid=tpc-nav-moviereviews" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Movie_Reviews'); ">Movie Reviews</a><br/>
+<a href="http://www.examiner.com/Movies.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Movies'); ">Movies</a><br/>
+<a href="http://www.examiner.com/San_Francisco-Movie_Showtimes.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Movie_Showtimes'); ">Movie Showtimes</a><br/>
+<a href="http://www.examiner.com/TV.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-TV'); ">TV</a><br/>
+<a href="http://www.examiner.com/Music.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Music'); ">Music</a><br/>
+<a href="http://www.examiner.com/Topic-by_Patricia_Unterman.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Dining_Reviews'); ">Dining Reviews</a><br/>
+<a href="http://events.examiner.com/San_Francisco/" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Events_Calendar'); ">Events Calendar</a><br/>
+<a href="http://www.examiner.com/San_Francisco-Strange.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Strange'); ">Strange</a><br/>
+</td><td width="20%" valign="top" style="border:1px solid ##e2e2e2">
+ <p>
+ <a href="http://www.examiner.com/San_Francisco-Sports.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Sports'); "><strong>Sports</strong></a><br/>
+<a href="http://www.examiner.com/San_Francisco-Local_Sports.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Local_Sports'); ">Local Sports</a><br/>
+<a href="http://www.examiner.com/Topic-San_Francisco_49ers.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-49ers'); ">49ers</a><br/>
+<a href="http://www.examiner.com/Topic-San_Francisco_Giants.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Giants'); ">Giants</a><br/>
+<a href="http://www.examiner.com/Topic-Oakland_Raiders.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Raiders'); ">Raiders</a><br/>
+<a href="http://www.examiner.com/Topic-Oakland_Athletics.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Athletics'); ">Athletics</a><br/>
+<a href="http://www.examiner.com/Topic-San_Jose_Sharks.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Sharks'); ">Sharks</a><br/>
+<a href="http://www.examiner.com/Topic~Golden_State_Warriors.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Warriors'); ">Warriors</a><br/>
+<a href="http://www.examiner.com/NASCAR.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-NASCAR'); ">NASCAR</a><br/>
+<a href="http://www.examiner.com/Basketball.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Basketball'); ">Basketball</a><br/>
+<a href="http://www.examiner.com/College.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-College'); ">College</a><br/>
+<a href="http://www.examiner.com/Football.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Football'); ">Football</a><br/>
+<a href="http://www.examiner.com/Soccer.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Soccer'); ">Soccer</a><br/>
+<a href="http://www.examiner.com/Topic-NHL.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Hockey'); ">Hockey</a><br/>
+<a href="http://www.examiner.com/Topic-Baseball.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Baseball'); ">Baseball</a><br/>
+ <p>
+ <a href="http://www.examiner.com/San_Francisco-Business.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Business'); "><strong>Business</strong></a><br/>
+<a href="http://www.examiner.com/San_Francisco-Local_Business.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Local_Business'); ">Local Business</a><br/>
+<a href="http://www.examiner.com/San_Francisco-Technology.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Technology'); ">Technology</a><br/>
+<a href="http://www.examiner.com/San_Francisco-Science.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Science'); ">Science</a><br/>
+<a href="http://www.examiner.com/Stock_Market.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Stock_Market'); ">Stock Market</a><br/>
+<a href="http://www.examiner.com/Stock_Quotes.html?osymb=&amp;siteid=C69D5445-446A-4BB3-97CB-BDBCBA2EC990&amp;symb=GE" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Stock_Quotes'); ">Stock Quotes</a><br/>
+<a href="http://www.examiner.com/Releases.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-News_Releases'); ">News Releases</a><br/>
+</td><td width="20%" valign="top" style="border:1px solid ##e2e2e2">
+ <p>
+ <a href="http://www.examiner.com/San_Francisco-Health.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Health'); "><strong>Health</strong></a><br/>
+ <p>
+ <a href="http://www.examiner.com/classified/index.cfm?setCity=San_Francisco" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Classifieds'); "><strong>Classifieds</strong></a><br/>
+ <p>
+ <a href="http://sanfranciscoautos.examiner.com/" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Autos'); "><strong>Autos</strong></a><br/>
+<a href="http://sanfranciscoautos.examiner.com/autos.home.asp" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Autos_Home'); ">Autos Home</a><br/>
+<a href="http://sanfranciscoautos.examiner.com/Search.Autos.byMake.asp" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Used_Cars'); ">Used Cars</a><br/>
+<a href="http://sanfranciscoautos.examiner.com/autos.buildnew.asp" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-New_Cars'); ">New Cars</a><br/>
+<a href="http://sanfranciscoautos.examiner.com/SellVehicle.asp" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Sell_a_Vehicle'); ">Sell a Vehicle</a><br/>
+<a href="http://sanfranciscoautos.examiner.com/Autos.finddealer.asp" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Find_a_Dealer'); ">Find a Dealer</a><br/>
+<a href="http://sanfranciscoautos.examiner.com/autos.research.asp" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Research_a_Vehicle'); ">Research a Vehicle</a><br/>
+ <p>
+ <a href="http://www.examiner.com/monster" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Jobs'); "><strong>Jobs</strong></a><br/>
+ <p>
+ <a href="http://www.examiner.com/San_Francisco-Real_Estate.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Real_Estate'); "><strong>Real Estate</strong></a><br/>
+ 
+<br/>
+<strong>Also Visit:</strong><br>
+<p><a href="http://www.walden.com/walden/index.php" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Family_Movies_and_Books'); ">Family Movies and Books</a><br>
+<span style="font-size:10px; font-weight:bold; color:#696969 
+ ;">from Walden Media</span></p>
+<p><a href="http://aegworldwide.com/home.html" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Venues_Sports_and_Music'); ">Venues, Sports and Music</a><br>
+<span style="font-size:10px;font-weight:bold; color:#696969 
+ ;">from AEG Worldwide</span></p>
+<p><a href="http://aeglive.com/" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Concerts_Artists_and_Tickets'); ">Concerts, Artists and Tickets</a><br>
+<span style="font-size:10px;font-weight:bold; color:#696969 
+ ;">from AEG Live</span></p>
+<p><a href="http://www.forbetterlife.org/" onclick="var s=s_gi('examinercom'); s.tl(this,'o','Nav-Be_Inspired_-_Quotes_and_Stories'); ">Be Inspired - Quotes and Stories</a><br>
+<span style="font-size:10px;font-weight:bold; color:#696969 
+ ;">The Foundation for a Better Life</span></p>
+</td>
+     </tr>
+    </table>
+</div>
+</div>
+</div>
+<div id="footer_shadow">
+<div id="footer_shadow_left">
+<div id="footer_shadow_right">
+</div>
+</div>
+ 	</div>
+ <div style="padding-bottom:10px;">&nbsp;</div>
+<div class="text-center"> <div style="float:left; margin-right:50px; margin-left:180px;"> 
+&nbsp;
+<img src="http://www.examiner.com/img/logos/logo-nocity.gif" alt="examiner logo" border="0"/></div>
+  <div style=" float:left; padding-top:1px; vertical-align:middle; float:left; width:305px">
+<div id="search_box">
+<form id="search" name="search" action="http://www.examiner.com/search.html" method="get" style="margin:0;">
+<input name="source" value="all" type="hidden">
+<input name="phrase" value="no" type="hidden">
+<input name="queryType" value="text" type="hidden">
+<input type="text" name="q" id="q" class="swap_value" maxlength="255"/>
+<input type="image" name="submit" src="http://www.examiner.com/img/searchtext.gif" width="42" height="7" id="submit-search" title="submit"/>
+</form>
+</div>
+</div></div>
+<div style="clear:both"></div>
+ 
+        <div align="center" class="footerlinks"><a href="http://www.examiner.com/rss/news_headlines.html">Add News to Your Website</a> | <a href="http://www.examiner.com/rss/">RSS</a> | <a href="http://www.examiner.com/San_Francisco-Topics.html">News by Topic</a> | <a href="http://www.examiner.com/Contact_Us.html">Contact Us</a> | <a href="http://www.examiner.com/join_examiner.html">Join Examiner</a> | <a href="http://www.examiner.com/Terms_of_Use.html">Terms of Use</a> | <a href="http://www.examiner.com/Privacy_Policy.html">Privacy Policy</a>
+<br/>
+Advertise with Examiner: <a href="http://www.examiner.com/advertise/mediakit">In Print</a> | <a href="http://www.examiner.com/advertise">Online</a>
+  </div>
+        <p>
+<center>
+</center>
+</div> 
+</p>
+ 
+
+
+<iframe id="saf" height="1" width="1" style="visibility:hidden" src="http://www.examiner.com/console/_SaveAndFollowUpdateCheck.cfm"></iframe> 
+
+<!--google_ad_section_end(weight=ignore)-->
+
+
+ 	
+
+	
+
+
+
+
+<!-- SiteCatalyst code version: H.4.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+
+	
+
+<script language="JavaScript">
+
+
+s.pageName="Examiner_Newsroom";
+s.server="1038";
+s.channel="Examiner_Newsroom";
+s.pageType="";
+s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+s.prop6="";
+s.prop7="";
+s.prop8="";
+s.prop9="";
+s.prop10="San_Francisco";
+
+s.campaign="";
+s.state="";
+s.zip="";
+s.events="";
+s.products="";
+s.purchaseID="";
+s.eVar1="";
+s.eVar2="";
+s.eVar3="";
+s.eVar4="";
+s.eVar5="San_Francisco";
+s.eVar6="San Francisco";
+
+s.hier1="Examiner_Newsroom";
+
+
+
+
+var s_code=s.t();if(s_code)document.write(s_code);</script>
+<script language="JavaScript">
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
+</script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.4. -->
+
+
+
+
+ 
+
+
+<!-- footer template ends here -->
+
+
+
+
+
+	
+	
+	<center><span style="font-style: italic; font-size: xx-small">(page generated in 0.13 seconds)</span>
+	</center>
+	
+</body>
+</html>
+
+
+
+
+
+
+
+<!--
+     FILE ARCHIVED ON 19:35:45 Apr 30, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:13:23 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 71.69 (3)
+  esindex: 0.017
+  captures_list: 119.232
+  CDXLines.iter: 22.099 (3)
+  PetaboxLoader3.datanode: 95.658 (4)
+  exclusion.robots: 0.366
+  exclusion.robots.policy: 0.341
+  RedisCDXSource: 4.282
+  PetaboxLoader3.resolve: 73.513 (2)
+  load_resource: 118.311
+-->

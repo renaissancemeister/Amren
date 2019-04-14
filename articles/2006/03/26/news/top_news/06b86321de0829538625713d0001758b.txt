@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Northwest Indiana News: nwitimes.com</title>
+</head>
+
+<body><table width="730" border="0" cellpadding="0" cellspacing="0" bgcolor="#dbedff">
+  <tr> 
+    <td align="center" valign="top"><img src="http://nwitimes.com/redesign_images/trans.gif" width="2" height="2"></td>
+    <td align="center" valign="top"><img src="http://nwitimes.com/redesign_images/trans.gif" width="726" height="2"><table width="726" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+        <tr> 
+          <td width="603" colspan="2" align="left" valign="middle" background="http://nwitimes.com/redesign_images/yellow_shade.jpg"> 
+            <div align="right">
+			<a href="http://nwitimes.com/site_pages/about.php" class="boldbluelink">About</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="http://nwitimes.com/site_pages/contacts.php" class="boldbluelink">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="http://nwitimes.com/site_pages/help.php" class="boldbluelink">Help</a>&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href="http://nwitimes.com/site_pages/advertise.php" class="boldbluelink">Advertise</a>&nbsp;&nbsp;</div>
+            <table width="600" border="0" cellspacing="0" cellpadding="0">
+              <tr> 
+                <td width="10"> <p><img src="http://nwitimes.com/redesign_images/trans.gif" width="6" height="6"></p></td>
+                <td width="334" align="center" valign="middle"><a href="http://nwitimes.com/"><img src="http://nwitimes.com/redesign_images/nwitimeslogo.gif" width="334" height="76" border="0"></a> 
+                </td>
+                <td width="10" align="center" valign="middle"><img src="http://nwitimes.com/redesign_images/trans.gif" width="6" height="6"></td>
+                <td align="center" valign="middle">
+				
+<table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#FF9900">
+<tr>
+<td>
+<table border="0" width="100%" cellpadding="0" cellspacing="5" bgcolor="#FFFFFF">
+<tr>
+<td>
+<a href="http://www.nwitimes.com/coupons/couponfront.php"><img src="http://www.thetimesonline.com/art/smallcouponlogo2.gif" width="225" height="36" border="0"></a><br>
+<font size="1" face="Arial, Helvetica, sans-serif">
+<img src="http://www.thetimesonline.com/redesign_images/redarrow.gif" width="7" height="9">
+
+<a href="http://www.nwitimes.com/coupons/couponbiz.php?recid=94"><b>Dr. Arnold</b>: $99 teeth whitening</a>
+
+
+<br>
+<img src="http://www.thetimesonline.com/redesign_images/redarrow.gif" width="7" height="9">
+
+<a href="http://www.nwitimes.com/coupons/couponbiz.php?recid=108"><b>Yancey's:</b> Save $2 per sq. yd!</a>
+
+
+
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+                <td width="10" align="center" valign="middle"><img src="http://nwitimes.com/redesign_images/trans.gif" width="6" height="6"></td>
+              </tr>
+            </table>
+            <img src="http://nwitimes.com/redesign_images/trans.gif" width="603" height="1" border="0"></td>
+          <td width="121"><script type="text/javascript" language="javascript" src="http://adsys.townnews.com/creative/nwitimes.com/circ_promo/static.js"></script></td>
+        </tr>
+      </table>
+      <img src="http://nwitimes.com/redesign_images/navigationbar.gif" width="726" height="25" border="0" usemap="#Map"></td>
+    <td align="center" valign="top"><img src="http://nwitimes.com/redesign_images/trans.gif" width="2" height="2"></td>
+  </tr>
+</table>
+<map name="Map">
+  <area shape="rect" coords="3,2,60,23" href="http://nwitimes.com/lakenews">
+  <area shape="rect" coords="63,2,129,23" href="http://nwitimes.com/porternews">
+  <area shape="rect" coords="132,2,197,24" href="http://nwitimes.com/illiananews">
+  <area shape="rect" coords="199,2,242,24" href="http://nwitimes.com/sports">
+  <area shape="rect" coords="244,2,298,23" href="http://nwitimes.com/business">
+  <area shape="rect" coords="299,2,374,23" href="http://nwitimes.com/entertainment">
+  <area shape="rect" coords="376,2,438,23" href="http://nwitimes.com/community">
+  <area shape="rect" coords="441,2,487,24" href="http://nwitimes.com/opinion">
+  <area shape="rect" coords="490,3,548,23" href="http://nwitimes.com/obituaries">
+  <area shape="rect" coords="550,2,603,23" href="http://nwitimes.com/site_pages/archives.php">
+  <area shape="rect" coords="605,2,724,23" href="http://nwitimes.com/marketplace">
+</map>
+
+
+<table width="730" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td align="left" valign="top">
+	<img src="http://www.thetimesonline.com/art/trans.gif" height="10" width="595"><br>
+	     
+                  <table border="0" width="450" align="center">
+
+                    <tr> 
+
+                      <td><img border="0" src="http://www.thetimesonline.com/content/articles/2006/03/26/news/top_news/06b86321de0829538625713d0001758b.jpg"></td>
+
+                    </tr>
+
+                    <tr> 
+
+                      <td class="cutline">CHRISTOPHER SMITH | THE TIMES
+Members of the Indiana Federation for Immigration Reform and Enforcement and the Chicago Minuteman Project tangle with counterprotesters Saturday morning outside Bank Calumet in Munster. Federation and Minuteman members were protesting the bank offering home loans to undocumented immigrants. A fight broke out between several members of each group, prompting police to separate the two groups of marchers.</td>
+
+                    </tr>
+
+                  </table>
+
+                  <p><span class="blueheadlinelink">Immigration protest erupts in fisticuffs</span></p>
+                  
+                  <span class="s14"><b>PROTEST: Slurs, hot tempers highlight countering demonstrations at Bank Calumet</b></span><br><br>
+
+                  <span class="s12"><b>BY JERRY DAVICH<br><a href="mailto:jdavich@nwitimes.com">jdavich@nwitimes.com</a><br>219.933.3376</b></span><br>
+                  
+                                    <p><span class="grey11"><i>This story ran on nwitimes.com on Sunday, March 26, 2006 12:03 AM CST</i></span></p>
+
+<!--OAS AD-->
+
+<!-- CENTERING SCRIPT-->
+<script language="javascript" type="text/javascript">
+<!--
+
+var agent = navigator.userAgent.toLowerCase();
+if (agent.indexOf("msie") != -1 && agent.indexOf("mac")!=-1){
+   document.write('<table border="0" cellspacing="6" cellpadding="0" align="center">');
+   }
+else {
+
+	document.write('<table border="0" cellspacing="6" cellpadding="0" align="right">');
+	}
+
+			//-->
+</script>
+
+<noscript>
+            <table border="0" cellspacing="6" cellpadding="0" align="right">
+</noscript>
+<!-- END CENTERING SCRIPT-->
+
+
+        <tr> 
+          <td height="1" bgcolor="#FFB239"></td>
+        </tr>
+        <tr>
+          <td align="center" height="49">
+		    <img src="http://www.thetimesonline.com/art/trans.gif" height="6" width="1"><br>
+			<font class="grey10">ADVERTISEMENT</font><br>
+            <img src="http://www.thetimesonline.com/art/trans.gif" height="5" width="1"><br>
+            <script type="text/javascript" language="javascript">
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+if ((nAdsysTime >= 1107583200) && (nAdsysTime <= 1438837199)) {
+aAd = new Array('news+top_news+article.1','13415', 'jpg');
+aAd[3] = 'http://iun.edu/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1104213600) && (nAdsysTime <= 1419573599)) {
+aAd = new Array('news+top_news+article.1','13632', 'gif');
+aAd[3] = 'http://www.strackandvantil.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1130302800) && (nAdsysTime <= 1461733199)) {
+aAd = new Array('news+top_news+article.1','33139', 'jpg');
+aAd[3] = 'http://www.hfsbank.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1138946400) && (nAdsysTime <= 1454565599)) {
+aAd = new Array('news+top_news+article.1','39395', 'jpg');
+aAd[3] = 'http://www.remusfarms.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+displayAd('http://adsys.townnews.com/', 'nwitimes.com', aAds);
+</script><br>
+			<img src="http://www.thetimesonline.com/art/trans.gif" height="10" width="1"><br>
+			</td>
+        </tr>
+        <tr>
+          <td height="1" bgcolor="#FFB239"></td>
+        </tr>
+      </table>
+      
+<!--END OAS AD-->
+            
+             <p class="s14">MUNSTER I Blaring car horns, racist slurs and angry fisticuffs punctuated a volatile encounter of protesters and counter-protesters Saturday morning outside Bank Calumet.<br/><br/>"God bless America! Stay out of our business!" yelled members of the locally based Indiana Federation for Immigration Reform and Enforcement.</p>
+                   
+                   
+                   
+      <p class="s14">"Go home (expletive) Nazi racists!" yelled members of an opposing group of circling counterprotesters.<br/><br/>The federation, a public interest organization advocating what it calls immigration policies with an impact, demonstrated against bank loans for undocumented aliens, echoing six similar previous local protests.<br/><br/>Several members of the Chicago Minuteman Project joined the federation, hoisting protest signs to passing motorists and exchanging verbal jabs with visibly angry counterprotesters.<br/><br/>"We're not racists, we're LEGAL Americans," Minuteman members yelled under American flags whipping in a fierce wind. "Those people are Communists."<br/><br/>The counterprotesters -- some from the Progressive Labor Party of Chicago, others from Purdue University Calumet or there on their own -- chanted in bilingual defiance: "&#161;Obreros unidos jamas seran vencidos!" or, "Workers united will never be defeated!"<br/><br/>Susana Findley, a Gary native whose parents were born in Mexico, said illegal immigrant workers arrived here for the same reason federation members' ancestors arrived: To find work and a better life.<br/><br/>"But those racist immigrants forget about that," said Findley, nodding toward the federation's camp.<br/><br/>Several counterprotesters arrived earlier than the scheduled 10 a.m. federation protest, setting up shop at the corner of Calumet Avenue and Ridge Road.<br/><br/>When 63-year-old Chicago Minuteman member Rick Biesada arrived and pulled out his protest sign, he claimed that two counterprotesters yanked it from him. When he yanked it back, the men assaulted him, knocking him to the ground, he said.<br/><br/>The Lindenhurst, Ill., resident was treated by paramedics at the scene for a gash over his eye and dizziness, spending a few minutes inside an ambulance before returning to the protest.<br/><br/>"I wished he fell to the ground harder," Findley said.<br/><br/>Munster police Sgt. Nick Hudak, one of several officers showing up to stand between the opposing groups, said no arrests were made and no other injuries occurred.<br/><br/>Protesters on both sides said the escalating debate over U.S. House Bill 4437, the so-called Border Security bill, may have inflamed the controversy of offering bank loans to illegal aliens.<br/><br/>The bill, which would strengthen enforcement of existing immigration laws and enhance border security, has already passed the House and could be voted on by the Senate as early as this week.<br/><br/>Federation co-founder and Valparaiso resident Cheree Calabro, while passing out fliers to motorists, said similar demonstrations at Bank Calumet had no such problems with counterprotesters.<br/><br/>"I think they're feeling more emboldened with all the national protests (supporting illegal immigration)," said Calabro, whose group is the Indiana chapter of the national Minuteman Project.</p>
+      
+
+<p><table border="0" width="450" align="center"> <tr> <td><img border="0" src="http://www.thetimesonline.com/content/articles/2006/03/26/news/top_news/06b86321de0829538625713d0001758b1.jpg"></td> </tr> 
+<tr> <td class="cutline">CHRISTOPHER SMITH | THE TIMES
+Protesters scuffle Saturday morning outside Bank Calumet in Munster. Police had to get in between members of groups that included the Indiana Federation for Immigration Reform and Enforcement and the Chicago Minuteman Project on one side and the Progressive Labor Party of Chicago, a group from Purdue University Calumet and individuals on the other.</td> </tr> 
+</table>
+<table border="0" width="" align="center"> <tr> <td></td> </tr> 
+<tr> <td class="cutline"></td> </tr> 
+</table>
+<table border="0" width="" align="center"> <tr> <td></td> </tr> 
+<tr> <td class="cutline"></td> </tr> 
+</table></p>
+
+
+
+<p class="bluelink" align="center"><a href="http://www.thetimesonline.com/articles/2006/03/26/news/top_news/4e21dc987c82298f8625713d0001749f.txt"><b>Next Story: The long road ahead  &gt;&gt;</b></a></p>
+      <p align="center">
+                     
+                    <a href="http://www.thetimesonline.com/articles/2006/03/26/news/top_news/06b86321de0829538625713d0001758b.eml" target="emailafriend"><img src="http://www.thetimesonline.com/art/email_icon.gif" width="20" height="20" border="0"></a>&nbsp;&nbsp;<a href="http://www.thetimesonline.com/articles/2006/03/26/news/top_news/06b86321de0829538625713d0001758b.prt" target="printable"><img src="http://www.thetimesonline.com/art/printable_icon.gif" width="20" height="20" border="0"></a>&nbsp;&nbsp;<a href="http://www.thetimesonline.com/site_pages/archives.php"><img src="http://www.thetimesonline.com/art/searcharchives_icon.gif" width="20" height="20" border="0"></a>
+                                        &nbsp;<a href="http://nwitimes.com/bb/"><img src="http://www.thetimesonline.com/art/readerforumsmall.gif" border="0"></a>&nbsp;&nbsp;<a href="http://nwitimes.mycapture.com/mycapture/index.asp"><img src="http://www.thetimesonline.com/art/buyphotosmall.gif" border="0"></a></p>
+
+      <p class="bluelink" align="center"><a href="#top">Back to top</a> | <a href="http://www.thetimesonline.com/">Return 
+        to homepage</a> | 
+
+<a href="http://www.thetimesonline.com/news#top_news">More stories from Top News</a>
+                  
+<br><br>
+
+<div class="text-center"><!-- Creative for 416 x 144 format -->
+<script type="text/javascript" language="JavaScript">
+<!--
+google_ad_client = 'lee_416x144';
+google_ad_width = 416;
+google_ad_height = 144;
+google_ad_format = '416x144_new';
+google_safe = 'high';
+// -->
+</script>
+<script type="text/javascript" language="JavaScript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+<noscript>
+<img height="1" width="1" border="0" src="http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-lee_4
+16x144&amp;event=noscript"/>
+</noscript>
+</div>
+
+<br><br>
+
+    </td>
+    <td height="707" align="left" valign="top"><img src="http://www.thetimesonline.com/art/trans.gif" height="1" width="10"><br>
+    </td>
+    <td align="left" valign="top" width="121"> 
+      <div class="text-center"><img src="http://www.thetimesonline.com/art/trans.gif" height="1" width="124"><br>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr> 
+            <td height="5" colspan="2">&nbsp;</td>
+            <td height="11" rowspan="3" align="center" valign="middle" class="boldred11" width="70"> 
+              <div class="text-center">[EXTRAS]</div>
+            </td>
+            <td height="5" width="30">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td height="1" colspan="2" bgcolor="#FFB239"><img src="http://www.thetimesonline.com/art/trans.gif" height="1" width="1"></td>
+            <td height="1" bgcolor="#FFB239" width="10"><img src="http://www.thetimesonline.com/art/trans.gif" height="1" width="1"></td>
+          </tr>
+          <tr> 
+            <td height="11" rowspan="2" bgcolor="#FFB239" width="1"><img src="http://www.thetimesonline.com/art/trans.gif" height="1" width="1"></td>
+            <td height="5" width="20">&nbsp;</td>
+            <td height="5" width="30">&nbsp;</td>
+          </tr>
+          <tr> 
+            <td colspan="3"> 
+              <table width="124" border="0" cellspacing="0" cellpadding="0" height="114" align="center">
+                <tr> 
+                  <td width="10" height="155">&nbsp;</td>
+                  <td width="115" class="grey11" height="155" align="left" valign="top">
+				  
+                     
+                    <a href="http://www.thetimesonline.com/articles/2006/03/26/news/top_news/06b86321de0829538625713d0001758b.eml" target="emailafriend"><img src="http://www.thetimesonline.com/art/email.gif" width="97" height="26" border="0"></a><br><br>
+                    <a href="http://www.thetimesonline.com/articles/2006/03/26/news/top_news/06b86321de0829538625713d0001758b.prt" target="printable"><img src="http://www.thetimesonline.com/art/printable.gif" width="112" height="26" border="0"></a><br><br>
+					<a href="http://www.thetimesonline.com/site_pages/archives.php"><img src="http://www.thetimesonline.com/art/searcharchives.gif" width="113" height="26" border="0"></a><br><br>
+					<img src="http://www.thetimesonline.com/art/trans.gif" height="2" width="1"><br><a href="http://nwitimes.com/bb/"><img src="http://www.thetimesonline.com/art/readerforum.gif" border="0"></a><br><br>
+					<img src="http://www.thetimesonline.com/art/trans.gif" height="6" width="1"><br><a href="http://nwitimes.mycapture.com/mycapture/index.asp"><img src="http://www.thetimesonline.com/art/buyphoto.gif" border="0"></a><br><br>
+<br><br>
+
+
+					</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+</table>
+  
+<!--ROS ADS--> 
+<div align="left"> 
+  <table width="730" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td colspan="10" bgcolor="#B2CCE5"><img src="http://www.thetimesonline.com/art/trans.gif" width="730" height="1"></td>
+    </tr>
+    <tr align="left" valign="top"> 
+      <td width="20%"> 
+        <form method="post" action="http://www.nwitimes.com/comment/comment.php" name="comment_form" style="display:inline">
+          <font face="Verdana, Arial, Helvetica, sans-serif" size="1"> <b>Feedback 
+          Form</b></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
+          Questions, comments, concerns? E-mail us!</font> 
+      </td>
+      <td width="20%"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Your 
+        e-mail address:</b></font><br>
+        <input type="text" name="email" size="15">
+      </td>
+      <td width="50%"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Your 
+        comment/question:</b></font><br>
+        <textarea name="comment" cols="40" rows="1"></textarea>
+        <input type="hidden" name="url" value="http://www.thetimesonline.com/articles/2006/03/26/news/top_news/06b86321de0829538625713d0001758b.txt">
+        <br>
+        <br>
+      </td>
+      <td width="10%" valign="middle"><br>
+        <br>
+        <input type="submit" name="submit" value="submit">
+        </form>
+      </td>
+    </tr>
+    <tr> 
+      <td bgcolor="#B2CCE5" colspan="4"><img src="http://www.thetimesonline.com/art/trans.gif" height="1" width="730"></td>
+    </tr>
+  </table>
+  <table width="730" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td><img src="http://www.thetimesonline.com/art/trans.gif" height="5" width="300"></td>
+    </tr>
+    <tr> 
+      <td>
+        <table width="100%" border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td bgcolor="#DBEDFF"> 
+              <div class="text-center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The 
+                Times reads all the e-mails we receive from this form and while 
+                we very much appreciate your feedback, we will not be able to 
+                respond to each one. If your comment requires a response, please 
+                call us at 219-933-3200. Thank you!</font></div>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr> 
+      <td><img src="http://www.thetimesonline.com/art/trans.gif" height="5" width="300"></td>
+    </tr>
+  </table>
+  <table width="730" border="0" cellspacing="0" cellpadding="0" height="21">
+    <tr> 
+      <td colspan="3" bgcolor="#B2CCE5"><img src="http://www.thetimesonline.com/art/trans.gif" height="1" width="730"></td>
+    </tr>
+    <tr> 
+      <td height="1" bgcolor="#FFFFE5"> 
+        <table width="488" border="0" cellspacing="0" cellpadding="0" align="center">
+          <tr> 
+            <td colspan="3"> 
+              <div class="text-center"><font class="grey10"><img src="http://www.thetimesonline.com/art/trans.gif" height="4" width="488"><br>
+                ADVERTISEMENTS</font><br>
+                <img src="http://www.thetimesonline.com/art/trans.gif" height="4" width="488"></div>
+            </td>
+          </tr>
+          <tr> 
+            <td width="234" align="right" valign="middle"> 
+              <div align="right"> 
+               
+                <script type="text/javascript" language="javascript" src="http://adsys.townnews.com/creative/nwitimes.com/rosleft/static.js"></script>
+              </div>
+            </td>
+            <td width="20"> 
+              <div class="text-center"><img src="http://www.thetimesonline.com/art/orange_box.gif" height="60" width="1"></div>
+            </td>
+            <td width="234" align="left" valign="middle"> 
+              <div align="left"> 
+                
+                <script type="text/javascript" language="javascript" src="http://adsys.townnews.com/creative/nwitimes.com/rosright/static.js"></script>
+              </div>
+            </td>
+          </tr>
+          <tr> 
+            <td colspan="3"><img src="http://www.thetimesonline.com/art/trans.gif" height="6" width="488"></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr> 
+      <td bgcolor="#FFCC99" height="20"> 
+        <div align="center" class="grey11"> <a href="http://nwitimes.com/lakenews" class="bluelink2">Lake 
+          News </a> | <a href="http://nwitimes.com/porternews" class="bluelink2">Porter 
+          News</a> | <a href="http://nwitimes.com/illiananews" class="bluelink2">Illiana 
+          News</a> | <a href="http://nwitimes.com/sports" class="bluelink2">Sports</a> 
+          | <a href="http://nwitimes.com/business" class="bluelink2">Business</a> 
+          | <a href="http://nwitimes.com/features" class="bluelink2">Features</a> 
+          | <a href="http://www.thetimesonline.com/community" class="bluelink2">Community</a> | <a href="http://nwitimes.com/opinion" class="bluelink2">Opinion</a> 
+          | <a href="http://www.people2people.com/?connect=munster" class="bluelink2" target="_blank">Personals</a> 
+          | <a href="http://legacy.com/nwitimes" class="bluelink2">Obituaries</a> 
+          | <a href="http://marketplace.nwitimes.com/" class="bluelink2" target="_blank">Classifieds</a> 
+          | <a href="http://nwitimes.com/site_pages/archives.php" class="bluelink2">Archives</a> 
+        </div>
+      </td>
+    </tr>
+    <tr> 
+      <td height="1" bgcolor="#B2CCE5"><img src="http://www.thetimesonline.com/art/trans.gif" height="1" width="730"></td>
+    </tr>
+  </table>
+  <table width="730" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td> </td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="center" class="grey10">Copyright &copy; 1996-2006 nwitimes.com. 
+          Reproduction or redistribution of content is expressly forbidden without 
+          the express written consent of nwitimes.com.<br>
+          <a href="http://www.thetimesonline.com/site_pages/policy.php" class="bluelink">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.thetimesonline.com/site_pages/DNCpolicy.php" class="bluelink">Do Not Call Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.thetimesonline.com/site_pages/ethicspolicy.php" class="bluelink">Ethics Policy</a></div>
+      </td>
+    </tr>
+  </table>
+</div>
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 20:45:38 Apr 23, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:46:10 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 160.909 (3)
+  esindex: 0.024
+  captures_list: 185.915
+  CDXLines.iter: 17.677 (3)
+  PetaboxLoader3.datanode: 76.796 (4)
+  exclusion.robots: 0.271
+  exclusion.robots.policy: 0.255
+  RedisCDXSource: 2.439
+  PetaboxLoader3.resolve: 43.548
+  load_resource: 104.649
+-->

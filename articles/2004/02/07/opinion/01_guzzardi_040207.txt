@@ -1,0 +1,1084 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>U.S. not speeding toward 'ethnic ambiguity'</title>
+</head>
+<body>
+<script type="text/javascript" src="http://lodinews.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('lodinews.com'); TNTracker.setTracker('http://lodinews.com/shared-content/stats/common/tracker.gif', 'https://secure.townnews.com/shared-content/stats/common/tracker.gif'); TNTracker.trackPageView(); }
+// -->
+</script>
+<!--Open pagewidth div - sets overall page width -->
+<div id="pagewidth">
+<!-- Open header div -->
+<!-- Extra style attribute is for IE5 Mac only -->
+<div id="header">
+<!-- Open header content div -->
+<div class="content">
+<!-- Open logo div -->
+<div id="logo">
+<a href="http://lodinews.com/"><img src="http://lodinews.com/art/lodinews_logo.gif" alt="Lodinews.com: Web site of the Lodi (California) News-Sentinel" width="229" height="56"/></a>
+<!-- Close logo div -->
+</div>
+<!-- Open sponsor div -->
+<div id="sponsor">
+
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"/></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1162339200) && (nAdsysTime <= 1228089599)) {
+aAd = new Array('opinion+sponsor', '9339-1200506831', 'jpg');
+aAd[3] = 'http://www.lodifuneralhome.com/';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1218067200) && (nAdsysTime <= 1223596799)) {
+aAd = new Array('opinion+sponsor', '115927-1222268510', 'jpg');
+aAd[3] = 'http://palmerftp.com/lp/Lodi/index_Lodi.html';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'lodinews.com', aAds, aCampaigns);
+
+// -->
+</script> 
+<!-- Close sponsor div -->
+</div>
+<!-- Clearing div -->
+<br class="p7TPclear"/>
+<!-- Close header content div -->
+</div>
+<!-- Close header div -->
+</div>
+<!-- Horizontal navigation strip -->
+<div id="navbar">
+<ul id="p7PMnav">
+
+<li><a href="http://www.lodinews.com/">Home</a></li>
+
+<li><a href="http://www.lodinews.com/news/" class="p7PMtrg">News</a>
+<ul>
+<li><a href="http://www.lodinews.com/news/" class="p7PMtrg">Local</a>
+<ul>
+<li><a href="http://www.lodinews.com/archives/">Archives</a></li>
+<li><a href="http://www.lodinews.com/business/">Business</a></li>
+
+<li><a href="http://www.lodinews.com/features/" class="p7PMtrg">Features</a>
+
+<ul>
+<li><a href="http://www.lodinews.com/readers/clubroundup/">Club Roundup</a></li>
+<li><a href="http://www.lodinews.com/features/happenings/">Happenings</a></li>
+<li><a href="http://www.lodinews.com/features/milestones/">Milestones (Births, Weddings, etc.)</a></li>
+</ul>
+
+</li>
+
+<li><a href="http://www.lodinews.com/">Home Page</a></li>
+<li><a href="http://www.lodinews.com/lodi_living/">Lodi Living</a></li>
+<li><a href="http://www.lodinews.com/news/">News</a></li>
+<li><a href="http://www.legacy.com/LodiNews/Obituaries.asp">Obituaries</a></li>
+<li><a href="http://www.lodinews.com/opinion/">Opinion</a></li>
+<li><a href="http://www.lodinews.com/photos/">Photo Galleries</a></li>
+<li><a href="http://www.lodinews.com/religion/">Religion</a></li>
+<li><a href="http://www.lodinews.com/sports/">Sports</a></li>
+<li><a href="http://www.lodinews.com/weather/">Weather</a></li>
+</ul>
+</li>
+
+<li><a href="http://lodinews.com/ap/" class="p7PMtrg">National/World</a>
+<ul>
+<li><a href="http://hosted.ap.org/dynamic/fronts/BUSINESS?SITE=CALOD&amp;SECTION=BUSINESS">Business</a></li>
+<li><a href="http://hosted.ap.org/dynamic/fronts/CALIFORNIAHEADS?SITE=CALOD&amp;SECTION=STATE">California</a></li>
+<li><a href="http://hosted.ap.org/dynamic/fronts/ENTERTAINMENT?SITE=CALOD&amp;SECTION=ENTERTAINMENT">Entertainment</a></li>
+<li><a href="http://hosted.ap.org/dynamic/fronts/SPORTS?SITE=CALOD&amp;SECTION=SPORTS">Sports</a></li>
+<li><a href="http://hosted.ap.org/dynamic/fronts/TECHNOLOGY?SITE=CALOD&amp;SECTION=TECHNOLOGY">Technology</a></li>
+<li><a href="http://hosted.ap.org/dynamic/fronts/US?SITE=CALOD&amp;SECTION=US">U.S.</a></li>
+<li><a href="http://hosted.ap.org/dynamic/fronts/INTERNATIONAL?SITE=CALOD&amp;SECTION=INTERNATIONAL">World</a></li>
+</ul>
+</li>
+
+<li><a href="http://www.lodinews.com/politics_and_elections/front/">Election 2008</a></li>
+
+<li><a href="http://lodinews.com/ap/" class="p7PMtrg">Series</a>
+<ul>
+<li><a href="http://lodinews.com/slideshow/mokelumne/">Mokelumne River</a></li>
+<li><a href="http://lodinews.com/series/highway12/">Highway 12</a></li>
+</ul>
+</li>
+
+<li><a href="http://www.lodinews.com/special/" class="p7PMtrg">Special Sections</a>
+<ul>
+<li><a href="http://www.lodinews.com/special/2008/dlbp/">Downtown Lodi</a></li>
+<li><a href="http://www.lodinews.com/food/">Food</a></li>
+<li><a href="http://www.lodinews.com/special/2008/grad/">Graduation </a></li>
+<li><a href="http://www.lodinews.com/special/2007/grapefestival/">Grape Festival</a></li>
+<li><a href="http://www.lodinews.com/health/">Health</a></li>
+<li><a href="http://www.lodinews.com/special/2008/hbg/">Home Buyers Guide</a></li>
+<li><a href="http://www.lodinews.com/special/2008/homeshow/">Home Show</a></li>
+<li><a href="http://www.lodinews.com/discover/">Visitors Guide</a></li>
+<li><a href="http://www.lodinews.com/special/2008/wedding/">Wedding Guide</a></li>
+<li><a href="http://www.lodinews.com/special/2008/wineshow/">Wine Show</a></li>
+<li><a href="http://www.lodinews.com/special/2007/wib/">Women in Business</a></li>
+<li><a href="http://www.lodinews.com/special/2008/zinfest/">ZinFest</a></li>
+</ul>
+</li>
+
+</ul>
+
+</li>
+
+<li><a href="http://www.lodinews.com/admarket/" class="p7PMtrg">Classifieds</a>
+<ul>
+<li><a href="http://www.lodinews.com/admarket/automotive/">Automotive</a></li>
+<li><a href="http://www.lodinews.com/admarket/childcare/">Child Care</a></li>
+<li><a href="http://www.lodinews.com/admarket/education/">Education</a></li>
+<li><a href="http://www.thejobnetwork.com/jobs.asp?affiliateid=21">Employment</a></li>          
+<li><a href="http://www.lodinews.com/admarket/farm/">Farm-Ranch</a></li>
+<li><a href="http://www.lodinews.com/admarket/financial/">Financial</a></li>
+<li><a href="http://www.lodinews.com/admarket/merchandise/garagesales/">Garage Sales</a></li>
+<li><a href="http://www.lodinews.com/admarket/merchandise/">Merchandise</a></li>
+<li><a href="http://www.lodinews.com/admarket/mobilehomes/">Mobile Homes</a></li>
+<li><a href="http://www.lodinews.com/admarket/notices/">Notices</a></li>
+<li><a href="https://www.lnsads.com:8443/AMPLinersOnline/">Place an Ad</a></li>
+<li><a href="http://www.lodinews.com/admarket/notices/public/">Public Notices</a></li>
+<li><a href="http://www.lodinews.com/admarket/realestate/">Real Estate</a></li>
+<li><a href="http://www.lodinews.com/admarket/recreation/">Recreation</a></li>
+<li><a href="http://www.lodinews.com/admarket/rentals/">Rentals</a></li>
+<li><a href="http://www.lodinews.com/admarket/services/">Services</a></li>
+<li><a href="http://www.lodinews.com/admarket/printads/">Today&rsquo;s Print Ads</a></li>
+<li><a href="http://www.lodinews.com/admarket/"><em>Classifieds Home Page</em></a></li>
+<li><a href="http://www.verican.us/cod/lodinews_can"><em>Classified Ad Network</em></a></li>
+</ul>
+</li>
+
+<li><a href="http://www.thejobnetwork.com/jobs.asp?affiliateid=21" class="p7PMtrg">Jobs</a>
+
+<ul>
+
+<li><a href="http://www.lodinews.com/forms/carriers.php">Newspaper Carriers</a></li>
+<li><a href="http://www.thejobnetwork.com/RedmatchURL.asp?AffiliateId=21&amp;URLName=registrationmyjobs">Post a R&eacute;sum&eacute;</a></li>
+<li><a href="http://www.thejobnetwork.com/RedmatchURL.asp?AffiliateId=21&amp;URLName=search">Search for Jobs</a></li>
+<li><a href="http://www.thejobnetwork.com/RedmatchURL.asp?AffiliateId=21&amp;URLName=registrationmyworth">What Am I Worth?</a></li>
+
+</ul>
+
+</li>
+
+<li><a href="http://www.lodinews.com/real_estate/" class="p7PMtrg">Real Estate</a>
+
+<ul>
+
+<li><a href="http://www.lodinews.com/real_estate/permits/">Lodi Building Permits</a></li>
+<li><a href="http://www.lodinews.com/real_estate/real_estate_news/">Real Estate News</a></li>
+<li><a href="http://www.lodinews.com/real_estate/sales/">Real Estate Sales</a></li>
+<li><a href="http://www.lodinews.com/real_estate/">Search for Homes</a></li>
+
+</ul>
+
+</li>
+
+<li><a href="#" class="p7PMtrg">Services</a>
+
+<ul>
+
+<li><a href="http://www.lodinews.com/ads/ratecards/">Advertising Rates</a></li>
+<li><a href="http://www.lodiyellowpages.com/">Business Directory</a></li>
+<li><a href="http://www.lodinews.com/extras/church.php">Churches</a></li>
+<li><a href="http://calendar.lodinews.com/">Events Calendar</a></li>
+<li><a href="http://lodinews.com/forms/" class="p7PMtrg">Forms</a>
+
+<ul>
+
+<li><a href="http://www.lodinews.com/forms/anniversary.php">Anniversaries</a></li>
+<li><a href="http://www.lodinews.com/forms/ledger.php">Community Events</a></li>
+<li><a href="http://www.lodinews.com/forms/engagement.php">Engagements</a></li>
+<li><a href="http://www.lodinews.com/forms/letter.php">Letters to the Editor</a></li>
+<li><a href="http://www.lodinews.com/forms/wedding.php">Weddings</a></li>
+
+</ul>
+
+</li>
+
+<li><a href="http://www.lodinews.com/tables/lunchmenus.php">Lunch Menus</a></li>
+<li><a href="http://www.lodinews.com/learninglink/">Learning Link</a></li>
+<li><a href="http://pictopia.com/perl/gal?provider_id=608">Photo Reprints</a></li>
+<li><a href="http://www.lodinews.com/help/privacy.php">Privacy Policy</a></li>
+<li><a href="http://www.lodinews.com/help/rss_feeds.php">RSS Feeds</a></li>
+
+
+<li><a href="http://lodinews.greatschools.net/" class="p7PMtrg">School Information</a>
+<ul>
+
+<li><a href="http://lodinews.greatschools.net/" class="p7PMtrg">Districts</a>
+
+<ul>
+<li><a href="http://lodinews.greatschools.net/cgi-bin/ca/district_profile/546">Galt Elementary</a></li>
+<li><a href="http://lodinews.greatschools.net/cgi-bin/ca/district_profile/545">Galt High</a></li>
+<li><a href="http://lodinews.greatschools.net/cgi-bin/ca/district_profile/752">Lodi Unified</a></li>
+<li><a href="http://lodinews.greatschools.net/cgi-bin/ca/district_profile/759">Stockton Unified</a></li>
+</ul>
+
+</li>
+
+<li><a href="http://lodinews.greatschools.net/search/search.page?c=school&amp;lc=e&amp;q=Lodi+Unified&amp;search_type=0&amp;state=CA">Elementary Schools (Click to Browse)</a></li>
+
+<li><a href="http://lodinews.greatschools.net/" class="p7PMtrg">High Schools</a>
+
+<ul>
+<li><a href="http://lodinews.greatschools.net/modperl/browse_school/ca/6551">Bear Creek</a></li>
+<li><a href="http://lodinews.greatschools.net/cgi-bin/ca/private/11425">Elliot</a></li>
+<li><a href="http://lodinews.greatschools.net/modperl/browse_school/ca/4605">Estrellita</a></li>
+<li><a href="http://lodinews.greatschools.net/modperl/browse_school/ca/4606">Galt</a></li>
+<li><a href="http://lodinews.greatschools.net/modperl/browse_school/ca/13665">Independence</a></li>
+<li><a href="http://lodinews.greatschools.net/modperl/browse_school/ca/6564">Liberty</a></li>
+<li><a href="http://lodinews.greatschools.net/modperl/browse_school/ca/6567">Lodi</a></li>
+<li><a href="http://lodinews.greatschools.net/cgi-bin/ca/private/9026">Lodi Academy</a></li>
+<li><a href="http://lodinews.greatschools.net/modperl/browse_school/ca/14161">McNair</a></li>
+<li><a href="http://lodinews.greatschools.net/modperl/browse_school/ca/11847">Middle College</a></li>
+<li><a href="http://lodinews.greatschools.net/modperl/browse_school/ca/6578">Tokay</a></li>
+</ul>
+
+</li>
+
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+<li><a href="http://www.lodinews.com/seniors/">Seniors Resource Directory</a></li>
+<li><a href="http://www.lodinews.com/sitemap.php">Site Map</a></li>
+<li><a href="http://www.lodinews.com/extras/staff.php">Staff Directory</a></li>
+</ul>
+</li>
+
+<li><a href="https://secure.modwest.com/lodibusiness.com/phorm/subscribe/" class="p7PMtrg">Subscriptions</a>
+
+<ul>
+
+<li><a href="https://secure.modwest.com/lodibusiness.com/phorm/subscribe/sub_change.php">Change of Address</a></li>
+<li><a href="https://secure.modwest.com/lodibusiness.com/phorm/subscribe/sub_home_ez.php">Home Delivery</a></li>
+<li><a href="https://secure.modwest.com/lodibusiness.com/phorm/subscribe/sub_mail_ez.php">Mail Delivery</a></li>
+<li><a href="https://secure.modwest.com/lodibusiness.com/phorm/subscribe/sub_stop.php">Vacation Stop</a></li>
+
+</ul>
+
+</li>
+
+<li><a href="http://wheels.lodinews.com/" class="p7PMtrg">Wheels</a>
+
+<ul>
+
+<li><a href="http://wheels.lodinews.com/dealers.php">Local Dealers</a></li>
+<li><a href="http://wheels.lodinews.com/">Find a Car</a></li>
+<li><a href="http://www.lodinews.com/ara/automotive/">News</a></li>
+<li><a href="http://wheels.lodinews.com/tools.php">Payment Calculator</a></li>
+<li><a href="http://wheels.lodinews.com/research.php">Research</a></li>
+<li><a href="http://wheels.lodinews.com/sell.php">Sell Your Wheels</a></li>
+
+</ul>
+
+</li>
+
+
+<!--[if lte IE 6]><style>#p7PMnav a{height:1em;}#p7PMnav li{height:1em;}#p7PMnav ul li{float:left;clear:both;width:100%}</style><![endif]-->
+<!--[if IE 6]><style>#p7PMnav ul li{clear:none;}</style><![endif]-->
+
+</ul>
+
+<script type="text/JavaScript">
+<!--
+P7_initPM(1,0,0,-20,10);
+//-->
+</script>
+
+
+<br/>
+
+</div>
+<!-- Open folio div -->
+<div id="folio">
+<!-- Open folio content div -->
+<div id="folioContent">
+<div class="motto lnsSans lnsSmallText">
+Connecting You to Your Community 
+</div>
+<div class="lnsDate lnsSans lnsSmallText">
+Lodi, California &bull; 
+
+<script type="text/javascript"><!--
+showCurrentDate(1);//--></script><noscript></noscript>
+
+</div>
+<!-- Clearing div -->
+<br class="p7TPclear"/>
+<!-- Close folio content div -->
+</div>
+<!-- Close folio div -->
+</div>
+<!-- Open searchbar div -->
+<div id="searchbar" class="clearfix">
+<h2><span class="lft">Archives</span></h2>
+<div class="rgt">
+<span class="lnsSans lnsMediumText"><a href="http://lodinews.com/sitemap.php"><strong>Site Map</strong></a></span>&nbsp;&bull;&nbsp;<form method="get" action="http://lodinews.com/">
+<label class="lnsSans lnsMediumText"><strong><a href="http://lodinews.com/archives/">Search Lodinews.com</a></strong></label>
+<input type="hidden" name="search" value="go"/>
+<input type="hidden" name="l" value="25"/>
+<input type="text" name="q" size="20"/>
+<input type="submit" name="Go" value="Go"/>
+</form>
+
+</div>
+<!-- Close searchbar div -->
+</div>
+<!-- Open div for pagewidthCols -->
+<!-- pagewidthCols uses a background image (faux_columns.gif) to set the light gray background on the left column and a white background on the center and right cols. It forces the background colors in all columns to extend as far as the longest column. -->
+<div id="pagewidthCols">
+<!-- Open wrapper div for center and right column wrapper div -->
+<!-- Center column content first; right column content second -->
+<div id="wrapper">
+
+<!-- Open rotating banner div -->
+<div class="content">
+<div id="banner">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1192147200) && (nAdsysTime <= 1507852799)) {
+aAd = new Array('opinion+banner', '100492-1199724666', 'jpg');
+aAd[3] = 'http://pictopia.com/perl/gal?provider_id=608';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'lodinews.com', aAds, aCampaigns);
+
+// -->
+</script> 
+<!-- Close rotating banner div -->
+</div>
+</div>
+
+<!-- Open center column div -->
+<div id="maincol">
+<!-- Open center column content div -->
+<div class="content">
+
+<!-- Start right column -->
+<div id="newsRightCol">
+
+
+
+
+<!-- Story tools -->
+<div id="storyTools">
+<h4 class="lnsLabelNotLinked">Story Tools</h4>
+<a href="http://lodinews.com/articles/2004/02/07/opinion/01_guzzardi_040207.eml" target="emailafriend">Email this story</a> | <a href="http://lodinews.com/articles/2004/02/07/opinion/01_guzzardi_040207.prt" target="printable">Print this story</a>
+<div style="margin-top:5px">
+<!-- AddThis Bookmark Button BEGIN -->
+<script type="text/javascript">
+  addthis_url    = location.href;   
+  addthis_title  = document.title;  
+  addthis_pub    = 'lodinews';     
+</script><script type="text/javascript" src="http://s7.addthis.com/js/addthis_widget.php?v=12"></script>
+<!-- AddThis Bookmark Button END -->
+</div>
+</div>
+ 
+
+<h3 class="lnsLabelNotLinked">Indexes</h3>
+<div id="p7TP1" class="p7TPpanel" style="margin-bottom:10px">
+<div class="p7TPwrapper">
+<div class="p7TP_tabs">
+<div id="p7tpb1_1" class="down"><a class="down" href="javascript:;">Today's Stories</a></div>
+<div id="p7tpb1_2"><a href="javascript:;">Last 7 Days</a></div>
+<div id="p7tpb1_3"><a href="javascript:;">Top Blogs</a></div>
+<br class="p7TPclear"/>
+</div>
+<div class="p7TPcontent">
+<div id="p7tpc1_1">
+<!-- Index of news stories -->
+<div class="indexModule">
+
+<ul><li><a href="http://lodinews.com/articles/2004/02/07/news/00_tce_040207.txt">Lodi seeks settlement in pollution case</a></li></ul><ul><li><a href="http://lodinews.com/articles/2004/02/07/news/01_vintners_040207.txt">Groundbreaking starts construction of Vintner's Square shopping center</a></li></ul><ul><li><a href="http://lodinews.com/articles/2004/02/07/news/02_bigbox_040207.txt">Standards on 'big-box' designs may limit their size</a></li></ul><ul><li><a href="http://lodinews.com/articles/2004/02/07/news/03_envision_040207.txt">City's former law firm may be on verge of bankruptcy</a></li></ul><ul><li><a href="http://lodinews.com/articles/2004/02/07/news/04_envision_office_040207.txt">Law firm's office quiet in aftermath of dismissal</a></li></ul><ul><li><a href="http://lodinews.com/articles/2004/02/07/news/05_regional_040207.txt">Regional Roundup</a></li></ul><ul><li><a href="http://lodinews.com/articles/2004/02/07/news/06_fatal_folo_040207.txt">'Tricky intersection' has history of accidents</a></li></ul>
+</div>
+</div>
+<div id="p7tpc1_2">
+<div class="indexModule">
+
+<div class="index-date">October 4th, 2008</div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/04/news/logbook/logbook_081004.txt">Logbook </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/04/news/1_rapes_081004.txt">5 victims of rape in 2 weeks </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/04/news/2_religion_081004.txt">Weighing in on Prop. 8 </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/04/news/5_creek_081004.txt">Cleavage Creek </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/04/news/photos/1_cats_081004.txt">all jazzed up</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/04/news/photos/2_weather_081004.txt">Under the weather</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/04/news/4_congressmen_081004.txt">Area congressmen remain supportive of bailout</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/04/news/3_literacy_081004.txt">Finding a better life through literacy </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/04/news/6_regional_081004.txt">Regional Roundup </a></li></ul></div><div class="index-date">October 3rd, 2008</div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/news/8_weather_081003.txt">Time for a weather change? Cooling, breezes and rain all in the forecast</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/news/7_regional_081003.txt">Regional Roundup </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/news/6_lusd_stanley_081003.txt">Three Stockton residents vying for seat on Lodi Unified School District board: William Stanley </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/news/5_lusd_nava_081003.txt">Three Stockton residents vying for seat on Lodi Unified School District board: Joe Nava </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/news/4_lusd_johnson_081003.txt">Three Stockton residents vying for seat on Lodi Unified School District board: Peter Johnson </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/news/3_debate_081003.txt">Local residents react to the vice presidential debate</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/news/2_fundraiser_081003.txt">Local residents rally around family in need of assistance</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/news/1_supercenter_081003.txt">Lodi seeks &#036;680,000 </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/news/10_clarification_081003.txt">Clarification</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/real_estate/real_estate_news/c61a87963cf02dc81e6a28b3afc55f5b.txt">Deck railings become fun and exciting </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/real_estate/real_estate_news/3dbdb309626b40d2ced9cae8853872cb.txt">Don't forfeit home because of back taxes </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/real_estate/local_real_estate_news/1_bush_081003.txt">Is a down market a good time to buy a new home?</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/news/logbook/logbook_081003.txt">Logbook </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/03/news/9_correction_081003.txt">Correction</a></li></ul></div><div class="index-date">October 2nd, 2008</div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/02/news/6_regional_081002.txt">Regional Roundup </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/02/news/5_harvesters_081002.txt">'Mean-spirited vandalism' </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/02/news/4_shots_081002.txt">Flu shots recommended for all</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/02/news/3_measurev_081002.txt">Groundwater jargon tough to soak in </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/02/news/2_water_081002.txt">Two challengers seek change in North San Joaquin water agency</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/02/real_estate/real_estate_news/f08c49db3087d78cc57015614e52c338.txt">Can whistleblowing rental manager be fired? </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/02/real_estate/real_estate_news/e8e349dca1c7ea76aa7b0601684d6031.txt">Readers describe short-sale troubles </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/02/real_estate/real_estate_news/2ac62bb9a8dd28e6eafc502537a9ab52.txt">Lesser of two evils: short sale or tenant? </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/02/news/logbook/logbook_081002.txt">Logbook </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/02/news/1_council_081002.txt">Grants to help fix up homes </a></li></ul></div><div class="index-date">October 1st, 2008</div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/real_estate/real_estate_news/c740bca7248fb2c20f328e7200d0ccfe.txt">Can lender challenge loan data after closing? </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/real_estate/real_estate_news/41e8d49d5b4b2f81871d5d9d59d49d6c.txt">Purchase offers are for buyers to decide </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/real_estate/real_estate_news/3f4022cb08634c0269ab8b7a8bc00a0d.txt">Termite damage a nightmare to fix </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/news/9_ace_081001.txt">Altamont Commuter Express to raise fares</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/news/8_police_081001.txt">Two officers join Lodi Police force</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/news/7_thornton_081001.txt">Thieves ransack Thornton youth center; steal games and equipment</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/news/6_regional_081001.txt">Regional Roundup </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/news/4_bartlam_081001.txt">Lodi planner Rad Bartlam shares his views on growth, greenbelt, sustainability</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/news/3_levees_081001.txt">&#036;4 million overhaul begins to strengthen Thornton levees</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/news/2_corcoran_081001.txt">Spokesman for state correctional officers arrested south of Lodi on suspicion of DUI </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/news/1_missing_081001.txt">Missing Galt girl found safe in Vegas; mother safe, father arrested</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/10/01/news/5_bernel_081001.txt">Trial opens for man accused of killing girlfriend in Flag City</a></li></ul></div><div class="index-date">September 30th, 2008</div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/30/news/photos/1_crash_080930.txt">turner road crash</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/30/news/logbook/logbook_080930.txt">Logbook </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/30/news/6_regional_080930.txt">Regional Roundup </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/30/news/3_theft_080930.txt">Vehicle theft report leads to suspect arrest in Lodi </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/30/news/2_tokay_080930.txt">Final project </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/30/news/1_bailout_080930.txt">Local congressmen, opponents split on bailout bill</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/30/news/photos/3_cars_080930.txt">A cruise down memory lane</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/30/news/photos/2_doggie_080930.txt">PALS Doggie Round Up and &#039;Barkatecture&#039; Auction</a></li></ul></div><div class="index-date">September 29th, 2008</div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/29/news/1a_syrah_080929.txt">A syrah named Palin not helped by vice presidential candidate</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/29/news/2_fry_080929.txt">Lodi Hall of Fame </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/29/news/photos/2_taste_080929.txt">A Taste of Lodi</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/29/news/3_regional_080929.txt">Regional Roundup </a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/29/news/1_palin_080929.txt">Did Palin put Galt on the map, or vice versa?</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/29/news/4_meetings_080929.txt">Public Meetings</a></li></ul></div><div class="index-item"><ul><li><a href="http://lodinews.com/articles/2008/09/29/news/photos/1_gala_080929.txt">Lodi Memorial Gala</a></li></ul></div>
+</div>
+</div>
+<div id="p7tpc1_3">
+<p>
+The following stories have received the most reader comments <strong>during the last 7 days.</strong>
+</p>
+<div class="indexModule">
+<ul class="topblogs-list"><li class="topblogs-entry"><a href="http://lodinews.com/articles/2008/10/03/opinion/letters/ltr_edwards_081002.txt">Comments were insensitive</a> <span class="topblogs-count">(124)</span></li><li class="topblogs-entry"><a href="http://lodinews.com/articles/2008/10/03/opinion/letters/ltr_peabody_081002.txt">How is traditional marriage threatened?</a> <span class="topblogs-count">(109)</span></li><li class="topblogs-entry"><a href="http://lodinews.com/articles/2008/09/29/opinion/letters/ltr_bertsch_080929.txt">Writer offers advice to Pastor Edwards</a> <span class="topblogs-count">(103)</span></li><li class="topblogs-entry"><a href="http://lodinews.com/articles/2008/09/30/opinion/letters/ltr_price_080930.txt">America has a tough vote on Nov. 4</a> <span class="topblogs-count">(82)</span></li><li class="topblogs-entry"><a href="http://lodinews.com/articles/2008/10/03/news/1_supercenter_081003.txt">Lodi seeks &#036;680,000 </a> <span class="topblogs-count">(38)</span></li><li class="topblogs-entry"><a href="http://lodinews.com/articles/2008/10/02/news/1_council_081002.txt">Grants to help fix up homes </a> <span class="topblogs-count">(35)</span></li><li class="topblogs-entry"><a href="http://lodinews.com/articles/2008/10/05/news/2_religion_081004.txt">Weighing in on Prop. 8 </a> <span class="topblogs-count">(34)</span></li><li class="topblogs-entry"><a href="http://lodinews.com/articles/2008/09/29/news/1_palin_080929.txt">Did Palin put Galt on the map, or vice versa?</a> <span class="topblogs-count">(31)</span></li><li class="topblogs-entry"><a href="http://lodinews.com/articles/2008/09/30/news/1_bailout_080930.txt">Local congressmen, opponents split on bailout bill</a> <span class="topblogs-count">(31)</span></li><li class="topblogs-entry"><a href="http://lodinews.com/articles/2008/10/01/opinion/letters/ltr_stamos_081001.txt">'Change' will be all that's left</a> <span class="topblogs-count">(25)</span></li></ul>
+</div>
+</div>
+</div>
+</div>
+<!--[if lte IE 6]>
+<style type="text/css">.p7TPpanel div,.p7TPpanel a{position:relative;}.p7TP_tabs a{white-space:nowrap;}</style>
+<![endif]-->
+<!--[if IE 7]>
+<style>.p7TPpanel div{zoom:100%;}</style>
+<![endif]-->
+
+<script type="text/JavaScript">
+<!--
+P7_initTP(12,0);
+//-->
+</script>
+
+</div>
+
+<!-- In-story ad -->
+<div style="margin-bottom:10px">
+<div class="lnsSans lnsSmallText" style="text-align:center">ADVERTISEMENT</div>
+<!-- AdSys ad not found for opinion:instory -->
+</div>
+<!-- End right column -->
+</div>
+<!-- Begin photo div -->
+<!--
+################################################################################
+### style="width:px;" MUST be an inline style   ###
+### because the width is dynamically assigned based on the width of the      ###
+### photo. It doesn't work in an external style sheet.                       ###
+### The "px" after the "component:image-photo-width" token MUST be           ###
+### included because the "image-photo-width" token does not specify a unit   ###
+### of measurement. Tables work without units, but DIVs do not.              ###
+################################################################################
+-->
+<div class="photoholder" style="width:[component:image-photo-width]px">
+ 
+<div class="lnsSans lnsMediumText" style="width:px">
+ 
+</div>
+</div>
+<!-- End photo div -->
+
+<!-- Headline, Byline, Paragraphs 1 and 2 -->
+<h2>U.S. not speeding toward 'ethnic ambiguity'</h2>
+<h4 id="subHead"></h4>
+<div class="lnsSans lnsMediumText">
+
+</div>
+<span class="idxTimestamp">Updated: Saturday, February 7, 2004 8:22 AM PST</span><br/>
+<div class="lnsSans lnsSmallText">
+<a href="#feedback">Comments (<span class="simpleblog-count">No comments posted.</span>)</a>
+</div>
+<p>
+About a year ago, I noticed that during television ads I could no longer identify the models' ethnicity. Up until that time, politically correct ads went to great pains to have an equal distribution of males and females who were black, white, Asian and Hispanic.<br/><br/>I called the models "blended people." But the official term, I recently learned, is "ethnically ambiguous."<img src="http://lodinews.com/columnist_mugs/guzzardi_joe.jpg" width="180" height="108" align="right" alt="Joe Guzzardi"><br/><br/>In a Dec. 28 New York Times column titled "Generation E.A.: Ethnically Ambiguous," Ruth La Ferla quoted Ron Berger, chief executive of New York's advertising and trend research company Euro RSCG MVBMS Partners: "Today what's ethnically neutral, diverse or ambiguous has tremendous appeal both in the mainstream and at the high end of the marketplace. What is perceived as good, desirable and successful is often a face whose heritage is hard to pin down."<br/><br/>Advertisers make no bones about it. They purposely seek out models with indeterminate features for their shoots. An example is Indian model Ujjwala, the new face of the exclusive YSL Beauty Cosmetics. Her agent, Ivan Bart, says, "You look at her and you begin to play a guessing game. Is she Mexican, Spanish, Russian? The fact that you can't be sure is part of her seductiveness."<br/><br/>Two high-profile sport heroes are EAs: golf champion Tiger Woods -- father black and mother Thai -- and New York Yankee shortstop Derek Jeter -- black and Caucasian.<br/><br/>Among the 25-year-old and younger members of Generation Y, the most diverse population in America's history, multiracial is "in." Demographers point to sustained high levels of immigration and intermarriage between different groups of those immigrants as the driving force behind an increasingly multiracial America.<br/><br/>La Ferla quoted Gregory Spencer, the Census Bureau population projections chief: "The younger the age group, the more diverse the population."<br/><br/>When the results of Census 2000 were first published, much was written about the 7 million Americans who identified themselves as members of more than one race. These individuals took advantage of the opportunity the Census provided to check more than one category for race.<br/><br/>Another 14 million Hispanics skipped over boxes for black or white, choosing instead "some other race."<br/><br/>Certain geographic regions are more apt to have significant numbers of ethnically ambiguous people. The obvious places that pop into mind are Los Angeles, San Francisco, New York and Miami.<br/><br/>Particular professions have a highly visible EA representation. In the world of fashion, film and music we look at Jennifer Lopez, Shakira, Christina Aguillera and Vin Diesel.<br/><br/>For advertisers, ethnic ambiguity is a bonanza. H &amp; M, a Stockholm-based marketer of cheap but cool clothing with stores in 18 countries use "racial indeterminate" models only. Said a spokesman, "For us the models must be inspiring and attractive but at the same time neutral."<br/><br/>So is America on a run-away freight train toward ethnic ambiguity?<br/><br/>The sub-rosa message in La Ferla's article is that ethnic ambiguity -- through continued immigration and intermarriage -- will make race and culture pass&eacute;. And since the models and athletes chosen for the piece are strikingly beautiful and skilled, the conclusion we are urged to draw is that ethnic ambiguity will create the ultimate melting pot.<br/><br/>This one-day may well happen. And perhaps we are indeed looking into America's future on our television sets.<br/><br/>But to find out just how fast the U.S. might turn into an ethnically ambiguous country, I contacted one of the nation's experts on population and intermarriage, UPI National Correspondent Steve Sailer.<br/><br/>Sailer deals in the concrete world of census data -- not Hollywood or Seventh Avenue. Here, from his UPI story titled "Interracial Marriage Gender Gap Grows," is how he parsed the Census 2000 figures:<br/><br/>&bull; Only 3.5 percent of married non-Hispanic whites intermarry.<br/><br/>&bull; Only 6 percent of black husbands and 2 percent of black wives are in interracial marriages<br/><br/>&bull; Slightly under 18 percent of Hispanic wives have non-Hispanic husbands while slightly over 15 percent of Hispanic husbands have non-Hispanic wives.<br/><br/>&bull; About 18 percent of Asian wives have white husbands but only 7 percent of Asian husbands have white wives.<br/><br/>As for the immigration portion of the ethnic ambiguity equation, Sailer found that recent immigrants are the least likely of groups to intermarry.<br/><br/>Quoting from a Public Policy Institute of California study by Sonya M. Tafoya titled "Mixed Race and Ethnicity," Sailer writes:<br/><br/>"Explanations include the fact that the foreign-born may be married at the time of immigration, they might be more likely to live in ethnic enclaves, they might be more closely tied to a culture that resists out-marriage, or they might encounter language barriers."<br/><br/>Despite the buzz from the image-makers, progress toward total ethnic ambiguity, whatever opinion you may have of it, is moving slower than it appears.<br/><br/><div class="divider"></div><span id="columnist-tags">Joe Guzzardi, an instructor at the Lodi Adult School, has been writing a weekly opinion column since 1988. He can be reached via <a href="mailto:joaquin@lodinet.com">e-mail</a>.</span> 
+</p>
+
+<!-- Start story comments box -->
+<div id="commentsBox">
+<h3 style="margin-bottom:10px;"><a id="feedback">Reader Feedback</a></h3>
+<a id="blogcomments"></a>
+<p>
+<strong>Comments on this story are now closed.</strong>
+</p>
+
+<!-- End story comments box -->
+</div>
+
+<!-- Close center column content div -->
+</div>
+<!-- Close center column div -->
+</div>
+<!-- Open right column div -->
+<div id="rightcol">
+<!-- Open right column content div -->
+<div class="content">
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1165881600) && (nAdsysTime <= 1481587199)) {
+aAd = new Array('opinion+rightcol_promo', '66134-1165937547', 'gif');
+aAd[3] = 'http://www.lodinews.com/forms/letter.php';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'lodinews.com', aAds, aCampaigns);
+
+// -->
+</script>
+<!-- AdSys ad not found for opinion:rightcol_promo_2 -->
+<div class="links">
+<h3 class="first" style="padding-left:0;">Special Sections</h3> 
+<div id="annoyed">
+<script type="text/javascript" src="http://adsys.townnews.com/creative/lodinews.com/right_promo_1/static.js"></script>
+</div>
+
+
+<ul>
+<li>
+<a href="http://lodinews.com/discover/">Visitors Guide </a>
+</li>
+</ul>
+
+<!--
+<div style="margin-top:10px;">
+<a href="/special/grapefestival/"><img style="border:0;" src="/art/specialsections/grape_festival_2008_150px.jpg" alt="" width="150" height="178" /></a>
+</div>
+
+<ul>
+<li>
+<a href="/special/grapefestival/"><span style="color:#990000; font-weight:bold;">New!</span>&nbsp;Lodi Grape Festival</a>
+</li>
+</ul>
+-->
+
+<h3 class="first" style="padding-left:0">Photo Reprints</h3> 
+<ul>
+<li>
+<a href="http://pictopia.com/perl/gal?provider_id=608">Browse Our Galleries </a>
+</li>
+</ul>
+
+<h3 class="first" style="padding-left:0">Find Ads</h3> 
+<ul>
+<li>
+<a style="padding-left:0" href="http://lodinews.com/admarket/"><img style="margin:0; padding:0; border:0;" src="http://lodinews.com/art/mag_glass_9.gif" alt="Magnifying Glass" width="15" height="9"/> Search for Ads </a>
+</li>
+<li>
+<a style="padding-left:0" href="http://www.lodinews.com/admarket/printads/"><img style="margin:0; padding:0; border:0;" src="http://lodinews.com/art/print.gif" alt="Print" width="9" height="9"/> Today&rsquo;s Print Ads </a>
+</li>
+</ul>
+
+<br/>
+</div>
+<!-- Begin skyscraper ads -->
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[904] = 25;
+aCampaigns[1] = 75;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1192147200) && (nAdsysTime <= 1507852799)) {
+aAd = new Array('opinion+skyscraper_1', '100495-1192233272', 'gif');
+aAd[3] = 'http://pictopia.com/perl/gal?provider_id=608';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1168560000) && (nAdsysTime <= 1484265599) && !adsys_hasReachedFreqCap(68715, 1)) {
+aAd = new Array('opinion+skyscraper_1', '68715-1184786647', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 1;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1185926400) && (nAdsysTime <= 1500854399)) {
+aAd = new Array('opinion+skyscraper_1', '90608-1185220229', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1187136000) && (nAdsysTime <= 1502841599)) {
+aAd = new Array('opinion+skyscraper_1', '93199-1187187414', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1195084800) && (nAdsysTime <= 1198195199)) {
+aAd = new Array('opinion+skyscraper_1', '104472-1196433601', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1195084800) && (nAdsysTime <= 1198195199)) {
+aAd = new Array('opinion+skyscraper_1', '104476-1196433806', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1195084800) && (nAdsysTime <= 1198195199)) {
+aAd = new Array('opinion+skyscraper_1', '104563-1196433732', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1195084800) && (nAdsysTime <= 1198195199)) {
+aAd = new Array('opinion+skyscraper_1', '104565-1195594336', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1195171200) && (nAdsysTime <= 1198195199)) {
+aAd = new Array('opinion+skyscraper_1', '104810-1196433822', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1195171200) && (nAdsysTime <= 1198195199)) {
+aAd = new Array('opinion+skyscraper_1', '104813-1195594498', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1200355200) && (nAdsysTime <= 1516060799)) {
+aAd = new Array('opinion+skyscraper_1', '111259-1200431455', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1200355200) && (nAdsysTime <= 1516060799)) {
+aAd = new Array('opinion+skyscraper_1', '111260-1200431472', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1200355200) && (nAdsysTime <= 1516060799)) {
+aAd = new Array('opinion+skyscraper_1', '111261-1201794682', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1212624000) && (nAdsysTime <= 1528243199)) {
+aAd = new Array('opinion+skyscraper_1', '131583-1212692083', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1212710400) && (nAdsysTime <= 1528329599)) {
+aAd = new Array('opinion+skyscraper_1', '131710-1212762550', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1215993600) && (nAdsysTime <= 1531612799)) {
+aAd = new Array('opinion+skyscraper_1', '137462-1216061728', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1215993600) && (nAdsysTime <= 1531612799)) {
+aAd = new Array('opinion+skyscraper_1', '137463-1216061831', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1215993600) && (nAdsysTime <= 1531612799)) {
+aAd = new Array('opinion+skyscraper_1', '137464-1216061886', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1215993600) && (nAdsysTime <= 1531612799)) {
+aAd = new Array('opinion+skyscraper_1', '137465-1216061939', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1221177600) && (nAdsysTime <= 1536796799)) {
+aAd = new Array('opinion+skyscraper_1', '147914-1221232776', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1221523200) && (nAdsysTime <= 1228089599)) {
+aAd = new Array('opinion+skyscraper_1', '148668-1222217499', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1221523200) && (nAdsysTime <= 1228089599)) {
+aAd = new Array('opinion+skyscraper_1', '148669-1222217499', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1221523200) && (nAdsysTime <= 1228089599)) {
+aAd = new Array('opinion+skyscraper_1', '148670-1222217498', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1221523200) && (nAdsysTime <= 1228089599)) {
+aAd = new Array('opinion+skyscraper_1', '148671-1222217499', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1221523200) && (nAdsysTime <= 1228089599)) {
+aAd = new Array('opinion+skyscraper_1', '148673-1222217499', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1221523200) && (nAdsysTime <= 1228089599)) {
+aAd = new Array('opinion+skyscraper_1', '148674-1222217499', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1221523200) && (nAdsysTime <= 1228089599)) {
+aAd = new Array('opinion+skyscraper_1', '148677-1222217498', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'lodinews.com', aAds, aCampaigns);
+
+// -->
+</script>
+<!-- AdSys ad not found for opinion:skyscraper_2 -->
+<!-- End skyscraper ads -->
+
+<!-- Close right column content div -->
+</div>
+<!-- Close right column div -->
+</div>
+<!-- Close wrapper div -->
+</div>
+<!-- Open left column div -->
+<div id="leftcol">
+<!-- Open left column content div -->
+<div class="content">
+<!-- Weather module -->
+<!-- Weather module -->
+<div id="weatherBox">
+
+<div id="weatherBoxInsert">
+<h4><a style="color:#990000" href="http://lodinews.com/weather/">
+Weather</a></h4>
+<a href="http://www.lodinews.com/weather/">
+<img src="http://wxport.accuweather.com/wxpost/graphic.aspx?zipcode=95240&amp;type=51&amp;partner=lodinews" border="0" height="45" width="100" alt="WXPort"/></a>
+
+
+<div style="font-family:Arial, Helvetica, sans-serif; font-size:80%;">
+Weather sponsored by:
+</div>
+
+<!-- AdSys ad not found for opinion:weather_sponsor -->
+<!--
+<div style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:.9em;">
+<ul>
+	<li style="list-style-position:inside;"><a href="/maps/leaf.php">Leaf pickup schedule</a></li>
+</ul>
+</div>
+-->
+</div>
+</div>
+<!-- AdSys ad not found for opinion:weather_sponsor -->
+<!-- Top Jobs Module -->
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1132012800) && (nAdsysTime <= 1589587199)) {
+aAd = new Array('opinion+topjobs', '30376-1223305410', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'lodinews.com', aAds, aCampaigns);
+
+// -->
+</script>
+<!-- Top Cars Module -->
+<!-- [adsys_ad::topcars] -->
+<!-- Opening div for links -->
+<div class="links">
+<h3 class="first">Services</h3> 
+<ul>
+<li>
+<a href="http://www.lodinews.com/realestate/mlsearch/">Find a Home </a>
+</li>
+<li>
+<a href="http://www.thejobnetwork.com/jobs.asp?affiliateid=21">Find a Job </a>
+</li>
+<li>
+<a href="https://secure.modwest.com/lodibusiness.com/phorm/subscribe/">Manage Your Subscription </a>
+</li>
+<li>
+<a href="http://pictopia.com/perl/gal?provider_id=608">Order Photo Reprints </a>
+</li>
+<li>
+<a href="https://www.lnsads.com:8443/AMPLinersOnline/">Place a Classified Ad </a>
+</li>
+<li>
+<a href="http://www.lodinews.com/help/rss_feeds.php"><img style="margin:0; padding:0; border:0;" src="http://lodinews.com/art/valid-rss_small.gif" alt="RSS Logo" width="26" height="9"/> RSS Feeds </a>
+</li>
+<li>
+<a href="http://www.lodibusiness.com/postcards/">Send a Postcard </a>
+</li>
+</ul>
+<!-- Contact us links -->
+<h3>Contact Us</h3> 
+<ul>
+<li>
+<a href="http://www.lodinews.com/extras/staff.php">Staff Directory </a>
+</li>
+</ul>
+<!-- Brick and mortar info -->
+<h3>Office</h3> 
+<p>
+125 N. Church St.
+<br/>
+P.O. Box 1360
+<br/>
+Lodi, CA 95241
+<br/>
+(209) 369-2761
+<br/>
+Fax: (209) 369-1084 
+</p>
+<ul>
+<li>
+<a href="http://www.lodinews.com/maps/lns_locator_map.html">Map</a>
+</li>
+</ul>
+<!-- Newsroom -->
+<h3>Newsroom</h3>
+<a href="mailto:news@lodinews.com">E-mail </a> 
+<p>
+(209) 369-7035
+<br/>
+Fax: (209) 369-6706 
+</p>
+<!-- Subscriber services -->
+<h3>Subscriptions</h3>
+<a href="https://secure.modwest.com/lodibusiness.com/phorm/subscribe/">Subscribe </a> 
+<p>
+Problems with your subscription?
+<br/>
+(209) 333-1400 
+</p>
+<!-- Display advertising -->
+<h3>Advertising</h3>
+<a href="mailto:kimberlya@lodinews.com">E-mail </a> 
+<p>
+(209) 369-2761
+<br/>
+Fax: (209) 369-1084 
+</p>
+<!-- Classified advertising -->
+<h3>Classifieds</h3>
+<a href="https://www.lnsads.com:8443/AMPLinersOnline/">Place an ad </a> <a href="mailto:classifieds@lodinews.com">E-mail </a> 
+<p>
+(209) 333-1111
+<br/>
+Fax: (209) 369-1084 
+</p>
+<!-- Closing div for links -->
+</div>
+
+<!-- Close left column content div -->
+</div>
+<!-- Close left column div -->
+</div>
+<!-- Clearing div -->
+<br class="p7TPclear"/>
+<!-- Close div for pagewidthCols -->	
+</div>
+<!-- Open footer div -->
+<div id="footer">
+<!-- Open footer content div -->
+<div class="content">
+<a href="http://lodinews.com/sitemap.php">Site Map</a> &bull; 
+<a href="http://lodinews.com/help/privacy.php">Privacy Policy</a> &bull; 
+<a href="http://lodinews.com/extras/staff.php">Contact Us</a> &bull; <a href="http://lodinews.com/help/copyright.php">Copyright &copy; 1998-2008</a> Lodi News-Sentinel &bull; <a href="http://www.lodinews.com/help/ap_copyright.php">
+AP Copyright</a><br/>
+<a href="http://lodinews.com/"> Home</a> | 
+<a href="http://lodinews.com/news/">News</a> |
+<a href="http://lodinews.com/archives/">Archives</a> | 
+<a href="http://lodinews.com/business/">Business</a> | 
+<a href="http://lodinews.com/admarket/">Classifieds</a> |
+<a href="http://calendar.lodinews.com/">Events Calendar</a> | 
+<a href="http://lodinews.com/features/">Features</a> | 
+<a href="http://lodinews.com/realestate/">Homes</a> | 
+<a href="http://www.legacy.com/LodiNews/Obituaries.asp"> Obituaries</a> | 
+<a href="http://lodinews.com/opinion/">Opinion</a> | 
+<a href="http://lodinews.com/sports/">Sports</a> | 
+<a href="https://secure.modwest.com/lodibusiness.com/phorm/subscribe/">Subscribe</a> 
+<!-- Close footer content div -->
+</div>
+<!-- Close footer div -->
+</div>
+<!-- Close pagewidth div -->
+</div>
+
+<!-- Accordion panel JavaScript - DO NOT DELETE!! -->	
+<script type="text/javascript">
+<!--
+P7_opAB(1,1,2,1,0);
+//-->
+</script>
+
+<!-- Google Analytics script -->
+<!-- Updated 2008-01-01-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl./" : "http://www./");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-197696-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 08:52:09 Oct 06, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 03:44:11 Mar 30, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 102.426 (3)
+  esindex: 0.005
+  captures_list: 139.467
+  CDXLines.iter: 14.425 (3)
+  PetaboxLoader3.datanode: 80.186 (4)
+  exclusion.robots: 0.196
+  exclusion.robots.policy: 0.18
+  RedisCDXSource: 19.831
+  PetaboxLoader3.resolve: 59.295 (2)
+  load_resource: 85.906
+-->

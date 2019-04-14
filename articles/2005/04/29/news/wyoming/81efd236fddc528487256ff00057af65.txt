@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Family Services gets diversity training</title>
+</head>
+<body>
+
+<div class="fixed">
+
+<table><tr><td>
+<!--THIS IS THE HEADER OF THE PAGE-->
+<div class="header">
+<!-- AdSys ad not found for news/wyoming:tophalfbanner -->
+        
+</div>
+<div><div class="menu"><div class="cssnav"><img src="http://www.casperstartribune.net/art/corners.gif"></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/" title="Home"><span class="cssnav">&nbsp; Home &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/news" title="News"><span class="cssnav">&nbsp; News &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/sports" title="Sports"><span class="cssnav">&nbsp;  Sports &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/weather/hw3.php" title="Weather"><span class="cssnav">&nbsp;  Weather &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/admarket" title="Classifieds"><span class="cssnav">&nbsp; Classifieds &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.print2webcorp.com/news/casper/specialsections/" title="Publications"><span class="cssnav">&nbsp; Publications &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/circ" title="Subscribe!"><span class="cssnav"> &nbsp; Subscribe &nbsp;</span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/online" title="Interactive"><span class="cssnav">&nbsp; Interactive &nbsp; </span> </a></div>
+<div class="cssnav"><a href="http://www.casperstartribune.net/features" title="Weekly Features"><span class="cssnav">&nbsp; Weekly Features &nbsp;</span> </a></div>
+<div><img src="http://www.casperstartribune.net/art/cornersrt.gif" class="corner"></div>
+</div>
+
+<div>
+<span class="submenubg" height="23px">
+<a href="http://www.casperstartribune.net/about_us.html" class="submenu">about us</a> |
+<a href="http://www.casperstartribune.net/contact/" class="submenu">contact us</a> |
+<a href="http://www.casperstartribune.net/CST/sendatip.html" class="submenu">send a tip!</a> |
+<a href="http://www.casperstartribune.net/news/rss/" class="submenu">RSS Feeds &nbsp; <img src="http://www.casperstartribune.net/art/xml.gif" border="0"></a>                                    
+</span></div></div>
+  
+  <!--this is the Left NAV menu-->
+<div class="siderbar"><div style="align: center;">
+<span class="smlinks">Increase Font Size</span></br>
+<a href="javascript:chooseStyle('none', 60)" checked="checked"><img src="http://www.casperstartribune.net/art/12pt.gif" border="0"></a>
+<a href="javascript:chooseStyle('medium', 60)"><img src="http://www.casperstartribune.net/art/15pt.gif" border="0"></a>
+<a href="javascript:chooseStyle('large', 60)"><img src="http://www.casperstartribune.net/art/20pt.gif" border="0"></a>
+</div>
+
+ <div class="boxtop">Latest News</div>
+  <div class="boxmid">
+
+	
+	<a href="http://www.casperstartribune.net/articles/2005/04/29/news/casper/491188a8f6a8850187256ff20062e365.txt"><span class="menutext">Off-roading teenagers found outside Casper</span><br/></a><span class="timestamp">Friday, April 29, 2005 12:24 PM MDT</span><br/><br/>	
+	<a href="http://www.casperstartribune.net/articles/2005/04/29/news/wyoming/23182c1685060b8287256ff20064b3f0.txt"><span class="menutext">Tire shortage threatens Wyo industry</span><br/></a><span class="timestamp">Friday, April 29, 2005 12:24 PM MDT</span><br/><br/>
+	<a href="http://www.casperstartribune.net/articles/2005/04/29/news/regional/dbb134e345109df887256ff20072473c.txt"><span class="menutext">Group alleges religious harassment is widespread at academy</span><br/></a><span class="timestamp">Friday, April 29, 2005 3:01 PM MDT</span><br/><br/>
+	<a href="http://www.casperstartribune.net/articles/2005/04/29/news/national/5a21c5e85c89c41a87256ff2000ec5b2.txt"><span class="menutext">Jury returns death sentence against 101st Airborne soldier who attacked comrades</span><br/></a><span class="timestamp">Friday, April 29, 2005 10:00 AM MDT</span><br/><br/>
+<html>
+
+<br/></div>
+      
+<div class="boxtop"><p>Archive Search</p></div>
+<div class="boxmid">
+          <p>Archive Search <br/>
+<a href="http://www.casperstartribune.net/archives/"><img src="http://www.casperstartribune.net/art/archive.jpg" border="0" alt="Archive" align="middle"></a><br/>
+
+<div class="boxtop"><p>Site Search</p></div>
+<div class="boxmid">
+Search Entire Site 
+<form method="GET" action="http://www.google.com/custom">
+<table bgcolor="#FFFFFF" cellspacing="0" border="0">
+<tr valign="top"><td>
+<input type="text" name="q" size="10" maxlength="255" value=""></td></tr>
+<tr><td><input type="submit" name="sa" value="Search"></td></tr>
+<tr><td><input type="hidden" name="cof" value="GALT:black;S:http://www.casperstartribune.townnews.com;GL:0;VLC:#566a83;AH:center;BGC:white;LH:118;LC:#566a83;GFNT:#c5cf90;L:http://www.casperstartribune.townnews.com/art/CasperOnline.jpg;ALC:#566a83;LW:569;T:Black;GIMP:red;AWFID:adfbccbdf07bb721;" target="_blank">
+<input type="hidden" name="domains" value="www.casperstartribune.net"><input type="radio" name="sitesearch" value="www.casperstartribune.net" checked> <img src="http://www.casperstartribune.net/art/cstsm.jpg" border="0" alt="Google" align="middle"> </td></tr>
+<tr><td><input type="radio" name="sitesearch" value=""><a href="http://www.google.com/search" target="_blank">
+<img src="http://www.casperstartribune.net/art/google.gif" border="0" alt="Google" align="middle"></a> 
+</td></tr></table>
+</form>
+</p>
+</div> 
+
+<div class="boxtop">Photogallery</div>
+  <div class="boxmid">
+<div class="boxtext">
+
+<a href="http://casperstartribune.mycapture.com/">
+<img src="http://casperstartribune.mycapture.com/PHOTOS/CSPR/74197/11190887T.jpg" alt="volleyball picture" width="90" height="52">
+<br/> Click Here for more Photos</a>
+
+</div></div>
+  
+
+<div class="boxtop">Blogs</div>
+  <div class="boxmid"><p class="boxtext">
+This is what Wyoming is Saying...</p>
+<p><a href="http://www.casperstartribune.net/watercooler"><img src="http://www.casperstartribune.net/art/watercooler.jpg"></a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/weblogs">The Gridiron</a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/goulash">Sports Goulash</a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/teen/?cat=1">ONOBlog</a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/uwbball">Under the Dome</a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/locker">The Lockerroom</a></p>
+<p class="menutext"><a href="http://www.casperstartribune.net/over_the_boards/">Over the Boards</a></p>
+<!--<p class="menutext"><a href="http://www.casperstartribune.net/wildthings">Wild Things</a></p>-->
+<!--<p class="menutext"><a href="http://www.casperstartribune.net/insideout">Inside and Out</a></p>-->
+</p></div>
+
+
+<div class="boxtop">Forms</div>
+  <div class="boxmid"><p class="boxtext">
+<a href="http://www.casperstartribune.net/forms/wedding.php">Wedding</a><br/>
+<a href="http://www.casperstartribune.net/forms/anniversary.php">Anniversary</a><br/>
+<a href="http://www.casperstartribune.net/forms/engagement.php">Engagements</a><br/>
+<a href="http://www.casperstartribune.net/forms/inkind_brochure.pdf">Inkind Donation</a><br/>
+<a href="http://www.casperstartribune.net/forms/Application%20Form.doc">Application- Word</a><br/>
+<a href="http://www.casperstartribune.net/forms/Application%20Form2.pdf">Application- PDF</a><br/>
+</p></div>
+
+<!--THIS IS THE LAST DIV and IS NEEDED!!!-->
+</div>
+ </div>
+
+ 
+    <!--THIS IS THE MAIN TEXT-->
+
+<div class="middletext"> 
+                <!--<div>[ad:_topright]</div>-->
+             
+            <div>
+            <h1 class="headlinedetail">Family Services gets diversity training</h1>
+            <p class="bylinedetail">By The Associated Press Friday, April 29, 2005</p>
+          </div>
+              
+                  <!--<div border="0" cellspacing="0" cellpadding="0" width="[component:image-photo-width]">-->
+             <div>
+                      <p class="storydetail"></p>
+               
+                      <p class="cutline"></p>
+                  
+                  </div>
+                 
+           
+            <div>
+            <p><span class="storydetail">CHEYENNE, Wyo. (AP) -- Department of Family Services employees are getting training to help them better understand people of different nationalities and circumstances.<br/><br/>"We wanted something that would help our people think about the people we serve and what their life is like," Director Rodger McDaniel said. "We need to be aware of how our feelings impact the way we deliver our services."<br/><br/>McDaniel said the program is part of the agency's shift of focus away from the needs of one child in a family and more on the family as a whole.<br/><br/>"If a child comes into our system, it is not good practice to focus on the needs of that child without focusing on the family dynamics," he said</span><span class="ads"><script type="text/javascript" language="javascript">
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+if ((nAdsysTime >= 1109829600) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('news+wyoming+rtcontophorsize.2','18896', 'gif');
+aAd[3] = 'http://www.ludwell.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1109916000) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('news+wyoming+rtcontophorsize.2','19008', 'gif');
+aAd[3] = 'http://www.stalkupsrv.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1109916000) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('news+wyoming+rtcontophorsize.2','19011', 'gif');
+aAd[3] = 'http://jwwjobs.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1110261600) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('news+wyoming+rtcontophorsize.2','19200', 'gif');
+aAd[3] = 'http://overheaddoor.com/DealerSite.aspx?jid=31026';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1140674400) && (nAdsysTime <= 1172815199)) {
+aAd = new Array('news+wyoming+rtcontophorsize.2','41013', 'gif');
+aAd[3] = 'http://www.biolifeplasmaservices.com/';
+aAd[4] = '0';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1141192800) && (nAdsysTime <= 1172815199)) {
+aAd = new Array('news+wyoming+rtcontophorsize.2','41407', 'swf');
+aAd[3] = '336';
+aAd[4] = '280';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.bigwyoming.com%2Fen_US%2F';
+aAd[6] = 'news%2Bwyoming%2Brtcontophorsize.2';
+aAds[aAds.length] = aAd;
+}
+displayAd('http://adsys.townnews.com/', 'casperstartribune.net', aAds);
+</script></span></p>
+            <p><span class="storydetail">The training, "Undoing Racism," is conducted by The People's Institute and results from the department's partnership with Casey Family Programs.<br/><br/>"In Wyoming, there's sort a sort of a sense that we don't have a lot of racial diversity here, so it's not a problem," McDaniel said. "That's not true when you look at the data.<br/><br/>"Considerably higher numbers of children of color fail to complete high school than Caucasian children. A disproportionate number of children of color are in out-of-home care. We need to understand why that's happening."<br/><br/>Brenden McKinney, director of Casey Family Programs here, said children are removed from black and American Indian homes at a rate four to five times higher than for white families.<br/><br/>Also, white children tend to remain in the state welfare system longer than minorities.<br/><br/>Information from: Wyoming Tribune-Eagle, <a target="_blank" href="http://www.wyomingnews.com/">http://www.wyomingnews.com</a></span></p>
+            <p><a href="http://www.casperstartribune.net/articles/2005/04/29/news/wyoming/81efd236fddc528487256ff00057af65.eml" target="emailafriend"><span class="smlinks">E-MAIL THIS STORY</span></a></p>
+            <p><a href="http://www.casperstartribune.net/articles/2005/04/29/news/wyoming/81efd236fddc528487256ff00057af65.prt" target="printable"><span class="smlinks">PRINTABLE VERSION</span></a></p>
+           <!-- <p><a href="http://www.trib.com/CGI-BIN/braille.php?theurl=//news/wyoming/81efd236fddc528487256ff00057af65.txt"  class='smlinks'>BRAILLE FILE</a><br><span class="breadcrumbhl"> -->
+           	<p><a href="?braille" class="smlinks">BRAILLE FILE</a><br><span class="breadcrumbhl">
+            This will download to your computer a computer braille ASCII file of the current story translated into grade 2 braille. This file may be sent to any standard braille embosser.</span></p>
+              <p class="blogtitle">Add Your Comments Here:</p>
+    <div class="simpleblog">
+    	
+    	<p>
+	<a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.casperstartribune.net/articles/2005/04/29/news/wyoming/81efd236fddc528487256ff00057af65.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label><input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: </label><img id="simpleblog-captcha" width="125" height="50" src="http://www.casperstartribune.net/shared-content/newsys/common/generatecaptcha.png"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/></div><input type="SUBMIT" value="Post Comment"/></div></form></div>
+Casperstartribune.net encourages readers to engage in civil conversation with their neighbors. We will never edit or alter your comments, but we do reserve the right to remove comments that violate our code of conduct.<br/> 
+	<ul>No comment may contain:
+	 <li>Potentially libelous statements.</li> 
+	 <li>Obscene, explicit, or racist language.</li>
+	 <li> Personal attacks, insults, or threats. </li>
+	 <li>Commercial product promotions or consumer complaints.</li></ul></p>
+<p>To submit your comment you must type the characters from the Image Verification box, in the space provided.  This is a feature to help against spam.<br/>
+	 <a href="mailto:fred.jacquot">Click here</a> to report offensive or inappropriate comments. The comments below are from readers of casperstartribune.net and in no way represent the views of The Casper Star Tribune or Lee Enterprises.</p>
+</div>
+<p class="blogtitle">Comments</p>
+<p class="storydetail"><a id="blogcomments"></a></p>
+<p><a href="#" class="menutext">BACK TO TOP</a></p>
+          </div>
+    
+        <div> 
+          <span><script type="text/javascript" language="javascript">
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+if ((nAdsysTime >= 1109829600) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+lfconbothalfbannersize','18907', 'gif');
+aAd[3] = 'http://outreach.uwyo.edu/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1109829600) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+lfconbothalfbannersize','18908', 'gif');
+aAd[3] = 'http://www.worldwidetvl.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1109916000) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+lfconbothalfbannersize','19023', 'gif');
+aAd[3] = 'http://www.casperstartribune.net/subscriber_services';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1115960400) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+lfconbothalfbannersize','23615', 'gif');
+aAd[3] = 'http://www.wonderwash.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1138773600) && (nAdsysTime <= 1454392799)) {
+aAd = new Array('+lfconbothalfbannersize','39025', 'gif');
+aAd[3] = 'http://www.windowandwallgallery.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+displayAd('http://adsys.townnews.com/', 'casperstartribune.net', aAds);
+</script>
+        <script type="text/javascript" language="javascript">
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+if ((nAdsysTime >= 1109829600) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+rtconbothalfbannersize','18907', 'gif');
+aAd[3] = 'http://outreach.uwyo.edu/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1109829600) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+rtconbothalfbannersize','18908', 'gif');
+aAd[3] = 'http://www.worldwidetvl.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1109916000) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+rtconbothalfbannersize','19023', 'gif');
+aAd[3] = 'http://www.casperstartribune.net/subscriber_services';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1115960400) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+rtconbothalfbannersize','23615', 'gif');
+aAd[3] = 'http://www.wonderwash.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1138773600) && (nAdsysTime <= 1454392799)) {
+aAd = new Array('+rtconbothalfbannersize','39025', 'gif');
+aAd[3] = 'http://www.windowandwallgallery.com/';
+aAd[4] = '1';
+aAds[aAds.length] = aAd;
+}
+displayAd('http://adsys.townnews.com/', 'casperstartribune.net', aAds);
+</script></span>
+        </div>
+</div>
+ </td></tr>
+ <tr><td>
+ <!--THIS IS THE FOOTER-->
+<div class="footer">
+<p><table width="760px" border="0" cellspacing="0" cellpadding="0">
+<tr>
+		<td class="copyright" colspan="2"><center><a href="http://www.casperstartribune.net/">Home</a> ::
+<a href="http://www.casperstartribune.net/news">News </a> ::
+<a href="http://www.casperstartribune.net/sports">Sports </a> ::
+<a href="http://www.casperstartribune.net/weather/hw3.php">Weather </a> ::
+<a href="http://www.casperstartribune.net/admarket">Classifieds </a> ::
+<a href="http://www.print2webcorp.com/news/casper/specialsections/">Publications </a> ::
+<a href="http://www.casperstartribune.net/subscriber_services/">Subscribe </a> ::
+<a href="http://www.casperstartribune.net/online/">Interactive </a> ::
+<a href="http://www.casperstartribune.net/features/">Weekly Features </a></center></td>
+	</tr>
+        <tr> 
+          <td class="copyright">Copyright &copy; 1995&#8211;2006 Lee Enterprises&nbsp;&nbsp;&nbsp; a
+subsidiary of <a href="http://www.lee.net/">Lee Enterprises Incorporated</a>
+          </td><td><a href="http://www.casperstartribune.net/contact/" class="copyright"> CONTACT US</a></td>
+        </tr><tr>
+<td class="copyright" colspan="2"><center><a href="http://www.billingsgazette.com/">Billings Gazette</a> ::
+<a href="http://www.casperjournal.com/">Casper Journal</a> ::
+<a href="http://www.jacksonholestartrib.com/">Jackson Hole Star-Tribune</a> ::
+<a href="http://www.rapidcityjournal.com/">Rapid City Journal</a> ::
+<a href="http://www.theprairiestar.com/">Prairie Star</a> </center></td></tr>      
+</table></p>
+</div>
+
+
+</td></tr></table>
+</div>
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 06:08:24 Apr 27, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:53:32 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 70.11 (3)
+  esindex: 0.018
+  captures_list: 177.183
+  CDXLines.iter: 15.221 (3)
+  PetaboxLoader3.datanode: 80.548 (4)
+  exclusion.robots: 0.286
+  exclusion.robots.policy: 0.267
+  RedisCDXSource: 86.04
+  PetaboxLoader3.resolve: 29.334
+  load_resource: 66.488
+-->

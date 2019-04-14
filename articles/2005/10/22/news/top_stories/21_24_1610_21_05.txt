@@ -1,0 +1,1128 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>
+Report: Immigration workplace fines and arrests plummet : North County Times - Californian </title>
+</head>
+
+<body>
+<!-- HEADER -->
+<div id="header_wrap">
+
+<!-- HEADER -->
+   <div id="header">
+                
+        <!-- *************************************************************************************************************************** --> 
+              <div id="headerlogo_ad">
+    
+                    <a href="http://www.nctimes.com/"><img id="nctheaderlogo" class="clear" src="http://images.townnews.com/nctimes.com/zimages/08/logo-nct.png" alt="NCTimes.com" width="235" height="89"/></a> 
+                    
+                    <div class="bannerad">
+                        <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_leaderboard/static.js"></script>
+                    </div> 
+                       
+            </div>        <!-- *************************************************************************************************************************** --> 
+                
+        <!-- *************************************************************************************************************************** --> 
+               <div id="midlink" class="clear">
+		
+		
+			<ul id="main_menu" class="lava">
+                <li id="mNews"><a href="#">News</a></li>
+				<li id="mOpinion"><a href="#">Opinion</a></li>
+                <li id="mSports"><a href="#">Sports</a></li>
+				<li id="mEntertainment"><a href="#">Entertainment</a></li>
+                <li id="mFeatures"><a href="#">Features</a></li>   
+                <li id="mMarket" class="ads_menu"><a href="#">Marketplace</a></li>             
+                <li id="mCars" class="ads_menu"><a href="#">Cars</a></li>
+                <li id="mHomes" class="ads_menu"><a href="#">Homes</a></li>
+                <li id="mJobs" class="ads_menu"><a href="#">Jobs</a></li>
+
+				<!--<li id="mBusiness"><a href="#">Business</a></li>
+				<li id="mCommunity"><a href="#">Community</a></li>
+                -->
+   			</ul>
+           
+		</div>
+        
+        <div id="botlink">
+			<ul>
+			  	<li><a href="http://www.nctimes.com/" title="Home">HOME</a></li>
+				<li><a href="http://www.nctimes.com/contact_us" title="Contact Us">CONTACT US</a></li>
+                <li><a href="http://www.nctimes.com/advertising" title="Advertise">ADVERTISE</a></li>
+                <li><a href="http://www.nctimes.com/web_services" title="Subscriber Services">SUBSCRIBER SERVICES</a></li>
+            <!--<li><a href="/" title="Site Map">SITE MAP</a></li>-->
+            </ul>
+		</div> <!-- end of botlink -->
+        <!-- *************************************************************************************************************************** --> 
+        
+        <!-- *************************************************************************************************************************** --> 
+              <div id="header-search">
+		<img class="floatleft margin15top" alt="yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+			
+			<input class="searchfield" type="text" name="search" size="15" value="Search..."/>
+			<label>in </label>
+			<select name="searchType" id="searchType">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="videos">Videos</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+				<option value="web">Web</option>
+			</select>
+			
+			<input class="submitbutton" name="submitsearch" type="submit" value="Go"/>
+		</form>
+</div> <!-- end of search -->        <!-- *************************************************************************************************************************** --> 		
+                
+        </div><!-- end of header -->
+	
+</div>
+
+<!-- BODY -->
+<div id="content_wrap">
+ 	  <div id="maincontent">
+<!-- *************************************************************************************************************************** --> 
+        <div style="position:relative; z-index:999;">
+
+<!-- NEWS/LOCAL -->
+
+	<div id="submNews" class="subnav-group">
+		
+        <div class="subs lead">
+		  <h1><a href="http://www.nctimes.com/news">News Main Page</a></h1>
+          <h1><a href="http://videos.nctimes.com/">Online Videos</a></h1> 
+          <ul class="lead">
+		    <li><a href="http://www.nctimes.com/news/top_stories">Top Stories</a></li>
+		    <li><a href="http://www.nctimes.com/news/coastal">Coastal</a></li>
+		    <li><a href="http://www.nctimes.com/news/inland">Inland</a></li>
+		    <li><a href="http://www.nctimes.com/news/californian">Californian</a></li>
+            <li><a href="http://www.nctimes.com/news/sandiego">San Diego/County</a></li> 
+			<li><a href="http://www.nctimes.com/news/state">State</a></li> 
+			<li><a href="http://www.nctimes.com/news/nation">National</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/rss">RSS Feeds</a></li>
+          </ul>
+        </div>
+      
+        <div class="subs">
+          <h1>City News</h1>
+          <ul>
+          	<li><a href="http://www.nctimes.com/news/coastal/carlsbad">Carlsbad</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/del_mar">Del Mar</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/encinitas">Encinitas</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/escondido">Escondido</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/fallbrook">Fallbrook</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/lake_elsinore">Lake Elsinore</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/menifee">Menifee</a> | <a href="http://www.nctimes.com/news/californian/menifee/election2008/">Elections</a></li> 
+            <li><a href="http://www.nctimes.com/news/californian/murrieta">Murrieta</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/oceanside">Oceanside</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="subs">
+          <ul>
+			<li><a href="http://www.nctimes.com/news/inland/poway">Poway</a></li>
+          	<li><a href="http://www.nctimes.com/news/inland/ramona">Ramona</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/rb">Rancho Bernardo</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/riverside">Riverside</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/san_marcos">San Marcos</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/sb">Solana Beach</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/temecula">Temecula</a></li>
+            <li><a href="http://www.nctimes.com/news/inland//vc">Valley Center</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/vista">Vista</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/wildomar">Wildomar</a></li>
+          </ul>
+        </div>
+        
+          <div class="subs">
+		   <ul>
+		  <li><h1><a href="http://www.nctimes.com/ap">AP Headlines</a></h1></li>
+		  </ul>
+		  <h1><a href="http://www.nctimes.com/business">Business</a></h1>
+		  <ul>
+		  <li><a href="http://www.nctimes.com/business/stocks">Stocks</a></li>
+		  <li><a href="http://www.nctimes.com/gas_prices">Gas Gauge</a></li>
+		  <li><a href="http://www.nctimes.com/business/chamberlin">George Chamberlin</a></li>
+		  <li><a href="http://www.nctimes.com/business/bahr">Candace Bahr</a></li>
+		  <li><a href="http://www.nctimes.com/business/vanderspek">Jim VanderSpek</a></li>
+		  <li><a href="http://www.nctimes.com/business/knight">Gary Knight</a></li>
+		  </ul> 
+         </div>
+		  
+		  <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/community">Community</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/community">Community News</a></li>
+				<li><a href="http://www.nctimes.com/socialscene">Social Scene</a></li>
+				<li><a href="http://www.nctimes.com/community/charities_fund">Charities Fund</a></li>
+				<li><a href="http://www.nctimes.com/obituaries">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Birth</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Celebrations</a></li>
+				<li><a href="http://www.nctimes.com/traffic">Traffic</a></li>
+				<li><a href="http://www.nctimes.com/earthquake">Earthquake Reports</a></li>
+           </ul>
+		 </div> 
+        
+		 <div class="subs">
+          <h1>News Extras</h1>
+          <ul>
+          	<li><a href="http://www.nctimes.com/maillist/index.php">Daily Headline Alerts</a></li> 
+			<li><a href="http://www.nctimes.com/pdfs">View Front Pages</a></li> 
+			<li class="h1-subhead">Other News</li>
+            <li><a href="http://www.nctimes.com/military">Military</a></li> 
+			<li><a href="http://www.nctimes.com/elections2008">Elections</a></li> 
+			<li><a href="http://www.nctimes.com/news/columnists">Columns</a></li>
+			<li><a href="http://www.nctimes.com/corrections">Corrections</a></li>
+			<li><a href="http://www.nctimes.com/backpage">Backpage</a></li>
+          </ul>
+         </div>
+	
+	</div>
+	
+<!-- OPINION -->
+
+	<div id="submOpinion" class="subnav-group">
+	<div class="subs"> 
+          <h1><a href="http://www.nctimes.com/opinion/">Opinion Main</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/blog">Blogs</a></li>
+				<li><a href="http://www.nctimes.com/opinion/editorials">Editorials</a></li>
+				<li><a href="http://www.nctimes.com/opinion/letters">Letters to the editor</a></li>
+				<li><a href="http://www.nctimes.com/faith/letters">Faith &amp; Values Letters</a></li>
+				<li><a href="http://www.nctimes.com/opinion/cartoon">Editorial Cartoons</a></li>
+				<li><a href="http://www.nctimes.com/opinion/commentary">Community Forums</a></li>
+				<li><a href="http://www.nctimes.com/perspective/">Perspective</a></li>
+          </ul>
+		 </div> 
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/opinion/#columnists">Columnists</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/news/columnists/baier/">Paul Baier</a></li>
+				<li><a href="http://www.nctimes.com/opinion/brett/">Brigid Brett</a></li>
+				<li><a href="http://www.nctimes.com/opinion/chatfield/">Gail Chatfield</a></li>
+				<li><a href="http://www.nctimes.com/opinion/clausen/">Dennis Clausen</a></li>
+				<li><a href="http://www.nctimes.com/opinion/davy/">Kent Davy</a></li>
+				<li><a href="http://www.nctimes.com/opinion/harris/">Rusty Harris</a></li>
+				<li><a href="http://www.nctimes.com/opinion/jacobs/">Paul Jacobs</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/richard_kirk/">Richard Kirk</a></li>
+          </ul>
+		 </div> 
+		 <div class="subs"> 
+          <ul>
+				<li><a href="http://www.nctimes.com/opinion/rider/">Richard Rider</a></li>
+				<li><a href="http://www.nctimes.com/opinion/riehl/">Richard Riehl</a></li>
+				<li><a href="http://www.nctimes.com/opinion/scharf/">Greg Scharf</a></li>
+				<li><a href="http://www.nctimes.com/opinion/strickland/">Phil Strickland</a></li>
+				<li><a href="http://www.nctimes.com/opinion/trageser/">Jim Trageser</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/observer/">John Van Doorn</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/warth/">Gary Warth</a></li>
+          </ul>
+		 </div>
+		 <div class="subs"> 
+         <h1><a href="http://www.nctimes.com/news/columnists/">Local Columnists</a></h1>
+		 <ul>
+				<li><a href="http://www.nctimes.com/news/columnists/carr/">Charles Carr</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/jeff_frank/">Jeff Frank</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/john_hunneman/">John Hunneman</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/rb">Margot Jackson</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/betty_johnston">Betty Johnston</a></li>
+          </ul>
+		 </div>
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/opinion/#columnists">National Columnists</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/opinion/goodman/">Ellen Goodman</a></li>
+				<li><a href="http://www.nctimes.com/opinion/will">George Will</a></li>
+          </ul>
+		 </div> 
+
+     </div>
+	 
+<!-- SPORTS -->
+
+	<div style="display: none;" id="submSports" class="subnav-group">
+	   	<div class="subs lead">
+
+        	<h1><a href="http://www.nctimes.com/sports/">Sports Main Page</a></h1>
+            <ul>
+                <li><a href="http://www.nctimes.com/sports/chargers">Chargers</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/teams/083/team.aspx?id=083">Stats</a></li>
+                <li><a href="http://www.nctimes.com/sports/padres">Padres</a> | <a href="http://www.nctimes.com/blog/sports/hayesblog/">Blog</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/teams/010/team.aspx?id=010">Stats</a></li>
+
+                <li><a href="http://www.nctimes.com/sports/angels">Angels</a></li>
+				<li><a href="http://www.nctimes.com/sports/collegesports">Local Colleges</a></li>
+				<li><a href="http://www.nctimes.com/sports/golf">Golf</a></li>
+                <li><a href="http://www.nctimes.com/sports/storm">Lake Elsinore Storm</a> </li>
+                <li><a href="http://www.nctimes.com/sports/motorsports">Motorsports</a></li>
+                <li><a href="http://www.nctimes.com/sports/communitysports">Community Sports</a></li>
+
+                <li><a href="http://www.nctimes.com/sports/horseracing">Horse Racing</a></li>	
+          </ul>
+   	    </div>
+        
+	   	
+        
+        <div class="subs">
+	   	  <h1>Columnists</h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/sports/nelson">Loren Nelson</a> | <a href="http://www.nctimes.com/blog/sports/nelsonblog/">Blog</a></li>
+
+		    <li><a href="http://www.nctimes.com/sports/paris">Jay Paris</a></li>
+		    <li><a href="http://www.nctimes.com/sports/bair">Scott Bair</a></li>
+		    <li><a href="http://www.nctimes.com/sports/figueroa">Marc Figueroa</a></li>
+		    <li><a href="http://www.nctimes.com/sports/maffei">John Maffei</a></li>
+		    <li><a href="http://www.nctimes.com/sports/monahan">Terry Monahan</a></li>
+		    <li><a href="http://www.nctimes.com/sports/nahill">Jeff Nahill</a></li>
+
+			<li><a href="http://www.nctimes.com/sports/cowan">Ernie Cowan</a></li>
+		  </ul>
+   	    </div>
+        
+	   	<div class="subs">
+          <h1>Californian Columnists</h1>
+          <ul>  
+		    <li><a href="http://www.nctimes.com/sports/negri">Landon Negri</a></li>
+		  	<li class="h1-subhead">College</li>
+
+		    <li><a href="http://www.nctimes.com/sports/ncaabasketball">NCAA Basketball</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cbask/news/index.aspx?sport=AE">Stats</a></li>
+		  	<li><a href="http://www.nctimes.com/sports/ncaafootball">NCAA Football</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cfoot/news/index.aspx?sport=AF">Stats</a></li>
+		    <li><a href="http://www.nctimes.com/sports/collegesports">Other College Sports</a></li>
+	   	    <li class="h1-subhead">High School Sports</li>
+
+		    <li><a href="http://www.nctvarsity.com/">NCTVarsity</a> | <a href="http://www.nctimes.com/sports/highschool">Stats</a></li>
+		    <li><a href="http://www.calvarsity.com/">CALVarsity</a> | <a href="http://www.nctimes.com/sports/highschool/calhighschool">Stats</a></li>
+          </ul>
+   	    </div>
+		
+		<div class="subs">
+
+	   	  <h1>More Sports</h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/sports/action">Action Sports</a></li>
+		    <li><a href="http://www.nctimes.com/sports/nhl">NHL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nhl/news/index.aspx?sport=AD">Stats</a></li>            <li><a href="http://www.nctimes.com/sports/nba">NBA</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nba/news/index.aspx?sport=AC">Stats</a></li>
+
+            <li><a href="http://www.nctimes.com/sports/mlb">MLB</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/news/index.aspx?sport=AA">Stats</a></li>
+		    <li><a href="http://www.nctimes.com/sports/soccer">Soccer</a></li>
+		    <li><a href="http://www.nctimes.com/sports/tennis">Tennis</a></li>
+            <li><a href="http://www.nctimes.com/sports/olympics">Olympics</a></li>
+			<li><a href="http://www.nctimes.com/sports/outdoors">Outdoors</a></li>
+
+			<li><a href="http://www.nctimes.com/sports/boxing">Boxing</a></li>
+		  </ul>
+   	    </div>
+        
+	   	<div class="subs">
+	   	  <h1>Sunday Slant</h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/sports/sides">Choosing Sides</a></li>
+
+		    <li><a href="http://www.nctimes.com/sports/net">Nothin' But Net</a></li>
+            <li><a href="http://www.nctimes.com/sports/take5">Take 5</a></li>
+            <li><a href="http://www.nctimes.com/sports/letters">Letters/Web Comments</a></li>
+			<li class="h1-subhead">Contests</li>
+			<li><a href="http://www.leadertelegram.com/hoops/nctimes/index-2008.asp" target="_blank">Bracket Bucks</a></li> 
+		  </ul>
+   	    </div>
+		
+		 <div class="subs">
+	   	  <h1>Special Reports</h1>
+
+		  <ul>
+			<li><a href="http://www.nctimes.com/special_reports/football2007/">NCT Prep Football</a></li>
+		    <li><a href="http://www.nctimes.com/special_reports/football2007/">CAL Prep Football</a></li>
+            <li><a href="http://www.nctimes.com/special_reports/gwynn/">Tribute to Tony Gywnn</a></li>
+			<li><a href="http://www.nctimes.com/special_reports/stadium2006/">New Chargers Stadium</a></li>
+			<li><a href="http://www.nctimes.com/articles/2008/02/24/sports/mlb/doc47c1ad7e07b17302660879.txt">Spring Training Visitor's Guide</a></li>
+			<li><a href="http://www.nctimes.com/sports/ncaabasketball/special/">NCAA March Madness Section</a></li>
+
+	      </ul>
+   	    </div>
+		
+		
+        
+	   
+        
+	</div>
+
+<!-- BUSINESS 
+
+	<div id="submBusiness" class="subnav-group">
+		
+         
+	</div> -->
+
+
+<!-- OPINION 
+
+	<div id="submOpinion" class="subnav-group">
+		
+         
+	</div>-->
+
+
+<!--5 ENTERTAINMENT DROP DOWNS -->
+
+	<div id="submEntertainment" class="subnav-group">
+	    
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/entertainment">Entertainment</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/entertainment/art">Art</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/theater">Theater</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/music">Music</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/movies">Movies</a></li>
+	        <li><a href="http://www.nctimes.com/books">Books</a></li>
+		    <li><a href="http://www.nctimes.com/comics">Comics</a></li>
+		    <li><a href="http://www.nctimes.com/go">Go!</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/local_events">Events Calendar</a></li>
+	
+	        </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/food">Food &amp; Drink</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/food/wischkaemper">Let's Dish</a></li>
+		    <li><a href="http://www.nctimes.com/food/groch">Bites &amp; Pieces</a></li>
+            <li><a href="http://www.nctimes.com/goout/">Let's Go Out</a></li>
+			<li><a href="http://www.nctimes.com/admarket/restaurants/">Local Restaurant Ads</a></li>
+		  </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>TV/Media</h1>
+          <ul>
+          	<li><a href="http://www.nctimes.com/oscar_quiz">Oscar Quiz</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/television">T.V.</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/radio">Radio</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/entertainment/music">Music</a></li>
+		   </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Blogs/Columns</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/entertainment/radio/">Randy Dotinga - Static</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/television">Ann Zivotsky - TV</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/backstage">Pam Kragen - Backstage</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/sorocco">Erika Sorocco - Music</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/forms/letters/preview.php">Send Letter</a></li>
+		    </ul>
+        </div>
+		
+		 <div class="subs">
+          <h1><a href="http://www.nctimes.com/entertainment/calendar">Local Event Lists</a></h1>
+          	<ul>
+            <li><a href="http://www.nctimes.com/entertainment/local_events/">North County</a></li>	
+		    <li><a href="http://www.nctimes.com/entertainment/localcal_events/">Southwest Riverside</a></li>
+			<li class="h1-subhead">Contests</li>
+			<li><a href="http://www.nctimes.com/takemeshopping/">Take Me Shopping</a></li>
+			<li><a href="http://www.nctimes.com/vision2page/">Vision 2 Page</a></li>
+			<li><a href="http://www.leadertelegram.com/hoops/nctimes/index-2008.asp" target="_blank">Bracket Bucks</a></li> 
+		    </ul>
+        </div> 
+	</div>
+	
+<!--5 FEATURES DROP DOWNS -->
+
+	<div id="submFeatures" class="subnav-group">
+	    
+        <div class="subs lead">
+          		<h1><a href="http://www.nctimes.com/special_reports">Features</a></h1>
+          <ul class="lead">
+		         
+		  		<li class="h1-subhead"><a href="http://www.nctimes.com/food">Food</a></li>
+                <li><a href="http://www.nctimes.com/food/groch">Laura Groch</a></li>
+				<li><a href="http://www.nctimes.com/food/wischkaemper">Pam Wischkaemper</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/travel">Travel</a></li>	
+				<li class="h1-subhead"><a href="http://www.nctimes.com/comics">Comics</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/books">Books</a></li>
+				<li class="h1-subhead"><a style="color:#BA1929" href="http://www.nctimes.com/pop/">The Power of Parenting</a></li>
+	      </ul>
+        </div>
+        
+		<div class="subs">
+          <ul>
+		  		<li class="h1-subhead"><a href="http://www.nctimes.com/lifeandtimes">Life</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/deneve">Cyndie C. de Neve</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/theberge/">Gigi B. Theberge</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/gillette/">Jean Gillette</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/erdos/">Irv Erdos</a></li>
+							</ul>
+		</div>
+						
+		<div class="subs">
+          <ul>	
+				<li class="h1-subhead"><a href="http://www.nctimes.com/science">Science &amp; Technology</a></li>
+				<li><a href="http://www.nctimes.com/science/fikes">Bradley Fikes - Silicon Beach</a></li>
+				<li><a href="http://www.nctimes.com/science/ritter">Mark Ritter - Skies Above</a></li>
+				<li><a href="http://www.nctimes.com/science/edrington">Don Edrington - Computer Tutor</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/gogreen">Go Green</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>
+			</ul>
+		</div>
+		
+		<div class="subs">
+          <ul>
+		  		<li class="h1-subhead"><a href="http://www.nctimes.com/health">Health</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/agnes_herman/">Agnes Herman</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/rotell/">Michelle Rotell</a></li>
+				<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_features_button/static.js"></script></li>
+			
+			</ul>
+		</div>
+		
+		<div class="subs">
+		  <ul>	
+			  	<li class="h1-subhead"><a href="http://www.nctimes.com/faith">Faith &amp; Values</a></li>
+		  		<li><a href="http://www.nctimes.com/faith/letters">Faith &amp; Values Letters</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/homes">Homes</a></li>
+            	<li><a href="http://www.nctimes.com/homes/wilders">Tineke Wilders</a></li>
+				<li><a href="http://www.nctimes.com/homes/crawford">Rose Crawford</a></li>
+				<li><a href="http://www.nctimes.com/homes/groff">Tenaya Groff</a></li>
+				<li><a href="http://www.nctimes.com/homes/batie">Steve Batie</a></li>
+	      </ul>
+        </div>     
+ 
+	</div>
+
+<!--5 COMMUNITY DROP DOWNS 
+
+	<div id="submCommunity" class="subnav-group">
+	    
+	</div> -->
+
+<!-- SHOPPING-->
+	
+	<div id="submMarket" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/admarket/merchandise/">Buy Stuff</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/admarket/">Classifieds</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/furniture_furnishings/">Furniture</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/appliances/">Appliances</a></li>
+			<li><a href="http://www.nctimes.com/admarket/print_ads/">Browse Print Ads</a></li>
+			<li><a href="http://www.nctimes.com/admarket/garage_sales/">Garage Sales</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/give_aways/">Give Aways</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/misc_wanted/">Wanted</a></li>
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">Sell Stuff</a></h1>
+          <ul>
+           <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Animals</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34363">Boats &amp; Marine</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34354">Garage and Yard Sales</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34319">General Merchandise</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Real Estate</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">More...</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1><a href="http://pets.nctimes.com/">Pets</a></h1>
+          <ul>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Dogs">Dogs</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Cats">Cats</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Birds">Birds</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx">Browse All Pet Ads</a></li>
+				<li><a href="http://www.nctimes.com/admarket/announcements/lost_found/">Lost and Found</a></li>
+			  <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Place An Ad</a></li>
+		    </ul>
+        </div>
+        	  <div class="subs">
+		  <h1>Directories</h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/medical/">Medical</a></li>
+				<li><a href="http://www.nctimes.com/cars/directory/">Auto Dealers</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Real Estate Experts</a></li>
+				<li><a href="http://www.nctimes.com/goout/">Restaurants</a></li>
+				<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_marketplace_button/static.js"></script></li>
+				
+		    </ul>
+        </div> 
+        
+        <div class="subs">
+          <h1>Services</h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>	
+				<li><a href="http://www.nctimes.com/admarket/personal_services/">Personal Services</a></li>
+				<li><a href="http://www.nctimes.com/admarket/home_services/">Home Services</a></li>
+				<li><a href="http://www.nctimes.com/admarket/business_services/">Business Services</a></li>
+				<li class="h1-subhead">Announcements</li>
+				<li><a href="http://www.nctimes.com/admarket/legals/">Legals</a></li>
+				<li><a href="http://www.legacy.com/NCTimes/Obituaries.asp">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/celebrations/">Engagements, Weddings and other Celebrations</a></li>
+				<li><a href="http://www.nctimes.com/admarket/announcements/lost_found/">Lost and Found</a></li>
+               </ul>
+
+        </div>  
+
+		
+        </div> 	
+    
+ <!-- CARS -->  
+    <div id="submCars" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://wheels.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+			<li><a href="http://wheels.nctimes.com/">Wheels For You</a></li>
+			<li><a href="http://www.nctimes.com/admarket/transportation/?ad_type=display">Auto Print Ads</a></li>
+			<li><a href="http://wheels.nctimes.com/results.php?eqdealerid=202095">Classified Ads</a></li>
+			<li><a href="http://nctimes.outdoormotors.com/">Outdoor Motors</a></li>
+			<li><a href="http://www.nctimes.com/cars/directory/">Local Dealer Directory</a></li>		
+			<li><a href="http://www.nctimes.com/admarket/transportation/specialty_antiques/">Specialty &amp; Antiques</a></li>	
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Sell</h1>
+          <ul>
+			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34358">Place an Ad</a></li>	
+			<li><a href="http://www.nctimes.com/admarket/transportation/wanted_to_buy/">Wanted to Buy</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1>Research and Tools</h1>
+          <ul>
+			<li><a href="http://wheels.nctimes.com/research.php">Research and Advice</a></li>		
+			<li><a href="http://wheels.nctimes.com/tools.php">Payment Calculator</a></li>
+		    </ul>
+        </div>
+          <div class="subs">
+          <h1>Parts &amp; Service</h1>
+          <ul>		
+			<li><a href="http://www.nctimes.com/admarket/transportation/auto_parts/">Auto Parts</a></li>
+			<li><a href="http://www.nctimes.com/admarket/personal_services/automotive_service_repair/">Service &amp; Repair</a></li>
+			<li class="h1-subhead">Quick Searches</li>
+			<li><a href="http://www.nctimes.com/admarket/?=&amp;change_path=%2F&amp;query=auto+repair&amp;sort=featured+desc+start_date+desc&amp;limit=25">Auto Repair</a></li>
+			<li><a href="http://www.nctimes.com/admarket/?=&amp;change_path=%2F&amp;query=oil+change&amp;sort=featured+desc+start_date+desc&amp;limit=25">Oil Change</a></li>
+		    </ul>
+        </div>      
+        <div class="subs">
+          	<ul>		
+         	 <li><a href="http://wheels.nctimes.com/"><img src="http://wheels.nctimes.com/art/nctimes-wheels-logo.jpg" alt="wheels.nctimes.com" border="0"/></a></li>
+			 <li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_cars_button/static.js"></script></li>
+		 	</ul>
+		</div>
+	</div>
+    
+ <!-- HOMES -->  
+    <div id="submHomes" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://homes.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+		  		<li><a href="http://homes.nctimes.com/">Search Local MLS</a></li>
+            	<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=11%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=6&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C16%2C14%2C15&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=S&amp;WebSearches=Y">Classifieds</a></li>
+				<li><a href="http://www.nctimes.com/homes/tophomes/">Top Homes</a></li>
+			  	<li><a href="http://www.nctimes.com/newhomes/">New Homes</a></li>
+				<li><a href="http://www.nctimes.com/tourofhomes/">Open House Map</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+				<li><a href="http://www.nctimes.com/homes/">Homes News</a></li>
+		    </ul>
+        </div>
+		  <div class="subs">
+          <h1>Quick Searches</h1>
+          <ul>	
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=0&amp;HPrice=400000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Under $400,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=400000&amp;HPrice=500000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$400,000-$500,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=500000&amp;HPrice=600000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$500,000-$600,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=600000&amp;HPrice=700000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$600,000-$700,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=700000&amp;HPrice=800000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$700,000-$800,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=800000&amp;HPrice=900000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$800,000-$900,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=900000&amp;HPrice=1000000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$900,000-$1,000,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=1000000&amp;HPrice=&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Over $1,000,000</a></li>
+				</ul>
+        </div>
+        
+        
+        <div class="subs">
+         <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Sell</a></h1>
+		  	<ul>
+				<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Place an Ad</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+          </ul>
+		  </div>
+         
+		 <div class="subs">
+         	<h1><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchIndex.asp">Rent</a></h1>
+	  	   	<ul>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Classified Ads</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=8&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Apartments</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=4&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Houses</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=32&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Condos</a></li>
+		   		<li><a href="http://www.nctimes.com/homes/toprentals/">Top Rentals</a></li>
+	  			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34283">Place an Ad</a></li>
+		    </ul>
+        </div>
+
+        
+        <div class="subs">
+          <h1>Homes Columns</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/news/columnists/cal_gardens">Tineke Wilders - California Gardens</a></li>
+			<li><a href="http://www.nctimes.com/news/columnists/crawford/">Rose Crawford - Ask Rose</a></li>
+			<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_homes_button/static.js"></script></li>
+		   </ul>
+        </div>
+        
+     
+	</div>
+ 
+  <!-- JOBS -->  
+    <div id="submJobs" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1>Find a Job</h1>
+          <ul class="lead">
+		  	<li><a href="http://www.nctimes.com/jobs">Job Search</a></li>
+            <li><a href="http://www.nctimes.com/jobs">Log In</a></li> 
+			<li><a href="http://nctimes.com/hotjobs_topads">View Top Jobs</a></li>
+			<li><a href="http://hotjobs.yahoo.com/create-resume?partner=oceansideescondido">Post Resume</a></li>
+			<li><a href="http://help.yahoo.com/l/us/yahoo/hotjobs/?partner=oceansideescondido">Jobs FAQ and Help</a></li>
+			<li class="h1-subhead"><a href="http://hotjobs.yahoo.com/careertools?partner=oceansideescondido">Research Tools</a></li>       
+			<li><a href="http://hotjobs.yahoo.com/career-articles?partner=oceansideescondido">Career Articles</a></li>
+			<li><a href="http://hotjobs.yahoo.com/salary?partner=oceansideescondido">Salary Info</a></li>
+			<li><a href="http://hotjobs.yahoo.com/interview?partner=oceansideescondido">Interviewing Tips</a></li>
+			</ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Quick Search</h1>
+          <ul>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Accounting_Finance-t-anytime-g-578132?partner=oceansideescondido">Accounting &amp; Finance</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Construction_Facilities-t-anytime-g-578132?partner=oceansideescondido">Construction</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Education_Training-t-anytime-g-578132?partner=oceansideescondido">Education</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Healthcare-t-anytime-g-578132?partner=oceansideescondido">Healthcare</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Manufacturing_Operations-t-anytime-g-578132?partner=oceansideescondido">Manufacturing</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Sales-t-anytime-g-578132?partner=oceansideescondido">Sales</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Government_Military-t-anytime-g-578132?partner=oceansideescondido">Government &amp; Military</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido&amp;keywords_all=part+time&amp;type=main&amp;metro_area=1">Part Time</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido">Browse All</a></li>
+		    </ul>
+        </div>
+        
+		<div class="subs">
+          <h1>For Employers</h1>
+          <ul>	
+        	<li><a href="http://www.nctimes.com/jobs/packages/">Place an Ad</a></li>
+			<li><a href="http://selfcare.hotjobs.yahoo.com/hjss/hjss_partners.php?P=oceansideescondido">Sign In</a></li>
+			<li class="h1-subhead"><a style="color:#BA1929" href="http://www.nctimes.com/careerfair/">Career Fair</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/workhere">Jobs at NCT</a></li> 
+		  </ul>
+		</div>
+		
+     	<div class="subs">
+			<h1>Yahoo! HotJobs Local Search</h1>
+			<script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_jobs_button/static.js"></script>
+		</div>
+     
+	</div>
+    
+
+</div><!-- *************************************************************************************************************************** -->      
+
+ 	    <!-- COL 1,2 -->  
+ 	    <div id="twocols" class="c980 floatleft">
+ 	      
+ 	      <!-- COLUMN 1 - STORY CONTENT -->	  
+ 	      <div id="col1_story" class="c640 floatleft rborder">
+ 	        
+ 	        <div class="groupItem">
+ 	          <h1>Report: Immigration workplace fines and arrests plummet</h1>
+              <h2></h2>
+		      <p class="by">By: WILLIAM FINN BENNETT - Staff Writer |<span class="published"> <span class="timestamp">Saturday, October 22, 2005 12:00 AM PDT</span></span> <a href="https://secure.townnews.com/nctimes.com/forms/link/linkform.php?des=Report: Immigration workplace fines and arrests plummet" target="_blank"> &infin;</a></p>
+				      
+              <div class="tool_options"> 				     
+                   <ul id="storytools">
+                      <li class="comment"><a href="#nctcomments"><span class="simpleblog-count">21 comment(s)</span></a></li>
+                        <li class="fontup"><a href="javascript:IncreaseFontSize(2)" title="Enlarge article font size.">Increase Font</a></li>
+                        <li class="fontdown"><a href="javascript:DecreaseFontSize(2)" title="decrease font size.">Decrease Font </a></li>
+                        <li class="email">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2005/10/22/news/top_stories/21_24_1610_21_05.eml" target="emailafriend">email this story</a>                         </li>  
+                        <li class="print">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2005/10/22/news/top_stories/21_24_1610_21_05.prt" target="printable">print this story</a>                        </li>
+                </ul>
+                            
+                    <div class="clearleft"></div>
+              </div>
+                      
+                  
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+			  <p>When it comes to cracking down on companies that hire illegal immigrants, the federal government appears to be missing in action, according to a recent report from the Government Accountability Office.<br/><br/>Between fiscal year 1999 and fiscal year 2003, the report shows that the number of work-site arrests in the United States by government immigration agents fell by 83 percent, dropping from 2,849 arrests in 1999, to 485 in 2003, the last year for which Immigration and Customs Enforcement provided data to the accountability office.<br/><br/>Another indicator of the downward trend revealed in the report was the number of employers who were fined for hiring undocumented immigrants.<br/><br/>In 1999, the Immigration and Naturalization Service issued 427 "Notices of Intent to Fine" to companies across the nation.<br/><br/>But in fiscal year 2004, Immigration and Customs Enforcement, which was formed in 2003 to do the job of the INS, issued just three such notices in the entire country, according to the report.<br/><br/>State Assemblyman Mark Wyland, R-Vista, said Friday that he was "dismayed" by the numbers.<br/><br/>"We are not enforcing the law and not demonstrating that we are serious about enforcing order and immigration law," Wyland said.<br/><br/>A top official with the U.S. Government Accountability Office said Thursday that the federal government needs to make drastic changes in immigration policy to control illegal immigration, as highlighted by the report, which he helped write.<br/><br/>The Government Accountability Office is an independent, nonpartisan agency within the legislative branch of the federal government that is commonly called the "investigative arm of Congress." It supports congressional oversight by reporting on how government programs and policies are working, auditing federal agencies for effective use of taxpayer dollars, investigating allegations of illegal and improper activities and issuing legal decisions and opinions.<br/><br/>The late August report, entitled "Immigration Enforcement: Weaknesses Hinder Employment Verification and Worksite Enforcement Efforts," shows a third indicator of the downward trend ---- the number of man-hours dedicated by Immigration and Customs Enforcement agents to workplace enforcement.<br/><br/>The amount of time spent on work-site enforcement efforts dropped by 63 percent between 1999 and 2003, the report states.<br/><br/><b>Accountability office urges reform</b><br/><br/>Top GAO official Rich Stena, director for Homeland Security and Justice with the accountability office, said that for years the government has focused on enforcement along the nation's borders and security-sensitive work sites such as nuclear plants and airports, but has failed to adequately police other types of businesses that often hire undocumented immigrants.<br/><br/>"What happens is you put everyone on the line of scrimmage and once you get past the line of scrimmage, everyone scores a touchdown," Stena said. "What we really need is an entire reformulation of our immigration policy."<br/><br/>An effective restructuring would have to include several elements, he added, such as:<br/><br/><li> a method for determining the number of foreign workers the U.S. economy needs.<br/><br/><li> a reliable worker verification system that would allow employers and the government to know who is authorized to work in this country.<br/><br/><li> a credible enforcement strategy, so that those who violate the law can be dealt with.<br/><br/>"Right now, we have none of the three," Stena said Thursday. "The question is: How many of those people does our economy require and how do we as a nation get control over the work-site?"<br/><br/>An official with Immigration and Customs Enforcement said Thursday that she believes the agency is doing an excellent job in the areas that are most important, such as protecting security-sensitive sites in the country and targeting serious criminal activity.<br/><br/>"The story is in post 9-11 era, (the agency) has protected national security and public safety, as well as (making) countless arrests of illegal aliens working at critical infrastructure and sensitive security sites such as power plants, chemical plants, military bases and commercial airports," said agency spokeswoman Jamie Zuieback.<br/><br/>In the last year, they have caught about 150 illegal immigrants at military installations around the country, according to Zuieback.<br/><br/><b>Wyland says enforce first</b><br/><br/>Wyland, who is preparing to run for a seat in U.S. Congress next year, said Friday that while he agrees with Stena's calls for a reformulation of immigration policy, he would only support the reform recommendations once the federal government has increased enforcement of the nation's borders and called Mexico to task for what he called its tacit endorsement of illegal immigration into the United States.<br/><br/>"The No. 1 element is showing that you mean business about the border,"  Wyland said. "Unless we enforce the law, there is no credibility to the rest of it."<br/><br/>He said the U.S. Border Patrol needs to hire thousands more agents to patrol the border and conduct inland sweeps such as the ones it conducted in June 2004. Those sweeps, which resulted in 11,000 people being questioned and 330 arrests in inland communities in San Diego and Riverside counties, caused a firestorm of protest from immigration activists.<br/><br/>"If you dramatically increased the sweeps inland and at the same time insisted with Mexico that (it help reduce illegal immigration), then you could have total reform," Wyland said.<br/><br/>A local immigration activist said that she believes that Wyland is extremist in his views on immigration. She said that the Latino community was outraged by the sweeps and that many people were stopped on the streets by Border Patrol agents simply because they were Latino.<br/><br/>"The sweeps resulted in violations of human rights and racial profiling," said Consuelo Martinez, coordinator for the Escondido Human Rights Committee, which has fought strict immigration enforcement efforts, such as the sweeps.<br/><br/><b>Causes of declines</b><br/><br/>The report attributed the decrease in work-site arrests and fines to two main causes: the shifting of agents away from traditional work-site enforcement as the immigration agency focuses on criminal alien cases and homeland security; and the increasing use of falsified documents by illegal immigrants to get work.<br/><br/>Under current law, employers can only be fined if it can be demonstrated that they knew workers' documents were forged.<br/><br/>"Various studies have shown that the availability and use of fraudulent documents have made it difficult for ICE agents to prove that employers knowingly hire unauthorized workers," the report states.<br/><br/>In addition, GAO's Stena said, computers and the Internet have allowed forgers to significantly improve the quality of forged documents that some workers are presenting to employers.<br/><br/>Referring to the drop in work-site enforcement, the report stated GAO officials interviewed several Immigration and Customs Enforcement officials and immigration experts, who "noted that the focus on critical infrastructure protection does not address the majority of work-sites in industries that have traditionally provided the magnet of jobs attracting illegal aliens to the United States." Advocates on both sides of the immigration debate have said illegal workers are common in many fields, such as agriculture, hotels and restaurants.<br/><br/><b>Effects on families</b><br/><br/>Christian Ramirez, a local advocate for protecting the human rights of undocumented immigrants, said Friday that he agrees with Stena's call for a complete reformulation of immigration policy.<br/><br/>However, he said that whatever the government decides to do, it must not allow increased work-site enforcement to threaten immigrant families already in this country. If a working mom or dad is deported because of increased work-site enforcement, it would have a devastating effect on the children, he said.<br/><br/>"We have to recognize the fact that (some) folks have been living in this country without documents for 20 years, and we cannot separate families," Ramirez said. "Any reform that does not guarantee the integrity of families will fail."<br/><br/>The Associated Press contributed to this report. Contact staff writer William Finn Bennett at (760) 740-5426, or <a href="mailto:wbennett@nctimes.com">wbennett@nctimes.com</a>.</p>
+		      <!--<p>[xcomponent:paragraphs:3]</p>-->
+ 	          
+ 	          <div id="socialbookmarking" class="tool_options">
+ 	            
+ 	            
+ 	            <div class="clearboth"></div>
+              </div>
+	        </div>
+		      <!-- comments -->
+ 	        
+ 	        <div id="nctcomments" class="groupItem clearboth">
+ 	          
+ 	          <div class="itemHeader"><span class="simpleblog-count">21 comment(s)</span><a href="#" class="closeEl plus-minus">[-]</a><span class="more-section"><a href="#">Go to Top</a></span></div>
+					    
+				<div class="itemContent">
+					  
+				    
+					  <a id="blogcomments"></a><div class="simpleblog-results"><a id="a2a9670b654e44b7e17eda2f0c98ee12"></a><p><span class="simpleblog-name">Ray Carney</span> wrote on <span class="simpleblog-date">Oct 22, 2005 1:30 AM:</span><span class="simpleblog-response">Because President Bush and his administration are filled with latinophiles.</span></p>
+<a id="39073f52ea7b668b35e4f392209b0b6f"></a><p><span class="simpleblog-name">Les</span> wrote on <span class="simpleblog-date">Oct 22, 2005 3:12 AM:</span><span class="simpleblog-response">It is nearing election season and a politician fancy turns to saying whatever they believe the people want to hear. Such is the case with all the chest thumping about illegal immigration. The problem is, after the election, nothing will be done, just like always. Let us review. There are about 10.4 million illegal aliens in the US.  500,000 more enter each year. They cost US taxpayers about 10 billion dollars every year. In California, there are about 3 million illegal aliens. They cost California taxpayers about 9 billion dollars each year, 750 million for housing 18,000 in prison alone. Even at the high point, 1999, where about 2900 arrests were made from interior enforcement, it would take about 3600 years before all of the 10.4 million were deported.  Too little, too late? (What an understatement!) The key is to arrest, imprison, and fine the business owners who employ them.  After all, you throw 2900 business owners in prison this year, and 2900 more next year, it will not take too many years before no one will hire illegal aliens. Moreover, when no one hires them, they will stop coming themselves; we will not have to put up a fence, or try to catch them at the border, or conduct interior sweeps. The ones with families will leave, sparing us having to deal with them, our hospitals will become solvent, our schools will be able to concentrate on math and science rather than language arts, we won�t be exposed to third world diseases that were eradicated in America years ago,� need I go on? Mexico will never assist in the solution; the money sent �home� by illegal aliens recently passed tourism as the #1 source for cash in the Mexican economy.  Besides, what will Vincente Fox do with 10 million more unskilled laborers? Mexico may actually have to institute a welfare system, after all, in order to live in the lifestyle to which they have become accustom, they will need to continue to be on the public dole.  </span></p>
+<a id="a5878fad9b681a9a28746d25b55e0ae8"></a><p><span class="simpleblog-name">Randy</span> wrote on <span class="simpleblog-date">Oct 22, 2005 5:32 AM:</span><span class="simpleblog-response">The current administration is only concerned with perpetuating its power.  Currying favor with minority voters helps to accomplish this goal. Supporters of enforcement of current immigration laws are branded as "racist" and marginalized.</span></p>
+<a id="092d0783a8e8a0c2f28b96ea999cbfbd"></a><p><span class="simpleblog-name">Marcus</span> wrote on <span class="simpleblog-date">Oct 22, 2005 8:34 AM:</span><span class="simpleblog-response">Yeah, that makes sense, Ray.  Their "latinophiles", all of them.  That's why President Bush hasn't secured the border in any way, shap or form.  It's because he is scared of Latinos!  Poeple generally use terms like "homophobia" or, "Latinophobia" (that's a new one), when they have no legitimate argument and need only to resort to ad hominem attacks to distract people from the topic at hand.  Actually, I am pretty sure that Bush and the administration are the exact opposite of "Latinophobic".  Bush has appointed more "minorities" to top positions than any president in history.  However, I will say that it is painfully obvious that Bush is pandering to the Hispanic vote ( a vote that many Republicans believe should be there's because of the "family oriented" nature of the Latino community and because of Latino Catholicism).  The problem is that the Latino vote is a myth.  Roughly 1/3 are under the age of 18, another 1/3 are here illegally and thus not allowed to vote (except if they vote for Democrats using the names of deceased voters), and of the following 1/3 that are eligible to vote, roughly 12% are registered and few of them turn out on election day.  What Hispanic vote?  Assemblyman Wyland is not just thumping his chest, as some people have indicated.  He, Senator Morrow, and Assemblyman Haynes have been working on this problem for years, which is more than I can say about the majority of politicians.  People are so fickle--complain that no one is doing anything about illegal immigration, then complain when someone does something about illegal immigration.  </span></p>
+<a id="518a62c0fe8bcdaf01e936e5409a7572"></a><p><span class="simpleblog-name">Robert Short</span> wrote on <span class="simpleblog-date">Oct 22, 2005 10:28 AM:</span><span class="simpleblog-response">The USA under GWB is totally corrupt. Nothing is true, it only responds to NWO commands &amp; commitments. It no longer actually reflects it's citizens wishes. Homeland Security is a fake agency. (Are Mexican armed Army &amp; Navy units still on duty in (Nuevo)New Orleans?)
+ It allows this type of "immigration" in order to waterdown the ranks of true Americans so no one will react when we are told in 2010 we are now North Americans! Our brother &amp; sister "citizens" will be Mexicans &amp; Canadians with full benefits of Social "Security"!
+Sieg Hiel GWB!!!!</span></p>
+<a id="3f6782d94e0186196f47d6398b874184"></a><p><span class="simpleblog-name">cyphre</span> wrote on <span class="simpleblog-date">Oct 22, 2005 11:09 AM:</span><span class="simpleblog-response">Bush has lost support of his own party over illegal immigrants crossing our 'free zone' of a border (and running back south when they commit criminal acts).  Brown-nosing President Fox and dismissing the patriots of the Minuteman Project on national TV was the stupidest thing he has done while in office.  You just DON'T disparage citizen volunteers in front of their nation after they exposed the reality of non-inforcement of our own laws for the entire nation to see.  Bush showed his allegiance, not to the country he was elected to lead, but to a foreign despot, and lawless employers eager to exploit pawns pushed across our border by corrupt and greedy governments south of the Rio Grande.  
+
+Bush has no idea what non-governmental, non-union, non ultra-wealthy workers go through, just to make ends meet, educate, feed &amp; keep a roof over the heads of their own families - yet he worries about foreign nationals getting across our border to work for chump change so his pals can make more profits, while the taxpayers pick up the collateral social costs of educating, medicating and incarcerating these foreign nationals = what the he!! is he thinking?</span></p>
+<a id="31c940729d1a8da3b19db7dc2bf070ed"></a><p><span class="simpleblog-name">Barb</span> wrote on <span class="simpleblog-date">Oct 22, 2005 12:14 PM:</span><span class="simpleblog-response">How do you know when a political appointee [or elected rep. from a district so 'safe' that it is impossible to replace his, no matter how egregious his voting record is] is lying?  When his lips move.  Ex: DHS appointee "The Skull" says that they will deport all OTMs at once and not do the catch &amp; release shuffle any more. Yeah sure</span></p>
+<a id="94b929e1be280196324ce52944557127"></a><p><span class="simpleblog-name">Billy</span> wrote on <span class="simpleblog-date">Oct 22, 2005 1:41 PM:</span><span class="simpleblog-response">Back in the 1980s they used to offer a 1,000 reward to any American that reported an illegal alien living in the USA that resulted in a arrest. Maybe we should revisit that law, it sure would save allot of valuable time and money our border patrol would have to spend rounding up these law breakers. it would also expedite the whole process of sending millions of  criminals back to where they are legal. from what Chertoff said yesterday, they are going to give them a chance to sign up for a guest worker program, if they don�t sign up and they get caught, then they get a ride home.  </span></p>
+<a id="1159e0e32ea3c99897c71d1a1a0cdb26"></a><p><span class="simpleblog-name">Ronald</span> wrote on <span class="simpleblog-date">Oct 22, 2005 4:51 PM:</span><span class="simpleblog-response">The open borders policy of this administration is directly related to NAFTA and now CAFTA. They are the treaties necessary to begin implementing the Global Order. Every step of the way Bush has appointed lackeys who will do his bidding as regards this agenda. Rice was groomed by his father and now carries on within this administration. The SC nominee, Meirs is an open border freak also. He has stacked the deck. Expect to see something bad happen on the border which will give him (Bush) justification to visit our 2nd amendment rights and to restrict travel by U.S. citizens into certain border areas. His agenda is exactly the one which his father, GHW Bush (#41) envisioned for his ill fated 2nd term. Our president should realized that the next crop of "vigilantes" to rise up might not stop with the illegal immigration issue. ~De Oppresso Liber~</span></p>
+<a id="01fae940ead22b206cdcd9db02030396"></a><p><span class="simpleblog-name">Nancy L</span> wrote on <span class="simpleblog-date">Oct 22, 2005 7:29 PM:</span><span class="simpleblog-response">If the politicians were serious, they would begin with making ALL EMPLOYERS have to verify all employees'SSA's with SSA by phone or computer link(like UPS link). Then allow every state to send their own agents into businesses to varify this (like they check to see if you are paying all the sales tax you should). Then make all green cards the same format so businesses can spot fakes easily. And make all SSA's on plastic card, not easily faked. If they can't find jobs and can't get welfare, they will have to go home (or to Canada!) </span></p>
+<a id="9019a2a953b15adf63c9262e522ce056"></a><p><span class="simpleblog-name">Rachel</span> wrote on <span class="simpleblog-date">Oct 22, 2005 9:26 PM:</span><span class="simpleblog-response">Billy, that is a great suggestion.  Everyone knows where the illegal aliens are.  I know that a lot of them hang out at the grocery store waiting to be picked up for work every morning.  It isn't a matter of not knowing where to find them, it is a matter of the USBP having a realistic complaint to follow up on so that they don't get filed on by the American Criminal Liberties Union.  It would also encourage Americans to report them and have them deported.</span></p>
+<a id="14943fb01bcf97bff3d8e3b5a4c1bd85"></a><p><span class="simpleblog-name">John</span> wrote on <span class="simpleblog-date">Oct 24, 2005 5:54 AM:</span><span class="simpleblog-response">One of these days our government has to wake up. Were being invaded ,plain and simple.This is not a statement of a raceist.Our Government has allowed the USA to become nothing less than the social welfare program for Mexico.As I travel around my  city,I see Mexican flags in car windows and on front po rches of homes.If Mexico is so great,why not the exodus back,Never happen.I go to the grocery store and theese invaders are being catered too with our tax dollars ,they dont even have the decency to learn the english language.Hea bleeding hearts,try to live in Mexico without learning Spanish.Youd become a fourth class person in a third world Nation.</span></p>
+<a id="d64181967dd71ba4c012b2e68b4eddf6"></a><p><span class="simpleblog-name">Mike</span> wrote on <span class="simpleblog-date">Oct 24, 2005 7:36 AM:</span><span class="simpleblog-response">I truly believe we are going after the illegal aliens from the wrong direction! Most of them are coming across the borders to seek employment! Stopping the jobs for the undocumented workers is simple. Heavy fines as we did in the 60's on the farmers and businesses will stop them in their tracks--nobody will work for free! Making a fine of $5,000.00 for the first offence then $50,000.00 for the second offence, Jail time of 1 year after third time. I think the fines were $1,000.00 then $5,000.00 in the 60's. It worked then. Give the Border Patrols a ticket book and 85% of the fines and J.P.'s the rest. We are talking incentive, in a few months they will have state of the art equipment and an influx of new Border Patrol officers.
+
+</span></p>
+<a id="a480b25cdbd6d1cec5c3324efe9cffa8"></a><p><span class="simpleblog-name">Maria</span> wrote on <span class="simpleblog-date">Oct 24, 2005 1:26 PM:</span><span class="simpleblog-response">If it weren't for all those unskilled laborers... you Americans wouldn't have all your fruits and vegetables.....You know that none of  your fellow Americans would never go out to the fields or groves to work. How would this world servive????? </span></p>
+<a id="aa967c6592e0d7d33a446d9b23be0912"></a><p><span class="simpleblog-name">ivan</span> wrote on <span class="simpleblog-date">Oct 24, 2005 11:46 PM:</span><span class="simpleblog-response">sure illegal aliens costh the federal gov't 10 billion dollars and they do cost the californian gov't 9 billion dollars a year but all of you are too ignorant to know that these same people you despise work with fake ssn. and yes, like you and i these illegals pay taxes every paycheck through these fake ssn's. they contribute to the medicare, medicaid, and ssn fund like everybody else. in fact in 2000 they contributed 100 billion dollars to the ss fund. lets see the general public  is gaining a good 80billion dollars from ss taxes alone. you all act that mexicans in the us is a new phenomenon, remeber that most land west of the mississippi was once mexico so mexicans have been here long ago. ever wonder your state or hometown is called some, as my friend marcus calls it "latinophile" name. i'm pretty sure you don't even know the meaning of it. the only reason the gov't isn't cracking down on illegal immigration they want them here. i don't ever hear any moaning about how cheap produce in the grocery store is. i don't ever hear people complaining on how backbreaking mowing your is. that's because you don't even do it. i don't see any kkk in the cherry picking fields. to quote mr marcus " president bush has appointed more 'minorities' to top offices than any other person in histor" please explain what is wrong with minorities having top offices. maybe they got them because they went to school and worked their butt off to get it. not because they're minorities. And what did that have anything to do with illegal immigration in the first place. you my friend sound like a radical right populist. you're too predictable in what's comes out of your mouth. it's absurd how the common american struggles are equated to illegals. who doesn't struggle to put food on the table maybe you all should be ultra rich so you can stop complaining. is that wetback stealing that great glamourous job picking tomatoes to make you're guacamole from you? the reason the gov't doesn't do anything is because if in utopia all illegals were encarcerrated, deported, euthanized, beheaded, tortured, maimed what ever you fantasy desires; the us would face a shortage of labor that would bring the us economy to it's knees. California alone is the worlds 8th largest economy imagine taking 3 million people out of the workforce. Would "real" americans run in groves to fill in the vacancies. you need cheap labor, we all do. america chooses to ignore it. it's easier to point the finger and say " my country is deteriorating because of this scum" Have a good day</span></p>
+<a id="befac0f9b3be7a3523744c2a1df88700"></a><p><span class="simpleblog-name">Rodney</span> wrote on <span class="simpleblog-date">Oct 25, 2005 4:00 AM:</span><span class="simpleblog-response">I have always made a living in the housing market until the great influx of illegals now we can't afford to work because they have driven labor cost so low that we can't compete with them. THe only persons that are mking more money than they were ten years ago are the builders</span></p>
+<a id="82c5f70ec44026e15c8ea83e2f8e5b3f"></a><p><span class="simpleblog-name">kimberly</span> wrote on <span class="simpleblog-date">Oct 25, 2005 4:57 PM:</span><span class="simpleblog-response">The BIBLE says The Ten Commandments,And That were all Family so lets open up all countries/borders and Live where we Damed Please,Itll work wont it,????? !!</span></p>
+<a id="36b1e420e593b37ccb3a7487e8928fbd"></a><p><span class="simpleblog-name">Judi</span> wrote on <span class="simpleblog-date">Oct 27, 2005 1:01 PM:</span><span class="simpleblog-response">I am tired of hearing "how will we survive if we don't have the illegals to pick our fields?" Simple solution get rid of welfare and create workfare. There are too many people on welfare that could be doing the jobs that the illegals do.</span></p>
+<a id="ee58d8e129ecb4274a75aca734e32881"></a><p><span class="simpleblog-name">Steve</span> wrote on <span class="simpleblog-date">Nov 4, 2005 9:36 AM:</span><span class="simpleblog-response">One thing the Global economists avoid like the plague these days is the, "Law of supply and demand".
+
+Without foriegn labor, the price of domestic labor would simply rise to the "natural" price. When the labor price is naturalized, foriegn farmers will be able to import goods at a fair market price and migrant workers will be better able to make a living in their own Countries.
+
+Further, domestic farmers/employers will be encouraged to purchase, "automation products" to lower labor costs, thereby encouraging growth in other sectors. 
+
+Our government believes that it is better to import millions of foreigners per year to avoid job movement overseas.  Overpopulation of the USA simply degrades the best business infrastructure in the world, which is being blindlyt traded for short-term profits.
+
+Let the companies that can move out, most do not uderstand the full impact and will fail.  Reduce all immigration  and let the price of labor naturalize.
+
+The Law of supply and demand will prevail in either case.  The longer we put off the economic crash, the worse it will be.
+
+Anti-immigration not anti-immigrant.
+
+steve
+
+
+
+ 
+  </span></p>
+<a id="3e6dafa61a7be9aa50853aac7f8eae00"></a><p><span class="simpleblog-name">Betsy</span> wrote on <span class="simpleblog-date">Dec 22, 2005 4:55 AM:</span><span class="simpleblog-response">I am disgusted with the amount of illegal imagrints taking my jobs and hours on the job. The number is outstandingly high in the virginia area. It's unexceptable and needs to stop. I heard that virginia grossed over 7 billion in taxes for their pockets, coming from hiring illegals. They get to keep their taxes, they file it called a #999. I worked at a catering company, which provided service for the goverment. The dept.of commerce, white house,etc. The day may come sooner than they imagine, where an illegal (who hates americans already) plot to carry in some kind of device, hiden in their delivery truck. To cause serious damage. Is that what its going to take, to wake up congress. From the larger companies to the smaller companies, more and more jobs &amp; hours on the job are being taken over by illegals, causing us american citzins to move on, in hopes to find a job we can grow with. Although with the number of companies turning to the illegals (due to cheaper pay,keeping their taxes) its harder and harder for us to find employment. Maybe we all should file for unemployment, raise the number in that, to wake them up. Wondering why the unemployment has risen. I'm tired of paying my tax dollars to a country thats not backing us up. Heck we might as well just go to their countries and open new business and work there. Our slat would be wiped clean too, no background checks,etc. Enough is enough, action needs to be taken.
+It so bad that, the catering company i worked for. Has so many illegals, they filed me as on. I notice my check stub, showed "no deductions" however they kept money from my check. In one of the box's it said #999.... How sad is that. I could go on &amp; on, not enough time in the day. If i had steady employment, i wouldn't be able to be sitting here writing this. I found this web site, cause i'v been pushed out again by illegals. 
+Yours truly, a VERY angry american</span></p>
+<a id="0a6b394090c1a15c8d225378bc200552"></a><p><span class="simpleblog-name">Mandy</span> wrote on <span class="simpleblog-date">May 9, 2007 2:17 PM:</span><span class="simpleblog-response">I was one of the persons who worked for Swift Beef in Cactus, Tx and lost my job cause of the illegals that Swift had hired. So I felt like I was being discriminated cause I was legal in the United States well I think its sad that when you are born in the USA you are supposed to have rights well we didn't have a choice but to leave when the company told a over 30 or more legals that they didn't have a job cause we were on light duty but I had a job that I bid for and it was given to me also cause i had 15 years at that plant. So how can the company tell me I had a light duty job if i was a janitor. I thought janitors at Swift jobs that were bid jobs cause i know 2 men that work out there and they have the same jobs i did and they were not on light duty but it was their bid jobs so my job was not a light duty job so why was teh plant crying i had a light duty job when i bid for it. And what this company did wrong was to fire me first cause i was supposed to be fired cause i was on light duty and my job was not light duty so why did the company really fire us for cause only someone stupid like Swift would say oh cause they were on light duty when tehy have tons of Guatamalas at that plant getting jobs. And Swift said they were not aware of having illegals, if you ask me that is so stupid of them cause Swift never had any bill boards every where requesting help needed or had a commercial on television or had all these flyers every restraunt has it posted up on the wall and the news paper has so many adds of Swift hiring. When did Swift have this in the past years after we were fired from there never cause Swift knew of every illegal that was going to work at that place. But the government didn't do a damn thing about it cause they found them not guilty. Am i smarter than the government or is the government just backing Swift cause why does every place that hires illegals gets a penalty but Swift had over a thousand illegals but did not get fined. And Swift is just laughing cause ICE didn't go when the night shift went in, or was it cause they gave Swift a chance to keep there night shift so Swift would not be left out of employees cause there is tons of illegals working still on that shift. I had reported Swift in 2002 and I went and made my report to the immagration office in Amarillo, Tx and never did they do anything about it but it took someone who had lost ther ID for immagration to listen to them and I was not afraid cause i was being asked if i was sure i said yes and plenty of other poeple reported Swift but immagration never listened to the other poeple either. so it took 4 years for immagration to finally listen why cause other poeple were complaining. I know i am 100% right of everything i have said here.   </span></p>
+</div>			    </div>
+	        </div>
+			    
+ 			<!--forms -->		
+ 	        <div id="commentform" class="groupItem">
+			
+			<!-- *************************************************************************************************************************** --> 
+        	<p id="commentPolicy">First name only. Comments  including last names, contact addresses, email addresses or phone numbers will be deleted. All comments are screened before they appear online, so please keep them brief. Comments reflect the views of those commenting and not necessarily those of the North County Times or its staff writers. <a href="http://www.nctimes.com/blogpolicy">Click here</a> to view additional comment policies.</p>			<!-- *************************************************************************************************************************** --> 
+ 	          
+ 	          <div class="itemHeader">Submit Comment<a href="#" class="closeEl plus-minus">[-]</a></div>
+					    
+				<div class="itemContent">
+					  
+				    <p><a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.nctimes.com/articles/2005/10/22/news/top_stories/21_24_1610_21_05.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label> <input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-email-block"><label for="personemail" class="simpleblog-form-label">Email:</label> <span class="simpleblog-email-field">(optional)</span> <input type="text" id="personemail" name="personemail" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: </label><img id="simpleblog-captcha" width="125" height="50" src="http://www.nctimes.com/shared-content/newsys/common/generatecaptcha.php"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/><input type="SUBMIT" value="Post Comment"/></div></form></div></p>
+				</div>
+	        </div>	
+						
+			<!-- *********************************** LETTER TO EDITOR INCLUDE ******************************************************* --> 
+        		<div id="letterToEditor" class="groupItem clearboth">
+			
+
+					    
+				<div class="itemContent">
+					  
+				    <h1><a href="http://www.nctimes.com/forms/letters/editor.php">Click to submit LETTER TO THE EDITOR</a></h1>
+					
+				</div>
+</div>			<!-- *************************************************************************************************************************** --> 
+          </div>
+                
+<!-- COLUMN 2 -->		  
+ 	      <div id="col2_story" class="c339 floatright lborder margin-1left">
+ 	        <!-- TABS -->	  				
+ 	        
+ 	        <!-- *************************************************************************************************************************** --> 
+        	<div id="most-tabs" class="groupItem8-4-4-4 clearboth">
+ 	          <ul>
+ 	            <li><a href="#tab-1"><span>Most Comments</span></a></li>
+                <li><a href="#tab-2"><span>Popular News</span></a></li>
+                <li><a href="#tab-3"><span>Breaking News</span></a></li>
+              </ul>
+                   
+                <div id="tab-1">  
+                    <p>Today's Stories</p>
+                    <ul class="secondary clearleft">
+                        <ul class="topblogs-list"><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/04/20/opinion/letters/d502fba5937d38888825742f007c6224.txt">LETTERS: April 20, 2008</a> <span class="topblogs-count">(66)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/04/20/opinion/letters/047025b27cd3b44c8825742f00824660.txt">LETTERS: April 21, 2008</a> <span class="topblogs-count">(56)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/04/20/news/sandiego/86f3c28c350b0d4d8825742c007c26af.txt">REGION: Day laborers finding less work</a> <span class="topblogs-count">(51)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/04/20/opinion/jacobs/dc4eec944171b7698825742e00593b90.txt">OPINION: Temecula doesn't need to be rescued</a> <span class="topblogs-count">(32)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/04/20/news/coastal/sb/1f658fb6bdc017f08825743000839ffc.txt">SOLANA BEACH: Pack with baseball bats surround and smash SUV</a> <span class="topblogs-count">(19)</span></li></ul>
+                    </ul>
+                </div>
+                  
+                <div id="tab-2" class="ui-tabs-hide">           
+                     <ul class="secondary clearleft">
+                        
+                        <li><a href="http://www.nctimes.com/articles/2008/04/20/news/coastal/sb/1f658fb6bdc017f08825743000839ffc.txt">SOLANA BEACH: Pack with baseball bats surround and smash SUV <span class="popular-count">(1259)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/04/20/news/sandiego/86f3c28c350b0d4d8825742c007c26af.txt">REGION: Day laborers finding less work <span class="popular-count">(1005)</span></a></li><li><a href="http://www.nctimes.com/articles/2007/08/09/news/top_stories/1_02_398_8_07.txt">New employment rules aim to crack down on illegal workers <span class="popular-count">(1004)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/04/20/news/inland/escondido/9db7d492ee8aff328825742c006eb876.txt">ESCONDIDO: Historians weigh value of 1950s tract homes <span class="popular-count">(837)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/04/19/opinion/editorials/aaff54f0c23579788825742e006ccae9.txt">EDITORIAL: Cop unions' clout behind secrecy <span class="popular-count">(736)</span></a></li>
+                    </ul>
+                </div>
+                  
+                <div id="tab-3" class="ui-tabs-hide">
+                   
+                    <ul class="secondary clearleft">
+                       <ul class="secondary clearleft">
+                       		
+                           
+                       </ul>
+                    </ul>        
+                </div>
+	        </div>			<!-- *************************************************************************************************************************** -->      
+   
+<!-- AD -->				
+ 	        <div class="story_ad groupItem floatright display-inline-ie">
+ 	          <p class="adv">Advertisement</p>
+	  		    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_bigad/static.js"></script>
+            </div>       
+    
+<!-- VIDEOS -->
+ 	        <div id="videos" class="groupItem floatright display-inline-ie">
+ 	          
+ 	          <h1 class="heading">Videos </h1>
+                        
+                <div class="itemContent" style="text-align:center">
+                	<!-- *************************************************************************************************************************** --> 
+                	
+<!-- News -->
+<script type="text/javascript" language="javascript" src="http://api.vmixcore.com/widgets/video_list_player.js.php?token=9a0ed32259503ae76b8adc4cfc5e86df"></script>
+<script type="text/javascript" language="javascript">
+var wid = new VideoListPlayerWidget();
+wid.play_url = 'http://videos.nctimes.com/p/video?id=';
+wid.genre_name='News';
+wid.hide_post=1;
+wid.width = 320;
+wid.height = 515;
+wid.script1 = 'http://www.nctimes.com/s_code.js'; 
+wid.script2 = 'http://www.nctimes.com/zincludes/08/omniture/vmix_code.js';
+wid.drawWidget();
+</script>                 	<!-- *************************************************************************************************************************** -->      
+                </div>
+		    </div>
+                
+<!-- Yahoo Ads
+           		
+			  	[yahoo_content_match] -->
+                
+<!-- TopAds -->                
+            <!-- *************************************************************************************************************************** --> 
+        	<div id="topads335" class="c335 clearboth">
+                <div class="margin4left clearboth floatleft">
+                    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_jobs_new/static.js"></script>
+                </div>
+                
+                <div class="margin4right floatright">
+                    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_ads_new/static.js"></script>
+                </div>
+</div>			<!-- *************************************************************************************************************************** -->      
+
+ 	        <div class="clearer"></div> 
+	      </div>             
+    	</div>
+    
+    <div class="clearer"></div>
+   </div>
+</div>
+  <!-- end of maincontent -->
+
+<!-- FOOTER -->
+<div id="footer_wrap">
+ 	    <div id="footer">
+<!-- *************************************************************************************************************************** --> 
+      <!--       		<div id="pageInfo" class="crumlinks">		
+					<a href="/">HOME</a>&nbsp;&rarr;&nbsp;[section_name:4:1:&nbsp;&rarr;&nbsp;]
+				</div>
+-->
+            
+            <div id="address">
+                <div class="groupItem8-8-8-8 clearboth floatleft">
+                    <p class="office">Escondido</p>
+                    <p>(760) 745-6611</p>
+                    <p>207 East Penn. Ave.</p>
+                    <p>Escondido, CA 92025</p>
+                </div>
+                 <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office">Oceanside</p>          
+                    <p>(760) 433-7333</p>
+                    <p>1722 South Coast Highway</p>
+                    <p>Oceanside, CA 92054</p>
+                </div>
+                <div class="groupItem8-8-8-8 floatleft">
+                    <p class="office">The Californian</p>         
+                    <p>(951) 676-4315</p>
+                    <p>28765 Single Oak Drive, Suite 100</p>
+                    <p>Temecula, CA 92590</p>
+                </div>
+                <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office"> Fallbrook</p>       
+                    <p>(760) 728-6116</p>
+                    <p>1112 S. Main Ave.</p>
+                    <p>Fallbrook, CA 92028</p>
+                </div>
+                <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office">San Marcos</p>
+                    <p>(760) 761-4400</p>
+                    <p>933 W. San Marcos Blvd, Bldg. A</p>
+                    <p>San Marcos, CA 92069</p>
+                </div>
+             </div>
+       
+       <!-- search -->
+        <div id="footer-search">
+        <img alt="powered by yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+        
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+         	
+			<input class="searchfield" type="text" name="search" size="15" value="Search..."/>
+			<label>in </label>
+			<select name="searchType" id="searchTypeFoot">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+		<!--	<option value="web">Web</option>-->
+			</select>
+			
+			<input class="submitbutton" id="submitsearchFoot" name="submitsearchFoot" type="submit" value="Go"/>
+       
+		</form>
+		</div> <!-- end of search -->
+ 	   <!-- *************************************************************************************************************************** --> 
+     </div>
+</div><!-- end of footer -->
+
+<!-- Omniture  -->                    
+		<!-- *************************************************************************************************************************** --> 
+      	<!-- SiteCatalyst code version: H.7.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="http://www.nctimes.com/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server="escondido"
+s.channel="nctimes.com"
+s.pageType=""
+s.prop1="news"
+s.prop2="21_24_1610_21_05.txt"
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+s.prop9=""
+s.prop10=""
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14=""
+s.prop15=""
+s.prop16=""
+s.prop17=""
+s.prop18=""
+s.prop19=""
+s.prop20=""
+s.prop21=""
+s.prop22=""
+s.prop23=""
+
+
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/* Hierarchy Variables */
+s.hier1="Lee Enterprises," + s.server + "," + s.channel + "," + s.prop1 + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
+s.hier2="Lee Enterprises," + s.prop1 + "," + s.server + "," + s.channel + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->		<!-- *************************************************************************************************************************** --> 
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 19:32:35 Apr 21, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:52:18 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 101.031 (3)
+  esindex: 0.017
+  captures_list: 135.492
+  CDXLines.iter: 21.404 (3)
+  PetaboxLoader3.datanode: 108.409 (4)
+  exclusion.robots: 0.325
+  exclusion.robots.policy: 0.305
+  RedisCDXSource: 6.457
+  PetaboxLoader3.resolve: 1034.816
+  load_resource: 1091.632
+-->

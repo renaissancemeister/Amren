@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>nogalesinternational.com - News</title>
+</head>
+
+<body>
+<table width="735" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top"><table width="735" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td valign="top" align="center"><table width="735" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="535" align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center"><a href="http://www.nogalesinternational.com/front"><img src="http://www.nogalesinternational.com/art/splashpage/nogales.gif" width="535" height="53" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center" valign="bottom" class="content"><img src="http://www.nogalesinternational.com/art/spacer.gif" width="1" height="10"></td>
+      </tr>
+      <tr>
+        <td align="center" valign="bottom" class="content">268 W. View Point Dr., Nogales, AZ 85621 * P.O. Box 579 * Phone: 520-281-9706<br>
+ A division of Wick Communications, <a href="http://www.wickcommunications.com/">http://www.wickcommunications.com </a> </td>
+      </tr>
+    </table></td>
+    <td width="200" align="right" valign="middle"><nobr><a target="_new" href="http://www.accuweather.com/adcbin/local_index.asp?zipcode=85621&amp;partner=townnews"><img src="http://www.accuweather.com/wxpost/byzip/85621/31" border="0" alt="Weather Magnet"></a></nobr></td>
+  </tr>
+</table>
+</td>
+      </tr>
+      <tr>
+        <td valign="top" align="center"><img src="http://www.nogalesinternational.com/art/spacer.gif" width="1" height="10"></td>
+      </tr>
+      <tr>
+        <td valign="top" align="center"><link href="http://www.nogalesinternational.com/art/styles.css" rel="stylesheet" type="text/css">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="bottom"><table width="735" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="59" valign="bottom"><a href="http://www.nogalesinternational.com/front"><img src="http://www.nogalesinternational.com/art/navigation/home-1.gif" width="59" height="25" border="0"></a></td>
+        <td width="59" valign="bottom"><a href="http://www.nogalesinternational.com/news"><img src="http://www.nogalesinternational.com/art/navigation/news-2.gif" width="59" height="25" border="0"></a></td>
+        <td width="71" valign="bottom"><a href="http://www.nogalesinternational.com/opinion"><img src="http://www.nogalesinternational.com/art/navigation/opinion-1.gif" width="71" height="25" border="0"></a></td>
+        <td width="81" valign="bottom"><a href="http://www.nogalesinternational.com/letters"><img src="http://www.nogalesinternational.com/art/navigation/letters-1.gif" width="81" height="25" border="0"></a></td>
+        <td width="100" valign="bottom"><a href="http://www.nogalesinternational.com/community"><img src="http://www.nogalesinternational.com/art/navigation/community-1.gif" width="100" height="25" border="0"></a></td>
+        <td width="71" valign="bottom"><a href="http://www.nogalesinternational.com/sports"><img src="http://www.nogalesinternational.com/art/navigation/sports-1.gif" width="71" height="25" border="0"></a></td>
+        <td width="100" valign="bottom"><a href="http://www.nogalesinternational.com/obituaries"><img src="http://www.nogalesinternational.com/art/navigation/obituaries-1.gif" width="100" height="25" border="0"></a></td>
+        <td width="100" valign="bottom"><a href="http://www.nogalesinternational.com/classifieds"><img src="http://www.nogalesinternational.com/art/navigation/classifieds-1.gif" width="100" height="25" border="0"></a></td>
+        <td width="94" valign="bottom"><a href="http://www.nogalesinternational.com/notices"><img src="http://www.nogalesinternational.com/art/navigation/notices-1.gif" width="94" height="25" border="0"></a></td>
+		</tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="3" class="subnav">
+      <tr>
+        <td class="nav"></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</td>
+      </tr>
+      <tr>
+        <td valign="top">
+          <table width="735" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td valign="top" width="1" class="divider"><img src="http://www.nogalesinternational.com/art/spacer.gif" width="1" height="1"></td>
+              <td valign="top" width="125" align="center"><table width="125" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td valign="top"><img src="http://www.nogalesinternational.com/art/modules/topcars.gif" width="125" height="25"></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <table width="100%" cellspacing="0" cellpadding="5" class="modules">
+        <tr> 
+          <td valign="top" align="center"><p>
+            </p>
+            <p><a href="javascript:void(0)" class="more" onclick="window.open('/topads/top_cars.html','Subscription_Form','width=575,height=450,scrollbars=1');">More Top Cars</a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</td>
+              <td valign="top" width="1" class="divider"><img src="http://www.nogalesinternational.com/art/spacer.gif" width="1" height="1"></td>
+              <td valign="top" width="481" align="center"> <!-- AdSys ad not found for news:top -->
+                  <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                    <tr>
+                      <td valign="top">
+                        <p class="date" align="center"></p>
+                        <p><!--Don't forget to change styles and/or images where needed-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td>
+            <p class="section">News</p>
+            <p class="headline">Enforcement efforts on the border see more violence </p> 
+            <span class="byline">By George G. McQueen</span><br><span class="timestamp">Posted: <span class="timestamp">Thursday, January 20, 2005 3:46 PM PST</span></span>
+            <table border="0" cellspacing="0" cellpadding="0" align="right" class="photo-bdr" width="">
+              <tr> 
+                <td width="">
+                  
+                </td>
+              </tr>
+              <tr> 
+                <td class="cutline" width="">
+                  
+                </td>
+              </tr>
+            </table>
+            <p class="content">Nogales International<br/><br/>The battle along the border has been slowly intensifying as assaults against U.S. Border Patrol become more threatening. On the flipside, legal residents have become increasingly alarmed at the aggressiveness in which border patrol agents pursue illegal aliens. 
+            <p class="content">Border patrol agent assaulted<br/><br/>Last Friday, Jan. 14, a Mexican woman attempting to smuggle four illegal aliens into the U.S. sideswiped two parked border patrol vehicles, injuring an agent. 
+            <table border="0" cellspacing="0" cellpadding="0" align="right">
+              <tr> 
+                <td class="cutline" align="center">
+                  <!-- AdSys ad not found for news:middle -->
+                </td>
+              </tr>
+            </table>
+            <p class="content">Officers working in the area of Kino Springs observed several individuals run out of the desert and enter two waiting vehicles.  The cars, a bronze Nissan Sentra and a white Dodge Status, then sped away from the scene.<br/><br/>Both vehicles were pulled over on Kino Spring Boulevard. When agents pulled up beside the Stratus, the driver accelerated and "intentionally sideswiped both Border Patrol vehicles in an attempt to disable them," said a recent border patrol press release. 
+            <p class="content">One agent was injured when the Status struck his vehicle and pinned his leg between the door and the frame.<br/><br/>Shortly after, the Status traveled a short distance and came to a stop.  Five individuals exited the Status and fled into the desert.  All five individuals, one Mexican female and four Brazilians, were apprehended after a brief search of the area. 
+            <p align="left"><span class="content">All were determined to be in the U.S. illegally.<br/><br/>Agents apprehended the driver, Francisca Lopez-Valdez, a 35 year old undocumented alien from Los Mochis, Sinaloa. She is held in federal custody pending charges of alien smuggling and assault on a federal officer.<br/><br/>All passengers are currently in federal custody awaiting removal proceedings.<br/><br/>The injured agent received medical treatment and released.<br/><br/>Two Mexican and two Brazilian undocumented aliens were apprehended after fleeing from the  Nissan Sentra,<br/><br/>"Since October 1, 2004, the Border Patrol has documented 64 assaults against agents within the Tucson Sector.  Of these 64 assaults, six have come from shootings and 13 have been a results of utilizing vehicles," said Andy Adame, border patrol spokesperson.<br/><br/>He added, "It is obvious that the violence associated with smugglers has evolved from rock throwing incidents to tactics intended to seriously maim or kill agents attempting to bring them to justice."<br/><br/>Excessive force?<br/><br/>In 2004, border patrol agents arrested more than 200 undocumented aliens on an average day, in the Nogales station alone. Many of the arrests happened out of the view of the public eye, but many are in plain view of passers-by.<br/><br/>On Sunday, Jan. 9, downtown shoppers witnessed what appeared to be an "overly aggressive" takedown of an undocumented alien, according to one Nogales resident, who declined to be identified.<br/><br/>He described the undocumented alien as a "young Mexican man." The man fled from border patrol agents on Nelson Avenue, the street paralleling Morley Avenue to the east, and ducked into a downtown department store where he was tripped and purportedly beaten, witnesses said.<br/><br/>A woman who also requested anonymity, for fear of compromising her immigration status, said, "this is not the first time I have seen this. They treat us like dogs on the floor."<br/><br/>After inquiring with the Mexican Consulate and the U.S. Border Patrol, no report nor complaint was ever filed on the date of the alleged incident.<br/><br/>"Since there is no (detailed) report of the incident, it was probably a routine arrest," said Jim Hawkins, public relations officer in Nogales.<br/><br/>He added however, "If there are complaints, we take them very seriously," he said.<br/><br/>Anyone wishing to report abuse may call the U.S. Border Patrol Community Relations Office in Nogales at (520) 377-6203 ext. 3.<br/><br/>The Mexican Consulate also encouraged Mexican nationals to call if they have any concerns regarding alleged abuses (520) 287-3381<br/><br/>Side Bar 1<br/><br/>U.S. Border Patrol Community Relations Office (520) 377-6203 x3<br/><br/>Mexican Consulate (520) 287-3381<br/><br/>Side bar 2:<br/><br/>2004 Totals for U.S. Border Patrol<br/><br/>Tucson Sector (Nogales)<br/><br/>The following are 2004 statistics for the Tucson Sector of the U.S. Border Patrol. In parenthesis, are the figures for the Nogales station alone, which is included in the Tucson Sector.<br/><br/>Total apprehensions: 491,771 (77,570)<br/><br/>Pounds of marijuana seized: 446,754 (101,779)<br/><br/>Vehicular seizures: 7,352 (1,092)<br/><br/>Warrants served: 711 (Not available)<br/><br/>Criminal aliens apprehended: 14,506 (Not available)<br/><br/>Approximate number of agents: 2100 (450)<br/><br/>Number of K-9 units: 13<br/><br/>Nogales civilian employees: 15-20</span> 
+          </td>
+        </tr>
+      </table>
+      <p><a href="http://www.nogalesinternational.com/articles/2005/01/20/news/news5.prt" target="printable"><img src="http://www.nogalesinternational.com/art/print_icon.gif" width="13" height="14" vspace="0" hspace="2" border="0"><span class="more">printable version</span></a></p>
+      <p><a href="http://www.nogalesinternational.com/articles/2005/01/20/news/news5.eml" target="emailafriend"><img src="http://www.nogalesinternational.com/art/email_icon.gif" width="14" height="14" vspace="0" hspace="2" border="0"><span class="more">e-mail this story</span></a></p>
+    </td>
+  </tr>
+</table>
+</p>
+                      </td>
+                    </tr>
+                  </table>                  
+                  
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'news+bottom';
+aAds[0][1] = '363';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.wellsfargo.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'nogalesinternational.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/1723230928/creative/nogalesinternational.com/news+bottom/363.gif?r=http://www.wellsfargo.com/" target="_blank"><img border="0" src="http://adsys.townnews.com/355638213/creative/nogalesinternational.com/news+bottom/363.gif"/></a>
+</noscript>
+ Copyright 2004 <a href="http://www.nogalesinternational.com/front">Nogales International</a> </td>
+              <td valign="top" width="1" class="divider"><img src="http://www.nogalesinternational.com/art/spacer.gif" width="1" height="1"></td>
+              <td valign="top" align="center" width="125"><table width="125" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td valign="top"><img src="http://www.nogalesinternational.com/art/modules/advertising.gif" width="125" height="25"></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <table width="100%" cellspacing="0" cellpadding="0" class="modules">
+        <tr> 
+          <td valign="top" align="center"> 
+            <p><!-- AdSys ad not found for news:right1 --></p>
+            <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'news+right2';
+aAds[0][1] = '14304';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.nogalesinternational.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'nogalesinternational.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/13267956/creative/nogalesinternational.com/news+right2/14304.gif?r=http://www.nogalesinternational.com" target="_blank"><img border="0" src="http://adsys.townnews.com/1797236097/creative/nogalesinternational.com/news+right2/14304.gif"/></a>
+</noscript>
+</p>
+            <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'news+right3';
+aAds[0][1] = '431';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.ichotelsgroup.com/h/d/ex/1/en/hd/nogaz?irs=null';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'nogalesinternational.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/625081976/creative/nogalesinternational.com/news+right3/431.gif?r=http://www.ichotelsgroup.com/h/d/ex/1/en/hd/nogaz?irs=null" target="_blank"><img border="0" src="http://adsys.townnews.com/936611318/creative/nogalesinternational.com/news+right3/431.gif"/></a>
+</noscript>
+</p>
+            <p><!-- AdSys ad not found for news:right4 --></p>
+            <p><!-- AdSys ad not found for news:right5 --></p>
+            <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'news+right6';
+aAds[0][1] = '14302';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.carmsbuildres.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'nogalesinternational.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/2046435078/creative/nogalesinternational.com/news+right6/14302.gif?r=http://www.carmsbuildres.com" target="_blank"><img border="0" src="http://adsys.townnews.com/1092571098/creative/nogalesinternational.com/news+right6/14302.gif"/></a>
+</noscript>
+</p>
+            <p><!-- AdSys ad not found for news:right7 --></p>
+            <p><!-- AdSys ad not found for news:right8 --></p>
+            <p><!-- AdSys ad not found for news:right9 --></p>
+            <p><!-- AdSys ad not found for news:right10 --><a href="http://www.nogalesinternational.com/topads/top_ads.html" class="more" target="_blank"></a> 
+                                                                                        </p></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</td>
+              <td valign="top" width="1" class="divider"><img src="http://www.nogalesinternational.com/art/spacer.gif" width="1" height="1"></td>
+            </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td valign="top" class="divider"><img src="http://www.nogalesinternational.com/art/spacer.gif" width="1" height="1"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><script language="JavaScript" type="text/JavaScript">
+<!--
+
+
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+</script>
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<body>
+<table width="735" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="86" valign="top"><a href="http://www.nogalesinternational.com/archives" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Archives','','/art/bottom-nav/archives-1.gif',1)"><img src="http://www.nogalesinternational.com/art/bottom-nav/archives-1.gif" alt="Archives" name="Archives" width="86" height="25" border="0"></a></td>
+    <td width="87" valign="top"><a href="http://www.nogalesinternational.com/about_us" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('About Us','','/art/bottom-nav/aboutus-2.gif',1)"><img src="http://www.nogalesinternational.com/art/bottom-nav/aboutus-1.gif" alt="About Us" name="About Us" width="87" height="25" border="0"></a></td>
+    <td width="129" valign="top"><a href="http://www.nogalesinternational.com/photo_gallery" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Photo Gallery','','/art/bottom-nav/photogallery-2.gif',1)"><img src="http://www.nogalesinternational.com/art/bottom-nav/photogallery-1.gif" alt="Photo Gallery" name="Photo Gallery" width="129" height="25" border="0"></a></td>
+    <td width="148" valign="top"><a href="mailto:manuel.coppola@nogalesinternational.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Write the Editor','','/art/bottom-nav/writeeditor-2.gif',1)"><img src="http://www.nogalesinternational.com/art/bottom-nav/writeeditor-1.gif" alt="Write the Editor" name="Write the Editor" width="148" height="25" border="0"></a></td>
+    <td width="105" valign="top"><a href="http://www.nogalesinternational.com/contact_us" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Contact Us','','/art/bottom-nav/contactus-2.gif',1)"><img src="http://www.nogalesinternational.com/art/bottom-nav/contactus-1.gif" alt="Contact Us" name="Contact Us" width="105" height="25" border="0"></a></td>
+	<td width="180" valign="top"><a href="http://www.wickcommunications.com/" target="_blank" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Wick Communications','','/art/bottom-nav/wick-2.gif',1)"><img src="http://www.nogalesinternational.com/art/bottom-nav/wick-1.gif" alt="Wick Communications" name="Wick Communications" width="180" height="25" border="0"></a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 02:16:19 Jan 23, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:57:47 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 87.177 (3)
+  esindex: 0.009
+  captures_list: 107.657
+  CDXLines.iter: 11.215 (3)
+  PetaboxLoader3.datanode: 117.254 (4)
+  exclusion.robots: 0.232
+  exclusion.robots.policy: 0.221
+  RedisCDXSource: 6.378
+  PetaboxLoader3.resolve: 34.152
+  load_resource: 132.045
+-->

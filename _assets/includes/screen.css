@@ -1,0 +1,441 @@
+@charset "UTF-8";
+
+html, body
+{
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+
+/* style the masthead area */
+#masthead { padding: 5px 0 0 10px; }
+
+/* style the search form */
+#searchbox
+{
+	margin: 0;
+	padding: 24px 5px 0 0;
+}
+
+/* style the pull down menu */
+#nav
+{
+	margin: 0;
+	padding: 0;
+}
+
+#hardlinks
+{
+	margin: 0;
+	padding-top: 4px;
+}
+
+#separator
+{
+	background-color: #4B7AAA;
+	height: 6px;
+}
+
+.yuimenu
+{
+	top: -999em;
+	left: -999em;
+}
+
+/* styles for the YUI menu system */
+/* .yuimenubar .bd ul.first-of-type sets background color for top menu bar background */
+.yuimenubar .bd ul.first-of-type { background-color: #4B7AAA; }
+
+/* .yuimenubar .bd ul li.yuimenubaritem does bg for top menu items */
+.yuimenubar .bd ul li.yuimenubaritem { background-color: #4B7AAA; }
+
+/* .yuimenubar .bd ul li.yuimenubaritem a.yuimenubaritemlabel does font for top menu items */
+.yuimenubar .bd ul li.yuimenubaritem a.yuimenubaritemlabel
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: white;
+}
+
+.yuimenubar .bd ul li.yuimenubaritem a.yuimenubaritemlabel-selected
+{
+	background-color: #eee;
+	color: black;
+}
+
+/* .yuimenubar .bd li.yuimenuitem for the bg of the submenus */
+.yuimenubar .bd li.yuimenuitem { background-color: #4B7AAA; }
+.yuimenubar .bd li.yuimenuitem-selected { background-color: #4B7AAA; }
+
+/* .yuimenubar .bd a.yuimenuitemlabel for the text of the submenus */
+.yuimenubar .bd a.yuimenuitemlabel
+{
+	color: white;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: .9em;
+}
+
+.yuimenubar .bd a.yuimenuitemlabel-selected { color: black; }
+
+/* style the container for the left column */
+#left
+{
+	width: 120px;
+	background-image: url(img/gradient-left.jpg);
+	background-repeat: repeat-y;
+}
+
+/* style the left column contents */
+#column_left, #left-ads
+{
+	font-size: 90%;
+	padding-top: 4px;
+	text-align: center;
+}
+
+/* styles for all the inside pages: content */
+/* style the container for the live content area */
+#center { background-color: #fafaff; }
+
+/* style the content itself */
+#content
+{
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+h1, h2
+{
+	text-align: center;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+table#dateline
+{
+	background-color: #cccccc;
+	width: 100%;
+	margin: 0 auto 0 auto;
+	padding: 0 4px 0 4px;
+}
+
+p, blockquote
+{
+	text-align: justify;
+	font-size: 1em;
+	line-height: 1.1em;
+}
+
+p#contents_listing { font-family: Arial, Helvetica, sans-serif; }
+
+p.subhead
+{
+	text-align: center;
+	font-size: 1.25em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+p.byline
+{
+	font-style: italic;
+	text-align: center;
+}
+
+.photocaption
+{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 0.85em;
+}
+
+/* style the reviewed-item information that appears beneath the subhead */
+.bookreview
+{
+	background-color: #ddd;
+	margin: 0.5em;
+	padding: 0.5em;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 1.25em;
+	font-weight: bold;
+}
+
+/* O Tempora start */
+.otomhead
+{
+	text-align: left;
+	font-size: 1.25em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.backtotop
+{
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	font-family: Arial;
+	font-size: x-small;
+	clear: both;
+}
+
+/* separate the sections in the all-up versions of AR online */
+.redhead
+{
+	color: white;
+	background-color: #B70303;
+	font-family: Arial, Helvetica, sans-serif;
+	letter-spacing: 4px;
+	white-space: nowrap;
+	font-size: smaller;
+	padding-right: .2em;
+	padding-left: .5em;
+}
+
+li.link
+{
+	padding-top: 2em;
+	border-top: 1px navy solid;
+	padding-bottom: 2em;
+}
+
+/* separate the letters from readers */
+.quill
+{
+	text-align: center;
+	margin-bottom: 30px;
+	clear: both;
+}
+
+/* fieldset and legend are used to wrap comments and sections in the Readers Guide */
+#content fieldset
+{
+	background-color: white;
+	margin-top: 6px;
+}
+
+#content legend { font-weight: bold; }
+
+/* styles for the front page only: contentii */
+#containerii
+{
+	margin-left: 1em;
+	margin-right: 1em;
+}
+
+#containerii p
+{
+	color: #000;
+	background-color: inherit;
+	font-family: "Times New Roman", serif;
+	text-align: left;
+	line-height: 1.2em;
+	font-size: .8em;
+}
+
+.newissue { }
+
+/* style the announcement banner */
+.announcement
+{
+	font-size: larger;
+	padding-bottom: 6px;
+}
+
+.announcement a:link, .announcement a:visited { text-decoration: none; }
+.announcement a:hover, .announcement a:focus, .announcement a:active { text-decoration: none; }
+
+/* style linked text site-wide */
+a:link, a:visited
+{
+	text-decoration: none;
+	color: #103994;
+}
+
+a:hover, a:focus { color: #66F; }
+
+a:active
+{
+	font-weight: bold;
+	text-decoration: none;
+	color: #66F;
+}
+
+/* dropcap follows h1, dropcap 2 follows h2 */
+span.dropcap
+{
+	float: left;
+	font-family: "Times New Roman", Georgia, serif;
+	font-size: 4.4em;
+	line-height: 0.85em;
+	margin-right: 0.03em;
+	margin-bottom: -0.25em;
+	color: #009;
+}
+
+span.dropcap2
+{
+	float: left;
+	font-family: "Times New Roman", Georgia, serif;
+	font-size: 3em;
+	line-height: 0.85em;
+	margin-right: 0.03em;
+	margin-bottom: -0.25em;
+	color: #009;
+}
+
+/* box containing images */
+.boxleft
+{
+	margin-right: 1em;
+	float: left;
+}
+
+.boxcenter { margin: .5em auto .5em auto; }
+
+.boxright
+{
+	margin-left: 1em;
+	float: right;
+}
+
+.boxleft td img, .boxcenter td img, .boxright td img
+{
+	background-color: #fff;
+	border: 1px solid #bbb;
+	box-shadow: 0 0 5px #888;
+	padding: 4px;
+	-moz-box-shadow: 0 0 5px #888;
+	-webkit-box-shadow: 0 0 5px#888;
+}
+
+/* quote contains pull quotes */
+.quoteleft
+{
+	background-color: #ccc;
+	margin-right: 1em;
+	padding: 1em;
+	float: left;
+	width: 40%;
+}
+
+.quotecenter
+{
+	background-color: #ccc;
+	padding: 1em;
+	margin: .5em auto .5em auto;
+}
+
+.quoteright
+{
+	background-color: #ccc;
+	margin-left: 1em;
+	padding: 1em;
+	float: right;
+	width: 40%;
+}
+
+/* hide the comment form until they agree to terms */
+#v-form { display: none; }
+
+/* style sup and sub preserve line spacing */
+sup, sub
+{
+	line-height: 0em;
+	font-size: .7em;
+}
+
+.hellip { letter-spacing: .3em; }
+
+/* style the container for the right column */
+#right
+{
+	width: 120px;
+	background-image: url(img/gradient-right.jpg);
+	background-repeat: repeat-y;
+}
+
+/* style the right column contents */
+#column_right, #right-ads
+{
+	font-size: 90%;
+	padding-top: 6px;
+	text-align: center;
+}
+
+/* style the container for the footer */
+#footer
+{
+	color: gray;
+	text-align: center;
+	border-top: 1px navy solid;
+}
+
+/* style the footer contents */
+#bottom { padding-top: 4px; }
+
+/* style the page numbers for the multi-page categories and date archives in MT */
+.pages { clear: left; }
+
+.clearpages
+{
+	clear: both;
+	padding: 0 0 20px 0;
+}
+
+.pages a, .pages span
+{
+	display: block;
+	float: left;
+	padding: 0.2em 0.5em;
+	margin-right: 0.1em;
+	border: 1px solid #808080;
+	background: #4b7aaa;
+}
+
+.pages a.current
+{
+	border: 1px solid #808080;
+	background: #eeeeee;
+	color: #ffffff;
+}
+
+.pages a.current:link, .pages a.current:visited
+{
+	border: 1px solid #808080;
+	background: #eeeeee;
+	color: #000000;
+}
+
+.pages a
+{
+	border: 1px solid #808080;
+	font-weight: bold;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.pages a:link, .pages a:visited
+{
+	border: 1px solid #808080;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.pages a:hover, .pages a:active
+{
+	background: #eeeeee;
+	border-color: #808080;
+	color: #000000;
+}
+
+.pages a.nextprev
+{
+	color: #666666;
+	font-weight: bold;
+}
+
+.pages span.nextprev
+{
+	border: 0px solid #ffffff;
+	background: #ffffff;
+	color: #000000;
+}

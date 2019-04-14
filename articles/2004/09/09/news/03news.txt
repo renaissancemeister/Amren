@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Port Arthur News</title>
+</head>
+<body>
+
+
+<table width="781" border="0" cellpadding="0" cellspacing="0">
+<tr><td width="5" rowspan="10"><img src="http://www.panews.com/art/spacer.gif" width="5" alt=""></td><td align="center" width="776">&nbsp;</td></tr>
+<tr><td><center>
+<span class="date"><script language="JavaScript">
+var now = new Date();
+var dayNames = new Array("Sunday","MONDAY","TUESDAY","WEDNESDAY","THURSDAY","FRIDAY","SATURDAY");
+var monNames = new Array("JANUARY","FEBRUARY","MARCH","APRIL","MAY","JUNE","JULY","AUGUST","SEPTEMBER","OCTOBER","NOVEMBER","DECEMBER");
+document.write(dayNames[now.getDay()] + " " + monNames[now.getMonth()] + " " + now.getDate() + ", " + now.getFullYear());
+</script></span><br>
+<img border="0" src="http://www.panews.com/art/section/news.gif">
+</center>
+<table border="0" cellpadding="0" cellspacing="0" height="23" width="781">
+<tr><td width="390"><table border="0" cellpadding="0" cellspacing="0" height="23"><tr><td width="3" bgcolor="#99B7CF"><img src="http://www.panews.com/art/spacer.gif" width="3" height="1" alt=""></td><td bgcolor="#99B7CF"><script language="JavaScript">
+<!--
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//-->
+</script>
+
+<table border="0" cellpadding="0" cellspacing="0"><tr><form><td>     
+<select name="select" onchange="MM_jumpMenu('parent',this,0)" class="box">
+    <option selected>Quick Links</option>
+    <option value="/obituaries/">- Obituaries</option>
+    <option value="/announcements#weddings">- Wedding Announcements</option>
+    <option value="/announcements#births">- Birth Announcements</option>
+    <option value="/life#reunions">- Reunions</option>
+    <option value="/classifieds/">- Classifieds</option>
+    <option value="/sports/">- Local Sports</option>
+    <option value="/health/">- Health</option>
+    <option value="/INN_entertainment/">- Entertainment</option>
+    <option value="/INN_stocks/">- Finance</option>
+    <option value="/ap/">- National News</option>
+    <option value="/archives/">- Archives</option>
+    <option value="/sports#outdoor_features">- Outdoor Features</option>
+    <option value="/guestbook/">- Message Board</option>
+</select>
+</td></form></tr></table>
+</td><td width="18"><img src="http://www.panews.com/art/curve.gif"></td></tr></table></td><td width="391" align="right"><span class="indexstory"><a href="http://www.panews.com/articles/2004/09/09/news/03news.eml" target="emailafriend">Email this story</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="indexstory"><a href="http://www.panews.com/articles/2004/09/09/news/03news.prt" target="printable">Print this story</a></span></td></tr></table></td></tr>
+<tr><td bgcolor="#000000"><img src="http://www.panews.com/art/spacer.gif" width="1" height="2" alt=""></td></tr>
+<tr><td><img src="http://www.panews.com/art/spacer.gif" width="1" height="6" alt=""></td></tr>
+<tr><td><table width="776" border="0" cellpadding="0" cellspacing="0"><tr>
+<td><a href="http://www.panews.com/" target="_parent"><img src="http://www.panews.com/art/buttons/home.gif" alt="Home Page" border="0"></a></td>
+<td width="7"><img src="http://www.panews.com/art/spacer.gif" width="7" height="1" alt=""></td>
+<td><a href="http://www.panews.com/news/" target="_parent"><img src="http://www.panews.com/art/buttons/news.gif" alt="News" border="0"></a></td>
+<td width="7"><img src="http://www.panews.com/art/spacer.gif" width="7" height="1" alt=""></td>
+<td><a href="http://www.panews.com/community/" target="_parent"><img src="http://www.panews.com/art/buttons/community.gif" alt="Community" border="0"></a></td>
+<td width="7"><img src="http://www.panews.com/art/spacer.gif" width="7" height="1" alt=""></td>
+<td><a href="http://www.panews.com/sports/" target="_parent"><img src="http://www.panews.com/art/buttons/sports.gif" alt="Sports" border="0"></a></td>
+<td width="7"><img src="http://www.panews.com/art/spacer.gif" width="7" height="1" alt=""></td>
+<td><a href="http://www.panews.com/entertainment/" target="_parent"><img src="http://www.panews.com/art/buttons/entertainment.gif" alt="Entertainment" border="0"></a></td>
+<td width="7"><img src="http://www.panews.com/art/spacer.gif" width="7" height="1" alt=""></td>
+<td><a href="http://www.panews.com/life/" target="_parent"><img src="http://www.panews.com/art/buttons/life.gif" alt="Life/" border="0"></a></td>
+<td width="7"><img src="http://www.panews.com/art/spacer.gif" width="7" height="1" alt=""></td>
+<td><a href="http://www.panews.com/realestate/" target="_parent"><img src="http://www.panews.com/art/buttons/realestate.gif" alt="realestate" border="0"></a></td>
+<td width="7"><img src="http://www.panews.com/art/spacer.gif" width="7" height="1" alt=""></td>
+<td><a href="http://www.panews.com/classifieds/" target="_parent"><img src="http://www.panews.com/art/buttons/classifieds.gif" alt="Classifieds" border="0"></a></td>
+<td width="7"><img src="http://www.panews.com/art/spacer.gif" width="7" height="1" alt=""></td>
+<td><a href="http://www.panews.com/obituaries/" target="_parent"><img src="http://www.panews.com/art/buttons/obituaries.gif" alt="Obituaries" border="0"></a></td>
+</tr></table></td></tr>
+<tr><td><img src="http://www.panews.com/art/spacer.gif" width="1" height="6" alt=""></td></tr>
+<tr><td>
+<table width="776" border="0" cellpadding="0" cellspacing="0">
+<tr><td width="641" bgcolor="#EBEDEC" valign="top">
+<!-- start middle -->
+
+<table width="640" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="120" valign="top" bgcolor="#AD262A"><table width="90" align="center">
+	<tr>
+		<td><br>
+		<a class="nav" href="http://www.panews.com/articles/archives/">Archives</a><br>
+		<a class="nav" href="http://www.panews.com/articles/submit_news.php">Submit News</a><br>
+		<a onclick="window.open('https://secure.townnews.com/shared-content/perform/?domain_name=panews.com&amp;form_template=classifieds','popuppage','width=650,height=600,top=75,left=75,scrollbars=1,toolbar=yes');" class="nav" href="javascript:void(0)">
+		Submit Classified</a><br>
+		<a onclick="window.open('https://secure.townnews.com/shared-content/perform/?domain_name=panews.com&amp;form_template=subscribe','popuppage','width=650,height=600,top=75,left=75,scrollbars=1,toolbar=yes');" class="nav" href="javascript:void(0)">
+		Subscribe</a><br>
+		<a class="nav" target="top" href="http://www.dotphoto.com/go.asp?l=panews">
+		Photo Reprints</a><p>
+		<a class="nav" href="http://www.panews.com/community/">Communities</a><br>
+		<a class="nav" href="http://www.panews.com/community#port arthur">Port Arthur</a><br>
+		<a class="nav" href="http://www.panews.com/community/#groves">Groves</a><br>
+		<a class="nav" href="http://www.panews.com/community/#nederland">Nederland</a><br>
+		<a class="nav" href="http://www.panews.com/community/#port neches">Port Neches</a><br>
+		<a class="nav" href="http://www.panews.com/community/#bridge city">Bridge City</a><br>
+		<a class="nav" href="http://www.panews.com/obituaries/">Obituaries</a><br>
+		<a class="nav" href="http://www.panews.com/announcements/#Weddings And Engagements">Weddings</a><br>
+		<a class="nav" href="http://www.panews.com/announcements/#birth announcements">Births</a></p>
+		<p><a class="nav" href="http://www.panews.com/sports/">Sports</a><br>
+		<a class="nav" href="http://www.panews.com/sports/#outdoor_features">Outdoors</a><br>
+		<a class="nav" href="http://www.panews.com/sports/#golf">Golf</a><br>
+		<a class="nav" href="http://www.panews.com/sports/#bob_west_columns">Bob West</a></p>
+		<p><a class="nav" href="http://www.panews.com/opinion/">Opinion</a><br>
+		<a class="nav" href="http://www.panews.com/opinion/#letter_to_the_editor">Letters</a><br>
+		<a class="nav" href="http://www.panews.com/opinion/#columns">Columns</a></p>
+		<p><a class="nav" href="http://www.panews.com/entertainment/">Entertainment</a><br>
+		<a class="nav" href="http://www.panews.com/entertainment/#movies">Movie Reviews</a><br>
+		<a class="nav" href="http://www.panews.com/entertainment/#events">Things to do</a><br>
+		<a class="nav" href="http://tvlistings4.zap2it.com/partners/index.asp?partner_id=panews">TV Listings</a><br>
+		<a class="nav" href="http://entertainment.townnews.com/horoscope.php">Horoscope</a><br>
+		<a class="nav" href="http://entertainment.townnews.com/games.php">Games</a></p>
+		<p><a class="nav" href="http://www.panews.com/life/">Life</a><br>
+		<a class="nav" href="http://www.panews.com/INN_entertainment/">Food</a><br>
+		<a class="nav" href="http://www.panews.com/life/#reunions">Reunions</a></p>
+		<p><a class="nav" href="http://www.panews.com/ap/">National News</a><br>
+		<a class="nav" href="http://www.panews.com/INN_stocks">Finance</a><br>
+		<a class="nav" href="http://www.panews.com/health/">Health</a><br>
+		<a class="nav" target="_top" href="http://www.txlottery.org/">Lottery</a></p>
+		<p><a class="nav" href="http://www.panews.com/town_hall">Town Hall</a><br>
+		<a class="nav" href="http://www.panews.com/guestbook/">Message Board</a></p>
+		<p><a class="nav" href="http://www.panews.com/about_us/">About Us</a><br>
+		<a class="nav" href="http://www.panews.com/locations/">Where to buy a newspaper</a><br>
+		<a class="nav" href="http://www.panews.com/contact_us/">Contact Us</a><br>
+		<a class="nav" href="http://www.panews.com/advertise/">Advertise with us</a><br>
+		<a class="nav" href="http://www.panews.com/classifieds/">Search our Ads</a><br>
+        </p>
+		<p>
+		<a href="http://www.orangeleader.com/">
+		<img src="http://www.orangeleader.com/art/orgldr.gif" width="100" height="61"></a><br>
+        </p>
+		</td>
+	</tr>
+</table>
+
+</body>
+
+</html>
+<br><br><center><a href="http://www.panews.com/"><img src="http://www.panews.com/art/sm_pa.gif" border="0"></a></center><br></td>
+<td width="15"><img src="http://www.panews.com/art/spacer.gif" width="10" height="1" alt=""></td>
+
+<td width="490" valign="top">
+<center><!-- AdSys ad not found for news:top --></center>
+<br><br>
+<span class="headline-front">Grievances denied</span>
+<hr>
+<table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td nowrap valign="top"><span class="small12"></span></td><td nowrap align="right" valign="top"><span class="small12"><i>Posted: 09/09/04 - 10:11:33 pm CDT</i></span></td></tr></table>
+<hr>
+
+<table border="0" cellspacing="0" cellpadding="0" align="right" width="" class="clear">
+<tr><td align="center"> 
+<table border="0" cellspacing="0" cellpadding="0" align="center" width=""><tr> <td class="photo-right"></td></tr><tr> <td class="photo-right" width=""><span class="small11"></span> </td></tr></table><br clear="all">
+</td></tr></table>
+
+<span class="indexstory">PAISD board takes no action against principal<br/><br/>By Meghan Vital - The News staff writer<br/><br/>Charges of racial discrimination filed by a group of Port Arthur teachers against Memorial High School principal Marilyn Baptiste were dismissed Thursday during a special Port Arthur ISD board meeting.<br/><br/>After three hours of deliberation, school board members voted to accept PAISD Superintendent Willis Mackey&#039;s recommendation to deny the grievance filed by six district educators.<br/><br/>The PAISD teachers, who are white, claim the high school administrator, who is black, retaliated against them after they accused her of racial discrimination. The teachers brought their complaint to school board trustees at the last board meeting for their initial consideration.</span><br><br>
+
+<table border="0" cellspacing="2" cellpadding="0" align="right" class="clear"><tr><td align="center" class="photo-right"><!-- AdSys ad not found for news:middle.2 --></td></tr></table>
+
+<span class="indexstory">Two board members, Donna Worthington and Lonnie Linden, said they felt the grievance held merit and voted against the superintendent&#039;s recommendation.<br/><br/>&quot;What I have seen during this grievance is a cycle of retaliation against certified teachers in the district and how we are yanking their chains,&quot; Worthington said. &quot;Someday we will be looking over our shoulders wondering where our certified teachers are going. I certainly see there was some retaliation made against teachers.&quot;<br/><br/>According to the teachers&#039; complaint, Baptiste made racially insensitive comments to high school students, including a remark made to a student who inquired about Cinco de Mayo celebrations. According to the grievance, Baptist told the student he could &quot;go back to Mexico&quot; to celebrate the holiday.<br/><br/>In another instance, the grievance cited Baptiste for allowing a student to read a poem over the public address system that referenced &quot;the white devil&quot; during Black History Month.<br/><br/>The accusations made in the grievance are false, Baptiste said, and are designed to cast her in the worst light possible.<br/><br/>That a student misguidedly read a poem for Black History Month and referred to &quot;the white devil&quot; is true, she noted.<br/><br/>&quot;However, it is not true that it was I who allowed the student to read the poem,&quot; she said.<br/><br/>A school counselor later apologized to the school body over the Memorial High School public address system for not having monitored the poem reading as closely as possible, Baptiste added.<br/><br/>&quot;I wish to further state that during my long tenure as a teacher and administrator, I have worked closely with the various groups of constituents in PAISD, where diversity is appreciated and supported,&quot; she said. &quot;My interactions with Hispanic families has been exceptional.&quot;<br/><br/>Stacey Rhodes, a certified English teacher and one of the teachers filing the complaint, said she was disappointed by the board&#039;s decision but planned to take her complaint further.<br/><br/>The former senior English teacher was transferred from Memorial High School to Wilson Middle School where she is teaching seventh grade English. She is currently making &#036;4,000 less now that she is working on a middle school level, Rhodes noted, and she believes the transfer was a retaliatory action in response to her complaints against Baptiste.<br/><br/>&quot;We will be taking it further to the commissioner of education and if need be, even further than that,&quot; she said of the group of teachers filing the grievance. &quot;I have lost my job and I have lost money. I am not stopping.&quot; </span><br><br>
+
+<br clear="all">
+<table align="right"><tr><td><span class="indexstory"><a href="http://www.panews.com/articles/2004/09/09/news/03news.eml" target="emailafriend">Email this story</a></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="indexstory"><a href="http://www.panews.com/articles/2004/09/09/news/03news.prt" target="printable">Print this story</a></span></td></tr></table>
+
+<br><br>
+<p style="margin-top: 3px; margin-bottom: 3px" align="center"><!-- AdSys ad not found for news:bottom --></p>
+</td>
+<td width="10" "><img src="http://www.panews.com/art/spacer.gif" width="10" height="1" alt=""></td>
+</tr>
+
+</table>
+
+<!-- end middle -->
+</td>
+<td valign="top" width="135" align="right"><p><!-- AdSys ad not found for news:right1 --></p>
+<p><!-- AdSys ad not found for news:right2 --></p>
+<p><!-- AdSys ad not found for news:right3 --></p>
+<p><!-- AdSys ad not found for news:right4 --></p>
+<p><!-- AdSys ad not found for news:right5 --></p>
+<p><!-- AdSys ad not found for news:right6 --></p>
+<p><!-- AdSys ad not found for news:right7 --></p>
+<p><!-- AdSys ad not found for news:right8 --></p>
+<p><!-- AdSys ad not found for news:right9 --></p>
+<p><!-- AdSys ad not found for news:right10 --></p>
+</td>
+</tr></table>
+</td></tr>
+
+<tr><td bgcolor="#024D86"><img src="http://www.panews.com/art/spacer.gif" width="1" height="8" alt=""></td></tr>
+<tr><td bgcolor="#024D86"><span class="footer"><center>Copyright &copy; 2005 Port Arthur News - P.O. Box 789, Port Arthur, TX  77640 - 409-729-NEWS (6397) - <a href="mailto:panews@panews.com" class="footer">panews@panews.com</a></center></span></td></tr>
+<tr><td bgcolor="#024D86"><img src="http://www.panews.com/art/spacer.gif" width="1" height="8" alt=""></td></tr>
+</table>
+
+
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 19:43:05 Feb 08, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:44:05 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 200.821 (3)
+  esindex: 0.007
+  captures_list: 215.996
+  CDXLines.iter: 10.521 (3)
+  PetaboxLoader3.datanode: 75.505 (4)
+  exclusion.robots: 0.169
+  exclusion.robots.policy: 0.158
+  RedisCDXSource: 2.264
+  PetaboxLoader3.resolve: 107.229 (2)
+  load_resource: 107.224
+-->

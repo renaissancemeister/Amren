@@ -1,0 +1,1042 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>
+Escondido council approves illegal immigrant rental ban : North County Times - Californian </title>
+</head>
+
+<body>
+<script type="text/javascript" src="http://www.nctimes.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('nctimes.com'); TNTracker.setTracker('http://www.nctimes.com/shared-content/stats/common/tracker.gif', 'https://secure.townnews.com/shared-content/stats/common/tracker.gif'); TNTracker.trackPageView(); }
+// -->
+</script>
+<!-- HEADER -->
+<div id="header_wrap">
+
+<!-- HEADER -->
+   <div id="header">
+                
+        <!-- *************************************************************************************************************************** --> 
+              <div id="headerlogo_ad">
+    
+                    <a href="http://www.nctimes.com/"><img id="nctheaderlogo" class="clear" src="http://images.townnews.com/nctimes.com/zimages/08/logo-nct.png" alt="NCTimes.com" width="235" height="89"/></a> 
+                    
+                    <div class="bannerad">
+                        <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/biz_leaderboard/static.js"></script>
+                    </div> 
+                       
+            </div>        <!-- *************************************************************************************************************************** --> 
+                
+        <!-- *************************************************************************************************************************** --> 
+               <div id="midlink" class="clear">
+				
+			<ul id="main_menu" class="lava">
+                <li id="mNews"><a href="http://www.nctimes.com/news/">News</a></li>
+				<li id="mOpinion"><a href="http://www.nctimes.com/opinion/">Opinion</a></li>
+                <li id="mSports"><a href="http://www.nctimes.com/sports/">Sports</a></li>
+				<li id="mEntertainment"><a href="http://www.nctimes.com/entertainment/">Entertainment</a></li>
+                <li id="mFeatures"><a href="http://www.nctimes.com/features/">Features</a></li>   
+                <li id="mMarket" class="ads_menu"><a href="http://www.nctimes.com/admarket/">Marketplace</a></li>             
+                <li id="mCars" class="ads_menu"><a href="http://wheels.nctimes.com/">Cars</a></li>
+                <li id="mHomes" class="ads_menu"><a href="http://homes.nctimes.com/">Homes</a></li>
+                <li id="mJobs" class="ads_menu"><a href="http://www.nctimes.com/jobs/">Jobs</a></li>
+   			</ul>
+           
+		</div>
+        
+        <div id="botlink">
+			<ul>
+			  	<li><a href="http://www.nctimes.com/" title="Home">HOME</a></li>
+				<li><a href="http://www.nctimes.com/contact_us/" title="Contact Us">CONTACT US</a></li>
+                <li><a href="http://www.nctimes.com/advertising/" title="Advertise">ADVERTISE</a></li>
+                <li><a href="http://www.nctimes.com/web_services/" title="Subscriber Services">SUBSCRIBER SERVICES</a></li>
+            <!--<li><a href="/" title="Site Map">SITE MAP</a></li>-->
+            </ul>
+		</div> <!-- end of botlink -->
+        <!-- *************************************************************************************************************************** --> 
+        
+        <!-- *************************************************************************************************************************** --> 
+              <div id="header-search">
+	<script language="javascript" type="text/javascript">
+	jQuery(document).ready(function() {
+		var search_value = $('input[@name=query]').val();
+		jQuery('#yahooSearchBox').val(search_value);
+	});
+	</script>
+		 <img class="floatleft margin15top" alt="yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+				    
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+			<input class="searchfield" type="text" name="search" size="15" value="Search..." id="yahooSearchBox"/> 
+			<label>in </label>
+			<select name="searchType" id="searchType">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="videos">Videos</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+				<option value="web">Web</option>
+			</select>
+			
+			<input class="submitbutton" name="submitsearch" type="submit" value="Go"/>
+		</form>
+</div> <!-- end of search -->        <!-- *************************************************************************************************************************** --> 		
+                
+        </div><!-- end of header -->
+	
+</div>
+
+<!-- BODY -->
+<div id="content_wrap">
+ 	  <div id="maincontent">
+<!-- *************************************************************************************************************************** --> 
+        <div style="position:relative; z-index:999;">
+
+<!-- NEWS/LOCAL -->
+
+	<div id="submNews" class="subnav-group">
+
+        <div class="subs lead">
+		  <h1><a href="http://www.nctimes.com/news">News Home Page</a></h1>
+          <ul class="lead">
+		    <li><a href="http://www.nctimes.com/news/top_stories">Top Stories</a></li>
+		    <li><a href="http://www.nctimes.com/news/coastal">Coastal</a></li>
+		    <li><a href="http://www.nctimes.com/news/inland">Inland</a></li>
+		    <li><a href="http://www.nctimes.com/news/californian">The Californian</a></li>
+            <li><a href="http://www.nctimes.com/news/sandiego">Region</a></li> 
+			<li><a href="http://www.nctimes.com/news/state">State</a> | <a href="http://www.nctimes.com/news/nation">National</a></li> 
+			<li><a href="http://www.nctimes.com/ap">Today's AP Headlines</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/rss">RSS Feeds</a></li>
+          </ul>
+        </div>
+      
+        <div class="subs">
+          <h1>City News</h1>
+          <ul>
+          	<li><a href="http://www.nctimes.com/news/coastal/carlsbad">Carlsbad</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/del_mar">Del Mar</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/encinitas">Encinitas</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/escondido">Escondido</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/fallbrook">Fallbrook</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/lake_elsinore">Lake Elsinore</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/menifee">Menifee</a></li> 
+            <li><a href="http://www.nctimes.com/news/californian/murrieta">Murrieta</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/oceanside">Oceanside</a></li>
+          </ul>
+        </div>
+        
+        <div class="subs">
+          <ul>
+			<li><a href="http://www.nctimes.com/news/inland/poway">Poway</a></li>
+          	<li><a href="http://www.nctimes.com/news/inland/ramona">Ramona</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/rb">Rancho Bernardo</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/riverside">Riverside County</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/san_marcos">San Marcos</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/sb">Solana Beach</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/temecula">Temecula</a></li>
+            <li><a href="http://www.nctimes.com/news/inland//vc">Valley Center</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/vista">Vista</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/wildomar">Wildomar</a></li>
+          </ul>
+        </div>
+        
+        <div class="subs">
+			<h1><a href="http://www.nctimes.com/business">Business Home Page</a></h1>
+			<ul>
+          		<li><a href="http://www.nctimes.com/blogs/minding_your_business/">Business Blog</a></li>
+          		<li><a href="http://www.nctimes.com/columnists/business/">Business Columnists</a></li>
+          		<li><a href="http://www.nctimes.com/gas_prices">Gas Gauge</a></li>
+		  		<li><a href="http://www.nctimes.com/business/stocks">Stocks</a> | <a href="http://hosted.ap.org/dynamic/external/ibd.morningstar.com/AP/StockMover2.html?local=CAESC&amp;CN=AP707&amp;SITE=CAESC&amp;SECTION=MONEY_COMPLETE">Local List</a></li>
+          		
+                <li class="h1-subhead">Other News</li>
+          		<li><a href="http://www.nctimes.com/military">Military</a></li> 
+		  		<li><a href="http://www.nctimes.com/elections2008">Elections</a></li> 
+		  		<li><a href="http://www.nctimes.com/corrections">Corrections</a></li>
+		  		<li><a href="http://www.nctimes.com/backpage">Backpage</a></li>
+		  <!--<li><a href="/business/chamberlin">George Chamberlin</a></li>
+		  <li><a href="/business/bahr">Candace Bahr</a></li>
+		  <li><a href="/business/vanderspek">Jim VanderSpek</a></li>
+		  <li><a href="/business/knight">Gary Knight</a></li>-->
+			</ul> 
+   		</div>
+		  
+          <div class="subs"> 
+          	<h1><a href="http://www.nctimes.com/columnists/local/">Local Columnists</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/news/columnists/baier/">Paul Baier</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/jeff_frank">Jeff Frank</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/betty_johnston/">Betty Johnston</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/john_hunneman/">John Hunneman</a></li>
+                <li><a href="http://www.nctimes.com/news/columnists/tom_morrow/">Tom Morrow</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/observer/">John Van Doorn</a></li>
+				<li><a href="http://www.nctimes.com/columnists/local/">More Local Columnists</a></li>
+                <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+           	</ul>
+		 </div> 
+          
+		  <div class="subs"> 
+          	<ul>
+				<li><a href="http://www.nctimes.com/weather">Weather</a></li>
+				<li><a href="http://www.nctimes.com/traffic">Traffic</a></li>
+		  		<li><a href="http://www.nctimes.com/earthquake">Earthquake Reports</a></li>
+		  		<li><a href="http://videos.nctimes.com/">Videos</a></li>
+            	<li><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+                <li><a href="http://www.nctimes.com/archives/">Archives</a></li>
+                <li class="h1-subhead">News Extras</li>
+          		<li><a href="http://www.nctimes.com/maillist/index.php">Daily Headline Alerts</a></li> 
+				<li><a href="http://www.nctimes.com/pdfs">View Front Pages</a></li> 
+           </ul>
+		 </div> 
+	</div>
+	
+<!-- OPINION -->
+	<div id="submOpinion" class="subnav-group">
+	<div class="subs lead"> 
+          <h1><a href="http://www.nctimes.com/opinion/">Opinion Home Page</a></h1>
+          <ul>
+				<!-- <li><a href="/blog">Blogs</a></li> -->
+                <li><a href="http://www.nctimes.com/blogs/editorscorner">Editor's Corner Blog</a></li>
+				<li><a href="http://www.nctimes.com/opinion/editorials">Editorials</a></li>
+				<li><a href="http://www.nctimes.com/opinion/cartoon">Editorial Cartoons</a></li>
+				<li><a href="http://www.nctimes.com/opinion/commentary">Community Forums</a></li>
+				<li><a href="http://www.nctimes.com/perspective/">Perspective</a></li>
+                <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+          </ul>
+		 </div> 
+         
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/columnists/opinion">Opinion Columnists</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/opinion/brett/">Brigid Brett</a></li>
+				<li><a href="http://www.nctimes.com/opinion/chatfield/">Gail Chatfield</a></li>
+                <li><a href="http://www.nctimes.com/opinion/clausen/">Dennis Clausen</a></li>
+                <li><a href="http://www.nctimes.com/opinion/davy">Kent Davy</a></li>
+				<li><a href="http://www.nctimes.com/opinion/jacobs/">Paul Jacobs</a></li>
+				<li><a href="http://www.nctimes.com/opinion/kirk/">Richard Kirk</a></li>
+				<li><a href="http://www.nctimes.com/opinion/rider/">Richard Rider</a></li>
+				<li><a href="http://www.nctimes.com/opinion/riehl/">Richard Riehl</a></li>
+                
+           	</ul>
+          </div>     
+                
+         <div class="subs">
+         	<ul>
+            	<li><a href="http://www.nctimes.com/opinion/scharf/">Greg Scharf</a></li>
+				<li><a href="http://www.nctimes.com/opinion/strickland/">Phil Strickland</a></li>
+                <li><a href="http://www.nctimes.com/opinion/trageser/">Jim Trageser</a></li>
+                <li><a href="http://www.nctimes.com/columnists/opinion">More Columnists</a></li>
+          	</ul>
+		 </div> 
+         
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/columnists/opinion">National Columnists</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/opinion/goodman/">Ellen Goodman</a></li>
+                <li><a href="http://www.nctimes.com/opinion/north/">Oliver North</a></li>
+				<li><a href="http://www.nctimes.com/opinion/will">George Will</a></li>
+                <li><a href="http://www.nctimes.com/opinion/cohen/">Richard Cohen</a></li>
+                <li><a href="http://www.nctimes.com/opinion/cocco/">Marie Cocco</a></li>
+                <li><a href="http://www.nctimes.com/opinion/parker/">Kathleen Parker</a></li>
+          </ul>
+		 </div>
+         
+		 <div class="subs"> 
+         <h1>Letters</h1>
+		 <ul>
+				<li><a href="http://www.nctimes.com/opinion/letters">Letters to the editor</a></li>
+				<li><a href="http://www.nctimes.com/faith/letters">Faith &amp; Values Letters</a></li>
+          </ul>
+		 </div>
+     </div>
+	 
+<!-- SPORTS -->
+
+	<div style="display: none;" id="submSports" class="subnav-group">
+	   	<div class="subs lead">
+
+        	<h1><a href="http://www.nctimes.com/sports/">Sports Main Page</a></h1>
+            <ul>
+                <li><a href="http://www.nctimes.com/sports/chargers">Chargers</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/teams/083/team.aspx?id=083">Stats</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=3">Blog</a></li>
+                <li><a href="http://www.nctimes.com/sports/padres">Padres</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/teams/010/team.aspx?id=010">Stats</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=4">Blog</a></li>
+                <li><a href="http://www.nctimes.com/sports/angels/">Angels</a></li>
+		    	<li><a href="http://www.nctimes.com/sports/action">Action Sports</a></li>
+                <li><a href="http://www.nctimes.com/sports/communitysports">Community Sports</a></li>
+				<li><a href="http://www.nctimes.com/sports/golf">Golf</a></li>
+                <li><a href="http://www.nctimes.com/sports/horseracing">Horse Racing</a></li>	
+                <li><a href="http://www.nctimes.com/sports/motorsports">Motorsports</a></li>
+				<li><a href="http://www.nctimes.com/sports/outdoors">Outdoors</a></li>
+          </ul>
+   	    </div>
+
+        <div class="subs">
+	   	  <h1><a href="http://www.nctimes.com/columnists/sports">Columnists</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/sports/nelson">Loren Nelson</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=20">Blog</a></li>
+		    <li><a href="http://www.nctimes.com/sports/paris">Jay Paris</a></li>
+		    <li><a href="http://www.nctimes.com/sports/maffei">John Maffei</a></li>
+			<li class="h1-subhead">Sunday Slant</li>
+		    <li><a href="http://www.nctimes.com/sports/sides">Choosing Sides</a></li>
+		    <li><a href="http://www.nctimes.com/sports/net">Nothin' But Net</a></li>
+            <li><a href="http://www.nctimes.com/sports/take5">Take 5</a></li>
+            <li><a href="http://www.nctimes.com/sports/letters">Letters</a></li>
+		  </ul>
+   	    </div>
+        
+	   	<div class="subs">
+          <h1>Colleges</h1>
+          <ul>  
+          	<li><a href="http://www.nctimes.com/sports/aztecs">San Diego State</a></li>
+			<li><a href="http://www.nctimes.com/sports/collegesports">Local Colleges</a></li>
+		    <li><a href="http://www.nctimes.com/sports/ncaabasketball">NCAA Basketball</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cbask/news/index.aspx?sport=AE">Stats</a></li>
+		  	<li><a href="http://www.nctimes.com/sports/ncaafootball">NCAA Football</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cfoot/news/index.aspx?sport=AF">Stats</a></li>
+			<li class="h1-subhead">High Schools</li>
+		    <li><a href="http://www.nctvarsity.com/">NCTVarsity</a> | <a href="http://www.nctimes.com/sports/highschool">Stats</a></li>
+		    <li><a href="http://www.calvarsity.com/">CALVarsity</a> | <a href="http://www.nctimes.com/sports/highschool/calhighschool">Stats</a></li>
+          </ul>
+   	    </div>
+		
+		<div class="subs">
+	   	  <h1>More Sports</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/sports/nba">NBA</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nba/news/index.aspx?sport=AC">Stats</a></li>		    		<li><a href="http://www.nctimes.com/sports/nfl">NFL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/news/index.aspx?sport=AB">Stats</a></li>		    		<li><a href="http://www.nctimes.com/sports/nhl">NHL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nhl/news/index.aspx?sport=AD">Stats</a></li>            <li><a href="http://www.nctimes.com/sports/mlb">MLB</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/news/index.aspx?sport=AA">Stats</a></li>
+            <li><a href="http://www.nctimes.com/sports/storm">Storm</a></li>
+		    <li><a href="http://www.nctimes.com/sports/tennis">Tennis</a></li>
+            <li><a href="http://www.nctimes.com/sports/olympics">Olympics</a></li>
+			<li><a href="http://www.nctimes.com/sports/boxing">Boxing</a></li>
+		  </ul>
+   	    </div>
+		
+		 <div class="subs">
+	   	  <h1><a href="http://www.nctimes.com/special_reports">Special Reports</a></h1>
+		  <ul>
+			<li><a href="http://www.nctimes.com/specials/football2008/">NCT Prep Football - 2008</a></li>
+		    <li><a href="http://www.nctimes.com/specials/football2008cal/">CAL Prep Football - 2008</a></li>
+            <li><a href="http://www.nctimes.com/special_reports/football2007/">NCT Prep Football - 2007</a></li>
+		    <li><a href="http://www.nctimes.com/special_reports/football2007/">CAL Prep Football - 2007</a></li>
+            <li><a href="http://www.nctimes.com/special_reports/gwynn/">Tribute to Tony Gywnn</a></li>
+            <li><a href="http://www.nctimes.com/articles/2008/05/06/sports/highschool/023d5a64e94bd0998825744000582c05.txt">Star Power: Big-name athletes turned coaches</a></li>
+	      	<li><a href="http://www.nctimes.com/usopen2008/">US Open 2008</a></li>
+            	<li class="h1-subhead"><a href="http://www.nctimes.com/blogs/sports_insider">Sports Main Blog Page</a></li>
+          </ul>
+   	    </div>
+  
+	</div>
+
+
+<!--5 ENTERTAINMENT DROP DOWNS -->
+
+	<div id="submEntertainment" class="subnav-group">
+	    
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/entertainment">Entertainment Home Page</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/entertainment/television">T.V.</a> | <a href="http://www.nctimes.com/entertainment/television/listings/">Listings</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/movies">Movies</a> | <a href="http://www.nctimes.com/cinema-source/movies/">Listings</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/art">Art</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/theater">Theater</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/music">Music</a></li>
+	        <li><a href="http://www.nctimes.com/books">Books</a></li>
+		    <li><a href="http://www.nctimes.com/comics">Comics</a></li>
+		    <li><a href="http://www.nctimes.com/go">Go!</a></li>
+	      </ul>
+        </div>
+        
+		 <div class="subs">
+          <h1><a href="http://www.nctimes.com/entertainment/calendar">Local Events</a></h1>
+          	<ul>
+            <li><a href="http://www.nctimes.com/entertainment/local_events/">North County</a></li>	
+		    <li><a href="http://www.nctimes.com/entertainment/localcal_events/">Southwest Riverside County</a></li>
+			
+			<li class="h1-subhead"><a href="http://www.nctimes.com/calendar/events/">Calendar</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/contests">Contests</a></li>
+		    </ul>
+        </div>         
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/food">Food &amp; Drink</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/food/wischkaemper">Let's Dish</a></li>
+		    <li><a href="http://www.nctimes.com/food/groch">Bites &amp; Pieces</a></li>
+            <li><a href="http://www.nctimes.com/dining/">Dining Guide</a></li>
+			<li><a href="http://www.nctimes.com/admarket/print_ads/restaurants/">Local Restaurant Ads</a></li>
+		  </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/columnists/entertainment">Entertainment Columnists</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/entertainment/television">TV: Ann Zivotsky</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/radio/">Radio: Randy Dotinga</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/backstage">Theater: Pam Kragen</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/sorocco">Music: Erika Sorocco</a></li>
+            <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+            <li class="h1-subhead"><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/games/">Games</a></li>
+		    </ul>
+        </div>
+	</div>
+	
+<!--5 FEATURES DROP DOWNS -->   
+
+	<div id="submFeatures" class="subnav-group">
+	    
+        <div class="subs lead">
+          		<h1><a href="http://www.nctimes.com/features">Features Home Page</a></h1>
+          <ul class="lead">
+				<li><a href="http://www.nctimes.com/books">Books</a></li>
+				<li><a href="http://www.nctimes.com/comics">Comics</a></li>
+				<li><a href="http://www.nctimes.com/faith">Faith &amp; Values</a></li>
+		  		<li><a href="http://www.nctimes.com/food">Food</a></li>
+				<li><a href="http://www.nctimes.com/homes">Homes</a></li>
+          		<li><a href="http://www.nctimes.com/health">Health</a></li>
+          		<li><a href="http://www.nctimes.com/lifeandtimes">Life</a></li>
+				<li><a href="http://www.nctimes.com/science">Science &amp; Technology</a></li>
+				<li><a href="http://www.nctimes.com/travel">Travel</a></li>	
+	      </ul>
+        </div>
+        
+		  <div class="subs"> 
+          	<h1><a href="http://www.nctimes.com/community">Community</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/community">Community News</a></li>
+                <li><a href="http://www.nctimes.com/community/schools/">School News</a></li>
+				<li><a href="http://www.nctimes.com/socialscene">Social Scene</a></li>
+				<li><a href="http://www.nctimes.com/community/charities_fund">Charities Fund</a></li>
+				<li><a href="http://www.nctimes.com/obituaries">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Births</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Celebrations</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/calendar/events/">Calendar</a></li>
+           </ul>
+		 </div>
+         
+      	<div class="subs">
+        	<h1><a href="http://www.nctimes.com/special_reports">Special Reports</a></h1>
+         	<ul>
+				<li><a href="http://www.nctimes.com/gogreen">Go Green</a></li>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>
+				<li><a href="http://www.nctimes.com/pop/">The Power of Parenting</a></li>
+                <li><a href="http://www.nctimes.com/special/meth/">The Power of Parenting - Part 2</a></li>
+                <li><a href="http://www.nctimes.com/special_reports">More Special Reports</a></li>
+            	<li class="h1-subhead"><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/contests">Contests</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/games/">Games</a></li>
+            </ul>
+      	</div>
+
+		<div class="subs">
+          	<h1><a href="http://www.nctimes.com/columnists/features">Features Columnists</a></h1>
+			<ul>
+				<li><a href="http://www.nctimes.com/news/columnists/erdos/">Irv Erdos</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/deneve">Cyndie C. de Neve</a></li>
+				<li><a href="http://www.nctimes.com/homes/crawford">Rose Crawford</a></li>
+                <li><a href="http://www.nctimes.com/food/groch">Laura Groch</a></li>
+            	<li><a href="http://www.nctimes.com/homes/wilders">Tineke Wilders</a></li>
+                <li><a href="http://www.nctimes.com/news/columnists/petperspective">Pet Perspective</a></li>
+            	<li><a href="http://www.nctimes.com/features">More Features</a></li>
+			</ul>
+        </div>    
+	</div>
+
+<!--5 COMMUNITY DROP DOWNS 
+
+	<div id="submCommunity" class="subnav-group">
+	    
+	</div> -->
+
+<!-- SHOPPING-->
+	
+	<div id="submMarket" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/admarket/">Buy Stuff</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/admarket/">Classifieds</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/furniture_furnishings/">Furniture</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/appliances/">Appliances</a></li>
+			<li><a href="http://www.nctimes.com/admarket/print_ads/">Browse Print Ads</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/garage_sales/">Garage Sales</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/give_aways/">Give Aways</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/misc_wanted/">Wanted</a></li>
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">Sell Stuff</a></h1>
+          <ul>
+           <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Animals</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34363">Boats &amp; Marine</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34354">Garage and Yard Sales</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34319">General Merchandise</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Real Estate</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">More...</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/admarket/stuff/pets/">Pets</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/admarket/stuff/pets/dogs/">Dogs</a></li>
+				<li><a href="http://www.nctimes.com/admarket/stuff/pets/cats/">Cats</a></li>
+				<li><a href="http://www.nctimes.com/admarket/stuff/pets/birds/">Birds</a></li>
+				<li><a href="http://www.nctimes.com/admarket/stuff/pets/">Browse All Pet Ads</a></li>
+				<li><a href="http://www.nctimes.com/admarket/of_note/announcements/lost_found/">Lost and Found</a></li>
+			  <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Place An Ad</a></li>
+		    </ul>
+        </div>
+        	  <div class="subs">
+		  <h1>Directories</h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/medical/">Medical</a></li>
+				<li><a href="http://www.nctimes.com/cars/directory/">Auto Dealers</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Real Estate Experts</a></li>
+				<li><a href="http://www.nctimes.com/dining/">Dining Guide</a></li>
+				<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_marketplace_button/static.js"></script></li>
+				
+		    </ul>
+        </div> 
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/admarket/services/">Services</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>	
+            </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Announcements</h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/admarket/of_note/public_legal_notices/">Legals</a></li>
+				<li><a href="http://www.legacy.com/NCTimes/Obituaries.asp">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/admarket/of_note/celebrations/">Engagements, Weddings, Celebrations</a></li>
+				<li><a href="http://www.nctimes.com/admarket/of_note/announcements/lost_found/">Lost and Found</a></li>
+               </ul>
+
+        </div>
+         
+
+		
+        </div> 	
+    
+ <!-- CARS -->  
+    <div id="submCars" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://wheels.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+			<li><a href="http://wheels.nctimes.com/">Wheels For You</a></li>
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/?ad_type=display">Auto Print Ads</a></li>
+			<li><a href="http://wheels.nctimes.com/results.php?eqdealerid=202095">Classified Ads</a></li>
+			<li><a href="http://nctimes.outdoormotors.com/">Outdoor Motors</a></li>
+			<li><a href="http://www.nctimes.com/cars/directory/">Local Dealer Directory</a></li>		
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/wheels/specialty_antiques/">Specialty &amp; Antiques</a></li>	
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Sell</h1>
+          <ul>
+			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34358">Place an Ad</a></li>	
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/wheels/wanted_to_buy/">Wanted to Buy</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1>Research and Tools</h1>
+          <ul>
+			<li><a href="http://wheels.nctimes.com/research.php">Research and Advice</a></li>		
+			<li><a href="http://wheels.nctimes.com/tools.php">Payment Calculator</a></li>
+		    </ul>
+        </div>
+          <div class="subs">
+          <h1>Parts &amp; Service</h1>
+          <ul>		
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/wheels/auto_parts/">Auto Parts</a></li>
+			<li><a href="http://www.nctimes.com/admarket/services/auto_motorcycle_svc_repair/">Service &amp; Repair</a></li>
+<!--			<li class="h1-subhead">Quick Searches</li>
+			<li><a href="/admarket/?=&amp;change_path&#61;%2F&amp;query&#61;auto+repair&amp;sort&#61;featured+desc+start_date+desc&amp;limit&#61;25">Auto Repair</a></li>
+			<li><a href="/admarket/?=&amp;change_path&#61;%2F&amp;query&#61;oil+change&amp;sort&#61;featured+desc+start_date+desc&amp;limit&#61;25">Oil Change</a></li>-->
+		    </ul>
+        </div>      
+        <div class="subs">
+          	<ul>		
+         	 <li><a href="http://wheels.nctimes.com/"><img src="http://wheels.nctimes.com/art/nctimes-wheels-logo.jpg" alt="wheels.nctimes.com" border="0"/></a></li>
+			 <li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_cars_button/static.js"></script></li>
+		 	</ul>
+		</div>
+	</div>
+    
+ <!-- HOMES -->  
+    <div id="submHomes" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://homes.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+		  		<li><a href="http://homes.nctimes.com/">Search Local MLS</a></li>
+            	<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=11%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=6&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C16%2C14%2C15&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=S&amp;WebSearches=Y">Classifieds</a></li>
+				<li><a href="http://www.nctimes.com/homes/tophomes/">Top Homes</a></li>
+				<li><a href="http://www.nctimes.com/tourofhomes/">Open House Map</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+				<li><a href="http://www.nctimes.com/homes/">Homes News</a></li>
+		    </ul>
+        </div>
+		  <div class="subs">
+          <h1>Quick Searches</h1>
+          <ul>	
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=0&amp;HPrice=400000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Under $400,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=400000&amp;HPrice=500000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$400,000-$500,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=500000&amp;HPrice=600000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$500,000-$600,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=600000&amp;HPrice=700000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$600,000-$700,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=700000&amp;HPrice=800000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$700,000-$800,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=800000&amp;HPrice=900000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$800,000-$900,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=900000&amp;HPrice=1000000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$900,000-$1,000,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=1000000&amp;HPrice=&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Over $1,000,000</a></li>
+				</ul>
+        </div>
+        
+        
+        <div class="subs">
+         <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Sell</a></h1>
+		  	<ul>
+				<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Place an Ad</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+          </ul>
+		  </div>
+         
+		 <div class="subs">
+         	<h1><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchIndex.asp">Rent</a></h1>
+	  	   	<ul>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Classified Ads</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=8&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=A&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Apartments</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=4&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=A&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Houses</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=32&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=A&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Condos</a></li>
+		   		<li><a href="http://www.nctimes.com/homes/toprentals/">Top Rentals</a></li>
+	  			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34283">Place an Ad</a></li>
+		    </ul>
+        </div>
+
+        
+        <div class="subs">
+          <h1>Homes Columns</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/news/columnists/cal_gardens">Tineke Wilders - California Gardens</a></li>
+			<li><a href="http://www.nctimes.com/news/columnists/crawford/">Rose Crawford - Ask Rose</a></li>
+			<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_homes_button/static.js"></script></li>
+		   </ul>
+        </div>
+        
+     
+	</div>
+ 
+  <!-- JOBS -->  
+    <div id="submJobs" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1>Find a Job</h1>
+          <ul class="lead">
+		  	<li><a href="http://www.nctimes.com/jobs">Job Search</a></li>
+            <li><a href="http://www.nctimes.com/jobs">Log In</a></li> 
+			<li><a href="http://nctimes.com/hotjobs_topads">View Top Jobs</a></li>
+			<li><a href="http://hotjobs.yahoo.com/create-resume?partner=oceansideescondido">Post Resume</a></li>
+			<li><a href="http://help.yahoo.com/l/us/yahoo/hotjobs/?partner=oceansideescondido">Jobs FAQ and Help</a></li>
+			<li class="h1-subhead"><a href="http://hotjobs.yahoo.com/careertools?partner=oceansideescondido">Research Tools</a></li>       
+			<li><a href="http://hotjobs.yahoo.com/career-articles?partner=oceansideescondido">Career Articles</a></li>
+			<li><a href="http://hotjobs.yahoo.com/salary?partner=oceansideescondido">Salary Info</a></li>
+			<li><a href="http://hotjobs.yahoo.com/interview?partner=oceansideescondido">Interviewing Tips</a></li>
+			</ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Quick Search</h1>
+          <ul>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Accounting_Finance-t-anytime-g-578132?partner=oceansideescondido">Accounting &amp; Finance</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Construction_Facilities-t-anytime-g-578132?partner=oceansideescondido">Construction</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Education_Training-t-anytime-g-578132?partner=oceansideescondido">Education</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Healthcare-t-anytime-g-578132?partner=oceansideescondido">Healthcare</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Manufacturing_Operations-t-anytime-g-578132?partner=oceansideescondido">Manufacturing</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Sales-t-anytime-g-578132?partner=oceansideescondido">Sales</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Government_Military-t-anytime-g-578132?partner=oceansideescondido">Government &amp; Military</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido&amp;keywords_all=part+time&amp;type=main&amp;metro_area=1">Part Time</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido">Browse All</a></li>
+		    </ul>
+        </div>
+        
+		<div class="subs">
+          <h1>For Employers</h1>
+          <ul>	
+        	<li><a href="http://www.nctimes.com/jobs/packages/">Place an Ad</a></li>
+			<li><a href="http://selfcare.hotjobs.yahoo.com/hjss/hjss_partners.php?P=oceansideescondido">Sign In</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/workhere">Jobs at NCT</a></li> 
+		  </ul>
+		</div>
+		
+     	<div class="subs">
+			<h1>Yahoo! HotJobs Local Search</h1>
+			<script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_jobs_button/static.js"></script>
+		</div>
+     
+	</div>
+    
+
+</div><!-- *************************************************************************************************************************** -->      
+
+ 	    <!-- COL 1,2 -->  
+ 	    <div id="twocols" class="c980 floatleft">
+ 	      
+ 	      <!-- COLUMN 1 - STORY CONTENT -->	  
+ 	      <div id="col1_story" class="c640 floatleft rborder">
+ 	        
+ 	        <div class="groupItem">
+ 	          <h1>Escondido council approves illegal immigrant rental ban</h1>
+               <h2></h2>
+		      <p class="by">By: DAVID FRIED - Staff Writer |<span class="published"> <span class="timestamp">Wednesday, May 28, 2008 1:13 PM PDT</span></span> <a href="https://secure.townnews.com/nctimes.com/forms/link/linkform.php?des=Escondido council approves illegal immigrant rental ban" target="_blank"> &infin;</a></p>
+				      
+              <div class="tool_options"> 				     
+                   <ul id="storytools">
+                      <li class="comment"><a href="#nctcomments"><span class="simpleblog-count">291 comment(s)</span></a></li>
+                        <li class="fontup"><a href="javascript:IncreaseFontSize(2)" title="Enlarge article font size.">Increase Font</a></li>
+                        <li class="fontdown"><a href="javascript:DecreaseFontSize(2)" title="decrease font size.">Decrease Font </a></li>
+                        <li class="email">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2006/10/05/news/top_stories/3_00_0010_4_06.eml" target="emailafriend">email this story</a>                         </li>  
+                        <li class="print">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2006/10/05/news/top_stories/3_00_0010_4_06.prt" target="printable">print this story</a>                        </li>
+                </ul>
+                            
+                    <div class="clearleft"></div>
+              </div>
+                      
+                  
+              <div class="instory-content clearboth"> 
+              	
+              </div>
+         
+              <div class="instory-content clearboth">
+                <img border="0" src="http://images.townnews.com/nctimes.com/content/articles/2006/10/05/news/top_stories/3_00_0010_4_06.jpg">
+                Marie Waldron and her body guards stand outside Escondido City Hall before Wednesday's City Council meeting. The council voted 3-2 to approve a ban against landlords in the city from renting to illegal immigrants. The proposal was first made by Waldron.
+<br><small><b> WALDO NILO </b>Staff Photographer</small> 
+<br><a href="https://secure.townnews.com/nctimes.com/forms/photo_services/linkorder.php?des=      Waldo Nilo  Marie Waldron and her body guards stand outside Escondido City Hall before Wednesday's City Council meeting. The council voted 3-2 to approve a ban against landlords in the city from renting to illegal immigrants. The proposal was first made by Waldron." target="new">Order a copy of this photo</a>
+<!-- <br><A HREF=" ">More of this story</A> -->
+ <br> <a href="http://www.nctimes.com/news/photogallery/" target="new">Visit our Photo Gallery</a>   
+  <br> <hr>
+              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+			  <p>ESCONDIDO -- Escondido became the first California city to ban renting property to illegal immigrants on Wednesday, bringing to a head months of divisive arguments in the community, and possibly setting the city up for a protracted legal battle. <br><a href="http://www.nctimes.com/movie/eprotest/viewer.html" target="_blank"><img src="http://images.townnews.com/nctimes.com/art/video.gif" border="0"> View A Video</a> -<br/><br/><a href="http://www.nctimes.com/articles/2006/10/05/special_reports/eprotest/" target="_blank"><img src="http://images.townnews.com/nctimes.com/art/camera.jpg" border="0"> View A Slide Show</a><br/><br/><a href="http://escondido.12milesout.com/Escondido/Default.aspx" target="_blank">Streamed Council Meetings</a><br/><br/>At the end of a contentious, late-night meeting, the measure passed by a margin of 3-2, with Council members Ed Gallo, Sam Abed and Marie Waldron ---- who proposed the ban ---- in support. Mayor Lori Holt Pfeiler and Councilman Ron Newman voted against it.<br/><br/>Despite hearing two hours of often-emotional public testimony pleading both sides of the issue, the outcome of the vote was never in question, as Gallo, Waldron and Abed had regularly made public comments in support of the law.<br/><br/>Waldron argued that the ordinance was needed to counter what she called a lack of initiative to address illegal immigration at the federal level, and that the country's sovereignty was under attack by a wave of illegal immigrants.<br/><br/>"If there was ever a time more important to stand up for our sovereignty, our nation and community, this is it," Waldron said.<br/><br/>In passing the ban, Escondido became the sixth city in the country to adopt local legislation penalizing landlords who rent to illegal immigrants.<br/><br/>The ordinance must come back to the council on Oct. 18 for a second vote before it can be enacted 30 days later.<br/><br/>Several civil rights groups have already promised to challenge the ban in court, something that could delay its enactment.<br/><br/>The law was proposed as a way of addressing residential overcrowding in the city. And in explaining the motives behind their votes, the council majority often referred to a city-commissioned study of the Mission Park neighborhood downtown. That study found that roughly 80 percent of the 16,000 residents in the area were foreign-born, mostly from Mexico, and often lived in overcrowded conditions.<br/><br/>"Illegals are willing to live in horrible conditions," Gallo said, citing problems with health and safety of overcrowded units. "This leads to a lot of other issues."<br/><br/>Newman and Pfeiler said they recognized immigration was a popular issue, resulting from mounting frustration with federal enforcement. But they said the ordinance would do little to actually resolve those issues, since it is based on federal verification of documents.<br/><br/>"We're telling you we're going to do something, and in reality, we're not," Newman said.<br/><br/>He also said Waldron's attempt to address immigration at the local level was simply based on discrimination.<br/><br/>"To suggest that this ordinance is something other than going after Latinos and Mexicans in our community is really false," Newman said. "That's clearly what it's about."<br/><br/>The controversial proposal drew crowds that filled council chambers and overflowed into the courtyard in front of City Hall, where TVs broadcasting the meeting were set up.<br/><br/>Demonstrators from both sides spent the hours before the meeting rallying outside, chanting slogans in support or in opposition to the law.<br/><br/>To handle the crowds, dozens of officers patrolled the civic center area, including representatives from at least a half-dozen other county law enforcement agencies. And only individuals holding one of 200 tickets handed out before the meeting were allowed inside. Everyone who entered the building had to pass through metal detectors.<br/><br/>The council's discussion also generated a storm of media attention, with news outlets from around Southern California covering what for most weeks is a sleepy, mundane meeting.<br/><br/>Under the rental ban, the city would only take action after a complaint is filed with the city's business license division by a resident, official or business owner. Complaints would have to describe the alleged violators. However any complaint based primarily on a person's race, ethnicity or national origin would be discarded.<br/><br/>Complaints deemed valid would be investigated by the city, and landlords would be required to submit identification documents for the tenants in question. The city would verify the documents with federal immigration agencies.<br/><br/>If the renters are found to be in the country illegally, landlords would be required to remove the tenants within 10 business days, or have their business license suspended, meaning they could not legally collect rent or lease their property. Landlords who repeatedly violate the ban would face misdemeanor charges, which carry penalties of up to $1,000 and/or six months in jail.<br/><br/>Civil rights groups, including the American Civil Liberties Union and Mexican-American Legal Defense and Education Fund, have promised to take the city to court to prevent the ban from taking effect. They say the law is unconstitutional and would violate federal fair housing laws.<br/><br/>Many speakers said the law was necessary to counter what they called federal inaction on illegal immigration.<br/><br/>"One by one, American cities are going to be doing the same," said Claudia Spencer. "And one by one, Americans are going to be getting their cities back."<br/><br/>That trend began earlier this summer.<br/><br/>Escondido's ordinance was modeled after a similar measure in Hazleton, Pa., which in July became the first American city to adopt its own immigration law.<br/><br/>Since then other cities in Pennsylvania, New Jersey and Missouri have passed their own ordinances.<br/><br/>Those who argued Wednesday in favor of the Escondido ban said that it was necessary to stem a roaring tide of illegal immigration into the region, and that it would improve the quality of life for legal residents of Escondido.<br/><br/>Those opposing the measure called it an embarrassment for the city and said it would unfairly target Latinos. They warned that the rental ban would be detrimental for Escondido's community, its businesses and its image.<br/><br/>About 42 percent of the city's 140,000 residents are Latino, according to the San Diego Association of Governments.<br/><br/>Since Waldron proposed the ban in July, the matter has generated divisions among many parts of the community. Those divisions were clear in the public comments to the council, where immigrants, landlords, business owners and local residents all argued for and against the ban.<br/><br/>Jim Brabant, an Escondido landlord, said he would be happy to comply with the ordinance. He said that immigration across the border may be chaotic, "but the effects of that chaos is felt locally in Escondido"<br/><br/>Many other landlords, however, said the council was making a grave mistake.<br/><br/>Jackie Grant, an Escondido landlord, said they would never have bought property here, if they had known the council planned to pass what she called a racially motivated attack on immigrants.<br/><br/>"We are totally embarrassed by this," said Grant, who moved here two years ago. "We don't want landlords to be a scapegoat for a problem that's way, way, way bigger than this (ordinance)."<br/><br/>Deborah Szekely, and many others in the city's business community, said the measure was certain to drive potential business investment away from Escondido.<br/><br/>"Our city will be identified worldwide as racist and our people will be seen as looking to the past instead of the future," Szekely said.<br/><br/>The council also voted 4-1 to track the effectiveness of the ordinance, including how often it results in complaints, evictions an the costs of enforcement and defending the law to any legal challenges that might result. Gallo opposed the tracking measure.<br/><br/>-- Contact staff writer David Fried at (760) 740-5416 or dfried@nctimes.com.</p>
+              
+              <div id="slideshow" class="clearboth">
+                             
+              </div>
+		     
+            <!-- *************************************************************************************************************************** --> 
+                    <div class="margin20top">
+            	 	<span class="floatright">
+<a href="http://www.nctimes.com/articles/2006/10/05/news/top_stories/3_01_3630_2_03.txt"><img src="http://images.townnews.com/nctimes.com/zimages/08/next_story.gif" border="0" alt="Next"></a></span>
+             		<a href="http://www.nctimes.com/articles/2006/10/05/news/top_stories/2_00_0010_4_06.txt"><img src="http://images.townnews.com/nctimes.com/zimages/08/previous_story.gif" border="0" alt="Previous"></a>
+                    <div class="clearboth"></div>
+  </div>                    <!-- *************************************************************************************************************************** -->      
+             
+	        </div>
+            
+            <div class="groupItem8-8-8-8">
+                    
+                    <!-- *************************************************************************************************************************** --> 
+                    					<div class="boxed floatleft" style="width:300px;">
+                            <h2 class="bottomdottedborder textcenter">More Stories</h2>
+                               <ul class="secondary clearleft">
+                                     
+                                     <li><a href="http://www.nctimes.com/articles/2006/10/05/news/top_stories/2_00_0010_4_06.txt">Rental ban protesters boycott Abed's business</a></li><li><a href="http://www.nctimes.com/articles/2006/10/05/news/top_stories/3_00_0010_4_06.txt">Escondido council approves illegal immigrant rental ban</a></li><li><a href="http://www.nctimes.com/articles/2006/10/05/news/top_stories/3_01_3630_2_03.txt">Hundreds show up to protest or support Escondido law</a></li><li><a href="http://www.nctimes.com/articles/2006/10/05/news/top_stories/3_02_5610_4_06.txt">Corpsman to plead guilty, will testify against squad mates in Hamdania killing</a></li><li><a href="http://www.nctimes.com/articles/2006/10/05/news/top_stories/3_03_3310_4_06.txt">Hamdania defendants' families continue push to raise funds</a></li>
+                               </ul>
+                    </div>
+                    <!-- *************************************************************************************************************************** -->      
+                    
+                    
+                    <div class="boxed floatright" style="width:290px;">
+                    <!-- *************************************************************************************************************************** --> 
+                    <!--	 <p class="tags margin10bottom"><span>More Stories:</span> <a href="/pages/?q=[component:byline]&byline=1">[component:byline]</a></p>
+-->                   
+                                                     <!-- *************************************************************************************************************************** -->      
+                    </div>
+                    
+                  <div class="clearboth"></div>
+            </div>
+            
+            
+            <div id="socialbookmarking" class=" groupItem tool_options">
+ 	            
+ 	            <div class="clearboth"></div>
+                
+            </div>
+            
+            <div class="groupItem">
+            	<!-- ******************[yahoo_content_match]************************************************************************************ --> 
+        		 
+<!-- Yahoo Content Match Category = news -->
+
+                <style type="text/css">
+                        @import url('http://www.nctimes.com/shared-content/newsys-yahoo-search/css/content_match_styles.css');
+                </style>
+                <div class="yahoo_content_match"><h1><a class="side_ads" href="http://searchmarketing.yahoo.com/" rel="nofollow">Ads by Yahoo!</a></h1>
+
+<div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ADnLzZVtGA1ULrwF9WxLgwbyVRfH71t8oVHgps6OSNNyZ4Eq6IRZNpk74jiSrqsy87jtFLjkmkeM5fM-HHgjio_-8SJrTwz_XMOqDdWpxxKVvzfaHmF6Gi9sa8O8zJRf8rd4UsVQedWCdt8AqCOnzYXEvy_eniE2tdIuHuFYAZ5Dinjqv2t5BrX-JWyys6FZQyt3olaFxY9BhQ8Nz0C7S-FAuQcIEQ81Ngdffnxw_DpKQngbZuOKsI8" rel="nofollow">Local Orange County Health Insurance</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ADnLzZVtGA1ULrwF9WxLgwbyVRfH71t8oVHgps6OSNNyZ4Eq6IRZNpk74jiSrqsy87jtFLjkmkeM5fM-HHgjio_-8SJrTwz_XMOqDdWpxxKVvzfaHmF6Gi9sa8O8zJRf8rd4UsVQedWCdt8AqCOnzYXEvy_eniE2tdIuHuFYAZ5Dinjqv2t5BrX-JWyys6FZQyt3olaFxY9BhQ8Nz0C7S-FAuQcIEQ81Ngdffnxw_DpKQngbZuOKsI8" rel="nofollow">Blue Cross/Shield, Kaiser, Aetna, United, HealthNet, Nationwide….<br/>
+
+<em>www.beachcitieshealthinsurance.com</em></a></p></div><div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AN1G3xpXXcRoLrwF9WxLgwbyVRfH71t8oRLXjaIJQSmoh__rBFKxZTApPtLBZVh6norSBk5BisQKbSDV4vmW5jgouw4rXIu3Ah0gMqkYgxf1T5h20tGTlrkoKhPkofN3kY-lJLXnZOzcYDw6aBKtLzzYUm3njBG_MCHPa5FVJ_8je5rxcWdGxKDYcRd1KYteVdgUOO5bN6swuOnxmg0qKEwYyBTlOGfdp1oI3kMYEdAMevXAsFxo9I2lkQSVTfYU_g" rel="nofollow">Find St. Mary's MD Homes</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AN1G3xpXXcRoLrwF9WxLgwbyVRfH71t8oRLXjaIJQSmoh__rBFKxZTApPtLBZVh6norSBk5BisQKbSDV4vmW5jgouw4rXIu3Ah0gMqkYgxf1T5h20tGTlrkoKhPkofN3kY-lJLXnZOzcYDw6aBKtLzzYUm3njBG_MCHPa5FVJ_8je5rxcWdGxKDYcRd1KYteVdgUOO5bN6swuOnxmg0qKEwYyBTlOGfdp1oI3kMYEdAMevXAsFxo9I2lkQSVTfYU_g" rel="nofollow">Or Custom Build Your Own. Beautiful Designs &amp; Exceptional Service.<br/>
+
+<em>www.stanleymartin.com</em></a></p></div><div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ADnLzZVtGA1UiA0rSLpyS7_geB8rARTnh3elv3Ziz6FlLd1LwQoUYw5xiqHhkkCrwOKCgil-r8E8x93jMBxtM_qOOw25IZIGHhgQefEE3XT7m4BVfld2OERe80DNl9jqy5IQQEFqYjZr1OtCTJgA8mSK5P-9eJ7G-CCcbkxztglozI4mGGCHxI4IZpblAkpe8MwLvBGmu5nD9_-ci7d5dkDIR65FuS1AAlzUUkbemVrHcwtsf384hrk" rel="nofollow">Orange County Dental Attorney</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ADnLzZVtGA1UiA0rSLpyS7_geB8rARTnh3elv3Ziz6FlLd1LwQoUYw5xiqHhkkCrwOKCgil-r8E8x93jMBxtM_qOOw25IZIGHhgQefEE3XT7m4BVfld2OERe80DNl9jqy5IQQEFqYjZr1OtCTJgA8mSK5P-9eJ7G-CCcbkxztglozI4mGGCHxI4IZpblAkpe8MwLvBGmu5nD9_-ci7d5dkDIR65FuS1AAlzUUkbemVrHcwtsf384hrk" rel="nofollow">DentalMal.com. Our focus with each Dental malpractice claim is to represent patients who have been injured or received negligent care. Serving Los Angeles, California.<br/>
+
+<em>www.dentalmal.com</em></a></p></div></div>				<!-- *************************************************************************************************************************** -->   
+            </div>
+
+
+<!-- ROS ad -->
+		    <div class="ros_ad margin8left">
+              	<p class="adv">Advertisement</p>  
+               	<script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/comment_banner/static.js"></script>
+            </div>
+		      <!-- comments -->
+ 	        
+ 	        <div id="nctcomments" class="groupItem clearboth">
+            
+ 	          
+ 	          <div class="itemHeader"><span class="simpleblog-count">291 comment(s)</span><a href="#" class="closeEl plus-minus">[-]</a><span class="more-section"><a href="#">Go to Top</a></span></div>
+					    
+				<div class="itemContent">
+					  
+				    
+					  <a id="blogcomments"></a><div class="simpleblog-results"><a id="35067f3344d07d143b2560d963e798c2"></a><p><span class="simpleblog-name">Lorena</span> wrote on <span class="simpleblog-date">Oct 4, 2006 10:24 PM:</span><span class="simpleblog-response">If Escondido were to TRY to kick out all the illegals who rent out of the city, guess where they would go? San Marcos, Vista, by the beach. Hell, why not good ol' Rancho Bernardo?  No matter what, they will always find a way around the system. Every family has at least one American citizen relative they can utilize. This won't stop them. I don't support this ordinance because it would displace students in school by having to move elsewhere. Thats it. Good luck. </span></p>
+<a id="eb3ce79703cb30aacfc8b55ea040dc62"></a><p><span class="simpleblog-name">It's About Time</span> wrote on <span class="simpleblog-date">Oct 4, 2006 10:28 PM:</span><span class="simpleblog-response">We need to start somewhere.  Feds have been giving lip service for years.  I applaude all who stood up for this, and for FINALLY beginning to protect the freedomes of those who are legally living here.</span></p>
+<a id="6543432041375a6e9b22b0db8a36ee01"></a><p><span class="simpleblog-name">John</span> wrote on <span class="simpleblog-date">Oct 4, 2006 10:31 PM:</span><span class="simpleblog-response">The Republican right wing hate machine just keeps digging itself deeper into oblivion.</span></p>
+<a id="2dffe9929765c398ddf98e297ed880d3"></a><p><span class="simpleblog-name">Great Idea</span> wrote on <span class="simpleblog-date">Oct 4, 2006 10:37 PM:</span><span class="simpleblog-response">When can Oceanside have such a law?  I am tired of 12 people living in one small apartment or house.  This ruins neighborhoods and I do not know if it is because of Illegals or not but it would be worth a try to see if it helps.  Good luck Escondido.  </span></p>
+<a id="a19f1f2efe73bba9ba0aa965129a7a49"></a><p><span class="simpleblog-name">Sam</span> wrote on <span class="simpleblog-date">Oct 4, 2006 10:37 PM:</span><span class="simpleblog-response">Thank you Waldron. We are with you!</span></p>
+<a id="569c7020d257fc9b297796d993e0baf9"></a><p><span class="simpleblog-name">Al</span> wrote on <span class="simpleblog-date">Oct 4, 2006 10:39 PM:</span><span class="simpleblog-response">It's about time...I want to thank the council members for their support and say 'job well done' - It is a good start and an example for other cities to follow as they fight the illegal alien problem - After 27 years of living in Escondido, I'm gravely concerned that Escondido is starting to look like a third world city - Thanks Again!!</span></p>
+<a id="699ec14cfce282e84b9daf9fc203875a"></a><p><span class="simpleblog-name">Proud Resident</span> wrote on <span class="simpleblog-date">Oct 4, 2006 10:46 PM:</span><span class="simpleblog-response">Marie Waldron should be commended for standing up and taking the lead on something that should have been addressed a very long time ago.  </span></p>
+<a id="6ae7d87cedd2dc773a6264d36bcfe8e4"></a><p><span class="simpleblog-name">MikeC</span> wrote on <span class="simpleblog-date">Oct 4, 2006 11:06 PM:</span><span class="simpleblog-response">Finally, someone who understands what the ILLEGAL part of ILLEGAL ALIEN means! Bravo!  Good job council members!!  Yay California Minutemen!  Let's stick it to the politicians who don't stand for secure borders in November!!!  I salute all the LEGAL IMMIGRANTS out there, we need you, not these free loaders! God Bless AMERICA.</span></p>
+<a id="fb5e60045c96f7b3682eadde232d9285"></a><p><span class="simpleblog-name">Al</span> wrote on <span class="simpleblog-date">Oct 4, 2006 11:16 PM:</span><span class="simpleblog-response">Horray! Let me be the first in line to say THANK YOU to council members Mary, Sam and Ed. You did the right thing  folks and you earned my vote tonight in the upcoming November elections. Again, good job folks!
+Sam, your pre-vote speach, especially about your home country of Lebanon,  was moving. Mary, your pre-vote speech was right-on the money. 
+Pheiler and Newman- you folks just put an early fork in yourselves regarding the November election by voting against this ordinance. Mayor Pfieler claims this is an issue for the federal government. Wrong! You are the governmental leader of this town and YOU have allowed these local conditions to prevail under your leadership, not George Bush's. ILLEGAL is ILLEGAL, there is nothng to  debate. This ordinance simnply enforces laws that already exist. I would start finding boxes now honorable (ex)Mayor.</span></p>
+<a id="f068b6d639ba57c1f2602cc095a4882e"></a><p><span class="simpleblog-name">Skip</span> wrote on <span class="simpleblog-date">Oct 4, 2006 11:31 PM:</span><span class="simpleblog-response">Thank You Escondido City council!</span></p>
+<a id="7b9e4cb7a6d219c292d09488a9171072"></a><p><span class="simpleblog-name">Good job!</span> wrote on <span class="simpleblog-date">Oct 4, 2006 11:36 PM:</span><span class="simpleblog-response">Thanks Mary, Ed and Sam! You are true American's. 
+Mayor Pfeiler, start packing because you won't make it past the November elections.</span></p>
+<a id="2e084b2e0bb466fab6e1b5fbc2d98678"></a><p><span class="simpleblog-name">Gary in Murrieta</span> wrote on <span class="simpleblog-date">Oct 4, 2006 11:38 PM:</span><span class="simpleblog-response">Illegal aliens are defined by the Federal Government.  Our Federal Government.  The Federal government of the United States. The law: US Code Title 8, Chapter 12, subchapter I section 1101 &amp; subchapter II section 1325.  Immigrant: an individual who has received permission to enter and
+permanently reside in the US. The written permission document issued
+by the US government to the immigrant after successfully completing
+required health tests, financial checks, and criminal investigations
+is called a visa. Alien: an individual in the US who is not a US citizen. After entering the US, the "immigrant" becomes an alien. Illegal alien: Anyone in the US in violation of the law. The illegal alien has intentionally chosen to violate the law and lacks the evidence VISA that they have observed all US laws in entering and remaining in the country. Most illegal aliens enter via the US-Mexico border, either alone or with a smuggler. Other illegal aliens entered the US legally under a
+student, tourist or other temporary visa (promising to leave at the
+end of their "visit") and chose to remain after their visa expired.
+When the temporary visitor chose to "overstay" their visa, they became an illegal alien. Their original "legal" entry doesn't give
+them upgraded status from the more common illegal border-crosser.  
+
+</span></p>
+<a id="5d0986e3bfa874fcf1a3a81d987e8c95"></a><p><span class="simpleblog-name">Waldron for Mayor</span> wrote on <span class="simpleblog-date">Oct 4, 2006 11:39 PM:</span><span class="simpleblog-response">Mary, thanks for being pro-active and drafting this much needed and now APPROVED ordinance. On behalf of all city residents who don't have their heads up their butt's, THANKS.</span></p>
+<a id="5e674c130ae026d9ef01d6ff851f8001"></a><p><span class="simpleblog-name">Sad night in Escondido</span> wrote on <span class="simpleblog-date">Oct 4, 2006 11:47 PM:</span><span class="simpleblog-response">What a shame.  I am embarrased that we allowed such unreasonable people to be elected to city council.  Our city was a better place before the minutemen invaded.
+</span></p>
+<a id="f103e0f3a6653ef0d386d3fd166ac633"></a><p><span class="simpleblog-name">InFavor</span> wrote on <span class="simpleblog-date">Oct 4, 2006 11:49 PM:</span><span class="simpleblog-response">more and more, California is becoming like Mexico.  Thanks to Escondido for reversing the trend.</span></p>
+<a id="409cd5149378c383a8d12ff5795da1ac"></a><p><span class="simpleblog-name">Chicken Grease</span> wrote on <span class="simpleblog-date">Oct 4, 2006 11:56 PM:</span><span class="simpleblog-response">That picture of Waldron with the bodyguards is classic! </span></p>
+<a id="522b7c5a0394cbe1508ed6ab3321ea71"></a><p><span class="simpleblog-name">Ruben</span> wrote on <span class="simpleblog-date">Oct 5, 2006 12:04 AM:</span><span class="simpleblog-response">Marie Ed and Sam should help pay for legal battles that the city will now have to fork over to defend this new ban. If that was part of the deal Im sure it would not have been a 3-2 vote.. Good Luck Escondido your gonna need it</span></p>
+<a id="eee929ed95c582b9ae08562ccfa6ecd0"></a><p><span class="simpleblog-name">Esteban</span> wrote on <span class="simpleblog-date">Oct 5, 2006 12:14 AM:</span><span class="simpleblog-response">Nice to see a leader "Implement the Law"...This ordinance should also head south and west through the county, and along the way, escort the law breakers back to their country.</span></p>
+<a id="46e38f72b0ce77477f12e3708fd87da6"></a><p><span class="simpleblog-name">To Waldron for Mayor</span> wrote on <span class="simpleblog-date">Oct 5, 2006 12:25 AM:</span><span class="simpleblog-response">Duh?  Her name is Marie, not Mary.  I guess you really know what's going on, huh?  Duh?  You are the perfect example of the ignorance that rules you &amp; the supporters of this ban.  Duh?  How many illegal immigrants did you say there were in Escondido?  Duh?  You don't know?  Duh?  Duh?</span></p>
+<a id="f524fed7478ce6d176633003d933fa0f"></a><p><span class="simpleblog-name">had enough</span> wrote on <span class="simpleblog-date">Oct 5, 2006 12:26 AM:</span><span class="simpleblog-response">It sure will be nice to be able to feel safer in this pretty little city, the violence that happens here kinda reminds me of bieng in mexico. i dont like it. i would like to thank the council for helping the legal citizens of escondido sleep a little better at night.</span></p>
+<a id="8b9a557a5b0f06efaeb18790bbc153d1"></a><p><span class="simpleblog-name">Fool on the Hill</span> wrote on <span class="simpleblog-date">Oct 5, 2006 3:54 AM:</span><span class="simpleblog-response">Even if this vote is only symbolic, it sends a clear message that we don't intend to give in to blackmail. I personally would have gone after the employers first but this sets the stage for an honest debate. I would like to see my portion of our tax dollars go toward defending this ordinance rather than providing more incentive for non-citizens to come here for unearned benefits.</span></p>
+<a id="27be86266639020a8aeb40a6dea08f19"></a><p><span class="simpleblog-name">Body guards?:</span> wrote on <span class="simpleblog-date">Oct 5, 2006 4:13 AM:</span><span class="simpleblog-response">Gee, that's a good idea. The whole city is going to need them. Good luck.</span></p>
+<a id="c3a2ce25f10f89df4eb8448d846280bc"></a><p><span class="simpleblog-name">Oh My!</span> wrote on <span class="simpleblog-date">Oct 5, 2006 4:29 AM:</span><span class="simpleblog-response">Now the illegals are going to move to SM, Vista, Oside.  The noCounty towns should sync the same law and force the illegals to move south to Rancho Bernardo.</span></p>
+<a id="187899589f501dff5b3d08d19e20d42f"></a><p><span class="simpleblog-name">Proud to be an American</span> wrote on <span class="simpleblog-date">Oct 5, 2006 4:42 AM:</span><span class="simpleblog-response">Why is it that here in America we continue to support people breaking the law?  Being an illegal immigrant is against the law; period.  This is a country that is built on laws.  Have we come to a point where residents, illegal or legal, can choose what laws they want to break with the support of our citizens?  If so, I would like to break the law against robbing banks.  You can�t get behind that one huh?  How about; I want to break the law concerning stealing cars.  You have to support that one�  You support people coming to our country illegally, breaking our immigration laws and stealing from our social programs; why not support me stealing cars? We as Americans can not pick and choose what laws we obey and we should not afford that luxury to illegal immigrants!</span></p>
+<a id="9bb3755f4fbcc193da9cd0b7fad56662"></a><p><span class="simpleblog-name">Sandy K</span> wrote on <span class="simpleblog-date">Oct 5, 2006 5:26 AM:</span><span class="simpleblog-response">Thank you to the three city council members who voted for this ban. Bravo! Vote anyone out who cares more for the illegals than the citizens of this country.</span></p>
+<a id="de131d85d8e89fdc3e51fd1668502ae8"></a><p><span class="simpleblog-name">Liz</span> wrote on <span class="simpleblog-date">Oct 5, 2006 5:33 AM:</span><span class="simpleblog-response">Thank you Escondido!  This is not racially motivated at all. I never read/heard anything that specified any specific race or ethnicity. It's the CITIZENSHIP status that is the issue. Can they help it if there is one particular "race" that fits in the category that is in question? Hey, National City won't question your residency status....  </span></p>
+<a id="6008824adc986671a24209385540f7fa"></a><p><span class="simpleblog-name">Ron</span> wrote on <span class="simpleblog-date">Oct 5, 2006 5:55 AM:</span><span class="simpleblog-response">Good for Marie, don't let those people push you around.</span></p>
+<a id="c3a5b04f97c9388d0efabbac60f815c9"></a><p><span class="simpleblog-name">We've been abandoned...</span> wrote on <span class="simpleblog-date">Oct 5, 2006 6:00 AM:</span><span class="simpleblog-response">...by the Bush Administration on this issue.  Thank you to our local council members for doing the right thing.</span></p>
+<a id="012113beba68a636e79cdaf1f9c34149"></a><p><span class="simpleblog-name">Mark</span> wrote on <span class="simpleblog-date">Oct 5, 2006 6:05 AM:</span><span class="simpleblog-response">Send all the illegals to the Temecula Valley so we can bring those house prices down.</span></p>
+<a id="d6699403f0f9aebe3bf664a53aab2888"></a><p><span class="simpleblog-name">David</span> wrote on <span class="simpleblog-date">Oct 5, 2006 6:18 AM:</span><span class="simpleblog-response">San Diego County should mark this day and the day the Vista ordinance was passed as holidays and the councils who approved them as national Heros. Now it is time for swift and strict enforcement and to prosecute those who fail to enforce or those citizens who fail to obey the ordinances as conspirators against the state. </span></p>
+<a id="c12f414df34c586f4b537815bb406b34"></a><p><span class="simpleblog-name">Say what???</span> wrote on <span class="simpleblog-date">Oct 5, 2006 6:30 AM:</span><span class="simpleblog-response">I did not know that they provide bodyguards for counsel members. Are they with her all the time???? Does the city of Escondido provide body guards toall their members on the board?? Strange! By the way Thanks for the ban, now they will all come and move into my city. Just what we needed!!</span></p>
+<a id="f118b9d4d330e8c45f9225064242bb3e"></a><p><span class="simpleblog-name">Bonnie</span> wrote on <span class="simpleblog-date">Oct 5, 2006 6:32 AM:</span><span class="simpleblog-response">How enlightening!  Escondido officials are teaching racism and fear to the children.
+
+In addition to the city council wasting taxpayer monies legislating discrimination, (So much for the Statute of Liberty's "Bring me your poor, your tired, your huddled masses"), legislation that will be overturned,
+ 
+Escondido officials have labeled Escondido what it is; a racist's dream.
+ 
+I appreciate the heads up, and business owners won't get my business.
+
+Escondido's step back into time was shocking enough...but what will the council legislate next?  Slavery?
+ 
+</span></p>
+<a id="73bb25e86cc60bc75009cac18e786c6a"></a><p><span class="simpleblog-name">Robert24</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:02 AM:</span><span class="simpleblog-response">To: John, Opposed, and Ruben; How sad that you are willing to support blatantly illegal behavior.  I bet if the "bad guy" was at your doorstep, threatening your family, you would not like it.  Well, the City, State and Country doesn't like it either.  As for your comment Ruben, we are already more than paying for this in increased medical bills, car insurance, overcrowded schools, traffic, etc. and that is also a part of this.  People that do not contribute or assimilate do not help and support this great country.  Great job, Escondido! Thank you Marie, Ed and Sam.  Let's get back to a clean and proud Escondido again, not one filled with overcrowding and increased illegal activity. </span></p>
+<a id="5e6faedad8406b5aa657bde9baf83b50"></a><p><span class="simpleblog-name">Ridgerunner</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:07 AM:</span><span class="simpleblog-response">Thank you City Council! Perhaps reason will temper emotion after all. Thank you for the courage to stand up to the ignorance. Thank you for keeping a clear vision of the Law. Those who do not understand a country governed by laws because of cultural deprivation need leadership and an example. Thank you for the beacon.</span></p>
+<a id="31ce9cb3fe434d7b727a3824d9616a6a"></a><p><span class="simpleblog-name">Chew on This</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:08 AM:</span><span class="simpleblog-response">Let's say, I break into your house. Let's say, that when you discover me in your house, you insist I leave. But I say, "I've made all the beds and washed the dishes and did the laundry and swept the floors; I've done all the things you don't like to do. I'm hard-working and honest (except for when I broke into your house).
+According to the protesters, not only must you let me stay, you must add me to your family's insurance plan, educate my kids, and provide other benefits to me and to my family (my husband will do your yard work because he too is hard-working and honest, except for that breaking in part). If you try to call the police or force me out, I will call my friends who will picket your house carrying signs that proclaim my right to be there.
+It's only fair, after all, because you have a nicer house than I do, and I'm just trying to better myself. I'm hard working and honest, um, except for, well, you know. 
+And what a deal it is for me!! I live in your house, contributing only a fraction of the cost of my keep, and there is nothing you can do about it without being accused of selfishness, prejudice, and being an anti-housebreaker. Oh yeah, and I want you to learn my language so you can communicate with me. 
+Why can't people see how ridiculous this is?! Only in America.... "
+</span></p>
+<a id="1726a92b071251ebce5cfe6c1f93bb45"></a><p><span class="simpleblog-name">Bill</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:09 AM:</span><span class="simpleblog-response">Thank you Marie Waldron! Finally we have a politician who is concerned about protecting the rights of citizens, not illegals!!!</span></p>
+<a id="4ddfa457f40429cff16127921149febf"></a><p><span class="simpleblog-name">Way to Go!</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:09 AM:</span><span class="simpleblog-response">Kudos to the Escondido City Council for a job well done.</span></p>
+<a id="3db88613a61170fa93e0eb91385476ef"></a><p><span class="simpleblog-name">Heros in our Midst!</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:18 AM:</span><span class="simpleblog-response">Thanks to Marie, Ed, and Sam.  The ordinace may be challenged in court, but at least you are making a stand for what is right.   To Ron and Lori - you stood up for what you believed, and in most cases, the majority stills rules in America.  Great discussion from both sides.</span></p>
+<a id="dd7c88188144c50bd8117d890e403f6b"></a><p><span class="simpleblog-name">Esco Resident</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:21 AM:</span><span class="simpleblog-response">Way to go Escondido.  That said, I doubt this ordinance will have much effect unless the landlords voluntarily use the immigration status checking part of the ordinance.</span></p>
+<a id="aba51d3d70dbf36a6954829c0ecfd2a9"></a><p><span class="simpleblog-name">Eric B</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:25 AM:</span><span class="simpleblog-response">Why do we call them illegal immigrants? Let�s call them what they are.... criminals! Remember they entered our home illegally.
+If we could stop ignoring this fact and stop renaming these criminals just to �be polite�, people who are normally up standing citizens would stop endorsing this criminal behavior (assisting a known crime is still a crime).
+Do we now call a bugler, an illegal house guests? A rapist: an illegal sex partners? A car thief, an illegal driver? Child Molesters: illegal sex instructors? A drug dealer a illegal pharmacists? NO! So why have we done it here? 
+
+Maybe if we stop covering up the fact that the people in question are criminals, who entered our homes illegally, more people would get over their own racists fears (everybody has them) and solve the crime spree (yes it is a crime to enter the country illegally).  
+Is'nt it a crime to have 4 families living in a apartment designes for one?</span></p>
+<a id="dadbd5cdf4bef3d2a3719f3650d03a95"></a><p><span class="simpleblog-name">The Star Photo</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:26 AM:</span><span class="simpleblog-response">The NCTimes has descended into the realm of tabloid journalism.  They picked a photo of Marie that makes her look mean and angry.  The type of photo the tabloids publish when they surprise celebrities and catch them in an awkward moment.</span></p>
+<a id="0cd7116fa99000c4941806521d7879bd"></a><p><span class="simpleblog-name">Thanks</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:28 AM:</span><span class="simpleblog-response">Thank you Marie Waldron, Ed Gallo and Sam Abed.  You are representing the will of the people!  </span></p>
+<a id="036a240894fffa6b2dcb191c75c61d47"></a><p><span class="simpleblog-name">Messcondido</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:29 AM:</span><span class="simpleblog-response">It's fitting that racism has a face as shown in your front page photo of Herr Waldron with her (probably necessary) bodyguards. I will never spend a dime in Escondido again.</span></p>
+<a id="74ebfd8b6b4b295f48841669ea05635c"></a><p><span class="simpleblog-name">Randy</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:29 AM:</span><span class="simpleblog-response">If pregnant Mary and husband Joeseph traveled here, they would find no room!  The baby Jesus could not be born in Escondido!!</span></p>
+<a id="79009f1acf69d149148700be3fc532bc"></a><p><span class="simpleblog-name">Stupid</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:32 AM:</span><span class="simpleblog-response">Another stupid law that can't be enforced. Whats going to make a complaint valid? Becuase you know everybody is going to call and say "I got MEXICANS living next to me and they must be ILLEGAL".</span></p>
+<a id="4cadfa31966121ffabed66bae2b2ba43"></a><p><span class="simpleblog-name">Politics</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:33 AM:</span><span class="simpleblog-response">Shame on Ron Newman for saying this is all about politics.  The only politics I saw last night were the two women trying to get Marie's seat for city council.  What grandstanding.  They only were there to be on TV.  Have you ever seen anyone with less class than Olga Diaz?  I can't imagine her on the council.  She showed her true colors last night.</span></p>
+<a id="96b78f141798c6a53c66c901270b2541"></a><p><span class="simpleblog-name">Pat</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:34 AM:</span><span class="simpleblog-response">Thank you Marie, Ed and Sam for trying to make Escondido the beautiful, clean town it once was.  As for the legal challenges Escondido should do the same thing Hazelton, PA. did.  They started a legal defense fund and you would be amazed at the sums of money they received from US citizens across the country. At the very least I hope in the future we will no longer see 10 cars parked on a single family home's front lawn.  The next step needs to be stronger code enforcement provisions.  </span></p>
+<a id="5190114c212c4662eed4ddbfafaa2920"></a><p><span class="simpleblog-name">Landlords</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:37 AM:</span><span class="simpleblog-response">I saw the story about the landlord who was upset that his illegal tenants had up and left (without proper notice) because they thought this ordinance would pass.  Great!  That should give us law-abiding citizens the drive to see this thing through.  It will work!  BTW, did you see the apartment?  It was a mess and the door was about to fall off.  Point made!</span></p>
+<a id="c6da9630bed6eb1a3b5424b9e12a63eb"></a><p><span class="simpleblog-name">Finally</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:41 AM:</span><span class="simpleblog-response">Finally Politicians with the guts to listen to the people that elect them rather than the stream of law breakers in our country illegally!
+
+I can only hope that Oceanside, Vista ands San Marcos follow suit.</span></p>
+<a id="c521d7999133d8098771719743b79cc8"></a><p><span class="simpleblog-name">Lorena let the kids go to school somewhere else!</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:41 AM:</span><span class="simpleblog-response">Escondido won't have to build MORE schools to try to educate children who can barely speak English who are in this country illegally with MY Taxes!  As for the Republican right wing HATE machine I am a DEMOCRAT!  ILLEGAL is ILLEGAL.  FELONY  AGAINST THE LAW!  I will be voting for Tom D'Agosta for Mayor because Lori has to go!  What a spineless ninny!  Kudo's to you Marie!</span></p>
+<a id="e7cca81d2cfcf47d29c3576f34e7c5fe"></a><p><span class="simpleblog-name">Racism? or Nationalism?</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:47 AM:</span><span class="simpleblog-response">The Federal Courts have ruled that Mexicans are members of the white race, of hispanic decent.  Is white on white racism possible?  No.  The Mexicans are just mad because their national effort to reverse the result of the Mexican-American War is being opposed!  This is a clash of nations and cultures, not races.  In case you missed it, one is a just culture and the other is a corrupt culture.</span></p>
+<a id="a0ae9b161d5e48a658ba56cfb8bcda73"></a><p><span class="simpleblog-name">To Lorena</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:52 AM:</span><span class="simpleblog-response">A Federal removal request can be canceled if it will result in very extreme hardship to a US citizen child.  The affected illegal alien needs to consult an immigration attorney.  Whining about the consequences of the Federal immigration laws without taking advantage of the law's benefits is not good politics.</span></p>
+<a id="dbaff6d0aec2d1f08fae49cb046a5385"></a><p><span class="simpleblog-name">To John</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:55 AM:</span><span class="simpleblog-response">I supported the ordinance and I am not Republican.  By the way, how can you tell someone is a Republican by just looking at them?  Sounds like you are being quick to judge people based on thier opinions.  Also, in California, local politics are nonpartisan.</span></p>
+<a id="afdcf13d157f496dd06d709d0a54deca"></a><p><span class="simpleblog-name">Stanley</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:57 AM:</span><span class="simpleblog-response">I resent all the comparisons of Escondido to Nazi Germany; I think South Africa under apartheid is more apropos.  History will record this council action as another dark mark (no pun intended) on our cherished country.  </span></p>
+<a id="d55971cf1d2382679b077e4a9e1b00fb"></a><p><span class="simpleblog-name">LiberalAtheist</span> wrote on <span class="simpleblog-date">Oct 5, 2006 7:58 AM:</span><span class="simpleblog-response">What would Jesus do? They could have really shown how mean-spirited they are and passed this on Christmas Eve!
+Sorry, no room at the inn for Mexicans!</span></p>
+<a id="46cae1fa19fe2301502268162e010ef2"></a><p><span class="simpleblog-name">happy citizen</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:02 AM:</span><span class="simpleblog-response">1 illegal is too many, who cares how many there are.  All of us who don't have our head buried in the sand know there are many, no matter what the true figure is.  This is a step in the right direction for sure.  Let them all move out of Escondido and into neighboring cities.  Then those cities will experience what Escondido has been dealing with and make their own laws.  It's truly wonderful, isn't it?  Overcrowding IS an illegal alien problem, and this law will increase the quality of life in Escondido.  Landlords only need to rent to legal citizens.  Is that too much to ask?  Come on....</span></p>
+<a id="e861ce0e671c6f86b3703f5bdf15e0a7"></a><p><span class="simpleblog-name">Ana</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:08 AM:</span><span class="simpleblog-response">Per KGTV.com "A second vote is required for the ordinance to be adopted and is scheduled for the Oct. 18 meeting. If it is approved, it would take effect 30 days later." Calm down people, nothings been approved. </span></p>
+<a id="2861a6e0640eece11ee5379474b3a341"></a><p><span class="simpleblog-name">Ivan</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:10 AM:</span><span class="simpleblog-response">What about Lazaro? Lazaro who works at the gas station that Marie Waldron owns, where would he live? How would that make Escondido a better place to live? All I get from this law is if you are an illegal alien you will not be able to rent a place to live in. Now because you are an illegal alien you came to the US to work and make money to give you and your family a better life so you won't leave that easy and most likely simply find a way to live somewhere. If you are on your own as an illegal immgrant you would probably go to city parks, dark streets, or hide somewhere just to pass the night. How would Escondido then be a cleaner city? How would this make our city a safer city? It makes no sense to me. Other lower income American citizens let's say replaced illegal immigrants and would rent where illegal immigrants rent now. Would the new American citizens that cannot afford a house and would have to rent make our city a better place to live? Wouldn't that overcrowed the city even more? Now not only would the city have illegal immigrants, but the city would have to deal with homeless illegal immigrants.</span></p>
+<a id="3a1a2ccb009635a01652ecb89d4e1a15"></a><p><span class="simpleblog-name">Taliban</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:14 AM:</span><span class="simpleblog-response">I'm glad they didn't create a "Don't rent to terrorists" Law...that would be awful...Because Mexicans are the real Terrorist, Al-Queda didn't bomb the Towers, the Escondido Mexicans did it!!!  The good thing, no one is going to listen or uphold that law...too much money and time...Landlords are the cheapest people you can find...They just want to make money from whoever they can find...legal or not...</span></p>
+<a id="78c8f60d3b2557992c96e219fca1684f"></a><p><span class="simpleblog-name">James</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:19 AM:</span><span class="simpleblog-response">This ordinance will be 100% ineffective, and in fact will create far more problems for the city than it solves.  It was passed to send a message that Esconidido is run by the ignorant, foaming xenophobes, most of which don't even live in Escondido.
+  </span></p>
+<a id="d21d08d853e3b75ae8f39a735bd65457"></a><p><span class="simpleblog-name">Julie</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:20 AM:</span><span class="simpleblog-response">Thank You Marie..YOU ROCK!!! Keep it up...You have support..</span></p>
+<a id="a80452a006b5dddd4b89839b194eea26"></a><p><span class="simpleblog-name">Redundant?</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:28 AM:</span><span class="simpleblog-response">Aren't there already housing codes on the books about overcrowding?  If overcrowding is the real issue, wouldn't you want to have recourse to deal with the code violators regardless of their citizenship status (or lack thereof)?</span></p>
+<a id="bf63fbdf93fb379051b5f8a63d209300"></a><p><span class="simpleblog-name">Chris</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:30 AM:</span><span class="simpleblog-response">Thanks you Marie, Ed &amp; Sam, this is a beginning.
+Now we citizen can call the City and make them aware of 15 people living in single-family homes and 6 car are parked out front. It isn't true what one city council member said " It doesn�t do anything - "wrong", because we now can pressure local immigration services about the matter and make them aware of our new law and our rights. Call email etc. This is just the first step and it is great. Can't wait until it goes into effect I guess November 20.
+
+PS: I know whom I am not voting for! I watched the council meeting yesterday on TV, and have to say most the people who where against it didn't know what there were talking about.
+Congratulation!! - We on the way to a better ESCONDIDO
+</span></p>
+<a id="800597b6cd0754427bc16340c74e16cd"></a><p><span class="simpleblog-name">esteban</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:44 AM:</span><span class="simpleblog-response">While I agree with Esteban, this post was not from me...the original esteban that everyone's come to know and love!!!!!!</span></p>
+<a id="1e2dea467578b62902b1c863ab017c0d"></a><p><span class="simpleblog-name">TGNSC</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:45 AM:</span><span class="simpleblog-response">Do you think that maybe the reason Szekely, owner of the Golden Door &amp; Rancho La Puerta in Tecate, Mexico, opposes and states that the decision will detour business investments can be for her own selfishness.  She may possibly harbor illegal aliens as they work for her at her expensive health spas, her personal investments.  Opens a whole new can of worms....And she's just one business owner/landlord!  Thank you City Council!</span></p>
+<a id="6824f69f6d0f21a237c70a86269c8674"></a><p><span class="simpleblog-name">Hmmm?</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:46 AM:</span><span class="simpleblog-response">Well, I�m sure Waldron�s mindset was to keep landlords from renting to Mexicans� What about the other people who are here illegally?  Is Waldron going to implements racial profiling too?  </span></p>
+<a id="db77d2d0c2ad482067be516019e441a2"></a><p><span class="simpleblog-name">Maria ...</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:47 AM:</span><span class="simpleblog-response">Finally we see good things happening. We are latino and do not like my country(Mexico). When I came here legally (married a US citizen) I loved the USA, now days it seems like the US will be like Mexico and its corruption. Latino activists are salesman who want to handle parts of the US to mexico. We the latino who are legal residents or US citizens must step forward and stop the invasion. My country man are convinced that California, Texas, Arizona, New Mexico belongs to Mexico. Corruption in the USA is reaching the highest in the last years. Illegals are draining our resources. It is not about race or religion, is about laws, abide and respect them. </span></p>
+<a id="6b61e8624c8b93120a3daed9cef0006a"></a><p><span class="simpleblog-name">teddy</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:49 AM:</span><span class="simpleblog-response">Waldron for mayor. She is doing what 90% of US population wants done, the silent majority has spoke. We are done letting the 20million illegal aliens run this country. We legal residence control this country at least until the liberals give voting rights to the 20million illegals. Next they will want to let people living in mexico (mexican citizens)to be able to vote for american elections. </span></p>
+<a id="18d79ed637a078bb9f96d322c73e194b"></a><p><span class="simpleblog-name">henry</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:54 AM:</span><span class="simpleblog-response">The sun seems brighter today, the air smells cleaner. I think this is only the beginning. Last night was the first step in taking back our country.</span></p>
+<a id="67fb1204b8863aec2b4135c55b4a0190"></a><p><span class="simpleblog-name">losing battle..</span> wrote on <span class="simpleblog-date">Oct 5, 2006 8:55 AM:</span><span class="simpleblog-response">joke's on us, there are soooo many illegal homeowners renting out rooms to multiple familes un order to make thier mortgages!! HAHAHA</span></p>
+<a id="e2a2fd27e1c37b6c48f60802c671631c"></a><p><span class="simpleblog-name">never work</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:01 AM:</span><span class="simpleblog-response">How are the landlords supposed to become the INS? Is there a training seminar? How hard will it be to find one person to put on the lease/rental agreement? Does the landlord have to hang around and identify every single individual in the rental?
+Seems like a lot of hot air that will do nothing.
+Meanwhile the democrats and republicans remain in power doing nothing about the real problems in America.</span></p>
+<a id="5b9dccf02d939252c01c65da4f7147dc"></a><p><span class="simpleblog-name">THANK YOU CITY COUNCIL!</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:05 AM:</span><span class="simpleblog-response">City Council members, Escondido applauds and appreciates you! THANK YOU for being first in setting an example for the rest of our nation. Councilmembers Waldron, Gallo and Abed, BRAVO on a job well done. You have more support than you can imagine; Escondido stands behind you!</span></p>
+<a id="a1be1685f229f7587ddcce622ccd67a0"></a><p><span class="simpleblog-name">Concerned</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:06 AM:</span><span class="simpleblog-response">I don't get it. Concerned citizens of the USA pass an ordinance that bans renting to illegal persons and they get called Nazis, get sued? What is this country coming to? What do the sympathizers want? Open borders? Socicalism? Folks, it's pretty clear what social and economic impact illegals are having on our system. Can you imagine what it would be like if we just let them have their way? Talk about chaos. And guess what else? You want to talk about race discrimination, just wait until they take over.</span></p>
+<a id="2ab6883ce2852d6a52cd3978c180bead"></a><p><span class="simpleblog-name">JKinEscondido</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:08 AM:</span><span class="simpleblog-response">Hey Newman..Take a look around you open your eyes..We are beyond racism now.  The only ones using the race card are the lazy ones looking for a free ride.  EYERYONE should be subject to the same law.  Illegal aliens are not subject to any law or tax, BUT they still are using and abusing our system.  They abuse our schools, our job market, our roads, our hospitals, and it needs to stop..Newman and Lori step aside...It is time for a change for the better.</span></p>
+<a id="4bd2e00f3acd82328590cb6aed2b0a45"></a><p><span class="simpleblog-name">just a legal girl</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:12 AM:</span><span class="simpleblog-response">Hey Newman...Your quote said that you are telling us that you are going to do something, but in reality your not? 
+Well then...Isn't it your job to get it done?? Get out,move over so someone CAN get it done. Oh yeah, take Lori with you..</span></p>
+<a id="a3072e5ca290beb00ffdebb63e091eaa"></a><p><span class="simpleblog-name">So Cal Native</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:12 AM:</span><span class="simpleblog-response">I am against all illegal aliens and California transplants that have come here from other states. You are all part of the problem of clogging up this states freeways and resources that were intended for the true Californians. Why dont you all BEAT IT!  </span></p>
+<a id="dc143afa4d89ad0841a741bd167b5c89"></a><p><span class="simpleblog-name">kc</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:18 AM:</span><span class="simpleblog-response">Read the post titled "To Waldron for Mayor". Who's calling who ignorant?  Duh? Duh? Duh? Huh? Thanks to the Escondido city council majority for doing the right thing. Thanks for calling attention to the fact that the majority of Escondido does not like what is happening in this once fine city. Six cities nationwide have adopted similar ordinances. Soon many more will follow. The name calling, venomous rhetoric will start. The insults, threats to ones safety, will continue. Sad isn't it that Marie Waldron has to have body guards?  The ACLU and all the other civil rights groups can sue away. Like waving the Mexican flag, its only going to piss off the majority of Americans as you all continue to sue, spew venom, make threats. And to "had enough" I'm not sure I can sleep well just yet. This is going to get uglier and uglier. Maybe we should all get bodyguards.</span></p>
+<a id="1b288adc9c00ccfdfbc1d374c7ace4d3"></a><p><span class="simpleblog-name">RG</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:22 AM:</span><span class="simpleblog-response">Leave it to the NCT to put a picture of Waldren on the front page showing her as a mean ogre. The article says there are now six cities in the country with similar laws. Great! Lets hope there will soon be six more, then sixty more, than 600 more. If the protesters had their way, in a few years there would be 40 million illegals in the country rather then the 12 million we have today. I almost hope the ACLU brings suit, then falls on their collective faces. The A in ACLU is supposed to stand for American, not illegal Mexican.</span></p>
+<a id="ea74b393efff84e2ed6243cedfad8b94"></a><p><span class="simpleblog-name">ShhWhat's that sound?</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:24 AM:</span><span class="simpleblog-response">Sounds like a stampede...oh, no worries, it's just the sound of illegal immigrants flooding out of Escondido and into San Marcos, Vista, Oceanside, Rancho Bernardo, etc.</span></p>
+<a id="02865f6eb453575ac07e26e07951b4c6"></a><p><span class="simpleblog-name">Former Resident</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:26 AM:</span><span class="simpleblog-response">I grew up and lived in the "Mission Park" area with my family until it became unbearable due to the influx of illegals that are determined to bring Mexico right into California.  Fifteen people are being squeezed into single family homes, the streets are totally parked up, crime is way up, and the quality of life for regular people has detoriated markedly.  Do you like trying to sleep at night while your illegal immigrant neighbors are having a party in their front yard, complete with a laser light show and a PA system?  Their kids running wild and screaming up and down the street at midnight?  
+
+It's a disgrace and has been a disgrace for YEARS. They act like they own this city.  I was just visiting my family a few weeks ago, and every mexican that drove down the street gave me the dirtiest look, like they own everything and I was trespassing.  Well, guess what?  You don't!
+
+It's about damn time the city did something about this, though I am almost certain that this will not hold up in the courts.  A statute concerning reasonable occupation of single family homes would have been more reasonable and would have also have prevented group home ownership, e.g. fifteen different names on one mortgage for a single-family home.</span></p>
+<a id="c745e9984cfec2b961e3f87549655612"></a><p><span class="simpleblog-name">HARRY</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:30 AM:</span><span class="simpleblog-response">ILLEGAL IMMIGRANTS,TO BAD THEY ARE MOSTLY MEXICANS.</span></p>
+<a id="cbb61da38d1e1cd75483ad09e6df1bbf"></a><p><span class="simpleblog-name">Cal</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:32 AM:</span><span class="simpleblog-response">I thought the body guard photo was amazing. The face of evil. She's the babe of minute men.</span></p>
+<a id="eab688802068d94978da5f1a49cbb7e6"></a><p><span class="simpleblog-name">Esteban</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:33 AM:</span><span class="simpleblog-response">RE;'Opposed' Amigo, this situation is NOTHING like Nazi Germany, but one things for certain, San Diego County is looking ALOT like a 'Socialist Latin America Country"...</span></p>
+<a id="3b8d6ebcc61e664b67beafc227a422be"></a><p><span class="simpleblog-name">carlsbad_viking</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:38 AM:</span><span class="simpleblog-response">It's telling that our own citizens, in our own land who run for office are threatened, credibly, by the militant extremists. So much so that they need bodygaurds just for expressing their political ideas. That's how it is in MEXICO. We, as citizens have allowed our generosity and kindness to neighbors to be trampled on and abused by the hoardes from the south.  Illegals come here NOT to be part of the American experience, as the Germans, Norwegians, Polish, Greek and Italians did (hmmmm, voting ballots in those languages), but to work and send home money. Listen to the corridos, they sing abbout 'beautiful dollars' and going north for money. Illegals view the US as a teat to suckle from and a place to work and make lots of money, like we view off-shore oil rigs or large commercial fishing boats.
+
+Good job Escondido, now round 'em up!</span></p>
+<a id="3ff5c22333eece4d44315ac7754a33ab"></a><p><span class="simpleblog-name">John</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:43 AM:</span><span class="simpleblog-response">As a patriotic American, I will vote to remove the Walrus, Abed, and Gallo from office as soon as possible, and begin to BOYCOTT Escondido businesses to put pressure on the council. </span></p>
+<a id="26d2369a648b405ddea8f5199e20ca82"></a><p><span class="simpleblog-name">eric</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:48 AM:</span><span class="simpleblog-response">yes!thank you, city council " You did a great job on this one!" I feel a lot safer ,and am proud to live in escondido . I'm proud to have these people sitting on our city council.</span></p>
+<a id="30268cd0bc65ec6a15986e63b24e493f"></a><p><span class="simpleblog-name">AResident</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:50 AM:</span><span class="simpleblog-response">I think this will be good for the City in the long run. I have a question for anyone out there that may know the answer.
+
+There is a house on the corner across from mine. It is owned by hispanics. There are three rooms being rented at any one given time. These people come and go with bags (no cars). They stay for a month or so. Then there is a whole new group of renters. The cycle goes on and on.
+
+My question: Do home owners that rent rooms in their home have to comply to this ordinance as well?
+
+Answer please.</span></p>
+<a id="b6961efce68ca2b3ee27f3edf5e61198"></a><p><span class="simpleblog-name">Law abiding citizen</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:51 AM:</span><span class="simpleblog-response">Thank you to the city council members who chose to recognize and uphold the LAW last night. We LEGAL citizens applaud you! This is a great start for bringing law and order, not to mention a sense of safety, back to all LEGAL residents of Escondido. Many thanks!!</span></p>
+<a id="8b37684983e66fe9222a621e4c39836e"></a><p><span class="simpleblog-name">A step in the right direction</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:52 AM:</span><span class="simpleblog-response">Anyone who has tried to go to the emergency room at Palomar Hospital has gotten a first hand look at the problems caused by the illegal immigrant population in Escondido. When you have insurance and have to wait 8 hours with your child who has a broken arm because illegals are abusing the system and taking their un-insured family members to the emergency room with a cold is unfair. Or....having your child's school's funds used to teach English as a second language and the families don't/won't support their child by learning and speak English in the home. Hopefully next they can find a way to stop 5 families from living in a single family home. I support this ordinance.</span></p>
+<a id="9b0888bc29f4f9e33d2dc59f9b4edc85"></a><p><span class="simpleblog-name">Embarrassed</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:55 AM:</span><span class="simpleblog-response">If hospitals and publics schools aren't held accountable for whom they treat and teach, then why is a landlord?  Just another way to get at the small business owner?? Another way to collect some fees, penalties, taxes?? I am completely embarrassed of Marie.</span></p>
+<a id="9aa6752e2850e55ac4b74ca37a221d8c"></a><p><span class="simpleblog-name">Most of the</span> wrote on <span class="simpleblog-date">Oct 5, 2006 9:57 AM:</span><span class="simpleblog-response">illegals on my street have taken today off to see about renting in other communities. As they say they have no need for politicans or activist that promise them the moon. </span></p>
+<a id="67708da795c0e57dc5585665b6fdaebb"></a><p><span class="simpleblog-name">Escondido prevails</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:02 AM:</span><span class="simpleblog-response">I am pleased that someone has the fortitude to start the ball rolling and clean up our cities.  We want people to move here, but we also need to control the numbers, abide by the laws and make sure the living conditions are acceptable.  No pain, no gain will be a good reminder and the council must hang in there and not give up.  I agree, the Mayor needs to move on, she does not represent the majority of Escondido citizens and that is going to be her downfall.</span></p>
+<a id="32a7d05d98502904146094dd5d650ea9"></a><p><span class="simpleblog-name">Escondido woman</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:02 AM:</span><span class="simpleblog-response">How self serving is this photo of Marie Waldron and her two body guards!  One question Marie are we the Escondido taxpayers paying their salaries?  How funny that is the first time I have ever seen any Councilperson or Mayor outside mingling with the public before or for that matter after a council meeting.  What a photo op!!!!  This should secure old girls re-election unless the public which I think they are intelligent enough to see through this woman�s grandstanding and political posturing.  I will be voting on November 7, and it won�t be for Marie Waldron. 
+
+</span></p>
+<a id="9f179f42569a74f65dd5fbe13e2323d2"></a><p><span class="simpleblog-name">DIDO~</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:03 AM:</span><span class="simpleblog-response">"Our city will be identified worldwide as racist and our people will be seen as looking to the past instead of the future," Szekely said</span></p>
+<a id="e6db2c5f53c863fb88c75b78661f1a16"></a><p><span class="simpleblog-name">Thanks!!!</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:04 AM:</span><span class="simpleblog-response">from Vista and Oceanside</span></p>
+<a id="26f1494ad7a4ecd2831d4dbec40cec24"></a><p><span class="simpleblog-name">anywherebuthere</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:05 AM:</span><span class="simpleblog-response">I am sickened by this new law. Does the city realize that the minute all of the people are out of a place to live they will be more homeless people? How dare the city put the families and children in this situation? Since when do "5" people get to decide who lives where? Seriously people this is a free country. I am sad to see these ridiculous laws go into place when there are more important issues at hand. How about providing better education programs so the children can actually live the American dream!</span></p>
+<a id="4898d0584c7b261b9fa34ddf25bdd436"></a><p><span class="simpleblog-name">good</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:07 AM:</span><span class="simpleblog-response">Hopefully, the illegals will flood Escondido's neighborhing cities.  Then, they will get a taste of what Escondido has been dealing with for years.  They can then, enact their own laws.  It's the only way to combat this problem.  And another thing, sovereignty is not racism!
+</span></p>
+<a id="fa819555f8ab017757d81f12d26175d6"></a><p><span class="simpleblog-name">C.A. Jones</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:08 AM:</span><span class="simpleblog-response">    Good for Escondido! They should throw the two that didn't vote for the ban out of office. Then they could go out and compete with illegals and green card carriers for work to feed their families. Who in the world ever implanted the idea in to the minds of US citizens that we US citizens are obligated to move over and make room in our industries for a bunch of people that can't make it in their own country. And at the same time displace US citizens in jobs. There is something very wrong in our country and it has been going on for more than 20 years. Any politician that doesn't tell me  that they are going to kick the people that don't belong here out doesn't get my vote. And believe me I am telling them on their web sites. wher is Pete Wilson?</span></p>
+<a id="ed1b4bfe575539682224bb2ff1a3f59b"></a><p><span class="simpleblog-name">Moving Vans rolling in</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:24 AM:</span><span class="simpleblog-response">I just drove through Escondido and saw a parade of moving vans headed towards Mission Park, I guess to move some illegal foreign citizens back south of the border - What a beautiful Sight!  Congrats Escondido.  Marie Waldron for Presdident!!!</span></p>
+<a id="3aadc586f3e76af55a04441542e70392"></a><p><span class="simpleblog-name">Class vs. Class-less</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:27 AM:</span><span class="simpleblog-response">I was at the Historic vote. Marie spoke with compassion and intelligence on dealing with the crisis in Escondido.  Her opponents were pathetic, playing the race card, calling names, making threats, whining like little babies about how unfair the world is to ILLEGAL ALIENS !!  The Illegal Activists are their own worst enemies.  Thank God for heroes like Marie, Sam, and Ed!</span></p>
+<a id="0384a765af4e30d1075072bb844c897a"></a><p><span class="simpleblog-name">Sam's Bald Eagle</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:29 AM:</span><span class="simpleblog-response">The passing of this measure is simply an example of the backing of a trend. I am sure if there was another measure up for a vote regarding anything that has to deal with minorities, the few ignorant, racist crowds would back it. The passing of this ordinance proves that our country is yet free of hate. California used to be a better place until losers with too much time on their hands came up with idiotic ideas such as to create a childish group such as the minutemen. That group is un-American, disgraceful. Wake up. These people are this country's enemy. The good thing there is only a few. Don't worry America. If we unite and fight such racist groups, our country can be pure from these bigots. Let's educate these people that live in fear of anything that they don't understand. Bless this country of immigrants. We are not of hate.</span></p>
+<a id="0ee63588675764689fd5b904a8fcf7a4"></a><p><span class="simpleblog-name">Robert</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:35 AM:</span><span class="simpleblog-response">Bonnie, how dare you desecrate what the Statue of Liberty stands for by equating how illegals get into this country and how both my grandparents and many before them came in...legally. Shame on you.</span></p>
+<a id="787de430894a3f533819f4f2bfa87076"></a><p><span class="simpleblog-name">Escondido Native</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:36 AM:</span><span class="simpleblog-response">Escondido has for far too long been a safe haven for illegal immigrants. We can only control what happens in our city. If this ordinance forces illegals to other cities, those cities must deal with them. Someone said the Bush administration has abandoned us on this issue and the COuncil has picked up the slack, and that is true, and I say, thank you. To the council members who opposed the ban, I say, find another job, because, judging from the vast majority of comments posted here, the voters will be firing you at the next opportunity.</span></p>
+<a id="e7f9815fdf3bafa730a85f8499329f5c"></a><p><span class="simpleblog-name">Appalled</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:40 AM:</span><span class="simpleblog-response">Did you notice Olda Diaz', City Council hopeful, speak?  she seems like a child, yelling at Marie "I want your seat, Lady!!"  her 'speech', was nothing less than grandstanding for her campaign tried to appeal to the pro immigration side. Hope you all noticed her. DON't vote to put a childish brat on the council come November</span></p>
+<a id="b45ed531fbd5e9898f951bf69d77aa9c"></a><p><span class="simpleblog-name">Victory night in Escondido</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:43 AM:</span><span class="simpleblog-response">There is s reason why illegals don't have a drivers license.  Now there is a reason they can't rent a one bedroom and move in all their relatives.  Our city needs more minutemen to patrol our apartments and street corners.</span></p>
+<a id="6401c70ec1e485cc0106fa1b6615b76e"></a><p><span class="simpleblog-name">Appalled</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:43 AM:</span><span class="simpleblog-response">"Chew on This"- your analysis is perfect. Hope people see that.</span></p>
+<a id="1d1a7a67708ccd5421e83915b7060622"></a><p><span class="simpleblog-name">hispanic girl</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:47 AM:</span><span class="simpleblog-response">its not a smart thing you did all its going to cause is more homeless on the streets,even worst what about the families that have kids.good luck escondido you are going to need it cause i know some kids are not young most are teens so more gangs more violence more of every thing you are trying to provent what are you going to do then.</span></p>
+<a id="ab1bf828190fdd6536d1bbd1f4dc15db"></a><p><span class="simpleblog-name">Robert</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:47 AM:</span><span class="simpleblog-response">More then likely those opposed to this ordinance have not had their lives negatively impacted by the illegal immigrant population in Escondido. Their only contact with illegals is probably when one comes to their house to clean it or cut the lawn. If you had to wait hours in the emergency room, see your child's education got to pot, or have no place to park your car in front of your own home, I believe they would be more supportive of this ordinance. </span></p>
+<a id="116571cf315017b8cbe6dfc19b699773"></a><p><span class="simpleblog-name">Thank you city council</span> wrote on <span class="simpleblog-date">Oct 5, 2006 10:48 AM:</span><span class="simpleblog-response">Thank you for standing up for what you believe.  You made the right decision.  </span></p>
+<a id="aa472911abebb453dc45c9a541082d63"></a><p><span class="simpleblog-name">?</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:05 AM:</span><span class="simpleblog-response">why aren't you updating comments being made?</span></p>
+<a id="a3c280ba328ee85a71bbe7029ee66356"></a><p><span class="simpleblog-name">doomed to fail</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:07 AM:</span><span class="simpleblog-response">have any of you read the ordinance?  It says complaints of illegals living in a rental can not be based on race.  So how does someone file a complaint?  UHm my neighbors down the street must be illegal they weren't wearing their green cards around their neck?
+
+I can already see activists flooding the city with complaints against landlords who have supported this measure and or politicians involved in the passing of this ordinance.
+It will fail in the courts but at least it polarized the community.</span></p>
+<a id="5f5e65ceb2f712e23d0f6e38b2dc91e8"></a><p><span class="simpleblog-name">Press 1 for English, Press 2 for Deportation</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:20 AM:</span><span class="simpleblog-response">Congratulations to the three councipeople with the guts to vote for the ordinance.  To the ACLU folks out there, exactly how does it violate the Constitution to prevent landlords from assisting illegals in living here and breaking the law?  As for the people who have commented that this law will merely push the illegals into Vista, San Marcos, etc., what if Vista, San Marcos, etc. pass their own law of this type?  Eventually, if all the cities in Southern California pass similar laws, the illegals will be pushed back to Mexico, which is what we want to accomplish in the first place.  Think longterm, not shortterm.  Alternatively, for all the people who think illegals should be able to live in Escondido, why not adopt a family or two of them and invite them to live in your house, pay for their food, get them auto insurance, pay their education and medical bills, any takers?  I thought not.</span></p>
+<a id="9105d8c675e8ed16941c661937d28aa1"></a><p><span class="simpleblog-name">Such a silly law:</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:24 AM:</span><span class="simpleblog-response">Let's see how long they plan to enforce it. Heck, they can't afford to do so. It's a waste of time. Just another in a long stream of feel good racist legislation. You may quote me.</span></p>
+<a id="f37a2d2de2ba26053f9a03f613a0d0cb"></a><p><span class="simpleblog-name">funny stuff</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:26 AM:</span><span class="simpleblog-response">escondido is screwed. im sure a lot of nice white people are going to move into the now thousands of vacant apartments. because escondido is one of the prettiest towns in san diego county (haha). no one else is going to live in those low income houses. congrats esco, your going to be a ghost town.</span></p>
+<a id="2f16013e2f3bba32d4036a0ce4af853e"></a><p><span class="simpleblog-name">Gregor</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:26 AM:</span><span class="simpleblog-response">Finally!!!! The rights of legal Americans are being put at the top of the list. Thank you thank you thank you! If I speed and break the laws put into place I get a ticket so how is it that breaking the law has become OK, I supose it is OK if you are not here legally in the first place. Go back home and take your leacherous ways with you! Thankyou Marie!!!!!!!!!!</span></p>
+<a id="62c8bc3e107f4eed61eafe988df50ecb"></a><p><span class="simpleblog-name">Proud Citizen of the US</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:27 AM:</span><span class="simpleblog-response">KUDOS to Marie, Ed and Sam, you are working in the right direction.  I've been behind Marie on this since Day 1.  The next step is to work on the other Citys to step up to the plate and do the same, this will drive them back home.  What a shame to see a kid flying the Mexican flag on the footsteps of the City building.  This isn't Mexico.  The illegals have done a great job of biting the hand (US)that feeds them.  Ignorant and disrespectful!!  If they are so proud of their country then they should live there and clean it up!</span></p>
+<a id="28f4f005d607df970893c08a82746327"></a><p><span class="simpleblog-name">Ed</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:35 AM:</span><span class="simpleblog-response">Could Escondido actually be on it's way to recovery? How can anyone not think this is a good thing? Eventually, with the people "flocking" out of Escondido, the other municipalites will have to follow suit and after a while, they'll all be living in the hills and canyons. Then, maybe the Border Patrol will finally arrest all the illegal aliens because we all know they aren't allowed to enforce the law in the cities.</span></p>
+<a id="23e010617179bce2ea215f57bbc7a777"></a><p><span class="simpleblog-name">Why?</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:35 AM:</span><span class="simpleblog-response">Why do people keep posting the same crap over and over again? 10 cars parked on the lawn, illegals go home, illegals are criminals, people are racist, ect. If you read any blog about illegal immigration, the same crap is getting posted! Come up with something different! Quit feeding into the same ole topic that promotes a rift between all of us because of our opinions! Legalized hispanics, get ready for the racial profiling when you rent an apartment or jus being in Southern California at that! I got used to racial profiling when I would countinuosly get pulled over by the police because I "looked suspicious". Turns out that I am  a family man that has an office job and has never been to jail!</span></p>
+<a id="015ef9055be1b460152b176a971134e6"></a><p><span class="simpleblog-name">Al</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:38 AM:</span><span class="simpleblog-response">The City Council did the right thing by emphasizing a small part of the law on illegal immegration. It is not bias, racial, or anything else. It is just upholding the laws of this country. Thank You City Council!</span></p>
+<a id="96ea1ba3a78a5cbbd5bfdbd2e84d4fbb"></a><p><span class="simpleblog-name">L.C.</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:41 AM:</span><span class="simpleblog-response">Thank you to Marie Waldron, Ed Gallo &amp; Sam Abed for having the courage to do the job that the Federal government should be doing &amp; for standing-up for ALL Americans.  I am a California native who lives in San Marcos &amp; will be supportive of any ordenance that will remove the illegals from my community.  AS AMERICANS, LET'S CELEBRATE THIS DAY by making a promise to ourselves to elect the right people into office who are going to enforce the immigration laws that have been ignored by the government for so long.  I am proud of you Marie, Ed &amp; Sam - thank you.</span></p>
+<a id="712215beeea6ba8c8dfd1f74628e2090"></a><p><span class="simpleblog-name">Adios</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:47 AM:</span><span class="simpleblog-response">How scary Marie Waldron has to have body guards. These people will just not accept that nobody wants them here. Go home. </span></p>
+<a id="e99519c95b5d772642df1881bee1d551"></a><p><span class="simpleblog-name">Escondido</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:48 AM:</span><span class="simpleblog-response">This is going to be interesting! Can't wait to get our city back!</span></p>
+<a id="1261dadce3f72e983070d0f8bc1002d3"></a><p><span class="simpleblog-name">Concerend Citizen</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:49 AM:</span><span class="simpleblog-response">Thank you Sam, Marie and Ed for being brave and doing the right thing  Shame on Newmann and the Mayor for doing the wrong thing. The US is under attack from the Mexican La Reconquestas,  Marxists, Islamists, power hungery pols and foolish brain washed Americans.  Patriots must make a stand, and Escondido was it.</span></p>
+<a id="b4f809a0da9036fcfdc35a5f318752ff"></a><p><span class="simpleblog-name">Redneck</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:50 AM:</span><span class="simpleblog-response">I wish these illegals would stop coming here taking care of my yard for next to nothing, working over time for free, building houses for pennies on the dollar, paying sales tax and income tax, and making me rich by working for almost nothing.</span></p>
+<a id="cb7c737f348e34d737e1576fd2f6be81"></a><p><span class="simpleblog-name">Body Guards</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:55 AM:</span><span class="simpleblog-response">Those aren't hired body gaurds - those are sworn Escondido Police Officers - our tax dollars at work.  She should hire and pay for her own private security.  </span></p>
+<a id="036ff3bc41c948ecfd3e8da677098d39"></a><p><span class="simpleblog-name">Laws</span> wrote on <span class="simpleblog-date">Oct 5, 2006 11:57 AM:</span><span class="simpleblog-response">There is no law that prohibits renting to illegal immigrants and creatin<!--
+     FILE ARCHIVED ON 08:42:59 Nov 22, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:52:06 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 54.093 (3)
+  esindex: 0.008
+  captures_list: 70.567
+  CDXLines.iter: 12.207 (3)
+  PetaboxLoader3.datanode: 71.735 (4)
+  exclusion.robots: 0.138
+  exclusion.robots.policy: 0.13
+  RedisCDXSource: 1.666
+  PetaboxLoader3.resolve: 61.837 (2)
+  load_resource: 97.921
+-->

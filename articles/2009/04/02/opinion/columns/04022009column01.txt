@@ -1,0 +1,827 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Greenwood Commonwealth &gt; Archives &gt; Opinion &gt; Columns &gt; Racial split threatens state Democrats</title>
+</head>
+
+<body>
+<script type="text/javascript" src="http://stats.townnews.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('gwcommonwealth.com'); TNTracker.setTrackerDomain('stats.townnews.com'); TNTracker.trackPageView(); }
+// -->
+</script>
+<!-- TOP SECTION FOR ADS -->
+<div class="ads-top"><table width="980" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td>
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"/></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[904] = 65;
+aCampaigns[1241] = 35;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1192078800) && (nAdsysTime <= 1255323599)) {
+aAd = new Array('+leaderboard-top', '100265-1239198593', 'swf');
+aAd[3] = '728';
+aAd[4] = '90';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.cannonmotorcompany.com';
+aAd[6] = '%2Bleaderboard-top';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1241;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1160715600) && (nAdsysTime <= 1185944399)) {
+aAd = new Array('+leaderboard-top', '60313-1195148271', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1209445200) && (nAdsysTime <= 1212209999) && !adsys_hasReachedFreqCap(126292, 3)) {
+aAd = new Array('+leaderboard-top', '126292-1209499318', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 3;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1209445200) && (nAdsysTime <= 1212209999) && !adsys_hasReachedFreqCap(126296, 3)) {
+aAd = new Array('+leaderboard-top', '126296-1209499602', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 3;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1209445200) && (nAdsysTime <= 1212209999) && !adsys_hasReachedFreqCap(126299, 3)) {
+aAd = new Array('+leaderboard-top', '126299-1209499709', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 3;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1209445200) && (nAdsysTime <= 1212209999) && !adsys_hasReachedFreqCap(126307, 3)) {
+aAd = new Array('+leaderboard-top', '126307-1209499919', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 3;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gwcommonwealth.com', aAds, aCampaigns);
+
+// -->
+</script></td>
+    <td align="right"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1241] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1186117200) && (nAdsysTime <= 1501822799)) {
+aAd = new Array('+tile-top', '91980-1186581730', 'gif');
+aAd[3] = 'https://secure.townnews.com/gwcommonwealth.com/subscribe/promo_subscription/';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1241;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gwcommonwealth.com', aAds, aCampaigns);
+
+// -->
+</script></td>
+  </tr>
+</table></div>
+<!-- end TOP SECTION FOR ADS -->
+
+<table width="994" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr class="wrapper-top">
+    <td width="7" align="right" valign="top"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/tl-corner.gif" width="7" height="7"/></td>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/tl-top.gif" width="15" height="7"/></td>
+        <td align="right"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/tr-top.gif" width="15" height="7"/></td>
+      </tr>
+    </table></td>
+    <td width="7" align="left" valign="top"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/tr-corner.gif" width="7" height="7"/></td>
+  </tr>
+  <tr>
+    <td width="7" align="right" valign="top" class="wrapper-left"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/tl-left.gif" width="7" height="14"/></td>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0" id="masthead">
+      <tr>
+        <td width="566" rowspan="3" valign="top"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/masthead-left.gif" width="566" height="133"/></td>
+        <td height="74" id="masthead-nav"><a href="http://gwcommonwealth.com/our_newspaper/about_us/">about us</a> | <a href="http://gwcommonwealth.com/our_newspaper/contact_us/">contact us</a> | <a href="http://gwcommonwealth.com/our_newspaper/how_to_advertise/">advertise</a> | <a href="http://gwcommonwealth.com/our_newspaper/home_delivery/">subscribe</a><br/>
+      <br/><span class="date">Thursday, April 02, 2009 Edition</span></td>
+      </tr>
+      <tr>
+        <td height="30"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="120"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/searchbar-left.gif" width="120" height="30"/></td>
+            <td align="center" background="http://gwcommonwealth.com/gwcart/searchbar-bg.gif"><form method="get" action="http://gwcommonwealth.com/shared-content/search/index.php">
+              <input name="search" type="text" size="30"/>
+              <input type="hidden" name="s" value="relevance"/>
+              <input type="submit" name="Submit" value="Go"/>
+                  </form></td>
+            <td width="44"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/searchbar-right.gif" width="44" height="30"/></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td height="29"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/masthead-right02.gif" width="414" height="29"/></td>
+      </tr>
+    </table>
+      <div id="navbar">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="630" height="36" align="left"><div id="mainnav"> <a href="http://gwcommonwealth.com/" target="_top">HOME</a> <a href="http://gwcommonwealth.com/news/top_stories/" target="_top">NEWS</a> <a href="http://gwcommonwealth.com/sports/" target="_top">SPORTS</a> <a href="http://gwcommonwealth.com/opinion/" target="_top">OPINION</a> <a href="http://gwcommonwealth.com/lifestyle/features/" target="_top">LIFESTYLE</a> <a href="http://gwcommonwealth.com/news/obituaries/" target="_top">OBITUARIES</a> <a href="http://gwcommonwealth.com/guestbook/" target="_top">GUESTBOOK</a>  <a href="http://gwcommonwealth.com/blogs/" target="_top">BLOGS</a> <a href="http://www.zwire.com/site/yp.cfm?brd=1838" target="_top">YELLOW PAGES</a> </div></td>
+            <td width="330" align="right"><div id="mainnav2"> <a href="http://gwcommonwealth.com/classifieds/" target="_top">CLASSIFIEDS</a> <a href="http://gwcommonwealth.com/classifieds/general_help_wanted/" target="_top">JOBS</a> <a href="http://gwcommonwealth.com/classifieds/automobiles" target="_top">CARS</a> <a href="http://gwcommonwealth.com/classifieds/homes_for_sale/" target="_top">HOMES</a> </div></td>
+          </tr>
+        </table>
+      </div></td>
+    <td width="7" align="left" valign="top" class="wrapper-right"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/tr-right.gif" width="7" height="14"/></td>
+  </tr>
+  <tr>
+    <td align="right" valign="bottom" class="wrapper-left"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/bl-left.gif" width="7" height="7"/></td>
+    <td valign="top" class="content-bg">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+                <td width="200" valign="top"> 
+
+            <div id="leftnav">
+                <ul>
+                    
+							<li><a href="http://gwcommonwealth.com/news/top_stories/">News</a></li>
+
+					
+					
+<li><a href="http://gwcommonwealth.com/sports/">Sports</a></li>
+					
+
+                    <li id="leftnavon"><a href="http://gwcommonwealth.com/opinion/">Opinion</a></li>
+                        <ul id="subnav">
+                            <li><a href="http://gwcommonwealth.com/opinion/columns/" class="">Columns</a> </li>
+                  <li> <a href="http://gwcommonwealth.com/opinion/editorials/" class="">Editorials</a> </li>
+                  <li> <a href="http://gwcommonwealth.com/opinion/letters_to_the_editor/" class="">Letters To The Editor</a> </li>
+				  <li><a href="javascript:void(0)" onclick="window.open('/forms/letters/','popform','width=600,height=450,scrollbars=1,toolbar=1');">Send a Letter to the Editor</a></li>
+                        </ul>
+
+
+					
+					
+					
+<li><a href="http://gwcommonwealth.com/lifestyle/features/">Lifestyle</a></li>
+					
+					
+<li><a href="http://gwcommonwealth.com/classifieds/">Classifieds</a></li>
+
+
+					
+<li><a href="http://gwcommonwealth.com/blogs/">Blogs</a></li>
+
+					
+					
+<li><a href="http://gwcommonwealth.com/links/favorite_sites/">Links</a></li>
+					
+					
+<li><a href="http://gwcommonwealth.com/community/community_web_links/">Community</a></li>
+					
+					
+<li><a href="http://gwcommonwealth.com/our_newspaper/about_us/">Our Newspaper</a></li>
+                    <li><a href="http://www.zap2it.com/" target="_blank">Television</a></li>
+                    <li><a href="http://gwcommonwealth.com/frameset.html?http://entertainment.townnews.com">Fun &amp; Games</a></li>
+                    <!--<li><a href="#">Consumer Guide</a></li>-->
+                    <li><a href="http://gwcommonwealth.com/frameset.html?http://financial.townnews.com">Personal Finance</a></li>
+					
+					
+<li><a href="http://gwcommonwealth.com/online_features/">Online Features</a></li>
+                </ul>
+            </div>
+
+            <div class="text-center">
+             <!-- AdSys ad not found for opinion/columns:big_blue -->
+			  <br/>
+			  <br/>
+              <!-- WEATHER -->
+              <div class="box">
+                <div class="boxtitle">Today's Weather</div>
+                <div class="boxheadline">Greenwood, MS</div>
+                <div class="boxitem"><a target="_new" href="http://wwwa.accuweather.com/forecast.asp?zipcode=38930&amp;partner=townnews"><img src="http://www.accuweather.com/wxpost/byzip/38930/51" border="0" alt="Weather Magnet"/></a><br/>
+                  <br style="clear:both"/>
+                  <!-- sponsored by: --><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1241] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1185253200) && (nAdsysTime <= 1500958799)) {
+aAd = new Array('+weather-sponsor', '90818-1185314262', 'gif');
+aAd[3] = '';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1241;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gwcommonwealth.com', aAds, aCampaigns);
+
+// -->
+</script></div> </div>
+              <br/>
+             
+              
+              <!-- FRONT PAGE PDF -->
+              <div class="box">
+                <div class="boxtitle">Get the e-edition</div>
+                <div class="boxitem"><a href="http://gwcommonwealth.com/edition/"><img border="0" src="http://images.townnews.com/gwcommonwealth.com/content/current/front/frontpage.pdf.jpg"></a></div>
+            </div>
+              <br/>
+			   <!-- ONLINE POLL -->
+              <div class="box">
+                <div class="boxtitle">Online Poll</div>
+                <div class="boxpoll">
+<script type="text/javascript">
+// <![CDATA[
+newsyspollid = 68;
+newsysvoted = newsys_poll_getcookie("newsys_poll_" + newsyspollid);
+// ]]>
+</script>
+<form target="newsyspoll" method="post" action="http://gwcommonwealth.com/?poll=68" onsubmit="newsys_poll_popup('_blank', 'newsyspoll',  400, 400);"><input type="hidden" name="voting" value="true"/><input type="hidden" name="total" value="0"/><table width="100%" class="poll-default-table"><tr><td class="poll-default-question">Do you believe Greenwood mayoral candidate Curressia Brown lives within the city limits of Greenwood?</td></tr><tr><td class="poll-default-row1"><script type="text/javascript">
+// <![CDATA[
+if (newsysvoted == null) {
+   document.write("<input type=\"radio\" name=\"answers\" ");
+   document.write(" value=\"161\" \/>");
+}
+// ]]>
+</script>Yes</td></tr><tr><td class="poll-default-row2"><script type="text/javascript">
+// <![CDATA[
+if (newsysvoted == null) {
+   document.write("<input type=\"radio\" name=\"answers\" ");
+   document.write(" value=\"162\" \/>");
+}
+// ]]>
+</script>No</td></tr><tr><td><script type="text/javascript">
+// <![CDATA[
+if (newsysvoted == null) {
+document.write("<input type=\"submit\" value=\"Vote\" \/>");
+}
+// ]]>
+</script>
+<a class="poll-default-view" href="javascript:void(newsys_poll_popup('/?poll=68&amp;total=0', 'newsyspoll', 400, 400));">View Results</a></td></tr></table></form></div>
+              </div>
+              <br/>
+			   <!-- STOCKS -->
+              <div class="box">
+                <div class="boxtitle">Today's Stocks</div>
+                <div class="boxitem"><div id="financialcontent_townnews_ad">
+	<center><script type="text/javascript" src="http://adsys.townnews.com/creative/financialcontent.dotconnectmedia.com/financial_content_ad/static.js"></script></center>
+</div>
+<br/>
+                  <br style="clear:both"/>
+                  <!-- sponsored by: --><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1241] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1185253200) && (nAdsysTime <= 1500958799)) {
+aAd = new Array('+stocks-sponsor', '90819-1185314289', 'gif');
+aAd[3] = '';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1241;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gwcommonwealth.com', aAds, aCampaigns);
+
+// -->
+</script></div> </div>
+				  <br/>
+             
+            
+			<div class="text-center"><!-- AdSys ad not found for opinion/columns:left01 --></div>
+			<div class="text-center"><!-- AdSys ad not found for opinion/columns:left02 --></div>
+			<div class="text-center"><!-- AdSys ad not found for opinion/columns:left03 --></div>
+			<div class="text-center"><!-- AdSys ad not found for opinion/columns:left04 --></div>
+			
+             </td>
+
+		<td valign="top"><table border="0" cellspacing="0" cellpadding="0" width="100%">
+            <tr>
+              <td valign="top"><!--end wrapper top -->
+	<div class="sectionheadtop">Archives: Opinion &gt;&gt; Columns</div>
+	
+    <script language="Javascript">
+<!--//
+// Each writer is listed twice to match if their byline is posted as upper and lower-case or all upper-case.
+function getBylinePhoto(elementId)
+{
+	aByline = new Array();
+	aByline[0] = "Tim Kalich";
+	aByline[1] = "TIM KALICH";
+	aByline[2] = "Charles Dunagin";
+	aByline[3] = "CHARLES DUNAGIN";
+	aByline[4] = "Wyatt Emmerich";
+	aByline[5] = "WYATT EMMERICH";
+	aByline[6] = "Jenny Humphryes";
+	aByline[7] = "JENNY HUMPHRYES";
+	aByline[8] = "Libby Lubas-Walker";
+	aByline[9] = "LIBBY LUBAS-WALKER";
+	aByline[10] = "Bill Minor";
+	aByline[11] = "BILL MINOR";
+	aByline[12] = "Charlie Mitchell";
+	aByline[13] = "CHARLIE MITCHELL";
+	aByline[14] = "Sid Salter";
+	aByline[15] = "SID SALTER";
+	aByline[16] = "Marty Wiseman";
+	aByline[17] = "MARTY WISEMAN";
+	aByline[18] = "Robert Khayat";
+	aByline[19] = "ROBERT KHAYAT";
+	aByline[20] = "John Hilpert";
+	aByline[21] = "JOHN HILPERT";
+	aByline[22] = "Jim Frasier";
+	aByline[23] = "JIM FRASIER";
+	aByline[24] = "Bill Burrus";
+	aByline[25] = "BILL BURRUS";
+	aByline[26] = "Courtney Young";
+	aByline[27] = "COURTNEY YOUNG";
+	aByline[28] = "Dr. Susan Jenay";
+	aByline[29] = "DR. SUSAN JENAY";
+	aByline[30] = "Jennifer Russell";
+	aByline[31] = "JENNIFER RUSSELL";
+	aByline[32] = "Lee Ann Flemming";
+	aByline[33] = "LEE ANN FLEMMING";
+
+	aPhotos = new Array();
+	aPhotos[0] = "/art/mug/KalichTim2008.jpg";
+	aPhotos[1] = "/art/mug/KalichTim2008.jpg";
+	aPhotos[2] = "/art/mug/DunaginCharles2005.jpg";
+	aPhotos[3] = "/art/mug/DunaginCharles2005.jpg";
+	aPhotos[4] = "/art/mug/EmmerichWyatt2004.jpg";
+	aPhotos[5] = "/art/mug/EmmerichWyatt2004.jpg";
+	aPhotos[6] = "/art/mug/HumphryesJenny.JPG";
+	aPhotos[7] = "/art/mug/HumphryesJenny.JPG";
+	aPhotos[8] = "/art/mug/LubasWalkerLibby.JPG";
+	aPhotos[9] = "/art/mug/LubasWalkerLibby.JPG";
+	aPhotos[10] = "/art/mug/MinorBill.JPG";
+	aPhotos[11] = "/art/mug/MinorBill.JPG";
+	aPhotos[12] = "/art/mug/MitchellCharlie2004.JPG";
+	aPhotos[13] = "/art/mug/MitchellCharlie2004.JPG";
+	aPhotos[14] = "/art/mug/SalterSid2001.jpg";
+	aPhotos[15] = "/art/mug/SalterSid2001.jpg";
+	aPhotos[16] = "/art/mug/WisemanMarty.jpg";
+	aPhotos[17] = "/art/mug/WisemanMarty.jpg";
+	aPhotos[18] = "/art/mug/KhayatRobert.jpg";
+	aPhotos[19] = "/art/mug/KhayatRobert.jpg";
+	aPhotos[20] = "/art/mug/HilpertJohn.JPG";
+	aPhotos[21] = "/art/mug/HilpertJohn.JPG";
+	aPhotos[22] = "/art/mug/FrasierJim.JPG";
+	aPhotos[23] = "/art/mug/FrasierJim.JPG";
+	aPhotos[24] = "/art/mug/BurrusBill.JPG";
+	aPhotos[25] = "/art/mug/BurrusBill.JPG";
+	aPhotos[26] = "/art/mug/CourtneyYoung.JPG";
+	aPhotos[27] = "/art/mug/CourtneyYoung.JPG";
+	aPhotos[28] = "/art/mug/DrSusanJenayNeely.jpg";
+	aPhotos[29] = "/art/mug/DrSusanJenayNeely.jpg";
+	aPhotos[30] = "/art/mug/JenniferRussell.jpg";
+	aPhotos[31] = "/art/mug/JenniferRussell.jpg";
+	aPhotos[32] = "/art/mug/LeeAnnFlemming.jpg";
+	aPhotos[33] = "/art/mug/LeeAnnFlemming.jpg";
+
+	
+	sByline = document.getElementById(elementId).innerHTML;
+	if (sByline == null) {
+		alert("Failed to find element: ".elementId);
+		return;
+	}
+
+	for(n=0; n < aByline.length; n++) {
+
+		if (sByline.match(aByline[n])) {
+			document.write('<img src="' + aPhotos[n] + '">');
+			return;
+		}
+	}
+
+	//alert("No match was found!");
+	return;
+}
+//-->
+</script>
+
+	 <div style="margin: 0px 10px 0px 0px;">
+	  <div class="story-tools"><a href="http://gwcommonwealth.com/articles/2009/04/02/opinion/columns/04022009column01.prt" target="printable"><img src="http://gwcommonwealth.com/art/icon-print.gif" width="18" height="14" border="0" align="absbottom"/>Print</a> | <a href="http://gwcommonwealth.com/articles/2009/04/02/opinion/columns/04022009column01.eml" target="emailafriend"><img src="http://gwcommonwealth.com/art/icon-email.gif" width="18" height="14" border="0" align="absbottom"/>E-mail</a>  | <a href="#comment"><img src="http://images.townnews.com/gwcommonwealth.com/art/icon-comment.gif" width="18" height="14" border="0" align="absbottom"/>Comment</a>  (<span class="simpleblog-count">5 comment(s)</span>)   | <a href="#rate"><img src="http://images.townnews.com/gwcommonwealth.com/art/icon-rate.gif" width="34" height="14" border="0" align="absbottom"/>Rate</a>  | <a href="javascript:eventFaceSmaller()"><img src="http://images.townnews.com/gwcommonwealth.com/art/smaller.gif" width="32" height="14" border="0" align="absbottom"/></a>  Text Size <a href="javascript:eventFaceLarger()"><img src="http://images.townnews.com/gwcommonwealth.com/art/larger.gif" width="32" height="14" border="0" align="absbottom"/></a></div>
+	  <div id="story">
+		  <div style="float:right;">
+			
+
+		  </div>
+		  <h1>Racial split threatens state Democrats</h1>
+		  <h4></h4>
+		  <div id="byline" style="display:none;">By Bill Minor<br>Capitol Correspondent</div>
+		  <div id="mug"><script>getBylinePhoto("byline");</script></div>
+		  <h5>By Bill Minor<br>Capitol Correspondent</h5>
+		  <div class="timestamp" style="margin: 0px 0px 15px;"><span class="timestamp">Thursday, April 2, 2009 12:59 PM CDT</span></div>
+		  
+		  <div id="storytext"><span>JACKSON -- No doubt to the delight of the state GOP, the Mississippi Democratic Party has once again gone into a suicidal mode that threatens a return to its pre-1976 era when racially split state Dems became a non-player in national Democratic Party councils.</span><br/><br/>
+		  <div class="instory-left"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1241] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1230530400) && (nAdsysTime <= 1257051599)) {
+aAd = new Array('+instory01', '152571-1238504018', 'jpg');
+aAd[3] = 'http://www.artrageoustudio.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1241;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gwcommonwealth.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+<span>As state political history shows, that era saw the biggest exodus of white Mississippi Democrats to the Republican Party.<br/><br/>A rump group of state Democratic Executive Committee members, led by Vice-Chair Barbara Blackmon, who is black, held a special meeting on March 21 with a goal of ousting several previously chosen white leaders of the state party -- a move that had classic signs of driving white Democrats out.<br/><br/>Removal of state Democratic Chairman Jamie Franks was in the air, but the group decided only to sack their other target, state party Director Sam Hall, and replace him with Blackmon&#8217;s hair dresser. Both Franks and Hall are white.<br/><br/>In a further insult, the rump group voted to restore controversial Ike Brown to the executive committee, despite a federal court finding that Brown violated the Voting Rights Act by intimidating white voters as a Noxubee County party official.</span><br/><br/>
+<div class="instory-right"><!-- AdSys ad not found for opinion/columns:instory02 --></div>
+		  <span>Franks immediately disavowed the rump meeting and its actions. Then, a week later he convened a session of the administrative committee to formally put Hall back on the payroll as the state party director. At the same time, the committee hired Christopher Smith, who is black, as the party&#8217;s field man. Smith gained creds last year working in the successful campaign of 1st District Democratic U.S. Rep. Travis Childers.<br/><br/>Formerly a Northeast Mississippi state legislator, Franks, now a Tupelo lawyer, ran unsuccessfully for lieutenant governor in 2007. Hall, a former weekly newspaper editor, managed the successful 2008 campaign of Jim Kitchens in unseating state Supreme Court Chief Justice Jim Smith. Before going on the Supreme Court, Smith had been a Republican activist in Rankin County.<br/><br/>Franks attributed the rump session to a &#8220;small faction&#8221; on the committee that, for whatever reason, &#8220;didn&#8217;t want Sam Hall, or me for that matter.&#8221; Later, Franks said, &#8220;we hope we&#8217;ve gotten the party straightened out.&#8221; Still, he announced that a meeting of the full 80-member executive committee will be held April 4.<br/><br/>Many Mississippi Democrats had high hopes that the election on Nov. 4 of Barack Obama as the nation&#8217;s first black president would bring new energy for a resurgence of the state Democratic Party, after years of seeing the state trending Republican.</span><br/><br/>
+		  
+<div class="instory-left"><!-- AdSys ad not found for opinion/columns:instory03 --></div>
+		  <span>When the 1965 Voting Rights Act enfranchised thousands of black voters in Mississippi, they flocked to the Democratic Party as the party of their heroes, Franklin D. Roosevelt and John F. Kennedy. They became the backbone of the state party, but for a decade the party ranks were riven by a racial split.<br/><br/>In a historic reconciliation, the division between the black-white wings of the state party was healed in 1976 when they united behind Jimmy Carter as the party&#8217;s presidential standard-bearer at the Democratic National Convention in New York City.<br/><br/>Though the 1976 racial alliance has been tenuous at times over the years, it has held together. That&#8217;s why rumblings of a revolt by the Blackmon faction against Jamie Franks&#8217; leadership of the party bears ominous signs of a new, self-destructive party split. Incredibly, it comes at a time when Republicans are leaderless at the national level and are quarreling over the voter ID issue on the state level.<br/><br/>Not only would it be senseless for black Democrats to threaten a new party split at a time when Democrats have the best opportunity ever to finally build a viable state party organization, but renewal of fratricidal warfare within the party could endanger rural white Democrats holding on to their critical seats in the Legislature. Right now, those 25 or so Democratic lawmakers are the bulwark against Republican Haley Barbour totally dominating the Legislature.</span><br/><br/>
+		  <br clear="all"/>
+<div class="instory-left" style="clear: all"><!-- AdSys ad not found for opinion/columns:instory04 --></div><br/><br clear="all"/>
+		  
+		  
+		  
+		  <div></div><br clear="all"/>
+		  </div>
+		  <!-- Begin Paging -->
+			  <table width="100%" border="0" align="center" cellpadding="0" cellspacing="3">
+				  <tr>
+				    <td width="45%"></td>
+					<td width="10%" align="center">&nbsp;</td>
+				    <td width="45%" align="right"> </td>
+				  </tr>
+				  <tr>
+				    <td width="45%" valign="top" class="small"></td>
+				    <td align="center">&nbsp;</td>
+				    <td width="45%" align="right" valign="top" class="small"> </td>
+			    </tr>
+		  </table><br clear="all"/>
+		  <!-- End Paging -->
+		  		  <!-- Begin Article Rating -->
+		  <div class="rating-box">
+		  <h3 style="margin: 0px;"><a id="rate" id="rate"></a>Article Rating </h3>
+		  <div id="rating"><form method="post" action="http://gwcommonwealth.com/articles/2009/04/02/opinion/columns/04022009column01.txt"><table>
+<tr><td>Current Rating: 0 of 0 votes!</td><td>Rate File:
+                        <select name="Rating" onchange="form.submit()">
+                        <option selected>Select Rating: </option>
+                        <option value="1">* </option>
+                        <option value="2">** </option>
+                        <option value="3">*** </option>
+                        <option value="4">**** </option>
+                        </select>
+                        </td></tr></table>
+</form>
+</div>
+		  </div>
+		  <br/>
+		  <!-- End Article Rating -->
+
+		      <!-- Begin Simpleblog -->
+          <div class="blog-box">
+		  <h3 style="margin: 0px;"><a id="comment" id="comment"></a>User Comments - <span class="simpleblog-count">5 comment(s)</span> comment(s)</h3>
+		  <div style="clear:both; margin-bottom:10px;" class="simpleblog">
+			  <a id="blogcomments"></a><div class="simpleblog-results"><div class="simpleblog-comment-1">
+<a id="59b23141ab2034907eb69955a48de4a8"></a><p><span class="simpleblog-name">The truth</span> wrote on <span class="simpleblog-date">Apr 8, 2009 5:19 PM:</span><div class="simpleblog-response">&quot; Why is anyone surprised?<br/><br/>This is what confuses me so much about white Leftists, Democrats etc:<br/>Did they honestly think that - after repeatedly favouring their black, Hispanic, etc electorates over their white ones for decades - that the aforementioned electorates wouldnt eventually replace them with someone who looks like me? &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="fabf565a4aaa118bea8468768dadf487"></a><p><span class="simpleblog-name">Publicus</span> wrote on <span class="simpleblog-date">Apr 6, 2009 9:56 PM:</span><div class="simpleblog-response">&quot; Diversity is your strength.  Say it till you believe it. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="bc74ffd2b5b101ebdc420ada2ca156e3"></a><p><span class="simpleblog-name">r.law</span> wrote on <span class="simpleblog-date">Apr 3, 2009 9:47 PM:</span><div class="simpleblog-response">&quot; The Magnolia Marxicats are finally dumping what little is left of whitey from the ranks... so much for color blindness and the content of character &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="a37013329639ef2213c61f99bd379a3d"></a><p><span class="simpleblog-name">WR</span> wrote on <span class="simpleblog-date">Apr 2, 2009 11:27 PM:</span><div class="simpleblog-response">&quot; When all you white democrats are finally ousted by your party, please don't expect to be welcomed in by state Republicans. I suggest you go find William Winter to head up your own new party. You could call yourselves &quot;Useless Whigs&quot;. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="de1d497175713dfec71e5417f1ab5020"></a><p><span class="simpleblog-name">Rev. b blackmon</span> wrote on <span class="simpleblog-date">Apr 2, 2009 8:28 PM:</span><div class="simpleblog-response">&quot; Doesn't matter one way or another anymore. Next. &quot;</div><br/></p>
+</div>
+</div>
+		  </div>
+          </div>
+		  <div class="blog-box">
+		    <h3 style="margin: 0px;">Post a Comment</h3>
+		  <div style="clear:both; margin-bottom:5px;" class="simpleblog">
+		  		  
+		    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="40%" valign="top" style="padding-right: 5px; background-color: #FFFFFF"><a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://gwcommonwealth.com/articles/2009/04/02/opinion/columns/04022009column01.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label> <input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-email-block"><label for="personemail" class="simpleblog-form-label">Email:</label> <span class="simpleblog-email-field">(optional)</span> <input type="text" id="personemail" name="personemail" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: <span style="\&quot;font-size:xx-small\&quot;">(Case sensitive)</span></label><img id="simpleblog-captcha" width="125" height="50" src="http://gwcommonwealth.com/shared-content/townnews/captcha/render.php?id=49"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/><input type="hidden" id="usernumber_id" name="usernumber_id" value="49"/><input type="SUBMIT" value="Post Comment"/></div></form></div></td>
+                <td width="60%" valign="top" style="padding: 5px; background-color: #E7F1E2; border: solid 1px #999999;">          <div class="note">
+		  <div><strong>Commonwealth Publishing, Inc. Online Comment   Policy</strong></div>
+
+<p>Commonwealth Publishing, Inc. (d/b/a The Greenwood Commonwealth) welcomes   reader feedback to its online content, but it is not responsible for the   information contained in reader comments. We reserve the right to reject or   delete comments at any time.</p>
+
+<p>Comments should not be abusive, libelous or in bad taste. They should not   contain vulgar language. We prefer comments that express an opinion rather than   ones that deal in personalities.</p>
+
+<p>As a rule, we will not intentionally disclose any personal identification   information about you as an individual user (such as, for example, your full   name, street address, telephone number, or e-mail address) to any third party   without having received your permission. Please note that if you give out   personal information online &ndash; for example, through a message board or story   comment &ndash; that information can be collected and used by third parties. Although   we strive to protect our users' privacy, we cannot guarantee the security of   information you post in these forums. You disclose such information at your own   risk.</p>
+
+<p>We have the following exceptions to this disclosure policy: We will release   specific information about you or your account to comply with any valid legal   process such as a search warrant, subpoena, statute or court order. We will also   release specific information in special cases, such as if there is an attempted   breach of the security of Commonwealth Publishing, Inc., or a physical threat to   you or others.</p>
+
+<p>For a fuller explanation of our privacy policy, see <em><strong>our <a href="http://gwcommonwealth.com/privacy_policy/">privacy policy</a>.</strong></em></p>
+
+<p>If a comment is not posted within 24 hours, it probably has been rejected   because of the nature of the comment. Try again.</p>
+
+		  </div>
+</td>
+              </tr>
+            </table>
+		  </div>
+          </div>
+          <!-- End Simpleblog -->
+
+		  
+		  <div align="center" class="story-tools">Return to: <a href="http://gwcommonwealth.com/articles/2009/04/02/opinion/columns/">Columns</a> &laquo; | <a href="http://gwcommonwealth.com/">Home</a> &laquo; | <a href="#top">Top of Page</a> &uarr;</div>
+	  </div>
+	  </div>
+<!--begin wrapper bottom--> </td>
+            </tr>
+        </table></td>
+                <td width="200" valign="top"><img src="http://images.townnews.com/gwcommonwealth.com/art/spacer.gif" width="1" height="15" border="0"/>
+            <div align="center" class="ad"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1241] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1208494800) && (nAdsysTime <= 1255928399)) {
+aAd = new Array('+right01', '99801-1231269451', 'jpg');
+aAd[3] = 'http://www.lambphoto.com/copyrestoreflyer1.pdf';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1241;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1230703200) && (nAdsysTime <= 1262325599)) {
+aAd = new Array('+right01', '165308-1232126978', 'jpg');
+aAd[3] = 'http://www.glh.org/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1241;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1231308000) && (nAdsysTime <= 1262930399)) {
+aAd = new Array('+right01', '165939-1236864992', 'jpg');
+aAd[3] = 'http://www.thealluvian.com/restaurants.html';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1241;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gwcommonwealth.com', aAds, aCampaigns);
+
+// -->
+</script></div><br>
+            <div align="center" class="ad"><!-- AdSys ad not found for opinion/columns:right02 --></div><br>
+            <div align="center" class="ad"><!-- AdSys ad not found for opinion/columns:right03 --></div><br>
+          <div align="center" class="ad"><br/>
+                <!-- SKYSCRAPER ADSYS AD -->
+                <!-- <span class="small">Advertisement</span><br />-->
+            <!-- AdSys ad not found for opinion/columns:right04 --> </div>
+           
+			<div align="center" class="ad"><!-- AdSys ad not found for opinion/columns:top_jobs --></div>
+			<div align="center" class="ad"><!-- AdSys ad not found for opinion/columns:top_cars --></div>
+			<div align="center" class="ad"><!-- AdSys ad not found for opinion/columns:top_homes --></div>
+			<div align="center" class="ad"><!-- AdSys ad not found for opinion/columns:top_ads --></div>
+			 
+			 <br>
+			 
+			</td>
+
+
+        </tr>
+    </table>
+      <div id="footer">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="187" align="center"><img src="http://images.townnews.com/gwcommonwealth.com/art/commonwealth.gif"/><br/>
+			A member of Emmerich Newspapers, Inc.</td>
+            <td width="31"><img src="http://images.townnews.com/gwcommonwealth.com/art/footer_line.gif" hspace="15"/></td>
+            <td width="126"><strong>Sections</strong><br/>
+              - <a href="http://gwcommonwealth.com/">Homepage</a><br/>
+              - <a href="http://gwcommonwealth.com/news/top_stories/">News</a><br/>
+              - <a href="http://gwcommonwealth.com/sports/">Sports</a><br/>
+              - <a href="http://gwcommonwealth.com/opinion/">Opinion</a><br/>
+              - <a href="http://gwcommonwealth.com/lifestyle/features/">Lifestyle</a><br/>
+              <!-- - <a href="/frameset.html?http://entertainment.townnews.com">Entertainment</a><br />-->
+              - <a href="http://gwcommonwealth.com/news/obituaries/">Obituaries</a><br/>
+              - <a href="http://gwcommonwealth.com/classifieds/">Classifieds</a><br/>
+	 - <a href="http://gwcommonwealth.com/blogs/">Blogs</a>
+</td>
+            <td width="31"><img src="http://images.townnews.com/gwcommonwealth.com/art/footer_line.gif" hspace="15"/></td>
+            <td><strong>Services</strong><br/>
+              - <a href="http://gwcommonwealth.com/our_newspaper/how_to_advertise/">Advertise on Our Site</a> <br/>
+              - <a href="http://gwcommonwealth.com/make_us_your_home_page/">Make us your Home Page</a> <br/>
+              - <a href="http://gwcommonwealth.com/our_newspaper/contact_us/">Contact Us</a> <br/>
+              - <a href="http://gwcommonwealth.com/our_newspaper/about_us/">About Us</a> <br/>
+              - <a href="http://gwcommonwealth.com/gallery/">Online Photo Gallery</a> <br/>
+			  <!-- - <a href="/photo_store/">Online Photo Store</a> <br /> -->
+              - <a href="http://gwcommonwealth.com/our_newspaper/home_delivery/">Subscriber Services</a> <br/>
+              - <a href="http://gwcommonwealth.com/calendar/">Events Calendar</a></td>
+            <td width="31"><img src="http://images.townnews.com/gwcommonwealth.com/art/footer_line.gif" hspace="15"/></td>
+            <td width="126" valign="top" style="background-color:#A9D19C; padding: 10px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="25" height="20"><a href="http://gwcommonwealth.com/rss/"><img src="http://images.townnews.com/gwcommonwealth.com/art/icon-rss.gif" alt="RSS" width="15" height="15" hspace="5" vspace="0" border="0"/></a></td>
+                <td height="20"><b><a href="http://gwcommonwealth.com/rss/">RSS Feeds</a> </b><br/></td>
+              </tr>
+              <tr>
+                <td valign="top">&nbsp;</td>
+                <td>RSS is a format set up for sharing content on the Web.</td>
+			  </tr>
+			</table>
+            </td>
+            <td width="31"><img src="http://images.townnews.com/gwcommonwealth.com/art/footer_line.gif" hspace="15"/></td>
+        <td width="227"><div style=" float:left; margin: 0px 15px 0px 0px;"><a href="http://gwcommonwealth.com/emmerich_map.pdf" target="_blank"><img class="rpad" src="http://images.townnews.com/gwcommonwealth.com/art/emmerich_map.gif" align="left" border="0"/></a></div><strong>Emmerich Newspapers, Inc.</strong><br/>
+                <br/>
+                <img class="icon-footer-arrow" src="http://images.townnews.com/gwcommonwealth.com/art/leftnav_arrow.gif"/> <a href="http://www.emmerichnewspapers.com/">An Emmerich Newspapers subsidiary</a><br/>
+                <br/>
+                <img class="icon-footer-arrow" src="http://images.townnews.com/gwcommonwealth.com/art/leftnav_arrow.gif"/> <a href="http://gwcommonwealth.com/emmerich_map.pdf" target="_blank">Other Emmerich Publications</a></td>
+          </tr>
+        </table>
+      </div>
+      <div class="copyright"><b>Copyright &copy; 2009 Commonwealth Publishing, Inc.</b> DBA The Greenwood Commonwealth. Send feedback to <b><a href="mailto:commonwealth@gwcommonwealth.com">commonwealth@gwcommonwealth.com</a></b>.<br/>
+            All rights reserved. View the The Greenwood Commonwealth's <a href="http://gwcommonwealth.com/privacy_policy/">Privacy Policy</a> and <a href="http://gwcommonwealth.com/refund_policy/">Online Refund/Credit Policy</a>. This material may not be broadcast, published, rewritten or redistributed without written permission.</div></td>
+    <td align="left" valign="bottom" class="wrapper-right"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/br-right.gif" width="7" height="7"/></td>
+  </tr>
+  <tr class="wrapper-bottom">
+    <td width="7" align="right" valign="bottom"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/bl-corner.gif" width="7" height="7"/></td>
+    <td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/bl-btm.gif" width="7" height="7"/></td>
+        <td align="right"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/br-btm.gif" width="7" height="7"/></td>
+      </tr>
+    </table>
+    
+    </td>
+    <td width="7" align="left" valign="bottom"><img src="http://images.townnews.com/gwcommonwealth.com/gwcart/br-corner.gif" width="7" height="7"/></td>
+  </tr>
+</table>
+<!-- TOP SECTION FOR ADS -->
+<div class="ads-btm"><table width="980" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[904] = 25;
+aCampaigns[1241] = 75;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1160715600) && (nAdsysTime <= 1185944399)) {
+aAd = new Array('+leaderboard-bottom', '60313-1195148271', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1209445200) && (nAdsysTime <= 1212209999) && !adsys_hasReachedFreqCap(126292, 3)) {
+aAd = new Array('+leaderboard-bottom', '126292-1209499318', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 3;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1209445200) && (nAdsysTime <= 1212209999) && !adsys_hasReachedFreqCap(126296, 3)) {
+aAd = new Array('+leaderboard-bottom', '126296-1209499602', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 3;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1209445200) && (nAdsysTime <= 1212209999) && !adsys_hasReachedFreqCap(126299, 3)) {
+aAd = new Array('+leaderboard-bottom', '126299-1209499709', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 3;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1209445200) && (nAdsysTime <= 1212209999) && !adsys_hasReachedFreqCap(126307, 3)) {
+aAd = new Array('+leaderboard-bottom', '126307-1209499919', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 904;
+aAd[10] = 3;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gwcommonwealth.com', aAds, aCampaigns);
+
+// -->
+</script></td>
+    <td align="right"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1241] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1185253200) && (nAdsysTime <= 1500958799)) {
+aAd = new Array('+tile-bottom', '90817-1189521277', 'gif');
+aAd[3] = 'https://secure.townnews.com/gwcommonwealth.com/subscribe/promo_subscription/';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1241;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gwcommonwealth.com', aAds, aCampaigns);
+
+// -->
+</script></td>
+  </tr>
+</table></div>
+<!-- end TOP SECTION FOR ADS -->
+
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 17:43:38 Apr 13, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:01:37 Mar 28, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 546.388 (3)
+  esindex: 0.011
+  captures_list: 569.295
+  CDXLines.iter: 15.606 (3)
+  PetaboxLoader3.datanode: 316.48 (4)
+  exclusion.robots: 0.321
+  exclusion.robots.policy: 0.303
+  RedisCDXSource: 2.127
+  PetaboxLoader3.resolve: 478.399 (4)
+  load_resource: 257.238
+-->

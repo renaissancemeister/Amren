@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Sierra Vista Herald: Local News</title>
+</head>
+<body>
+<table width="735" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="bottom">
+        <td width="432"><a href="http://www.svherald.com/"><img src="http://www.svherald.com/art/toplogo.gif" width="432" height="89" border="0"></a></td>
+        <td align="right" valign="middle">
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+masthead';
+aAds[0][1] = '8774';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.svherald.com/display_ads/StaticPageRamaeker.txt';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/1207350646/creative/svherald.com/local_news+masthead/8774.gif?r=http://www.svherald.com/display_ads/StaticPageRamaeker.txt" target="_blank"><img border="0" src="http://adsys.townnews.com/1042749988/creative/svherald.com/local_news+masthead/8774.gif"/></a>
+</noscript>
+</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="http://www.svherald.com/art/spacer.gif" width="1" height="10"></td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="top"><table width="735" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="bottom">
+        <td width="54"><a href="http://www.svherald.com/"><img src="http://www.svherald.com/art/navigation/home01.gif" width="54" height="25" border="0"></a></td>
+        <td width="86"><a href="http://www.svherald.com/local_news"><img src="http://www.svherald.com/art/navigation/news02.gif" width="86" height="25" border="0"></a></td>
+        <td width="60"><a href="http://www.svherald.com/sports"><img src="http://www.svherald.com/art/navigation/sports01.gif" width="60" height="25" border="0"></a></td>
+        <td width="79"><a href="http://www.svherald.com/obituaries"><img src="http://www.svherald.com/art/navigation/obits01.gif" width="79" height="25" border="0"></a></td>
+        <td width="83"><a href="http://www.svherald.com/classifieds"><img src="http://www.svherald.com/art/navigation/class01.gif" width="83" height="25" border="0"></a></td>
+        <td width="122"><a href="http://www.svherald.com/business_guide"><img src="http://www.svherald.com/art/navigation/business01.gif" width="122" height="25" border="0"></a></td>
+        <td width="77"><a href="http://www.svherald.com/about_us"><img src="http://www.svherald.com/art/navigation/about01.gif" width="77" height="25" border="0"></a></td>
+        <td width="77"><a href="http://www.svherald.com/archives"><img src="http://www.svherald.com/art/navigation/archives01.gif" width="77" height="25" border="0"></a></td>
+        <td width="97"><a href="javascript:void(0)" onclick="window.open('https://secure.townnews.com/svherald.com/forms/subscribe.php','Subscribe','width=600,height=450,scrollbars=1');"><img src="http://www.svherald.com/art/navigation/subscribe01.gif" width="97" height="25" border="0"></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top" class="nav"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+      <tr>
+        <td class="pipe"><img src="http://www.svherald.com/art/spacer.gif" height="15" width="1"><a href="http://www.svherald.com/photo_gallery">Photo Gallery</a> | <a href="http://www.svherald.com/local_news/features_and_opinions" class="">Features And Opinions</a>
+        </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td valign="top" class="background"><table width="735" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="125" class="leftcolumn"><table width="125" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td align="center" valign="top"><img src="http://www.svherald.com/art/modules/specialsections.gif" width="125" height="25">	</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" class="modules"><a href="http://www.svherald.com/special_section/2/">Land of Legends</a><br><br></td>
+  </tr>
+</table>
+<br>
+          <img src="http://www.svherald.com/art/spacer.gif" width="125" height="1"></td>
+        <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+top1';
+aAds[0][1] = '8717';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.svherald.com/OraleeCCC/OraleeCrookedCcStaticPg.html';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/347323244/creative/svherald.com/local_news+top1/8717.gif?r=http://www.svherald.com/OraleeCCC/OraleeCrookedCcStaticPg.html" target="_blank"><img border="0" src="http://adsys.townnews.com/218810044/creative/svherald.com/local_news+top1/8717.gif"/></a>
+</noscript>
+</td>
+            <td>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+top2';
+aAds[0][1] = '8791';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.svherald.com/curves/curvespage.html';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/2122693413/creative/svherald.com/local_news+top2/8791.gif?r=http://www.svherald.com/curves/curvespage.html" target="_blank"><img border="0" src="http://adsys.townnews.com/888134738/creative/svherald.com/local_news+top2/8791.gif"/></a>
+</noscript>
+</td>
+          </tr>
+        </table>		
+          <table width="100%" border="0" cellspacing="0" cellpadding="5">
+            <tr>
+              <td valign="top">
+			  	<p class="date"><script><!--
+showCurrentDate(1);//--></script><noscript></noscript></p>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td>
+                        <p class="section">Local News</p>
+                        <p class="headline">Bottom line: New federal law may not be enough to help Bisbee hospital </p>
+                        <p class="byline">BY MICHAEL MARESH<br>
+                            <span class="timestamp"><span class="timestamp">Saturday, October 2, 2004 11:59 PM MDT</span></span></p>
+                        <table border="0" cellspacing="0" cellpadding="0" align="right" class="photo-bdr">
+                          <tr>
+                            <td width="">  </td>
+                          </tr>
+                          <tr>
+                            <td class="cutline" width="">  </td>
+                          </tr>
+                        </table>
+                        <p class="content">HERALD/REVIEW<br/><br/>ISBEE &#045; Small rural hospitals such as Copper Queen Community Hospital in Bisbee will be partly reimbursed for treating illegal immigrants under a new law that takes effect today. 
+                        <p class="content">The Medicare Prescription Drug and Improvement and Modernization Act of 2003 will allow hospitals to be reimbursed at a small percentage for treating illegal immigrants &#045; if the proper paperwork is filed with the federal government.<br/><br/>Copper Queen Community Hospital loses about &#036;450,000 a year for treating illegal immigrants for free. 
+                        <p class="content">Jim Dickson, chief executive officer for the hospital, said he thinks his hospital, at best, will be receiving 10 cents on the dollar for any services rendered to illegal immigrants under the new law.<br/><br/>&quot;If we get 10 cents on the dollar or &#036;40,000 we will be lucky,&quot; he said.</p>
+                                    <table border="0" cellspacing="0" cellpadding="0" align="right">
+                                      <tr>
+                                        <td class="cutline" align="center"> 
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+middle';
+aAds[0][1] = '9395';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.bergshvac.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/35700768/creative/svherald.com/local_news+middle/9395.gif?r=http://www.bergshvac.com" target="_blank"><img border="0" src="http://adsys.townnews.com/1378009462/creative/svherald.com/local_news+middle/9395.gif"/></a>
+</noscript>
+ </td>
+                                      </tr>
+                                    </table>
+                                    <p class="content">Arizona is among the six states with the highest apprehension of illegal immigrants. The other five states are California, New Mexico, Texas, Florida and New York.<br/><br/>Under the new Medicare law, these six states will receive a third of the &#036;1 billion that will be distributed to Medicare-participating hospitals over the next four years. </p>
+                                    <p class="content">Arizona&#039;s share is &#036;41.58 million, according to the Center for Medicine Services&#039; formula.<br/><br/>&quot;Nobody has higher (illegal immigrant) traffic than we do,&quot; Dickson said.<br/><br/>The funds are to be used to reimburse hospitals, physicians and ambulance services for providing emergency health care to illegal immigrants.<br/><br/>Each medical provider is required to seek reimbursement from all funding sources prior to submitting a claim for reimbursement under Section 1011.<br/><br/>Payments will be made for treating three different groups:<br/><br/>Ä Illegal immigrants<br/><br/>Ä Immigrants who have been paroled into the U.S. as a port of entry for the purpose of receiving eligible services<br/><br/>Ä Mexican citizens permitted to enter the U.S. for not more than 72 hours under the authority of the biometric machine-readable border crossing identification card.<br/><br/>Treating and providing medical care for illegal immigrants for free is a common practice at the Bisbee hospital.<br/><br/>Linda Morin, nurse manager at Copper Queen, said doing so puts a financial strain on the hospital and its staff.<br/><br/>&quot;We cannot go to health seminars because we do not have the money to do so,&quot; Morin said. &quot;It all comes down to the bottom  line.&quot;<br/><br/>The new law, spearheaded by Sen. Jon Kyl, R-Ariz., is complex because of the paperwork that needs to be filed, Morin said.<br/><br/>She also said the hospital has to continue to treat illegal immigrants, though they will not be reimbursed any amount under this new until April 2005.<br/><br/>&quot;It&#039;s only a drop in the bucket,&quot; she said. &quot;It&#039;s only 10 to 15 cents on the dollar.&quot;<br/><br/>Morin said most of the Mexican nationals the hospital treats are suffering from dehydration, which forces the hospital to often keep them overnight before releasing them.<br/><br/>The hospital also has compassionate entry, where its staff will meet Mexican nationals at the border who need immediate medical care.<br/><br/>The problem, she said, is these people do not have the funds to pay the hospital for medical services either.<br/><br/>&quot;It is starting to make an impact,&quot; she said, noting the hospital had to close its long-term facility a few years ago because of a lack of funds.<br/><br/>&quot;You can only lose so much money&quot; before something has to give, she said.<br/><br/>Virginia Martinez, human resources manager for the hospital, said the free care the hospital is forced to give affects the employees who are providing the services.<br/><br/>&quot;Every time we give free care we have to take away from the employees, and that is not right,&quot; she said.<br/><br/>Martinez said she understands the regulations and thinks all people need to follow them.<br/><br/>&quot;I understand people want to improve themselves,&quot; she said. &quot;All I ask is that they follow the rules like we do.&quot;<br/><br/>Josie Mincher, a nurse who works in the emergency room at the hospital, said 18 to 20 illegals are treated monthly there. The number, he said, increases during the summer and winter months.<br/><br/>Mincher said the hospital does not have the room to treat large groups because it only has four bays.<br/><br/>The hospital treats those in the worst condition first.<br/><br/>&quot;We keep them if we have the resources,&quot; Mincher said, noting Copper Queen only has one doctor and one EMERGENCY ROOM nurse. That nurse is often Mincher.<br/><br/>If the hospital does not have the resources, patients are usually transported to Tucson hospitals.<br/><br/>She said there are times when the hospital is filled with illegal immigrants needing immediate care.<br/><br/>Transporting a patient by helicopter, she said, costs thousands of dollars, and transporting by ambulance is not cheap either.<br/><br/>&quot;All that money is not being paid (back),&quot; she said.<br/><br/>Part of the problem, Mincher said, is that families in Mexico realize U.S. hospitals have to care for them even if they do not have the funds to pay for the services.<br/><br/>&quot;We are so close, and families (in Mexico) know the system here,&quot; she said. &quot;They know we have to take care of them.&quot;<br/><br/>Mincher also hopes the Modernization Act helps out.<br/><br/>&quot;Everything has bills,&quot; she said. &quot;We rarely see little of them. Every little bit helps.&quot;<br/><br/>Morin said the hospital already has had to lay off some employees due to the loss of funds, and Mincher said most of the staff knows there is a money problem.<br/><br/>&quot;You can&#039;t squeeze blood from a turnip,&quot; Mincher said.<br/><br/>When Mincher began working for the hospital in 1995, she treated maybe one illegal immigrant a month.<br/><br/>&quot;It&#039;s getting higher and higher,&quot; she said. &quot;They think there is so much money here.&quot;<br/><br/>Illegal immigrants are now coming in droves.<br/><br/>&quot;I grew up on a ranch in Elgin, and we saw a few,&quot; she said. &quot;They are now coming 30 to 60 at a time.&quot;<br/><br/>Dickson said the hospital only lost &#036;30,000 in 1990 for caring for illegal immigrants, and that figure keeps increasing for several reasons.<br/><br/>A primary reason is the population in Naco, Sonora, continues to skyrocket, and a lot of residents there cannot afford medical care, so they come to Bisbee for free service. They also realize U.S. medical providers are better equipped than the doctors in their own country.<br/><br/>&quot;The level of care here is one of the best in the world,&quot; he said.<br/><br/>Dickson said there are people living in Naco, Sonora, who visit his hospital because of its proximity, which compounds the financial situation the hospital is in.<br/><br/>&quot;It is faster to send them here,&quot; he said.<br/><br/>Mincher said the ambulance that was donated to Naco, Sonora, earlier this month may slow this kind of traffic.<br/><br/>Dickson said his hospital, along with other rural hospitals, is hard pressed to fund medical providers when it must treat everyone who comes in, regardless of whether or not they can pay.<br/><br/>&quot;We are in jeopardy,&quot; he said. &quot;The government needs to realize this. If they do not, there is a good chance this hospital will not be here in five years.&quot;<br/><br/>Morin said the bill is a step in the right direction, but more needs to be done.<br/><br/>&quot;We have to be open,&quot; she said. &quot;If we do not stay open, Bisbee is going to be deprived.&quot;<br/><br/>Illegal immigrants getting free medical care is just part of the problem, Morin said.<br/><br/>Arizona Healthcare Cost Containment insurance only pays hospitals 47 percent of the actual billing costs, and the medical provider has to eat the other 53 percent.<br/><br/>&quot;The more (patients) we treat, the more we lose,&quot; she said, adding illegal immigrants are not eligible for AHCCCS. U.S. residency is required to be eligible.<br/><br/>The paper trail that hospitals will have to submit to be eligible for funds under this new law gives Dickson some hope.<br/><br/>&quot;If it does nothing else, it will measure the problem,&quot; he said. &quot;(Right now) it is very hard to measure the full impact. They will have a good idea when we start billing how big the problem is. There is now a system to measure the problem.&quot;<br/><br/>The hospital CEO said the problem will not be solved until the Mexican and U.S. government acknowledge this is their problem and it not going to go away on its own.<br/><br/>Dickson said the forms illegal immigrants will be asked to fill out so hospitals will be paid something for services rendered are a little silly in his opinion. It asks the patient&#039;s name, address, phone number and place of birth, as well as if they are a U.S. citizen.<br/><br/>Dickson said Mexican nationals in the United States illegally are not going to tell the truth to any of those questions. They are allowed to check the decline-to-answer box. He thinks that option will be used often.<br/><br/>&quot;Come on, get real,&quot; Dickson said of the questions.<br/><br/>All the hospitals have to do is make a good-faith effort to get the information to get reimbursed, he said.<br/><br/>REPORTER Michael Maresh can be reached at 432-2231 or by e-mail at <a href="mailto:bisbeereview@cableone.net">bisbeereview@cableone.net</a>.</p></td>
+                    </tr>
+                  </table>
+                  <p><a href="http://www.svherald.com/articles/2004/10/03/local_news/news3.prt" target="printable"><img src="http://www.svherald.com/art/print_icon.gif" width="13" height="14" vspace="0" hspace="2" border="0"><span class="more">printable version</span></a></p>
+                  <p><a href="http://www.svherald.com/articles/2004/10/03/local_news/news3.eml" target="emailafriend"><img src="http://www.svherald.com/art/email_icon.gif" width="14" height="14" vspace="0" hspace="2" border="0"><span class="more">e-mail this story</span></a></p>                  </td>
+            </tr>
+          </table></td>
+        <td width="1" class="divider"><img src="http://www.svherald.com/art/spacer.gif" width="1" height="1"></td>
+        <td width="125" align="center"><table width="125" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td class="nav-links" align="center" valign="top">
+		Search Archives: 
+        	<form method="GET" class="form">
+            	<input type="HIDDEN" name="search" value="1">
+                <input type="HIDDEN" name="o" value="0">
+                <input type="HIDDEN" name="l" value="25">
+                <input type="TEXT" name="q" size="8" maxlength="25">
+                <input type="SUBMIT" value="Search!" name="SUBMIT">
+            </form>
+	</td>
+  </tr>
+  <tr>
+    <td><img src="http://www.svherald.com/art/spacer.gif" height="10"></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+	<p><!-- AdSys ad not found for local_news:right1 --></p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right2';
+aAds[0][1] = '8510';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.home.earthlink.net/~svumc';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/1822629453/creative/svherald.com/local_news+right2/8510.gif?r=http://www.home.earthlink.net/~svumc" target="_blank"><img border="0" src="http://adsys.townnews.com/197812921/creative/svherald.com/local_news+right2/8510.gif"/></a>
+</noscript>
+</p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right3';
+aAds[0][1] = '8159';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.techedtraining.org/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/1156862177/creative/svherald.com/local_news+right3/8159.gif?r=http://www.techedtraining.org" target="_blank"><img border="0" src="http://adsys.townnews.com/1814561422/creative/svherald.com/local_news+right3/8159.gif"/></a>
+</noscript>
+</p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right4';
+aAds[0][1] = '8161';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.cc-winterhaven.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/1511334879/creative/svherald.com/local_news+right4/8161.gif?r=http://www.cc-winterhaven.com" target="_blank"><img border="0" src="http://adsys.townnews.com/515151073/creative/svherald.com/local_news+right4/8161.gif"/></a>
+</noscript>
+</p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right5';
+aAds[0][1] = '2626';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.yourtrustedagent.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/490042114/creative/svherald.com/local_news+right5/2626.gif?r=http://www.yourtrustedagent.com" target="_blank"><img border="0" src="http://adsys.townnews.com/820456654/creative/svherald.com/local_news+right5/2626.gif"/></a>
+</noscript>
+</p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right6';
+aAds[0][1] = '2627';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.cochiseeye.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/952441520/creative/svherald.com/local_news+right6/2627.gif?r=http://www.cochiseeye.com" target="_blank"><img border="0" src="http://adsys.townnews.com/411063757/creative/svherald.com/local_news+right6/2627.gif"/></a>
+</noscript>
+</p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right7';
+aAds[0][1] = '8508';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.villavistasv.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/938106288/creative/svherald.com/local_news+right7/8508.gif?r=http://www.villavistasv.com" target="_blank"><img border="0" src="http://adsys.townnews.com/341458169/creative/svherald.com/local_news+right7/8508.gif"/></a>
+</noscript>
+</p>
+    <p><!-- AdSys ad not found for local_news:right8 --></p>
+    <p><!-- AdSys ad not found for local_news:right9 --></p>
+    <p><!-- AdSys ad not found for local_news:right10 --></p></td>
+  </tr>
+</table>
+<br>
+          <img src="http://www.svherald.com/art/spacer.gif" width="125" height="1"></td>
+      </tr>
+      <tr valign="top">
+        <td class="leftcolumn">&nbsp;</td>
+        <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top"><!-- AdSys ad not found for local_news:bottom --></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" class="content"><strong>Copyright &copy; 2004 Sierra Vista Herald.</strong>      <br>
+      <a href="http://www.svherald.com/">Home</a> | <a href="http://www.svherald.com/local_news">Local News</a> | <a href="http://www.svherald.com/sports">Sports</a> | <a href="http://www.svherald.com/obituaries">Obituaries</a><br><a href="http://www.svherald.com/classifieds">Classifieds</a> | <a href="http://www.svherald.com/business_guide">Business Guide</a> | <a href="http://www.svherald.com/about_us">About Us</a> | <a href="http://www.svherald.com/archives">Archives</a> | <a href="https://secure.townnews.com/svherald.com/forms/subscribe.php">Subscribe</a> </td>
+  </tr>
+</table>
+</td>
+        <td width="1" class="divider"><img src="http://www.svherald.com/art/spacer.gif" width="1" height="1"></td>
+        <td align="center">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 04:14:58 Feb 05, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:21:14 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 38.022 (3)
+  esindex: 0.01
+  captures_list: 62.329
+  CDXLines.iter: 15.373 (3)
+  PetaboxLoader3.datanode: 46.054 (4)
+  exclusion.robots: 0.169
+  exclusion.robots.policy: 0.159
+  RedisCDXSource: 5.846
+  PetaboxLoader3.resolve: 37.846
+  load_resource: 62.693
+-->

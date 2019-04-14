@@ -1,0 +1,487 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>The Beach Reporter - </title>
+</head>
+
+<body>
+<table width="920" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td class="main"> <style type="text/css">
+<!--
+.style1 {
+	font-size: 12px;
+	font-weight: bold;
+}
+-->
+</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" class="date" background="http://tbrnews.com/art/redline.gif"><table border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+          <td bgcolor="#FFFFFF" class="date"><i>&nbsp;Thursday, January 06, 2005</i></td>
+        </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td height="109" align="center" valign="bottom" class="logobgrepeat"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+          <td width="222"><img src="http://images.townnews.com/tbrnews.com/art/slide/01.gif" border="0" alt="SimplytheBest.net" name="slide"></td><td valign="bottom"><a href="http://tbrnews.com/"><img src="http://images.townnews.com/tbrnews.com/art/toplogo-new3.gif" alt="The Beach Reporter - The Weekly Newspaper of the Beach Cities" width="341" height="100" border="0"></a></td>
+          <td width="100%"><table border="0" align="center" cellpadding="0" cellspacing="8"><tr><td width="100%" valign="top" class="main" id="weather-head"><a target="_new" href="http://wwwa.accuweather.com/forecast.asp?zipcode=90266&amp;partner=townnews"><img src="http://www.accuweather.com/wxpost/byzip/90266/61" border="0" alt="Weather Magnet"/></a><!-- AdSys ad not found for redondo_beach_news:weather --></td></tr></table></td></tr></table></td></tr>
+  <tr>
+    <td background="http://tbrnews.com/articles/2005/01/06/redondo_beach_news/art/waves_repeat_textarea.jpg" bgcolor="#f7dfad" align="center"><span class="style1">Serving the Communities of Manhattan Beach, Hermosa Beach, Redondo Beach and El Segundo</span></td>
+  </tr>
+  <tr></tr></table>
+      
+      <table width="920" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="170" align="center" valign="top" class="leftcol"><link href="http://tbrnews.com/art/styles.css" rel="stylesheet" type="text/css">
+<img src="http://images.townnews.com/tbrnews.com/art/spacer.gif" width="120" height="5"><br>
+<p><table width="160" border="0" align="center" cellpadding="2" cellspacing="0">
+  <tr>
+    <td class="nav-head"><div class="text-center">Online Poll</div></td>
+  </tr>
+  <tr>
+    <td align="center" class="poll"><p id="ads" align="center">Weekly poll question and prizes coming soon!<br/>
+	</p> </td>
+  </tr>
+</table></p>
+<table width="160" border="0" align="center" cellpadding="2" cellspacing="0">
+  <tr>
+    <td class="nav-head">&nbsp;Departments</td>
+  </tr>
+  <tr>
+    <td class="subnavigation"><table border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/manhattan_beach_news/" class="nav">Manhattan Beach</a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/hermosa_beach_news/" class="nav">Hermosa Beach</a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/redondo_beach_news/" class="nav">Redondo Beach</a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/el_segundo_news/" class="nav">El Segundo</a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/sports/" class="nav">Sports</a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/stepping_out/" class="nav">Stepping Out</a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/calendar/" class="nav">Community Calendar</a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/pets/" class="nav">Pets</a></td>
+        </tr>
+		 <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/business/" class="nav">Business</a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/columnists/" class="nav">Columnists</a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/letters_to_the_editor/" class="nav">Letters to the Editor </a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/crime_watch/" class="nav">Crime Watch </a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/restaurant_directory/" class="nav">Restaurant Directory </a></td>
+        </tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/archives/" class="nav">Search Archives</a></td>
+        </tr>
+		</tr>
+          <tr>
+            <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+            <td valign="top" class="subnav-col2"><a href="http://www.tbrnews.com/slideshow/slideshow.html" onclick="msgWindow=window.open(&quot;slideshow/slideshow.html&quot;,&quot;displayWindow&quot;,&quot;toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,width=600,height=385&quot;); return false"> <class="nav">Slideshow</a></td>
+        </tr>
+		
+        </table>
+		</td>
+  </tr>
+</table>
+<br>
+<table width="160" border="0" align="center" cellpadding="2" cellspacing="0">
+  <tr>
+    <td class="nav-head"><div class="text-center"><a href="http://tbrnews.com/question_of_the_week/" class="white-nav">Question of the Week </a></div></td>
+  </tr>
+  <tr>
+    <td class="poll"><b>Question:</b>&nbsp;&nbsp;<br>
+        <i><font size="1"></font></i><br>
+        <br>
+        <div class="text-center"><b><a href="http://tbrnews.com/question_of_the_week/">Send Us Your Answer &raquo;</a><br>
+              <br>
+      </b></div></td>
+  </tr>
+</table>
+<br>
+<table width="160" border="0" align="center" cellpadding="2" cellspacing="0">
+  <tr>
+    <td class="nav-head">&nbsp;South Bay Real Estate </td>
+  </tr>
+  <tr>
+    <td class="subnavigation"><table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/open_houses/" class="nav">Open Houses</a></td>
+  </tr>
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/real_estate/" class="nav">Homes for Sale </a></td>
+  </tr>
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/real_estate_news/" class="nav">Real Estate News</a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+<br>
+<table width="160" border="0" align="center" cellpadding="2" cellspacing="0">
+  <tr>
+    <td class="nav-head">&nbsp;Advertising</td>
+  </tr>
+  <tr>
+    <td class="subnavigation"><table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/advertising/rates/" class="nav">Display Ad Rates</a></td>
+  </tr>
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/advertising/classified_rates/#bp" class="nav">Business &amp; Professional Listing Rates</a></td>
+  </tr>
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="http://tbrnews.com/advertising/classified_rates/" class="nav">Classified Liner Rates</a></td>
+  </tr>
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="http://www.la.kaango.com/feListAdCategories?zip=90266" target="_blank" class="nav">Classifieds</a></td>
+  </tr>
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="javascript:void(0)" onclick="window.open('http://placead.advertise123.com/adstar_nexus.asp?pubid=481&amp;refid=481','classified','width=700,height=650,scrollbars=1,toolbar=1');" class="nav">Place a Classified Ad </a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+<br>
+<table width="160" border="0" align="center" cellpadding="2" cellspacing="0">
+  <tr>
+    <td class="nav-head">&nbsp;Forms</td>
+  </tr>
+  <tr>
+    <td class="subnavigation"><table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="javascript:void(0)" onclick="window.open('/shared-content/perform/?domain_name=tbrnews.com&amp;form_template=community_calendar','calendar','width=550,height=450,scrollbars=1,toolbar=1');" class="nav">Community Calendar </a></td>
+  </tr>
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="javascript:void(0)" onclick="window.open('/shared-content/perform/?domain_name=tbrnews.com&amp;form_template=letter_to_the_editor','letters','width=550,height=450,scrollbars=1,toolbar=1');" class="nav">Letter to Editor</a></td>
+  </tr>
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="javascript:void(0)" onclick="window.open('/shared-content/perform/?domain_name=tbrnews.com&amp;form_template=obituaries','obits','width=550,height=450,scrollbars=1,toolbar=1');" class="nav">Obituaries</a></td>
+  </tr>
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="javascript:void(0)" onclick="window.open('/shared-content/perform/?domain_name=tbrnews.com&amp;form_template=press_release','pressrelease','width=550,height=450,scrollbars=1,toolbar=1');" class="nav">Press Releases</a></td>
+  </tr>
+  <tr>
+    <td valign="top" class="subnav-col1">&#8226;&nbsp;</td>
+    <td valign="top" class="subnav-col2"><a href="javascript:void(0)" onclick="window.open('https://secure.townnews.com/shared-content/perform/?domain_name=tbrnews.com&amp;form_template=subscribe','subscribe','width=550,height=450,scrollbars=1,toolbar=1');" class="nav">Subscribe</a></td>
+  </tr>
+</table>
+    </td>
+  </tr>
+</table>
+<br>
+<table width="160" border="0" align="center" cellpadding="2" cellspacing="0">
+  <tr>
+    <td class="nav-head">&nbsp;About Us </td>
+  </tr>
+  <tr>
+    <td class="subnavigation"><p id="subnav">&#8226; <a href="http://tbrnews.com/about_us/" class="nav">General Information</a></p>
+        <p id="subnav">&#8226; <a href="http://tbrnews.com/staff_directory/" class="nav">Staff Directory</a></p></td>
+  </tr>
+</table>
+<br>
+<table width="160" border="0" align="center" cellpadding="2" cellspacing="0">
+  <tr>
+    <td class="nav-headsm"><div class="text-center">Other MediaNews Group Newspapers </div></td>
+  </tr>
+  <tr>
+    <td class="box2"><p id="subnav">&#8226; <a href="http://www.dailybreeze.com/" target="_blank" class="nav">The Daily Breeze </a></p>
+        <p id="subnav">&#8226; <a href="http://www.pvnews.com/" target="_blank" class="nav">The Palos Verdes News</a></p>
+        <p id="subnav">&#8226; <a href="http://www.dailybreeze.com/moresanpedro" target="_blank" class="nav">More San Pedro </a></p></td>
+  </tr>
+</table><br>
+<br>
+<!-- <table width="160" border="0" align="center" cellpadding="2" cellspacing="0">
+  <tr>
+    <td class="nav-head"><div class="text-center">Online Poll</div></td>
+  </tr>
+  <tr>
+    <td align="center" class="poll">[poll:front:left]Coming Soon!</td>
+  </tr>
+</table> -->
+
+<br>
+            </td>
+            <td width="6" valign="top" background="http://tbrnews.com/art/dots2.gif"><img src="http://images.townnews.com/tbrnews.com/art/dots2.gif" width="6" height="6"></td>
+            <td width="468" valign="top"><img src="http://images.townnews.com/tbrnews.com/art/spacer.gif" width="468" height="5"><br>
+              <p id="ads"><!-- AdSys ad not found for redondo_beach_news:top --></p>
+<p id="ads"><!-- AdSys ad not found for redondo_beach_news:top2 --></p>
+                <table width="468" border="0" align="center" cellpadding="0" cellspacing="5">
+                  <!--<tr>
+    <td colspan="2" background="/art/dot.gif"><table  border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td bgcolor="#FFFFFF" class="date">[date]&nbsp;</td>
+        </tr>
+      </table></td>
+  </tr>-->
+                  <tr>
+                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                          <td background="http://tbrnews.com/art/hdg-bg.gif" class="heading-blue"><img src="http://images.townnews.com/tbrnews.com/art/hdg-end.gif" width="5" height="34" align="absmiddle">from Archives: Redondo Beach News </td>
+                          <td width="9" align="right"><img src="http://images.townnews.com/tbrnews.com/art/hdg-end.gif" width="9" height="34"></td>
+                        </tr>
+                      </table>
+                        <table width="100%" border="0" cellspacing="5" cellpadding="0">
+                          <tr>
+                            <td><p><span class="headline-detail">Rally planned to oppose  day laborers (1/6)</span><br>
+                                    <span class="subhead-detail"></span></p>
+                                <span class="byline-detail">By Dawnya Pring</span><br>
+                                <span class="update">(Updated: Thursday, January 6, 2005 9:22 AM PST)</span></td>
+                          </tr>
+                          <tr>
+                            <td background="http://tbrnews.com/art/dot.gif"><img src="http://images.townnews.com/tbrnews.com/art/dot.gif" width="3" height="16"></td>
+                          </tr>
+                          <tr>
+                            <td><p><span class="story-detail">A rally supporting Redondo Beach Police for arresting day laborers illegally soliciting work on public land is being planned.<br/><br/>&quot;We are coming to Redondo Beach in response to the judge&#039;s restriction on the Police Department and city officials,&quot; stated a member of the Save Our State organization that is planning the rally. &quot;The Police Department was responding to complaints by business owners being harassed by these day laborers. We need to show we support the Police Department in their efforts, and send a visible message to the government that we will not be ignored, we will not be overrun.&quot;<br/><br/>Save Our State is a grass-roots political group that does not feel the government is doing enough to curb illegal immigration, states their literature. This upcoming rally is in response to a recent lawsuit filed against Redondo Beach by the Mexican American Legal Defense and Educational Fund. MALDEF filed the suit for a group of laborers that had been arrested during an undercover sting operation by Redondo Beach Police.</span><br><br><table border="0" align="right" cellpadding="4" cellspacing="0">
+  <tr>
+    <td align="center"><!-- AdSys ad not found for redondo_beach_news:instory --></td>
+  </tr>
+</table>
+<span class="story-detail">After logging numerous complaints from residents and business owners about men loitering, littering and urinating on their property while they wait to be selected for a day of work by contractors or private individuals, city officials decided something needed to be done about it, City Prosecutor Mike Webb said in a previous interview.<br/><br/>Soliciting work on public property, such as a sidewalk, violates a city municipal code and hiring someone on public property violates another municipal code.<br/><br/>City Attorney Jerry Goddard argues that this is a quality-of-life issue and that the day laborers who congregate in these areas have been known to walk in the streets and cause traffic problems, and therefore the actions are also a safety hazard.<br/><br/>&quot;This isn&#039;t political speech, which is the most free,&quot; Goddard said. &quot;This is commercial speech. We&#039;re just restricting the time, place and manner.&quot;<br/><br/>Some 37 day laborers were arrested when undercover Redondo Beach officers approached the day laborers, pretending to hire them for the day, over the course of two days. Once the worker was in the undercover car and driven to another location, the laborer was arrested, according to Capt. Joe Leonardi.<br/><br/>The immigration status of the day laborers was not questioned and immigration officials were not involved in the operation, according to city officials.<br/><br/>The Redondo Beach Civic Center rally is also meant to counter a protest staged by MALDEF about a month ago when it announced its lawsuit against the city, organizers said.</span>
+<br>
+                                    <br>
+        <span class="story-detail"></span> </p></td>
+                          </tr>
+                          <tr>
+                            <td><table width="100%" border="0" cellspacing="2" cellpadding="5">
+                              <tr valign="top">
+                                <td bgcolor="#FBF8D3"><div class="text-center"><a href="http://tbrnews.com/articles/2005/01/06/redondo_beach_news/news14.prt" target="printable"><img src="http://tbrnews.com/art/print_icon.gif" width="13" height="20" vspace="0" hspace="2" border="0" align="texttop"><span class="emailprint">Print Version</span></a> | <a href="http://tbrnews.com/articles/2005/01/06/redondo_beach_news/news14.eml" target="emailafriend"><img src="http://tbrnews.com/art/email_icon.gif" width="14" height="20" vspace="0" hspace="2" border="0" align="texttop"><span class="emailprint">E-mail This Story</span></a> | <a href="http://tbrnews.com/archives"><img src="http://images.townnews.com/tbrnews.com/art/search_icon.gif" width="14" height="20" hspace="2" vspace="0" border="0" align="texttop"><span class="emailprint">Search Again?</span></a></div></td>
+                              </tr>
+                            </table></td>
+                          </tr>
+                        </table></td>
+                  </tr>
+              </table></td>
+            <td width="6" valign="top" background="http://tbrnews.com/art/dots.gif"><img src="http://images.townnews.com/tbrnews.com/art/dots.gif" width="6" height="6"></td>
+            <td width="135" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="http://images.townnews.com/tbrnews.com/art/spacer.gif" width="135" height="5"></td>
+  </tr>
+  <tr>
+	<td class="nav-head">&nbsp;Stocks</td>
+</tr>
+<tr>
+	<td><!-- AdSys ad not found for redondo_beach_news:stocks --><script type="text/javascript" language="javascript" src="http://studio-5.financialcontent.com/townnews?Output=JS&amp;Account=townnews&amp;Module=snapshot"></script>
+</td>
+  </tr>
+  <tr>
+    <td> 
+	<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right01test --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right01 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right01 --></p> 
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right02 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right03 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right04 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right05 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right06 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right07 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right08 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right09 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right10 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right11 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:right12 --></p>
+	</td>
+</tr>
+
+</table>
+
+</td>
+            <td width="135" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="http://images.townnews.com/tbrnews.com/art/spacer.gif" width="160" height="5"></td>
+  </tr>
+  <tr>
+    <td><p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright01test --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright01 --></p> 
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright02 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright03 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright04 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright05 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright06 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright07 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright08 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright09 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright10 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright12 --></p>
+<p id="ads" align="center"><!-- AdSys ad not found for redondo_beach_news:farright13 --></p>
+</td>
+  </tr>
+</table>
+
+</td>
+          </tr>
+      </table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="20">
+          <tr>
+            <td align="center" class="footer"><div class="text-center">
+<form name="form1">
+<table>
+		<td align="center">
+ <span style="font-size: 11px">For more local Southern California news:<br/>
+  <select name="properties" onchange="document.location.href=this[this.selectedIndex].value" style="font-size: 10px">
+
+<option value="#" selected>Select a newspaper...</option>
+<option value="http://www.dailynews.com">Los Angeles Daily News</option>
+<option value="http://www.presstelegram.com">Long Beach Press Telegram</option>
+<option value="http://www.sgvtribune.com">SGV Tribune</option>
+<option value="http://www.pasadenastarnews.com">Pasadena Star News</option>
+<option value="http://www.whittierdailynews.com">Whittier Daily News</option>
+<option value="http://www.dailybulletin.com">Inland Valley Daily Bulletin</option>
+<option value="http://www.sbsun.com">San Bernardino County - The Sun</option>
+<option value="http://www.redlandsdailyfacts.com">Redlands Daily Facts</option>
+<option value="http://www.dailybreeze.com">Torrance Daily Breeze</option>
+
+<option value="http://www.pvnews.com">Palos Verdes Peninsula News</option>
+<option value="http://www.impactousa.com">Impacto USA</option>
+      </select><br>
+
+		</td>
+ </form>
+
+	</tr>
+</table>
+<br>
+Copyright &copy; 2007 The Beach Reporter - Los Angeles Newspaper Group
+
+<div id="omniture" style="display:none;"> 
+<!-- SiteCatalyst code version: H.1. 
+Copyright 1997-2005 Omniture, Inc. More info available at 
+http://www.omniture.com --> 
+<script language="JavaScript"><!--// 
+/* Specify the Report Suite ID(s) to track here */ 
+var s_account="mngitbr"; 
+//--></script> 
+<script language="JavaScript" src="http://extras.mnginteractive.com/live/js/omniture/SiteCatalystCode_H_1.js"></script> 
+<script language="JavaScript"><!-- 
+/* You may give each page an identifying name, server, and channel on 
+the next lines. */ 
+s.pageName="" 
+s.server="" 
+s.channel="" 
+s.pageType="" 
+s.prop1="" 
+s.prop2="" 
+s.prop3="" 
+s.prop4="" 
+s.prop5="" 
+s.prop6="" 
+s.prop7="" 
+s.prop8="" 
+s.prop9="" 
+s.prop10="" 
+s.prop11="" 
+s.prop12="" 
+s.prop13="" 
+s.prop14="" 
+s.prop15="" 
+s.prop16="" 
+s.prop17="" 
+s.prop18="" 
+s.prop19="" 
+s.prop20="" 
+s.prop21="" 
+s.prop22="" 
+s.prop23="" 
+s.prop24="" 
+s.prop25="" 
+s.prop26="" 
+s.prop27="" 
+s.prop28="" 
+s.prop29="" 
+s.prop30="" 
+/* E-commerce Variables */ 
+s.campaign="" 
+s.state="" 
+s.zip="" 
+s.events="" 
+s.products="" 
+s.purchaseID="" 
+s.eVar1="" 
+s.eVar2="" 
+s.eVar3="" 
+s.eVar4="" 
+s.eVar5="" 
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/ 
+var s_code=s.t();if(s_code)document.write(s_code)//--></script> 
+<script language="JavaScript"><!-- 
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-') 
+//--></script><noscript><img src="http://mngitbr.112.2o7.net/b/ss/mngitbr/1/H.1--NS/0" height="1" width="1" border="0" alt=""/></noscript><!--/DO NOT REMOVE/--> 
+<!-- End SiteCatalyst code version: H.1. --> 
+</div></td>
+          </tr>
+    </table></td></tr>
+</table>
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 01:21:15 Nov 17, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:20:15 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 168.59 (3)
+  esindex: 0.028
+  captures_list: 193.363
+  CDXLines.iter: 16.01 (3)
+  PetaboxLoader3.datanode: 163.788 (4)
+  exclusion.robots: 0.272
+  exclusion.robots.policy: 0.253
+  RedisCDXSource: 4.539
+  PetaboxLoader3.resolve: 60.791 (2)
+  load_resource: 83.799
+-->

@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Home - University of Michigan Institute for Social Research</title>
+</head>
+
+<body>
+<div id="page" class="hfeed">
+	<header id="branding" role="banner">
+		<div id="message">
+				</div>
+		<div id="social">
+			<a href="http://home.isr.umich.edu/directory/">Directory</a> | <a href="http://home.isr.umich.edu/about/contact-us/">Contact Us</a><br/>
+			<a href="http://www.facebook.com/umisr"><img src="http://home.isr.umich.edu/wp-content/themes/ISR/images/facebook.jpg" width="24" height="24" alt="Fan us on Facebook" title="Fan us on Facebook"/></a> <a href="http://www.twitter.com/umisr"><img src="http://home.isr.umich.edu/wp-content/themes/ISR/images/twitter.jpg" width="24" height="24" alt="Follow us on Twitter" title="Follow us on Twitter"/></a> <a href="http://www.youtube.com/umisr"><img src="http://home.isr.umich.edu/wp-content/themes/ISR/images/youtube.jpg" width="24" height="24" alt="Watch us on YouTube" title="Watch us on YouTube"/></a> <a href="http://home.isr.umich.edu/feed/?post_type=isr_news_releases"><img src="http://home.isr.umich.edu/wp-content/themes/ISR/images/rss.jpg" width="24" height="24" alt="Subscribe to our RSS Feed" title="Subscribe to our RSS Feed"/></a>
+		</div><!--/end#social-->
+
+			<hgroup>
+				<h1 id="site-title"><span><a href="http://home.isr.umich.edu/" title="University of Michigan Institute for Social Research" rel="home">University of Michigan Institute for Social Research</a></span></h1>
+				<h2 id="site-description">Social Science in the Public Interest</h2>
+			</hgroup>
+
+			<a id="isrlogo">
+				<img src="http://home.isr.umich.edu/wp-content/themes/ISR/images/isrlogo.jpg" alt=""/>
+				</a>
+			<a class="um" href="http://home.isr.umich.edu/">
+				<img src="http://home.isr.umich.edu/wp-content/themes/ISR/images/umisrlogo.jpg" alt=""/>
+				</a>
+
+			
+
+								<form method="get" id="searchform" action="http://home.isr.umich.edu/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search"/>
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search"/>
+	</form>
+					</header><!-- #branding -->
+
+
+	<div id="main">
+
+			<nav id="access" role="navigation">
+				<h3 class="assistive-text">Main menu</h3>
+								<div class="skip-link"><a class="assistive-text" href="#content" title="Skip to primary content">Skip to primary content</a></div>
+				<div class="skip-link"><a class="assistive-text" href="#secondary" title="Skip to secondary content">Skip to secondary content</a></div>
+								<div class="menu-full-menu-container"><ul id="menu-full-menu" class="menu"><li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-19 current_page_item menu-item-119"><a href="http://home.isr.umich.edu/">Home</a></li>
+<li id="menu-item-99" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-99"><a href="http://home.isr.umich.edu/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://home.isr.umich.edu/about/mission/">Mission</a></li>
+	<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="http://home.isr.umich.edu/about/history/">Our History</a></li>
+	<li id="menu-item-11939" class="menu-item menu-item-type-post_type menu-item-object-diversity menu-item-has-children menu-item-11939"><a href="http://home.isr.umich.edu/diversity/dei/">Diversity</a>
+	<ul class="sub-menu">
+		<li id="menu-item-11946" class="menu-item menu-item-type-post_type menu-item-object-diversity menu-item-11946"><a href="http://home.isr.umich.edu/diversity/dei/">Overview</a></li>
+		<li id="menu-item-11945" class="menu-item menu-item-type-post_type menu-item-object-diversity menu-item-11945"><a href="http://home.isr.umich.edu/diversity/dei-defined/">Diversity, Equity &#038; Inclusion Defined</a></li>
+		<li id="menu-item-11941" class="menu-item menu-item-type-post_type menu-item-object-diversity menu-item-11941"><a href="http://home.isr.umich.edu/diversity/dei-faq/">FAQ</a></li>
+		<li id="menu-item-11951" class="menu-item menu-item-type-post_type menu-item-object-diversity menu-item-11951"><a href="http://home.isr.umich.edu/diversity/dei-events/">Events</a></li>
+		<li id="menu-item-11947" class="menu-item menu-item-type-post_type menu-item-object-diversity menu-item-11947"><a href="http://home.isr.umich.edu/diversity/resources/">Resources</a></li>
+		<li id="menu-item-11942" class="menu-item menu-item-type-post_type menu-item-object-diversity menu-item-11942"><a href="http://home.isr.umich.edu/diversity/dei-feedback/">Feedback</a></li>
+		<li id="menu-item-11943" class="menu-item menu-item-type-post_type menu-item-object-diversity menu-item-11943"><a href="http://home.isr.umich.edu/diversity/dei-strategic-planning/">Strategic Planning</a></li>
+		<li id="menu-item-11944" class="menu-item menu-item-type-post_type menu-item-object-diversity menu-item-11944"><a href="http://home.isr.umich.edu/diversity/dei-implementation/">Implementation Committee</a></li>
+		<li id="menu-item-11948" class="menu-item menu-item-type-post_type menu-item-object-diversity menu-item-11948"><a href="http://home.isr.umich.edu/diversity/the-directors-advisory-committee-on-diversity/">The Director&#8217;s Advisory Committee on Diversity</a></li>
+	</ul>
+</li>
+	<li id="menu-item-4700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4700"><a href="http://home.isr.umich.edu/about/building-for-the-future/">Building for the Future</a></li>
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="http://home.isr.umich.edu/about/employment/">Employment</a></li>
+	<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="http://home.isr.umich.edu/about/contact-us/">Contact Us</a></li>
+</ul>
+</li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-104"><a href="http://home.isr.umich.edu/centers/">Centers</a>
+<ul class="sub-menu">
+	<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="http://home.isr.umich.edu/centers/cps/">Center for Political Studies</a></li>
+	<li id="menu-item-106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-106"><a href="http://home.isr.umich.edu/centers/icpsr/">Inter-university Consortium for Political and Social Research</a></li>
+	<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://home.isr.umich.edu/centers/psc/">Population Studies Center</a></li>
+	<li id="menu-item-108" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-108"><a href="http://home.isr.umich.edu/centers/rcgd/">Research Center for Group Dynamics</a></li>
+	<li id="menu-item-109" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-109"><a href="http://home.isr.umich.edu/centers/src/">Survey Research Center</a></li>
+</ul>
+</li>
+<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-123"><a href="http://home.isr.umich.edu/research/">Research</a>
+<ul class="sub-menu">
+	<li id="menu-item-125" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-125"><a href="http://home.isr.umich.edu/research/project-list/">ISR Research Projects and Grants</a></li>
+	<li id="menu-item-124" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124"><a href="http://home.isr.umich.edu/research/data/">Data</a></li>
+	<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://home.isr.umich.edu/research/researcher-profiles/">Researcher Profiles</a></li>
+	<li id="menu-item-7431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7431"><a href="http://home.isr.umich.edu/research/study-participants/">Study Participants</a></li>
+</ul>
+</li>
+<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-111"><a href="http://home.isr.umich.edu/education/">Education</a>
+<ul class="sub-menu">
+	<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="http://home.isr.umich.edu/education/programs/">Programs</a></li>
+	<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-145"><a href="http://home.isr.umich.edu/education/fellowships-awards/">Fellowships &#038; Awards</a></li>
+	<li id="menu-item-112" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-112"><a href="http://home.isr.umich.edu/education/resources/">Resources</a></li>
+</ul>
+</li>
+<li id="menu-item-120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-120"><a href="http://home.isr.umich.edu/news/">News</a>
+<ul class="sub-menu">
+	<li id="menu-item-131" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-131"><a href="http://home.isr.umich.edu/isrinnews/">ISR in the News</a></li>
+	<li id="menu-item-4324" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4324"><a href="http://home.isr.umich.edu/releases/">News Releases</a></li>
+	<li id="menu-item-6142" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6142"><a href="http://home.isr.umich.edu/news/isrsampler/">ISR Sampler</a></li>
+	<li id="menu-item-122" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122"><a href="http://home.isr.umich.edu/news/faculty-experts/">Faculty Experts</a></li>
+</ul>
+</li>
+<li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-114"><a href="http://home.isr.umich.edu/giving/">Giving</a>
+<ul class="sub-menu">
+	<li id="menu-item-8272" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8272"><a href="http://home.isr.umich.edu/giving/reimagining-social-science/">Reimagining Social Science in the Public Interest</a></li>
+	<li id="menu-item-115" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-115"><a href="http://home.isr.umich.edu/giving/individuals/">Individuals</a>
+	<ul class="sub-menu">
+		<li id="menu-item-9130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9130"><a href="http://home.isr.umich.edu/donor/">Donor Profiles</a></li>
+		<li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://home.isr.umich.edu/giving/individuals/giving-opportunities/">Giving Opportunities</a></li>
+		<li id="menu-item-116" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-116"><a href="http://home.isr.umich.edu/giving/individuals/ways-to-give/">Ways to Give</a></li>
+	</ul>
+</li>
+	<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="http://home.isr.umich.edu/giving/organizations/">Organizations</a></li>
+	<li id="menu-item-118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-118"><a href="http://home.isr.umich.edu/giving/your-gift-at-work/">Your Gift at Work</a></li>
+</ul>
+</li>
+</ul></div>         			<aside id="text-8" class="widget widget_text"><a href="http://home.isr.umich.edu/news/isrsampler" target="_BLANK"><h3 class="widget-title">Check out the ISR SAMPLER</h3></a>			<div class="textwidget">ISR’s magazine about the research, people, and trends shaping the world of social science today.</div>
+		</aside><aside id="text-15" class="widget widget_text">			<div class="textwidget"><a href="http://www.giving.umich.edu/give/isr" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.giving.umich.edu/give/isr', '');" target="_blank"><img class="size-full wp-image-4517 aligncenter" title="Give Online" src="http://home.isr.umich.edu/files/2012/11/givingbutton.jpg" alt="Give Online" width="143" height="32"/></a></div>
+		</aside><aside id="text-19" class="widget widget_text">			<div class="textwidget"><a href="http://home.isr.umich.edu/research/study-participants/" target="_blank"><div id="sidebar_participants">Have you been contacted by a University of Michigan interviewer?</div></a></div>
+		</aside> 
+			</nav><!--/end#access-->
+
+<div id="centers_nav">Centers: 
+<a href="http://home.isr.umich.edu/centers/cps/">CPS<span><strong>Center for Political Studies</strong></span></a><a href="http://home.isr.umich.edu/centers/icpsr/">ICPSR<span><strong>Inter-university Consortium for Political and Social Research</strong></span></a><a href="http://home.isr.umich.edu/centers/psc/">PSC<span><strong>Population Studies Center</strong></span></a><a href="http://home.isr.umich.edu/centers/rcgd/">RCGD<span><strong>Research Center for Group Dynamics</strong></span></a><a href="http://home.isr.umich.edu/centers/src/">SRC<span><strong>Survey Research Center</strong></span></a></div>
+<div id="search_bar">	<form method="get" id="searchform" action="http://home.isr.umich.edu/">
+		<label for="s" class="assistive-text">Search</label>
+		<input type="text" class="field" name="s" id="s" placeholder="Search"/>
+		<input type="submit" class="submit" name="submit" id="searchsubmit" value="Search"/>
+	</form>
+</div>
+		<div id="primary">
+			<div id="content" role="main">
+
+									<article id="post-19" class="post-19 page type-page status-publish hentry">
+	<header class="entry-header">
+		<h1 class="entry-title">Home</h1>
+	</header><!-- .entry-header -->
+
+	<div class="entry-content">
+		
+<script type="text/javascript">//<![CDATA[
+var numFeatures=4;var blurbs=new Array();var altblurbs=new Array();var links=new Array();var furls=new Array();
+blurbs[0]="<p>Symptoms of depression lead to a greater risk of heart disease in older black adults, but not in white adults, reports a new study from the University of Michigan’s Institute for Social Research (ISR). <a href=\"http://home.isr.umich.edu/releases/depression-heart-disease/\">Read more.</a></p> ";altblurbs[0]="<p>Symptoms of depression lead to a greater risk of heart disease in older black adults, but not in white adults, reports a new study from the University of Michigan’s Institute for Social Research (ISR). Read more.</p> ";links[0]="http://home.isr.umich.edu/releases/depression-heart-disease/";blurbs[1]="<p>While public interest in science continues to grow, the level of U.S. scientific literacy remains largely unchanged, according to a survey by the University of Michigan Institute for Social Research. <a href=\"http://home.isr.umich.edu/releases/science-public-interest-high-literacy-stable\">Read more.</a></p> ";altblurbs[1]="<p>While public interest in science continues to grow, the level of U.S. scientific literacy remains largely unchanged, according to a survey by the University of Michigan Institute for Social Research. Read more.</p> ";links[1]="http://home.isr.umich.edu/releases/science-public-interest-high-literacy-stable";blurbs[2]="<p>A new University of Michigan study looked at how the negative quality of marriage can be detrimental for weight gain—possibly leading to obesity—when couples 50 and older are stressed. The results varied by gender. <a href=\"http://home.isr.umich.edu/releases/older-adults-gain-weight/\">Read more.</a></p> ";altblurbs[2]="<p>A new University of Michigan study looked at how the negative quality of marriage can be detrimental for weight gain—possibly leading to obesity—when couples 50 and older are stressed. The results varied by gender. Read more.</p> ";links[2]="http://home.isr.umich.edu/releases/older-adults-gain-weight/";blurbs[3]="<p>Eric Seymour, the 2015 Robert Kahn Fellow for the Scientific Study of Social Issues, is examining how private lenders and federal entities handled the recent rash of foreclosed properties in Detroit, and what this suggests for the future. <a href=\"http://home.isr.umich.edu/sampler/lost-in-the-system/\">Read more.</a></p> ";altblurbs[3]="<p>Eric Seymour, the 2015 Robert Kahn Fellow for the Scientific Study of Social Issues, is examining how private lenders and federal entities handled the recent rash of foreclosed properties in Detroit, and what this suggests for the future. Read more.</p> ";links[3]="http://home.isr.umich.edu/sampler/lost-in-the-system/";/* ]]> */</script>
+
+    <div id="feature" class="clearfix">
+        <div id="f-content">
+            <!-- <h3 id="f-headline"><a href="http://home.isr.umich.edu/releases/depression-heart-disease/"><span></span></a></h3> -->
+            
+        </div><!--/f-content-->
+        
+		<div id="f-photo-1" class="f-image-wrap"><a href="http://home.isr.umich.edu/releases/depression-heart-disease/" target="_blank" class="f-photo-link"><img width="540" height="345" src="http://home.isr.umich.edu/files/2016/08/Depression-Slider.jpg" class="attachment-home_feature size-home_feature wp-post-image" alt="African American man holding his chest." srcset="http://home.isr.umich.edu/files/2016/08/Depression-Slider.jpg 540w, http://home.isr.umich.edu/files/2016/08/Depression-Slider-300x192.jpg 300w, http://home.isr.umich.edu/files/2016/08/Depression-Slider-470x300.jpg 470w, http://home.isr.umich.edu/files/2016/08/Depression-Slider-150x96.jpg 150w" sizes="(max-width: 540px) 100vw, 540px"/></a></div>
+<div id="f-photo-2" class="f-hidden-image f-image-wrap"><a href="http://home.isr.umich.edu/releases/science-public-interest-high-literacy-stable" target="_blank" class="f-photo-link"><img width="540" height="345" src="http://home.isr.umich.edu/files/2016/11/Kids-learning-science-Slider.jpg" class="attachment-home_feature size-home_feature wp-post-image" alt="Science teacher showing kids electronics experiment" srcset="http://home.isr.umich.edu/files/2016/11/Kids-learning-science-Slider.jpg 540w, http://home.isr.umich.edu/files/2016/11/Kids-learning-science-Slider-300x192.jpg 300w, http://home.isr.umich.edu/files/2016/11/Kids-learning-science-Slider-470x300.jpg 470w, http://home.isr.umich.edu/files/2016/11/Kids-learning-science-Slider-150x96.jpg 150w" sizes="(max-width: 540px) 100vw, 540px"/></a></div>
+<div id="f-photo-3" class="f-hidden-image f-image-wrap"><a href="http://home.isr.umich.edu/releases/older-adults-gain-weight/" target="_blank" class="f-photo-link"><img width="540" height="345" src="http://home.isr.umich.edu/files/2016/11/Weight-Gain-Older-Stress-Slider.jpg" class="attachment-home_feature size-home_feature wp-post-image" alt="Senior Couple Arguing" srcset="http://home.isr.umich.edu/files/2016/11/Weight-Gain-Older-Stress-Slider.jpg 540w, http://home.isr.umich.edu/files/2016/11/Weight-Gain-Older-Stress-Slider-300x192.jpg 300w, http://home.isr.umich.edu/files/2016/11/Weight-Gain-Older-Stress-Slider-470x300.jpg 470w, http://home.isr.umich.edu/files/2016/11/Weight-Gain-Older-Stress-Slider-150x96.jpg 150w" sizes="(max-width: 540px) 100vw, 540px"/></a></div>
+<div id="f-photo-4" class="f-hidden-image f-image-wrap"><a href="http://home.isr.umich.edu/sampler/lost-in-the-system/" target="_blank" class="f-photo-link"><img width="540" height="345" src="http://home.isr.umich.edu/files/2016/08/Seymour-Slider.jpg" class="attachment-home_feature size-home_feature wp-post-image" alt="Miniature house and padlock" srcset="http://home.isr.umich.edu/files/2016/08/Seymour-Slider.jpg 540w, http://home.isr.umich.edu/files/2016/08/Seymour-Slider-300x192.jpg 300w, http://home.isr.umich.edu/files/2016/08/Seymour-Slider-470x300.jpg 470w, http://home.isr.umich.edu/files/2016/08/Seymour-Slider-150x96.jpg 150w" sizes="(max-width: 540px) 100vw, 540px"/></a></div>
+        
+    </div><!--/feature-->
+
+
+<script data-cfasync="false" type="text/javascript">
+var addthis_config = {"data_track_clickback":false,"ui_language":"en","ui_atversion":300,"ui_508_compliant":true,"ignore_server_config":true};
+var addthis_share = {"passthrough":{"twitter":{"via":"umisr"}}};
+</script>
+                <!-- AddThis Settings Begin -->
+                <script data-cfasync="false" type="text/javascript">
+                    var addthis_product = "wpp-5.3.3";
+                    var wp_product_version = "wpp-5.3.3";
+                    var wp_blog_version = "4.5.3";
+                    var addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","cms_version":"4.5.3","plugin_name":"Share Buttons by AddThis","plugin_version":"5.3.3","anonymous_profile_id":"wp-8cda0f6fe2fbd8b1ebeafda122d78182","plugin_mode":"WordPress","select_prefs":{"addthis_per_post_enabled":true,"addthis_above_enabled":false,"addthis_below_enabled":true,"addthis_sidebar_enabled":false,"addthis_mobile_toolbar_enabled":false,"addthis_above_showon_home":false,"addthis_below_showon_home":false,"addthis_above_showon_pages":false,"addthis_below_showon_pages":false,"addthis_above_showon_categories":false,"addthis_below_showon_categories":false,"addthis_above_showon_archives":false,"addthis_below_showon_archives":false,"addthis_above_showon_posts":true,"addthis_above_showon_excerpts":true,"addthis_below_showon_posts":true,"addthis_below_showon_excerpts":true,"addthis_sidebar_showon_home":true,"addthis_sidebar_showon_posts":true,"addthis_sidebar_showon_pages":true,"addthis_sidebar_showon_archives":true,"addthis_sidebar_showon_categories":true,"addthis_mobile_toolbar_showon_home":true,"addthis_mobile_toolbar_showon_posts":true,"addthis_mobile_toolbar_showon_pages":true,"addthis_mobile_toolbar_showon_archives":true,"addthis_mobile_toolbar_showon_categories":true,"sharing_enabled_on_post_via_metabox":true},"page_info":{"template":"home","post_type":""}};
+                    if (typeof(addthis_config) == "undefined") {
+                        var addthis_config = {"data_track_clickback":false,"ui_language":"en","ui_atversion":300,"ui_508_compliant":true,"ignore_server_config":true};
+                    }
+                    if (typeof(addthis_share) == "undefined") {
+                        var addthis_share = {"passthrough":{"twitter":{"via":"umisr"}}};
+                    }
+                    if (typeof(addthis_layers) == "undefined") {
+                        var addthis_layers = {};
+                    }
+                </script>
+                <script data-cfasync="false" type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-503c0a2e21c949af " async="async">
+                </script>
+                <script data-cfasync="false" type="text/javascript">
+                    (function() {
+                        var at_interval = setInterval(function () {
+                            if(window.addthis) {
+                                clearInterval(at_interval);
+                                addthis.layers(addthis_layers);
+                            }
+                        },1000)
+                    }());
+                </script>
+                			</div><!-- .entry-content -->
+	<footer class="entry-meta">
+			</footer><!-- .entry-meta -->
+</article><!-- #post-11664 -->
+						<div id="comments">
+	
+	
+	
+	
+</div><!-- #comments -->
+
+				
+			</div><!-- #content -->
+
+			<div id="newsarea">
+
+<h1>News</h1>
+
+<div><div class="newsimage"><img width="101" height="150" src="http://home.isr.umich.edu/files/2015/12/arline-101x150.jpg" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Arline Geronimus, Sc.D." srcset="http://home.isr.umich.edu/files/2015/12/arline-101x150.jpg 101w, http://home.isr.umich.edu/files/2015/12/arline.jpg 144w" sizes="(max-width: 101px) 100vw, 101px"/></div><h3><a href="http://home.isr.umich.edu/blog/news/category/people/" rel="category tag">People</a>, <a href="http://home.isr.umich.edu/blog/news/category/profiles/" rel="category tag">Profiles</a></h3><h2><a href="http://home.isr.umich.edu/releases/arline-geronimus/" title="Look Arline Geronimus: dedicated to diversity, equity and inclusivity">Arline Geronimus: dedicated to diversity, equity and inclusivity</a></h2><h4>[ 11 Nov 2016 ]</h4><p>ANN ARBOR&#8212;For Arline Geronimus, attending Princeton in the 1970s was her first anthropological study. Like many similar institutions, the university was going through great change as it sought to diversify, allowing women to attend for the first time, increasing the&hellip;</p></div><hr><div><div class="newsimage"><img width="150" height="145" src="http://home.isr.umich.edu/files/2016/11/MC-Levenstein-150x145.jpg" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Maggie Levenstein" srcset="http://home.isr.umich.edu/files/2016/11/MC-Levenstein-150x145.jpg 150w, http://home.isr.umich.edu/files/2016/11/MC-Levenstein-300x290.jpg 300w, http://home.isr.umich.edu/files/2016/11/MC-Levenstein-1024x988.jpg 1024w, http://home.isr.umich.edu/files/2016/11/MC-Levenstein-311x300.jpg 311w, http://home.isr.umich.edu/files/2016/11/MC-Levenstein.jpg 1259w" sizes="(max-width: 150px) 100vw, 150px"/></div><h3><a href="http://home.isr.umich.edu/blog/news/category/icpsr-2/" rel="category tag">ICPSR</a>, <a href="http://home.isr.umich.edu/blog/news/category/profiles/" rel="category tag">Profiles</a></h3><h2><a href="http://home.isr.umich.edu/releases/new-icpsr-director-breaks-mold/" title="Look New ICPSR Director breaks the mold">New ICPSR Director breaks the mold</a></h2><h4>[ 10 Nov 2016 ]</h4><p>ANN ARBOR&#8212;While Margaret Levenstein is the first female director at the Institute of Social Research’s (ISR) Inter-University Consortium for Political and Social Research (ICPSR), she is quick to point out — with a laugh — that she’s also the first&hellip;</p></div>	<p class="morenews"><a href="http://home.isr.umich.edu/releases/">more news...</a></p>
+</div>
+
+		</div><!-- #primary -->
+
+
+		<div id="secondary" class="widget-area" role="complementary">
+			<div id="f-sidebar-widget">				<div id="f-thumbs-container">
+                    <ul id="f-thumbs">
+                        <li id="f0"><a class="active" href="http://home.isr.umich.edu/releases/depression-heart-disease/"></a></li>
+<li id="f1"><a href="http://home.isr.umich.edu/releases/science-public-interest-high-literacy-stable"></a></li>
+<li id="f2"><a href="http://home.isr.umich.edu/releases/older-adults-gain-weight/"></a></li>
+<li id="f3"><a href="http://home.isr.umich.edu/sampler/lost-in-the-system/"></a></li>
+                    </ul>
+                </div><!--/f-thumbs-container-->
+	            <div id="f-blurb"><p>Symptoms of depression lead to a greater risk of heart disease in older black adults, but not in white adults, reports a new study from the University of Michigan’s Institute for Social Research (ISR). <a href="http://home.isr.umich.edu/releases/depression-heart-disease/">Read more.</a></p> </div>
+
+                
+			</div><aside id="text-5" class="widget widget_text">			<div class="textwidget"><h3><a href="http://home.isr.umich.edu/sign-up-for-isr-research-update/">Sign Up</a></h3>
+to get ISR news and publications</div>
+		</aside><aside id="text-16" class="widget widget_text"><h3 class="widget-title">The Next Generation</h3>			<div class="textwidget"><img style="padding: 3px;" src="http://home.isr.umich.edu/files/2016/08/Kusunoki-Sidebar.jpg"/>
+<p style="padding: 3px;">Yasamin Kusunoki, 2014-2015 winner of an Award from the Marshal Weinberg Endowed Research Fund, is studying dynamic patterns of contraceptive use among young women during the transition to adulthood.<br/><a href="http://home.isr.umich.edu/sampler/not-expecting/" target="_blank">Read more.</a></p>
+<br/>
+<h5><a href="http://home.isr.umich.edu/blog/news/category/next-generation/?post_type=sampler" "target="_blank">Profiles of the Next Generation</a></h5></div>
+		</aside>		</div><!-- #secondary .widget-area -->
+
+	</div><!-- #main -->
+
+	<footer id="colophon" role="contentinfo">
+
+			
+<div id="supplementary" class="three">
+		<div id="first" class="widget-area" role="complementary">
+		<aside id="text-2" class="widget widget_text">			<div class="textwidget">&copy; 2016 The <a href="http://www.regents.umich.edu/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.regents.umich.edu/', 'Regents');">Regents</a> of the University of Michigan<br/>
+<a href="http://www.umich.edu/" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.umich.edu/', 'U-M Gateway');">U-M Gateway</a> | <a href="http://www.hr.umich.edu/oie/ndpolicy.html" onclick="__gaTracker('send', 'event', 'outbound-widget', 'http://www.hr.umich.edu/oie/ndpolicy.html', 'Non-discrimination policy');">Non-discrimination policy</a><br/>
+<a href="http://home.isr.umich.edu/diversity/dei/">ISR Diversity</a><br/>
+<a href="http://compute.isr.umich.edu/">ISR Intranet</a></div>
+		</aside>	</div><!-- #first .widget-area -->
+	
+		<div id="second" class="widget-area" role="complementary">
+		<aside id="text-3" class="widget widget_text">			<div class="textwidget">Institute for Social Research<br/>
+University of Michigan<br/>
+P.O. Box 1248<br/>
+426 Thompson St.<br/>
+Ann Arbor, MI 48106-1248</div>
+		</aside>	</div><!-- #second .widget-area -->
+	
+		<div id="third" class="widget-area" role="complementary">
+		<aside id="text-4" class="widget widget_text">			<div class="textwidget">Voice: (734) 764-8354<br/>
+Fax: (734) 647-4575<br/>
+email: <a href="mailto:umisr-info@umich.edu">umisr-info@umich.edu</a></div>
+		</aside>	</div><!-- #third .widget-area -->
+	</div><!-- #supplementary -->
+			<div id="site-generator">
+								<a href="http://wordpress.org/" title="Semantic Personal Publishing Platform" rel="generator">Proudly powered by WordPress</a>
+			</div>
+	</footer><!-- #colophon -->
+</div><!-- #page -->
+
+			<script type="text/javascript">function showhide_toggle(a,b,d,f){var e=jQuery("#"+a+"-link-"+b),c=jQuery("a",e),g=jQuery("#"+a+"-content-"+b);a=jQuery("#"+a+"-toggle-"+b);e.toggleClass("sh-show sh-hide");g.toggleClass("sh-show sh-hide").toggle();"true"===c.attr("aria-expanded")?c.attr("aria-expanded","false"):c.attr("aria-expanded","true");a.text()===d?a.text(f):a.text(d)};</script>
+	<link rel="stylesheet" id="addthis_output-css" href="http://home.isr.umich.edu/wp-content/plugins/addthis/css/output.css?ver=4.5.3" type="text/css" media="all"/>
+<link rel="stylesheet" id="mc-home-feature-css" href="http://home.isr.umich.edu/wp-content/plugins/mc-home-feature/assets/css/mc-home-feature.css?ver=4.5.3" type="text/css" media="all"/>
+<script type="text/javascript" src="http://home.isr.umich.edu/wp-includes/js/comment-reply.min.js?ver=4.5.3"></script>
+<script type="text/javascript" src="http://home.isr.umich.edu/wp-includes/js/jquery/ui/effect.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="http://home.isr.umich.edu/wp-includes/js/jquery/ui/effect-blind.min.js?ver=1.11.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var stbUserOptions = {"mode":"css","cssOptions":{"roundedCorners":true,"mbottom":10,"imgHide":"https:\/\/home.isr.umich.edu\/wp-content\/plugins\/wp-special-textboxes\/images\/minus.png","imgShow":"https:\/\/home.isr.umich.edu\/wp-content\/plugins\/wp-special-textboxes\/images\/plus.png","strHide":"Hide","strShow":"Show"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://home.isr.umich.edu/wp-content/plugins/wp-special-textboxes/js/wstb.min.js?ver=5.5.101"></script>
+<script type="text/javascript" src="http://home.isr.umich.edu/wp-includes/js/wp-embed.min.js?ver=4.5.3"></script>
+<script type="text/javascript" src="http://home.isr.umich.edu/wp-content/plugins/mc-home-feature/assets/js/mc-home-feature.js?ver=4.5.3"></script>
+<!--wp_footer-->
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 01:29:58 Nov 15, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:24:54 Mar 31, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 72.485 (3)
+  esindex: 0.01
+  captures_list: 97.62
+  CDXLines.iter: 9.377 (3)
+  PetaboxLoader3.datanode: 57.536 (4)
+  exclusion.robots: 0.175
+  exclusion.robots.policy: 0.164
+  RedisCDXSource: 8.446
+  PetaboxLoader3.resolve: 72.434 (2)
+  load_resource: 60.295
+-->

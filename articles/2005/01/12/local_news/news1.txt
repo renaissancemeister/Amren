@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Sierra Vista Herald: Local News</title>
+</head>
+<body>
+<table width="735" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="bottom">
+        <td width="432"><a href="http://www.svherald.com/"><img src="http://www.svherald.com/art/toplogo.gif" width="432" height="89" border="0"></a></td>
+        <td align="right" valign="middle">
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+masthead';
+aAds[0][1] = '8774';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.svherald.com/display_ads/StaticPageRamaeker.txt';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/563538267/creative/svherald.com/local_news+masthead/8774.gif?r=http://www.svherald.com/display_ads/StaticPageRamaeker.txt" target="_blank"><img border="0" src="http://adsys.townnews.com/1913227215/creative/svherald.com/local_news+masthead/8774.gif"/></a>
+</noscript>
+</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="http://www.svherald.com/art/spacer.gif" width="1" height="10"></td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="top"><table width="735" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="bottom">
+        <td width="54"><a href="http://www.svherald.com/"><img src="http://www.svherald.com/art/navigation/home01.gif" width="54" height="25" border="0"></a></td>
+        <td width="86"><a href="http://www.svherald.com/local_news"><img src="http://www.svherald.com/art/navigation/news02.gif" width="86" height="25" border="0"></a></td>
+        <td width="60"><a href="http://www.svherald.com/sports"><img src="http://www.svherald.com/art/navigation/sports01.gif" width="60" height="25" border="0"></a></td>
+        <td width="79"><a href="http://www.svherald.com/obituaries"><img src="http://www.svherald.com/art/navigation/obits01.gif" width="79" height="25" border="0"></a></td>
+        <td width="83"><a href="http://www.svherald.com/classifieds"><img src="http://www.svherald.com/art/navigation/class01.gif" width="83" height="25" border="0"></a></td>
+        <td width="122"><a href="http://www.svherald.com/business_guide"><img src="http://www.svherald.com/art/navigation/business01.gif" width="122" height="25" border="0"></a></td>
+        <td width="77"><a href="http://www.svherald.com/about_us"><img src="http://www.svherald.com/art/navigation/about01.gif" width="77" height="25" border="0"></a></td>
+        <td width="77"><a href="http://www.svherald.com/archives"><img src="http://www.svherald.com/art/navigation/archives01.gif" width="77" height="25" border="0"></a></td>
+        <td width="97"><a href="javascript:void(0)" onclick="window.open('https://secure.townnews.com/svherald.com/forms/subscribe.php','Subscribe','width=600,height=450,scrollbars=1');"><img src="http://www.svherald.com/art/navigation/subscribe01.gif" width="97" height="25" border="0"></a></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top" class="nav"><table width="100%" border="0" cellspacing="0" cellpadding="3">
+      <tr>
+        <td class="pipe"><img src="http://www.svherald.com/art/spacer.gif" height="15" width="1"><a href="http://www.svherald.com/photo_gallery">Photo Gallery</a> | <a href="http://www.svherald.com/local_news/features_and_opinions" class="">Features And Opinions</a>
+        </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td valign="top" class="background"><table width="735" border="0" cellspacing="0" cellpadding="0">
+      <tr valign="top">
+        <td width="125" class="leftcolumn"><table width="125" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td align="center" valign="top"><img src="http://www.svherald.com/art/modules/specialsections.gif" width="125" height="25">	</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" class="modules"><a href="http://www.svherald.com/special_section/2/">Land of Legends</a><br><br></td>
+  </tr>
+</table>
+<br>
+          <img src="http://www.svherald.com/art/spacer.gif" width="125" height="1"></td>
+        <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+top1';
+aAds[0][1] = '8717';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.svherald.com/OraleeCCC/OraleeCrookedCcStaticPg.html';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/2036137384/creative/svherald.com/local_news+top1/8717.gif?r=http://www.svherald.com/OraleeCCC/OraleeCrookedCcStaticPg.html" target="_blank"><img border="0" src="http://adsys.townnews.com/1417709978/creative/svherald.com/local_news+top1/8717.gif"/></a>
+</noscript>
+</td>
+            <td>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+top2';
+aAds[0][1] = '8791';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.svherald.com/curves/curvespage.html';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/1806782159/creative/svherald.com/local_news+top2/8791.gif?r=http://www.svherald.com/curves/curvespage.html" target="_blank"><img border="0" src="http://adsys.townnews.com/60540132/creative/svherald.com/local_news+top2/8791.gif"/></a>
+</noscript>
+</td>
+          </tr>
+        </table>		
+          <table width="100%" border="0" cellspacing="0" cellpadding="5">
+            <tr>
+              <td valign="top">
+			  	<p class="date"><script><!--
+showCurrentDate(1);//--></script><noscript></noscript></p>
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td>
+                        <p class="section">Local News</p>
+                        <p class="headline">Governor critical of Mexican manual </p>
+                        <p class="byline">BY BILL HESS<br>
+                            <span class="timestamp"><span class="timestamp">Wednesday, January 12, 2005 1:36 PM MST</span></span></p>
+                        <table border="0" cellspacing="0" cellpadding="0" align="right" class="photo-bdr">
+                          <tr>
+                            <td width="">  </td>
+                          </tr>
+                          <tr>
+                            <td class="cutline" width="">  </td>
+                          </tr>
+                        </table>
+                        <p class="content">Herald/Review<br/><br/>PHOENIX &#045; A pamphlet put out by the Mexican government that purports to be a safety manual for those who cross the border illegally is harming Arizona, Gov. Janet Napolitano said Tuesday. 
+                        <p class="content">The government of Mexico is interfering with the state&#039;s security, she said in a telephone interview with the Herald/Review.<br/><br/>&quot;It&#039;s a how to illegally cross, not how to legally enter (the United States),&quot; she said. 
+                        <p class="content">The pamphlet prepared by the Mexican government is being inserted into a popular comic book and handed out to Mexican citizens living in some of the poorer states of Mexico.<br/><br/>Francis McWilliams, a Sierra Vista resident who lived in Mexico for a number of years, and Glenn Spencer the founder of the American Border Patrol, agree with Napolitano&#039;s view of the manual.</p>
+                                    <table border="0" cellspacing="0" cellpadding="0" align="right">
+                                      <tr>
+                                        <td class="cutline" align="center"> 
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+middle';
+aAds[0][1] = '9395';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.bergshvac.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/1054541624/creative/svherald.com/local_news+middle/9395.gif?r=http://www.bergshvac.com" target="_blank"><img border="0" src="http://adsys.townnews.com/692613882/creative/svherald.com/local_news+middle/9395.gif"/></a>
+</noscript>
+ </td>
+                                      </tr>
+                                    </table>
+                                    <p class="content">McWilliams said the guide for Mexican immigrants &quot;is indeed a poke in the eye&quot; to the United States.<br/><br/>&quot;Our somnambulant U.S. State Department has not uttered a whimper in protest,&quot; he said. </p>
+                                    <p class="content">Spencer said the governor is right in calling the pamphlet a how-to instruction book.<br/><br/>&quot;The governor&#039;s descriptive powers are excellent. That&#039;s what it is,&quot; he said.<br/><br/>On the other hand, Douglas Mayor Ray Borane said 95 percent of the pamphlet deals with safety and health issues and 5 percent of it &quot;steps over the bounds,&quot; with Mexico giving implied encouragement to illegal immigrants.<br/><br/>&quot;I don&#039;t like the fact about how to get away from the (U.S.) Border Patrol,&quot; he said.<br/><br/>State Rep. Russell Pearce, a Mesa Republican who represents District 18, said the guide tells Mexicans how to cross the border illegally.<br/><br/>&quot;It&#039;s outrageous. It shows disrespect and contempt for our (U.S.) laws,&quot; he said.<br/><br/>The book was published by the Mexican government late last year.<br/><br/>In her State of the State speech Monday before the Arizona Legislature, Napolitano said federal politicians in Washington, D.C., are not meeting their responsibilities in controlling the border.<br/><br/>&quot;Arizona has more people illegally crossing our southern border than the other three border states (California, New Mexico and Texas) combined. It is time for the national government to step in, devote the resources and do its job of protecting the border,&quot; she told the legislators.<br/><br/>In the last federal fiscal year &#045; Oct. 1, 2003 through Sept. 30, 2004 &#045; nearly 490,000 illegal immigrants were apprehended by Border Patrol agents in the Tucson Sector, a region that includes all of Arizona, except for the far western area near Yuma. Of that number more than 235,000  were taken into custody in Cochise County, a region that shares 83 miles of the border with Mexico.<br/><br/>The border, which the governor said is broken, &quot;has real financial consequences&quot; for Arizona.<br/><br/>&quot;Did you know that today, Arizona taxpayers pay to imprison nearly 4,000 people who were already here illegally and broke our state laws? Federal law requires the federal government to either pay for these prisoners or take them off our hands,&quot; Napolitano said in her speech.<br/><br/>During the interview, she said it cost about &#036;23,000 a year for people in confinement. Based on 4,000 illegal immigrant inmates that equates to &#036;92 million annually.<br/><br/>The governor also said the state is short 4,000 beds. If Arizona did not have to imprison illegal immigrants, there would be less of a need to build new jails or prisons, she said. This is a problem that faces the state.<br/><br/>In October, Napolitano requested that the U.S. attorney general reimburse Arizona for illegal immigrants who are prisoners. She said she received an unacceptable answer in which the federal government questioned the cost for reimbursement. The federal government has provided some reimbursement, but the governor called it a &quot;pittance.&quot;<br/><br/>If the U.S. government is not going to pay the full cost, as required by federal law, she wants the federal government to take control of the illegal immigrants prisoners.<br/><br/>&quot;I&#039;m willing to take them any place the feds designate,&quot; Napolitano said.<br/><br/>But the problem isn&#039;t only for the U.S. government.<br/><br/>&quot;It is time for the Mexican government to do its part to control illegal immigration,&quot; the governor told the state&#039;s lawmakers.<br/><br/>The U.S. government needs to put more resources &#045; unmanned aerial vehicles, sensors and manpower &#045; along the border, Napolitano told the Herald/Review. That has been an outcry for years, especially by people who live along the international boundary in places such as Cochise County, she said.<br/><br/>For the Mexican federal government to wring their hands, say their hands are tied and that they can&#039;t do anything is not the truth, Napolitano said. Mexico can go after the people smugglers and can look into the hotels and their owners that have sprung up in border towns south of the boundary that cater to illegal immigrants, she said.<br/><br/>Spencer, a longtime critic of how the U.S. government, has been handling border issues, said the Mexican government believes that much of the United States really is Mexican territory that needs to be returned to Mexico.<br/><br/>The immigration influx is part of a plan to eventually return the American Southwest to Mexico, he added<br/><br/>He also expressed concerns that President George W. Bush&#039;s nominee for U.S. attorney general &#045; Alberto Gonzales &#045; will not support stricter border controls. As for the pamphlet, it is just another tool by the Mexican government to violate U.S. sovereignty, Spencer said.<br/><br/>&quot;It&#039;s an aggressive act,&quot; he added.<br/><br/>Borane said the pamphlet was an attempt by the Mexican government &quot;to show genuine care for the well-being of its people.&quot; However, some of the cartoons and words in the guide are directed on how not to be caught and if caught how to act.<br/><br/>The Mexican government needs &quot;potential revolutionaries&quot; to leave the country, and that is not being recognized, the Douglas mayor said. Most of the people departing Mexico are the poorest and usually the ones who historically start revolutions, he added.<br/><br/>To Pearce, it doesn&#039;t matter if the people who are leaving Mexico are looking for work. Arizona must draw the line in the sand, or in this case the border, he said.<br/><br/>Pearce plans to introduce a number of bills during the state Legislature&#039;s session in an effort to get a handle on the border. He hopes some of the bills will force the U.S. government&#039;s hand.<br/><br/>His bills would require the state to become more actively involved in illegal immigration issue, such as requiring Arizona law enforcement agencies to take part in arresting illegal immigrants, denying bond to those who have committed major felonies and others aimed at making it unpleasant for illegal border crossers to live in Arizona.<br/><br/>McWilliams said Napolitano was right to call on the U.S. government to do more about the out-of-control border situation.<br/><br/>He said the number of apprehensions bantered about by the Border Patrol does not show the full impact because for every illegal immigrant taken into custody five others make it into the United States.<br/><br/>No federal official of the U.S. will ever admit to that number, McWilliams added.<br/><br/>&quot;Immigration laws don&#039;t need to be reformed as much as they need to be enforced to the letter of the law. Or they need to be taken off the books,&quot; McWilliams said.<br/><br/>Nobody in their right mind wants to consider rescinding existing laws, he said.<br/><br/>&quot;Many elected representatives in Washington would agree with me, but unfortunately they are unwilling to advocate strict enforcement of immigration laws because they are fearful it would be viewed by certain minorities as racists,&quot; McWilliams said.<br/><br/>The population of Mexico has exploded, and the Mexican economy cannot provide jobs for more than half of the young people entering the work force, he said.<br/><br/>When McWilliams was a student at a Mexican university more than a half century ago, the total population of Mexico was 22 million and Mexico City&#039;s population was 2 million.<br/><br/>Today, Mexico&#039;s population is between 100 million and 110 million and Mexico City&#039;s population is 22 million, he said.<br/><br/>Numbers of how many immigrants from Mexico, legal and illegal, who live in the United States is understated, he said.<br/><br/>At least 20 million live in the United States, which is nearly the entire population of Mexico in 1950, McWilliams said.<br/><br/>Between &#036;15 billion and &#036;20 billion is sent to Mexico by Mexicans working in the United States, McWilliams said.<br/><br/>As for a new guest-worker program being touted by U.S. Rep. Jim Kolbe, U.S. Sen. John McCain and the president, it is being &quot;ballyhooed about inside the (Washington, D.C.) Beltway (and) are apparently predicated on the belief that jobs Americans won&#039;t fill would be offered to Mexicans,&quot; he said.<br/><br/>McWilliams said if a new guest-worker program passes and there are 10 million Mexicans looking for jobs but only a million exist in the United States, it is not logical to think that the other 9 million will wait.<br/><br/>&quot;Mexican politicians are not stupid. They took it upon themselves to issue a guide because they realize that so long as our government does not enforce immigration laws, their people are going to head north,&quot; McWilliams said.<br/><br/>HERALD/REVIEW senior reporter Bill Hess can be reached at 515-4615 or by e-mail at <a href="mailto:bill.hess@svherald.com">bill.hess@svherald.com</a>.</p></td>
+                    </tr>
+                  </table>
+                  <p><a href="http://www.svherald.com/articles/2005/01/12/local_news/news1.prt" target="printable"><img src="http://www.svherald.com/art/print_icon.gif" width="13" height="14" vspace="0" hspace="2" border="0"><span class="more">printable version</span></a></p>
+                  <p><a href="http://www.svherald.com/articles/2005/01/12/local_news/news1.eml" target="emailafriend"><img src="http://www.svherald.com/art/email_icon.gif" width="14" height="14" vspace="0" hspace="2" border="0"><span class="more">e-mail this story</span></a></p>                  </td>
+            </tr>
+          </table></td>
+        <td width="1" class="divider"><img src="http://www.svherald.com/art/spacer.gif" width="1" height="1"></td>
+        <td width="125" align="center"><table width="125" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+  	<td class="nav-links" align="center" valign="top">
+		Search Archives: 
+        	<form method="GET" class="form">
+            	<input type="HIDDEN" name="search" value="1">
+                <input type="HIDDEN" name="o" value="0">
+                <input type="HIDDEN" name="l" value="25">
+                <input type="TEXT" name="q" size="8" maxlength="25">
+                <input type="SUBMIT" value="Search!" name="SUBMIT">
+            </form>
+	</td>
+  </tr>
+  <tr>
+    <td><img src="http://www.svherald.com/art/spacer.gif" height="10"></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+	<p><!-- AdSys ad not found for local_news:right1 --></p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right2';
+aAds[0][1] = '8510';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.home.earthlink.net/~svumc';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/1301895590/creative/svherald.com/local_news+right2/8510.gif?r=http://www.home.earthlink.net/~svumc" target="_blank"><img border="0" src="http://adsys.townnews.com/22266948/creative/svherald.com/local_news+right2/8510.gif"/></a>
+</noscript>
+</p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right3';
+aAds[0][1] = '8159';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.techedtraining.org/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/679959048/creative/svherald.com/local_news+right3/8159.gif?r=http://www.techedtraining.org" target="_blank"><img border="0" src="http://adsys.townnews.com/304170638/creative/svherald.com/local_news+right3/8159.gif"/></a>
+</noscript>
+</p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right4';
+aAds[0][1] = '8161';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.cc-winterhaven.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/1358543695/creative/svherald.com/local_news+right4/8161.gif?r=http://www.cc-winterhaven.com" target="_blank"><img border="0" src="http://adsys.townnews.com/1142430091/creative/svherald.com/local_news+right4/8161.gif"/></a>
+</noscript>
+</p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right5';
+aAds[0][1] = '2626';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.yourtrustedagent.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/1928046096/creative/svherald.com/local_news+right5/2626.gif?r=http://www.yourtrustedagent.com" target="_blank"><img border="0" src="http://adsys.townnews.com/714334237/creative/svherald.com/local_news+right5/2626.gif"/></a>
+</noscript>
+</p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right6';
+aAds[0][1] = '2627';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.cochiseeye.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/1065768853/creative/svherald.com/local_news+right6/2627.gif?r=http://www.cochiseeye.com" target="_blank"><img border="0" src="http://adsys.townnews.com/522790573/creative/svherald.com/local_news+right6/2627.gif"/></a>
+</noscript>
+</p>
+    <p>
+<script type="text/javascript" language="javascript">
+aAds = new Array();
+aAds[0] = new Array();
+aAds[0][0] = 'local_news+right7';
+aAds[0][1] = '8508';
+aAds[0][2] = 'gif';
+aAds[0][3] = 'http://www.villavistasv.com/';
+aAds[0][4] = '1';
+displayAd('http://adsys.townnews.com/', 'svherald.com', aAds);
+</script>
+<noscript>
+<a href="http://adsys.townnews.com/618312736/creative/svherald.com/local_news+right7/8508.gif?r=http://www.villavistasv.com" target="_blank"><img border="0" src="http://adsys.townnews.com/932621690/creative/svherald.com/local_news+right7/8508.gif"/></a>
+</noscript>
+</p>
+    <p><!-- AdSys ad not found for local_news:right8 --></p>
+    <p><!-- AdSys ad not found for local_news:right9 --></p>
+    <p><!-- AdSys ad not found for local_news:right10 --></p></td>
+  </tr>
+</table>
+<br>
+          <img src="http://www.svherald.com/art/spacer.gif" width="125" height="1"></td>
+      </tr>
+      <tr valign="top">
+        <td class="leftcolumn">&nbsp;</td>
+        <td align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top"><!-- AdSys ad not found for local_news:bottom --></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" class="content"><strong>Copyright &copy; 2004 Sierra Vista Herald.</strong>      <br>
+      <a href="http://www.svherald.com/">Home</a> | <a href="http://www.svherald.com/local_news">Local News</a> | <a href="http://www.svherald.com/sports">Sports</a> | <a href="http://www.svherald.com/obituaries">Obituaries</a><br><a href="http://www.svherald.com/classifieds">Classifieds</a> | <a href="http://www.svherald.com/business_guide">Business Guide</a> | <a href="http://www.svherald.com/about_us">About Us</a> | <a href="http://www.svherald.com/archives">Archives</a> | <a href="https://secure.townnews.com/svherald.com/forms/subscribe.php">Subscribe</a> </td>
+  </tr>
+</table>
+</td>
+        <td width="1" class="divider"><img src="http://www.svherald.com/art/spacer.gif" width="1" height="1"></td>
+        <td align="center">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 11:10:54 Jan 18, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:11:33 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 40.523 (3)
+  esindex: 0.006
+  captures_list: 61.422
+  CDXLines.iter: 11.748 (3)
+  PetaboxLoader3.datanode: 78.693 (4)
+  exclusion.robots: 0.205
+  exclusion.robots.policy: 0.191
+  RedisCDXSource: 5.865
+  PetaboxLoader3.resolve: 30.421
+  load_resource: 110.472
+-->

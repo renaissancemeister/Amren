@@ -1,0 +1,1023 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>
+Escondido man forms city's Minutemen Brigade : North County Times - Californian </title>
+</head>
+
+<body>
+<script type="text/javascript" src="http://www.nctimes.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('nctimes.com'); TNTracker.setTracker('http://www.nctimes.com/shared-content/stats/common/tracker.gif', 'https://secure.townnews.com/shared-content/stats/common/tracker.gif'); TNTracker.trackPageView(); }
+// -->
+</script>
+<!-- HEADER -->
+<div id="header_wrap">
+
+<!-- HEADER -->
+   <div id="header">
+                
+        <!-- *************************************************************************************************************************** --> 
+              <div id="headerlogo_ad">
+    
+                    <a href="http://www.nctimes.com/"><img id="nctheaderlogo" class="clear" src="http://images.townnews.com/nctimes.com/zimages/08/logo-nct.png" alt="NCTimes.com" width="235" height="89"/></a> 
+                    
+                    <div class="bannerad">
+                        <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/inland_leaderboard/static.js"></script>
+                    </div> 
+                       
+            </div>        <!-- *************************************************************************************************************************** --> 
+                
+        <!-- *************************************************************************************************************************** --> 
+               <div id="midlink" class="clear">
+				
+			<ul id="main_menu" class="lava">
+                <li id="mNews"><a href="http://www.nctimes.com/news/">News</a></li>
+				<li id="mOpinion"><a href="http://www.nctimes.com/opinion/">Opinion</a></li>
+                <li id="mSports"><a href="http://www.nctimes.com/sports/">Sports</a></li>
+				<li id="mEntertainment"><a href="http://www.nctimes.com/entertainment/">Entertainment</a></li>
+                <li id="mFeatures"><a href="http://www.nctimes.com/features/">Features</a></li>   
+                <li id="mMarket" class="ads_menu"><a href="http://www.nctimes.com/admarket/">Marketplace</a></li>             
+                <li id="mCars" class="ads_menu"><a href="http://wheels.nctimes.com/">Cars</a></li>
+                <li id="mHomes" class="ads_menu"><a href="http://homes.nctimes.com/">Homes</a></li>
+                <li id="mJobs" class="ads_menu"><a href="http://www.nctimes.com/jobs/">Jobs</a></li>
+   			</ul>
+           
+		</div>
+        
+        <div id="botlink">
+			<ul>
+			  	<li><a href="http://www.nctimes.com/" title="Home">HOME</a></li>
+				<li><a href="http://www.nctimes.com/contact_us/" title="Contact Us">CONTACT US</a></li>
+                <li><a href="http://www.nctimes.com/advertising/" title="Advertise">ADVERTISE</a></li>
+                <li><a href="http://www.nctimes.com/web_services/" title="Subscriber Services">SUBSCRIBER SERVICES</a></li>
+            <!--<li><a href="/" title="Site Map">SITE MAP</a></li>-->
+            </ul>
+		</div> <!-- end of botlink -->
+        <!-- *************************************************************************************************************************** --> 
+        
+        <!-- *************************************************************************************************************************** --> 
+              <div id="header-search">
+	<script language="javascript" type="text/javascript">
+	jQuery(document).ready(function() {
+		var search_value = $('input[@name=query]').val();
+		jQuery('#yahooSearchBox').val(search_value);
+	});
+	</script>
+		 <img class="floatleft margin15top" alt="yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+				    
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+			<input class="searchfield" type="text" name="search" size="15" value="Search..." id="yahooSearchBox"/> 
+			<label>in </label>
+			<select name="searchType" id="searchType">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="videos">Videos</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+				<option value="web">Web</option>
+			</select>
+			
+			<input class="submitbutton" name="submitsearch" type="submit" value="Go"/>
+		</form>
+</div> <!-- end of search -->        <!-- *************************************************************************************************************************** --> 		
+                
+        </div><!-- end of header -->
+	
+</div>
+
+<!-- BODY -->
+<div id="content_wrap">
+ 	  <div id="maincontent">
+<!-- *************************************************************************************************************************** --> 
+        <div style="position:relative; z-index:999;">
+
+<!-- NEWS/LOCAL -->
+
+	<div id="submNews" class="subnav-group">
+
+        <div class="subs lead">
+		  <h1><a href="http://www.nctimes.com/news">News Home Page</a></h1>
+          <ul class="lead">
+		    <li><a href="http://www.nctimes.com/news/top_stories">Top Stories</a></li>
+		    <li><a href="http://www.nctimes.com/news/coastal">Coastal</a></li>
+		    <li><a href="http://www.nctimes.com/news/inland">Inland</a></li>
+		    <li><a href="http://www.nctimes.com/news/californian">The Californian</a></li>
+            <li><a href="http://www.nctimes.com/news/sandiego">Region</a></li> 
+			<li><a href="http://www.nctimes.com/news/state">State</a> | <a href="http://www.nctimes.com/news/nation">National</a></li> 
+			<li><a href="http://www.nctimes.com/ap">Today's AP Headlines</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/rss">RSS Feeds</a></li>
+          </ul>
+        </div>
+      
+        <div class="subs">
+          <h1>City News</h1>
+          <ul>
+          	<li><a href="http://www.nctimes.com/news/coastal/carlsbad">Carlsbad</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/del_mar">Del Mar</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/encinitas">Encinitas</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/escondido">Escondido</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/fallbrook">Fallbrook</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/lake_elsinore">Lake Elsinore</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/menifee">Menifee</a></li> 
+            <li><a href="http://www.nctimes.com/news/californian/murrieta">Murrieta</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/oceanside">Oceanside</a></li>
+          </ul>
+        </div>
+        
+        <div class="subs">
+          <ul>
+			<li><a href="http://www.nctimes.com/news/inland/poway">Poway</a></li>
+          	<li><a href="http://www.nctimes.com/news/inland/ramona">Ramona</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/rb">Rancho Bernardo</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/riverside">Riverside County</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/san_marcos">San Marcos</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/sb">Solana Beach</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/temecula">Temecula</a></li>
+            <li><a href="http://www.nctimes.com/news/inland//vc">Valley Center</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/vista">Vista</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/wildomar">Wildomar</a></li>
+          </ul>
+        </div>
+        
+        <div class="subs">
+			<h1><a href="http://www.nctimes.com/business">Business Home Page</a></h1>
+			<ul>
+          		<li><a href="http://www.nctimes.com/blogs/minding_your_business/">Business Blog</a></li>
+          		<li><a href="http://www.nctimes.com/columnists/business/">Business Columnists</a></li>
+          		<li><a href="http://www.nctimes.com/gas_prices">Gas Gauge</a></li>
+		  		<li><a href="http://www.nctimes.com/business/stocks">Stocks</a></li>
+          		
+                <li class="h1-subhead">Other News</li>
+          		<li><a href="http://www.nctimes.com/military">Military</a></li> 
+		  		<li><a href="http://www.nctimes.com/elections2008">Elections</a></li> 
+		  		<li><a href="http://www.nctimes.com/corrections">Corrections</a></li>
+		  		<li><a href="http://www.nctimes.com/backpage">Backpage</a></li>
+		  <!--<li><a href="/business/chamberlin">George Chamberlin</a></li>
+		  <li><a href="/business/bahr">Candace Bahr</a></li>
+		  <li><a href="/business/vanderspek">Jim VanderSpek</a></li>
+		  <li><a href="/business/knight">Gary Knight</a></li>-->
+			</ul> 
+   		</div>
+		  
+          <div class="subs"> 
+          	<h1><a href="http://www.nctimes.com/columnists/local/">Local Columnists</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/news/columnists/baier/">Paul Baier</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/jeff_frank">Jeff Frank</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/betty_johnston/">Betty Johnston</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/john_hunneman/">John Hunneman</a></li>
+                <li><a href="http://www.nctimes.com/news/columnists/tom_morrow/">Tom Morrow</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/observer/">John Van Doorn</a></li>
+				<li><a href="http://www.nctimes.com/columnists/local/">More Local Columnists</a></li>
+                <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+           	</ul>
+		 </div> 
+          
+		  <div class="subs"> 
+          	<ul>
+				<li><a href="http://www.nctimes.com/weather">Weather</a></li>
+				<li><a href="http://www.nctimes.com/traffic">Traffic</a></li>
+		  		<li><a href="http://www.nctimes.com/earthquake">Earthquake Reports</a></li>
+		  		<li><a href="http://videos.nctimes.com/">Videos</a></li>
+            	<li><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+                <li><a href="http://www.nctimes.com/archives/">Archives</a></li>
+                <li class="h1-subhead">News Extras</li>
+          		<li><a href="http://www.nctimes.com/maillist/index.php">Daily Headline Alerts</a></li> 
+				<li><a href="http://www.nctimes.com/pdfs">View Front Pages</a></li> 
+           </ul>
+		 </div> 
+	</div>
+	
+<!-- OPINION -->
+	<div id="submOpinion" class="subnav-group">
+	<div class="subs lead"> 
+          <h1><a href="http://www.nctimes.com/opinion/">Opinion Home Page</a></h1>
+          <ul>
+				<!-- <li><a href="/blog">Blogs</a></li> -->
+                <li><a href="http://www.nctimes.com/blogs/editorscorner">Editor's Corner Blog</a></li>
+				<li><a href="http://www.nctimes.com/opinion/editorials">Editorials</a></li>
+				<li><a href="http://www.nctimes.com/opinion/cartoon">Editorial Cartoons</a></li>
+				<li><a href="http://www.nctimes.com/opinion/commentary">Community Forums</a></li>
+				<li><a href="http://www.nctimes.com/perspective/">Perspective</a></li>
+                <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+          </ul>
+		 </div> 
+         
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/columnists/opinion">Opinion Columnists</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/opinion/brett/">Brigid Brett</a></li>
+				<li><a href="http://www.nctimes.com/opinion/chatfield/">Gail Chatfield</a></li>
+                <li><a href="http://www.nctimes.com/opinion/clausen/">Dennis Clausen</a></li>
+                <li><a href="http://www.nctimes.com/opinion/davy">Kent Davy</a></li>
+				<li><a href="http://www.nctimes.com/opinion/jacobs/">Paul Jacobs</a></li>
+				<li><a href="http://www.nctimes.com/opinion/kirk/">Richard Kirk</a></li>
+				<li><a href="http://www.nctimes.com/opinion/rider/">Richard Rider</a></li>
+				<li><a href="http://www.nctimes.com/opinion/riehl/">Richard Riehl</a></li>
+           	</ul>
+          </div>     
+                
+         <div class="subs">
+         	<ul>
+            	<li><a href="http://www.nctimes.com/opinion/scharf/">Greg Scharf</a></li>
+				<li><a href="http://www.nctimes.com/opinion/strickland/">Phil Strickland</a></li>
+                <li><a href="http://www.nctimes.com/opinion/trageser/">Jim Trageser</a></li>
+                <li><a href="http://www.nctimes.com/columnists/opinion">More Columnists</a></li>
+          	</ul>
+		 </div> 
+         
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/columnists/opinion">National Columnists</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/opinion/goodman/">Ellen Goodman</a></li>
+                <li><a href="http://www.nctimes.com/opinion/north/">Oliver North</a></li>
+				<li><a href="http://www.nctimes.com/opinion/will">George Will</a></li>
+          </ul>
+		 </div>
+         
+		 <div class="subs"> 
+         <h1>Letters</h1>
+		 <ul>
+				<li><a href="http://www.nctimes.com/opinion/letters">Letters to the editor</a></li>
+				<li><a href="http://www.nctimes.com/faith/letters">Faith &amp; Values Letters</a></li>
+          </ul>
+		 </div>
+     </div>
+	 
+<!-- SPORTS -->
+
+	<div style="display: none;" id="submSports" class="subnav-group">
+	   	<div class="subs lead">
+
+        	<h1><a href="http://www.nctimes.com/sports/">Sports Main Page</a></h1>
+            <ul>
+                <li><a href="http://www.nctimes.com/sports/chargers">Chargers</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/teams/083/team.aspx?id=083">Stats</a></li>
+                <li><a href="http://www.nctimes.com/sports/padres">Padres</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/teams/010/team.aspx?id=010">Stats</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=4">Blog</a></li>
+                <li><a href="http://www.nctimes.com/sports/angels/">Angels</a></li>
+		    	<li><a href="http://www.nctimes.com/sports/action">Action Sports</a></li>
+                <li><a href="http://www.nctimes.com/sports/communitysports">Community Sports</a></li>
+				<li><a href="http://www.nctimes.com/sports/golf">Golf</a></li>
+                <li><a href="http://www.nctimes.com/sports/horseracing">Horse Racing</a></li>	
+                <li><a href="http://www.nctimes.com/sports/motorsports">Motorsports</a></li>
+				<li><a href="http://www.nctimes.com/sports/outdoors">Outdoors</a></li>
+          </ul>
+   	    </div>
+
+        <div class="subs">
+	   	  <h1><a href="http://www.nctimes.com/columnists/sports">Columnists</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/sports/nelson">Loren Nelson</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=20">Blog</a></li>
+		    <li><a href="http://www.nctimes.com/sports/paris">Jay Paris</a></li>
+		    <li><a href="http://www.nctimes.com/sports/maffei">John Maffei</a></li>
+			<li class="h1-subhead">Sunday Slant</li>
+		    <li><a href="http://www.nctimes.com/sports/sides">Choosing Sides</a></li>
+		    <li><a href="http://www.nctimes.com/sports/net">Nothin' But Net</a></li>
+            <li><a href="http://www.nctimes.com/sports/take5">Take 5</a></li>
+            <li><a href="http://www.nctimes.com/sports/letters">Letters</a></li>
+		  </ul>
+   	    </div>
+        
+	   	<div class="subs">
+          <h1>Colleges</h1>
+          <ul>  
+          	<li><a href="http://www.nctimes.com/sports/aztecs">San Diego State</a></li>
+			<li><a href="http://www.nctimes.com/sports/collegesports">Local Colleges</a></li>
+		    <li><a href="http://www.nctimes.com/sports/ncaabasketball">NCAA Basketball</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cbask/news/index.aspx?sport=AE">Stats</a></li>
+		  	<li><a href="http://www.nctimes.com/sports/ncaafootball">NCAA Football</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cfoot/news/index.aspx?sport=AF">Stats</a></li>
+			<li class="h1-subhead">High Schools</li>
+		    <li><a href="http://www.nctvarsity.com/">NCTVarsity</a> | <a href="http://www.nctimes.com/sports/highschool">Stats</a></li>
+		    <li><a href="http://www.calvarsity.com/">CALVarsity</a> | <a href="http://www.nctimes.com/sports/highschool/calhighschool">Stats</a></li>
+          </ul>
+   	    </div>
+		
+		<div class="subs">
+	   	  <h1>More Sports</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/sports/nba">NBA</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nba/news/index.aspx?sport=AC">Stats</a></li>		    		<li><a href="http://www.nctimes.com/sports/nfl">NFL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/news/index.aspx?sport=AB">Stats</a></li>		    		<li><a href="http://www.nctimes.com/sports/nhl">NHL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nhl/news/index.aspx?sport=AD">Stats</a></li>            <li><a href="http://www.nctimes.com/sports/mlb">MLB</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/news/index.aspx?sport=AA">Stats</a></li>
+            <li><a href="http://www.nctimes.com/sports/storm">Storm</a></li>
+		    <li><a href="http://www.nctimes.com/sports/tennis">Tennis</a></li>
+            <li><a href="http://www.nctimes.com/sports/olympics">Olympics</a></li>
+			<li><a href="http://www.nctimes.com/sports/boxing">Boxing</a></li>
+		  </ul>
+   	    </div>
+		
+		 <div class="subs">
+	   	  <h1><a href="http://www.nctimes.com/special_reports">Special Reports</a></h1>
+		  <ul>
+			<li><a href="http://www.nctimes.com/special_reports/football2007/">NCT Prep Football - 2007</a></li>
+		    <li><a href="http://www.nctimes.com/special_reports/football2007/">CAL Prep Football - 2007</a></li>
+            <li><a href="http://www.nctimes.com/special_reports/gwynn/">Tribute to Tony Gywnn</a></li>
+            <li><a href="http://www.nctimes.com/articles/2008/05/06/sports/highschool/023d5a64e94bd0998825744000582c05.txt">Star Power: Big-name athletes turned coaches</a></li>
+	      	<li><a href="http://www.nctimes.com/usopen2008/">US Open 2008</a></li>
+            	<li class="h1-subhead"><a href="http://www.nctimes.com/blogs/sports_insider">Sports Main Blog Page</a></li>
+          </ul>
+   	    </div>
+  
+	</div>
+
+
+<!--5 ENTERTAINMENT DROP DOWNS -->
+
+	<div id="submEntertainment" class="subnav-group">
+	    
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/entertainment">Entertainment Home Page</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/entertainment/television">T.V.</a> | <a href="http://www.nctimes.com/entertainment/television/listings/">Listings</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/movies">Movies</a> | <a href="http://www.nctimes.com/cinema-source/movies/">Listings</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/art">Art</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/theater">Theater</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/music">Music</a></li>
+	        <li><a href="http://www.nctimes.com/books">Books</a></li>
+		    <li><a href="http://www.nctimes.com/comics">Comics</a></li>
+		    <li><a href="http://www.nctimes.com/go">Go!</a></li>
+	      </ul>
+        </div>
+        
+		 <div class="subs">
+          <h1><a href="http://www.nctimes.com/entertainment/calendar">Local Events</a></h1>
+          	<ul>
+            <li><a href="http://www.nctimes.com/entertainment/local_events/">North County</a></li>	
+		    <li><a href="http://www.nctimes.com/entertainment/localcal_events/">Southwest Riverside County</a></li>
+			<!--<li class="h1-subhead">Contests</li>
+			<li><a href="http://www.nctimes.com/PetPinUp/">Pet Pin Up 2008</a></li>-->
+		    </ul>
+        </div>         
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/food">Food &amp; Drink</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/food/wischkaemper">Let's Dish</a></li>
+		    <li><a href="http://www.nctimes.com/food/groch">Bites &amp; Pieces</a></li>
+            <li><a href="http://www.nctimes.com/goout/">Let's Go Out</a></li>
+			<li><a href="http://www.nctimes.com/admarket/restaurants/">Local Restaurant Ads</a></li>
+		  </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/columnists/entertainment">Entertainment Columnists</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/entertainment/television">TV: Ann Zivotsky</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/radio/">Radio: Randy Dotinga</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/backstage">Theater: Pam Kragen</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/sorocco">Music: Erika Sorocco</a></li>
+            <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+            <li class="h1-subhead"><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+		    </ul>
+        </div>
+	</div>
+	
+<!--5 FEATURES DROP DOWNS -->   
+
+	<div id="submFeatures" class="subnav-group">
+	    
+        <div class="subs lead">
+          		<h1><a href="http://www.nctimes.com/features">Features Home Page</a></h1>
+          <ul class="lead">
+				<li><a href="http://www.nctimes.com/books">Books</a></li>
+				<li><a href="http://www.nctimes.com/comics">Comics</a></li>
+				<li><a href="http://www.nctimes.com/faith">Faith &amp; Values</a></li>
+		  		<li><a href="http://www.nctimes.com/food">Food</a></li>
+				<li><a href="http://www.nctimes.com/homes">Homes</a></li>
+          		<li><a href="http://www.nctimes.com/health">Health</a></li>
+          		<li><a href="http://www.nctimes.com/lifeandtimes">Life</a></li>
+				<li><a href="http://www.nctimes.com/science">Science &amp; Technology</a></li>
+				<li><a href="http://www.nctimes.com/travel">Travel</a></li>	
+	      </ul>
+        </div>
+        
+		  <div class="subs"> 
+          	<h1><a href="http://www.nctimes.com/community">Community</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/community">Community News</a></li>
+				<li><a href="http://www.nctimes.com/socialscene">Social Scene</a></li>
+				<li><a href="http://www.nctimes.com/community/charities_fund">Charities Fund</a></li>
+				<li><a href="http://www.nctimes.com/obituaries">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Births</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Celebrations</a></li>
+           </ul>
+		 </div>
+         
+      	<div class="subs">
+        	<h1><a href="http://www.nctimes.com/special_reports">Special Reports</a></h1>
+         	<ul>
+				<li><a href="http://www.nctimes.com/gogreen">Go Green</a></li>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>
+				<li><a href="http://www.nctimes.com/pop/">The Power of Parenting</a></li>
+                <li><a href="http://www.nctimes.com/special/meth/">The Power of Parenting - Part 2</a></li>
+                <li><a href="http://www.nctimes.com/special_reports">More Special Reports</a></li>
+            	<li class="h1-subhead"><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+            </ul>
+      	</div>
+
+		<div class="subs">
+          	<h1><a href="http://www.nctimes.com/columnists/features">Features Columnists</a></h1>
+			<ul>
+				<li><a href="http://www.nctimes.com/news/columnists/erdos/">Irv Erdos</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/deneve">Cyndie C. de Neve</a></li>
+				<li><a href="http://www.nctimes.com/homes/crawford">Rose Crawford</a></li>
+                <li><a href="http://www.nctimes.com/food/groch">Laura Groch</a></li>
+            	<li><a href="http://www.nctimes.com/homes/wilders">Tineke Wilders</a></li>
+                <li><a href="http://www.nctimes.com/news/columnists/petperspective">Pet Perspective</a></li>
+            	<li><a href="http://www.nctimes.com/features">More Features</a></li>
+			</ul>
+        </div>    
+	</div>
+
+<!--5 COMMUNITY DROP DOWNS 
+
+	<div id="submCommunity" class="subnav-group">
+	    
+	</div> -->
+
+<!-- SHOPPING-->
+	
+	<div id="submMarket" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/admarket/merchandise/">Buy Stuff</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/admarket/">Classifieds</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/furniture_furnishings/">Furniture</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/appliances/">Appliances</a></li>
+			<li><a href="http://www.nctimes.com/admarket/print_ads/">Browse Print Ads</a></li>
+			<li><a href="http://www.nctimes.com/admarket/garage_sales/">Garage Sales</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/give_aways/">Give Aways</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/misc_wanted/">Wanted</a></li>
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">Sell Stuff</a></h1>
+          <ul>
+           <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Animals</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34363">Boats &amp; Marine</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34354">Garage and Yard Sales</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34319">General Merchandise</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Real Estate</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">More...</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1><a href="http://pets.nctimes.com/">Pets</a></h1>
+          <ul>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Dogs">Dogs</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Cats">Cats</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Birds">Birds</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx">Browse All Pet Ads</a></li>
+				<li><a href="http://www.nctimes.com/admarket/announcements/lost_found/">Lost and Found</a></li>
+			  <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Place An Ad</a></li>
+		    </ul>
+        </div>
+        	  <div class="subs">
+		  <h1>Directories</h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/medical/">Medical</a></li>
+				<li><a href="http://www.nctimes.com/cars/directory/">Auto Dealers</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Real Estate Experts</a></li>
+				<li><a href="http://www.nctimes.com/goout/">Restaurants</a></li>
+				<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_marketplace_button/static.js"></script></li>
+				
+		    </ul>
+        </div> 
+        
+        <div class="subs">
+          <h1>Services</h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>	
+				<li><a href="http://www.nctimes.com/admarket/personal_services/">Personal Services</a></li>
+				<li><a href="http://www.nctimes.com/admarket/home_services/">Home Services</a></li>
+				<li><a href="http://www.nctimes.com/admarket/business_services/">Business Services</a></li>
+               </ul>
+
+        </div>
+        
+        <div class="subs">
+          <h1>Announcements</h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/admarket/legals/">Legals</a></li>
+				<li><a href="http://www.legacy.com/NCTimes/Obituaries.asp">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/celebrations/">Engagements, Weddings, Celebrations</a></li>
+				<li><a href="http://www.nctimes.com/admarket/announcements/lost_found/">Lost and Found</a></li>
+               </ul>
+
+        </div>
+         
+
+		
+        </div> 	
+    
+ <!-- CARS -->  
+    <div id="submCars" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://wheels.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+			<li><a href="http://wheels.nctimes.com/">Wheels For You</a></li>
+			<li><a href="http://www.nctimes.com/admarket/transportation/?ad_type=display">Auto Print Ads</a></li>
+			<li><a href="http://wheels.nctimes.com/results.php?eqdealerid=202095">Classified Ads</a></li>
+			<li><a href="http://nctimes.outdoormotors.com/">Outdoor Motors</a></li>
+			<li><a href="http://www.nctimes.com/cars/directory/">Local Dealer Directory</a></li>		
+			<li><a href="http://www.nctimes.com/admarket/transportation/specialty_antiques/">Specialty &amp; Antiques</a></li>	
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Sell</h1>
+          <ul>
+			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34358">Place an Ad</a></li>	
+			<li><a href="http://www.nctimes.com/admarket/transportation/wanted_to_buy/">Wanted to Buy</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1>Research and Tools</h1>
+          <ul>
+			<li><a href="http://wheels.nctimes.com/research.php">Research and Advice</a></li>		
+			<li><a href="http://wheels.nctimes.com/tools.php">Payment Calculator</a></li>
+		    </ul>
+        </div>
+          <div class="subs">
+          <h1>Parts &amp; Service</h1>
+          <ul>		
+			<li><a href="http://www.nctimes.com/admarket/transportation/auto_parts/">Auto Parts</a></li>
+			<li><a href="http://www.nctimes.com/admarket/personal_services/automotive_service_repair/">Service &amp; Repair</a></li>
+			<li class="h1-subhead">Quick Searches</li>
+			<li><a href="http://www.nctimes.com/admarket/?=&amp;change_path=%2F&amp;query=auto+repair&amp;sort=featured+desc+start_date+desc&amp;limit=25">Auto Repair</a></li>
+			<li><a href="http://www.nctimes.com/admarket/?=&amp;change_path=%2F&amp;query=oil+change&amp;sort=featured+desc+start_date+desc&amp;limit=25">Oil Change</a></li>
+		    </ul>
+        </div>      
+        <div class="subs">
+          	<ul>		
+         	 <li><a href="http://wheels.nctimes.com/"><img src="http://wheels.nctimes.com/art/nctimes-wheels-logo.jpg" alt="wheels.nctimes.com" border="0"/></a></li>
+			 <li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_cars_button/static.js"></script></li>
+		 	</ul>
+		</div>
+	</div>
+    
+ <!-- HOMES -->  
+    <div id="submHomes" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://homes.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+		  		<li><a href="http://homes.nctimes.com/">Search Local MLS</a></li>
+            	<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=11%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=6&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C16%2C14%2C15&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=S&amp;WebSearches=Y">Classifieds</a></li>
+				<li><a href="http://www.nctimes.com/homes/tophomes/">Top Homes</a></li>
+			  	<li><a href="http://www.nctimes.com/newhomes/">New Homes</a></li>
+				<li><a href="http://www.nctimes.com/tourofhomes/">Open House Map</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+				<li><a href="http://www.nctimes.com/homes/">Homes News</a></li>
+		    </ul>
+        </div>
+		  <div class="subs">
+          <h1>Quick Searches</h1>
+          <ul>	
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=0&amp;HPrice=400000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Under $400,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=400000&amp;HPrice=500000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$400,000-$500,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=500000&amp;HPrice=600000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$500,000-$600,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=600000&amp;HPrice=700000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$600,000-$700,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=700000&amp;HPrice=800000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$700,000-$800,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=800000&amp;HPrice=900000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$800,000-$900,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=900000&amp;HPrice=1000000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$900,000-$1,000,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=1000000&amp;HPrice=&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Over $1,000,000</a></li>
+				</ul>
+        </div>
+        
+        
+        <div class="subs">
+         <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Sell</a></h1>
+		  	<ul>
+				<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Place an Ad</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+          </ul>
+		  </div>
+         
+		 <div class="subs">
+         	<h1><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchIndex.asp">Rent</a></h1>
+	  	   	<ul>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Classified Ads</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=8&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Apartments</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=4&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Houses</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=32&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Condos</a></li>
+		   		<li><a href="http://www.nctimes.com/homes/toprentals/">Top Rentals</a></li>
+	  			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34283">Place an Ad</a></li>
+		    </ul>
+        </div>
+
+        
+        <div class="subs">
+          <h1>Homes Columns</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/news/columnists/cal_gardens">Tineke Wilders - California Gardens</a></li>
+			<li><a href="http://www.nctimes.com/news/columnists/crawford/">Rose Crawford - Ask Rose</a></li>
+			<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_homes_button/static.js"></script></li>
+		   </ul>
+        </div>
+        
+     
+	</div>
+ 
+  <!-- JOBS -->  
+    <div id="submJobs" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1>Find a Job</h1>
+          <ul class="lead">
+		  	<li><a href="http://www.nctimes.com/jobs">Job Search</a></li>
+            <li><a href="http://www.nctimes.com/jobs">Log In</a></li> 
+			<li><a href="http://nctimes.com/hotjobs_topads">View Top Jobs</a></li>
+			<li><a href="http://hotjobs.yahoo.com/create-resume?partner=oceansideescondido">Post Resume</a></li>
+			<li><a href="http://help.yahoo.com/l/us/yahoo/hotjobs/?partner=oceansideescondido">Jobs FAQ and Help</a></li>
+			<li class="h1-subhead"><a href="http://hotjobs.yahoo.com/careertools?partner=oceansideescondido">Research Tools</a></li>       
+			<li><a href="http://hotjobs.yahoo.com/career-articles?partner=oceansideescondido">Career Articles</a></li>
+			<li><a href="http://hotjobs.yahoo.com/salary?partner=oceansideescondido">Salary Info</a></li>
+			<li><a href="http://hotjobs.yahoo.com/interview?partner=oceansideescondido">Interviewing Tips</a></li>
+			</ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Quick Search</h1>
+          <ul>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Accounting_Finance-t-anytime-g-578132?partner=oceansideescondido">Accounting &amp; Finance</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Construction_Facilities-t-anytime-g-578132?partner=oceansideescondido">Construction</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Education_Training-t-anytime-g-578132?partner=oceansideescondido">Education</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Healthcare-t-anytime-g-578132?partner=oceansideescondido">Healthcare</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Manufacturing_Operations-t-anytime-g-578132?partner=oceansideescondido">Manufacturing</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Sales-t-anytime-g-578132?partner=oceansideescondido">Sales</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Government_Military-t-anytime-g-578132?partner=oceansideescondido">Government &amp; Military</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido&amp;keywords_all=part+time&amp;type=main&amp;metro_area=1">Part Time</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido">Browse All</a></li>
+		    </ul>
+        </div>
+        
+		<div class="subs">
+          <h1>For Employers</h1>
+          <ul>	
+        	<li><a href="http://www.nctimes.com/jobs/packages/">Place an Ad</a></li>
+			<li><a href="http://selfcare.hotjobs.yahoo.com/hjss/hjss_partners.php?P=oceansideescondido">Sign In</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/workhere">Jobs at NCT</a></li> 
+		  </ul>
+		</div>
+		
+     	<div class="subs">
+			<h1>Yahoo! HotJobs Local Search</h1>
+			<script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_jobs_button/static.js"></script>
+		</div>
+     
+	</div>
+    
+
+</div><!-- *************************************************************************************************************************** -->      
+
+ 	    <!-- COL 1,2 -->  
+ 	    <div id="twocols" class="c980 floatleft">
+ 	      
+ 	      <!-- COLUMN 1 - STORY CONTENT -->	  
+ 	      <div id="col1_story" class="c640 floatleft rborder">
+ 	        
+ 	        <div class="groupItem">
+ 	          <h1>Escondido man forms city's Minutemen Brigade</h1>
+               <h2></h2>
+		      <p class="by">By: SARAH WILKINS and JO MORELAND - Staff Writers |<span class="published"> <span class="timestamp">Wednesday, January 31, 2007 10:49 PM PST</span></span><a href="https://secure.townnews.com/nctimes.com/forms/link/linkform.php?des=Escondido man forms city's Minutemen Brigade" target="_blank"> &infin;</a></p>
+				      
+              <div class="tool_options"> 				     
+                   <ul id="storytools">
+                      <li class="comment"><a href="#nctcomments"><span class="simpleblog-count">127 comment(s)</span></a></li>
+                        <li class="fontup"><a href="javascript:IncreaseFontSize(2)" title="Enlarge article font size.">Increase Font</a></li>
+                        <li class="fontdown"><a href="javascript:DecreaseFontSize(2)" title="decrease font size.">Decrease Font </a></li>
+                        <li class="email">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2007/02/01/news/inland/04_41_741_31_07.eml" target="emailafriend">email this story</a>                         </li>  
+                        <li class="print">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2007/02/01/news/inland/04_41_741_31_07.prt" target="printable">print this story</a>                        </li>
+                </ul>
+                            
+                    <div class="clearleft"></div>
+              </div>
+                      
+                  
+              <div class="instory-content clearboth">
+                <img border="0" src="http://images.townnews.com/nctimes.com/content/articles/2007/02/01/news/inland/04_41_741_31_07.jpg">
+                Workers at a day laborer hiring area in Escondido look at David Cline and his wife, of the new local Minutemen chapter, protesting their hiring Wednesday.
+<br><small><b> WALDO NILO </b>Staff Photographer</small> 
+<br><a href="https://secure.townnews.com/nctimes.com/forms/photo_services/linkorder.php?des=      waldo nilo/Workers at a day laborer hiring area in Escondido look at David Cline and his wife, of the new local Minutemen chapter, protesting their hiring Wednesday." target="new">Order a copy of this photo</a>
+<!-- <br><A HREF=" ">More of this story</A> -->
+ <br> <a href="http://www.nctimes.com/news/photogallery/" target="new">Visit our Photo Gallery</a>   
+  <br> <hr>
+              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+			  <p>ESCONDIDO ---- A newly formed group of anti-illegal immigration protesters has begun rallying at a popular hiring site in the central part of the city with the intent of curbing the hiring of illegal immigrants and decreasing problems they say the immigrants cause.<br/><br/>Escondido resident David Cline formed the Escondido Minutemen Brigade ---- an offshoot of the San Diego Minutemen, a prominent anti-illegal immigration group ---- in December, and has since regularly gathered with supporters at a hiring site along Quince Street between Mission and Washington avenues to wave American flags, hand out fliers and answer questions from passers-by.<br/><br/>The Escondido Minutemen work in association with the San Diego Minutemen, a group that in the last year has protested at day-labor sites and promoted legislation that targets illegal immigration. However, Cline said the new group operates separately in response to problems that occur specifically in Escondido.<br/><br/>The Escondido City Council passed an ordinance last year that would have barred landlords from renting to illegal immigrants. That ordinance was later dropped, but the council reaffirmed its opposition to illegal immigration in January by approving a resolution that asks the federal government for permission to inquire into residents' immigration status and handle illegal immigration problems locally.<br/><br/>"We want to move illegals out of Escondido," said Cline, 60, adding that his group hopes to halt hiring at the Quince Street location and then move on to other sites. Once the group accomplishes that goal, he said, he hopes to help others start up Minutemen groups in their areas.<br/><br/>But for now, Cline said, Escondido is his first priority.<br/><br/>At the protest Wednesday, Cline and his wife set up their Escondido Minutemen post, including three large American flags, drawing questioning looks from some of the day laborers and angry words from several of them. "Stop illegal aliens who murder police and civilians," one sign said.<br/><br/>"We're not so much against the illegals as the people who hire them," Cline said at the rally. "We're not targeting any of them. We're targeting the people who hire them. It's illegal to hire them."<br/><br/>Though Cline, an Escondido resident of 25 years, said many people are supportive of his work, the protests have rankled some immigrants rights activists.<br/><br/>Oceanside attorney Claudia Smith, a longtime activist and director of the California Rural Legal Assistance Border Project who attended the protest Wednesday morning, said that most of the men are hired for occasional home labor, and that such hiring isn't illegal.<br/><br/>"You are not required to verify employment authorization" for casual, unscheduled day hiring, she said.<br/><br/>Still, the protests so far have been mostly peaceful, Escondido police Sgt. John Russo said after Wednesday's gathering.<br/><br/>"They (the Minutemen) call us ahead of time and overall it's been real mild," Russo said. Officers are not assigned to monitor the protests, he said, but they are made aware of the times they take place.<br/><br/>Cline, a former auto service manager who is now working to become a flight instructor, said he first became involved with the Minutemen six months ago because of what he described as a decline in the quality of life for those who live in the city.<br/><br/>"Wherever you go in Escondido, you see illegals," Cline said. "I've seen crime increase in Escondido dramatically. ... After a while, enough is enough."<br/><br/>Al Rench, a 60-year-old Escondido resident and local Minutemen member, said he sees what he describes as more illegal immigrants in his city than in other North County cities.<br/><br/>"We feel cheated, we feel we're supporting them," he said.<br/><br/>Rench said he is particularly concerned about young Latino women he sees walking around with their children, who he believes are "anchor babies," a derisive term used to describe children born to illegal immigrant parents.<br/><br/>While many that the Minutemen target are from Mexico and elsewhere in Latin America, the group is not racist, Cline insists. Some Minutemen members are Latino, he added.<br/><br/>"I'm not against Hispanics, it's illegals ---- they need to come over here the correct way," he said. "If they just flood (over the border), California won't be the way that we know it."<br/><br/>Cline said his concern is that continued illegal immigration will tip economic scales, forcing middle-income residents to leave the area, which would "turn it into another Tijuana."<br/><br/>"Most people won't want it, they'll leave," Cline said. "The average income will drop dramatically. ... It won't be the Southern California we know today if amnesty starts."<br/><br/>Cline said he started the Escondido group because the larger Minutemen group was growing so big that Jeff Schwilk, the Oceanside resident that leads the group, "was getting overwhelmed."<br/><br/>Schwilk, who said his group includes about 375 people countywide, said that several other cities, including Encinitas, Vista, Oceanside and San Diego, have formed subgroups under the broader San Diego Minutemen organization.<br/><br/>"They're still affiliated, they just have their own separate groups to focus on that city," Schwilk said. "They work on their own cities and can keep tabs better that way."<br/><br/>Since being handed the reins in Escondido, the group has grown and Cline is "bent on continuing" his work, he said.<br/><br/>-- Contact staff writer Sarah Wilkins at (760) 761-4414 or <a href="mailto:swilkins@nctimes.com">swilkins@nctimes.com</a>. Contact staff writer Jo Moreland at (760) 740-3524 or <a href="mailto:jmoreland@nctimes.com">jmoreland@nctimes.com</a>.</p>
+		     
+             
+             <!-- *************************************************************************************************************************** --> 
+                    <div class="margin20top">
+            	 	<span class="floatright">
+<a href="http://www.nctimes.com/articles/2007/02/01/news/inland/04_42_821_31_07.txt"><img src="http://images.townnews.com/nctimes.com/zimages/08/next_story.gif" border="0" alt="Next"></a></span>
+             		
+                    <div class="clearboth"></div>
+  </div>                    <!-- *************************************************************************************************************************** -->      
+             
+	        </div>
+            
+            <div class="groupItem8-8-8-8">
+                    
+                    <!-- *************************************************************************************************************************** --> 
+                    					<div class="boxed floatleft" style="width:300px;">
+                            <h2 class="bottomdottedborder textcenter">More Stories</h2>
+                               <ul class="secondary clearleft">
+                                     
+                                     <li><a href="http://www.nctimes.com/articles/2007/02/01/news/inland/04_41_741_31_07.txt">Escondido man forms city's Minutemen Brigade</a></li><li><a href="http://www.nctimes.com/articles/2007/02/01/news/inland/04_42_821_31_07.txt">San Elijo residents say pine trees a fire danger, nuisance</a></li><li><a href="http://www.nctimes.com/articles/2007/02/01/news/inland/04_43_551_31_07.txt">Vista sales tax committee raised nearly &#036;118,000</a></li><li><a href="http://www.nctimes.com/articles/2007/02/01/news/inland/04_44_871_31_07.txt">Deadline extended for The New School</a></li>
+                               </ul>
+                    </div>
+                    <!-- *************************************************************************************************************************** -->      
+                    
+                    
+                    <div class="boxed floatright" style="width:290px;">
+                    <!-- *************************************************************************************************************************** --> 
+                    <!--	 <p class="tags margin10bottom"><span>More Stories:</span> <a href="/pages/?q=[component:byline]&byline=1">[component:byline]</a></p>
+-->                   
+                                                     <!-- *************************************************************************************************************************** -->      
+                    </div>
+                    
+                  <div class="clearboth"></div>
+            </div>
+            
+            
+            <div id="socialbookmarking" class=" groupItem tool_options">
+ 	            
+ 	            <div class="clearboth"></div>
+                
+            </div>
+
+            <div class="groupItem">
+            	<!-- ******************[yahoo_content_match]************************************************************************************ --> 
+        		 
+<!-- Yahoo Content Match Category = news -->
+
+                <style type="text/css">
+                        @import url('http://www.nctimes.com/shared-content/newsys-yahoo-search/css/content_match_styles.css');
+                </style>
+                <div class="yahoo_content_match"><h1><a class="side_ads" href="http://searchmarketing.yahoo.com/srch/contentmatch.php" rel="nofollow">Ads by Yahoo!</a></h1>
+
+<div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ABWu04flIZ8zAy-3G9gAgW5ze9qxfwlB593ZbZg9S7aq7a-XFppYKcZVjHerVTS76Yp9XVrEXg_AAvsThMvOd1RCGXU1SDXhveQGXegBl7iOhuzx6IfLVar6mao5AmTTanjRSocH61TV_4a89bmMngLTPps2wdNRzIckvgyVV-QiLRxR0ZzWMk3q6Z9bv7zY0eKYgJ8aI8jPsuXCTynVAkglyVeXu4pyT5AUgZ-_i0zAdArHmTSlrBM" rel="nofollow">No Time for School? Graduate Online</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ABWu04flIZ8zAy-3G9gAgW5ze9qxfwlB593ZbZg9S7aq7a-XFppYKcZVjHerVTS76Yp9XVrEXg_AAvsThMvOd1RCGXU1SDXhveQGXegBl7iOhuzx6IfLVar6mao5AmTTanjRSocH61TV_4a89bmMngLTPps2wdNRzIckvgyVV-QiLRxR0ZzWMk3q6Z9bv7zY0eKYgJ8aI8jPsuXCTynVAkglyVeXu4pyT5AUgZ-_i0zAdArHmTSlrBM" rel="nofollow">Get a Degree in as Few as 2 Yrs- Graduate Faster with Online Classes.<br/>
+
+<em>www.ClassesUSA.com</em></a></p></div><div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AJpVDqKMlmVpAy-3G9gAgW7a-_5CbH1YOf1WZp1RTAM99aSpUGgwG6_aFOp5UVE-WTU5TdmqCZ-uREuddw3ZgyvgItAc1UqOBgaTomxMn-lefWYjZOBHEh-wNz3Bege9FWSlVUUVPk6cBEmzoz2bquzsNbObED2kbFehS2jZoGWhxY8gIRlxeSAzlJWcuXhWUBVteana7LilMwJJfUik9BpAEQK-LeYQvpkZTgEYFZkaVD7uQ_rsIZ8" rel="nofollow">See Today's Mortgage Rates</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AJpVDqKMlmVpAy-3G9gAgW7a-_5CbH1YOf1WZp1RTAM99aSpUGgwG6_aFOp5UVE-WTU5TdmqCZ-uREuddw3ZgyvgItAc1UqOBgaTomxMn-lefWYjZOBHEh-wNz3Bege9FWSlVUUVPk6cBEmzoz2bquzsNbObED2kbFehS2jZoGWhxY8gIRlxeSAzlJWcuXhWUBVteana7LilMwJJfUik9BpAEQK-LeYQvpkZTgEYFZkaVD7uQ_rsIZ8" rel="nofollow">Calculate Your New Mortgage Payment. See Rates- No Credit Check Req.<br/>
+
+<em>www.LowerMyBills.com</em></a></p></div><div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ACJsSc6xgQyLP5XL0O3Y1E-0ewwdSzThRpf-z_6hJmQ6pPM_9dwmHHwfoF2BVBu2imEypxfEl9mAIXAz6YvTjNiYnKCaD_5fuE3GJAf8vWaKbOd5_slK5GgPsgeXfadTrDXsng75eJWNNeNVgI33S6uvZn1czMJIAEP7Zqdvesaks9W-ISogbaiUnnvX4tOMDYgswyTSbxsTt0UU2NLOgBeqnaNGcilvwc9sAuk12UET9sXS6HB9O6s" rel="nofollow">Online Degrees</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ACJsSc6xgQyLP5XL0O3Y1E-0ewwdSzThRpf-z_6hJmQ6pPM_9dwmHHwfoF2BVBu2imEypxfEl9mAIXAz6YvTjNiYnKCaD_5fuE3GJAf8vWaKbOd5_slK5GgPsgeXfadTrDXsng75eJWNNeNVgI33S6uvZn1czMJIAEP7Zqdvesaks9W-ISogbaiUnnvX4tOMDYgswyTSbxsTt0UU2NLOgBeqnaNGcilvwc9sAuk12UET9sXS6HB9O6s" rel="nofollow">Get Your AA, BA, Masters or PhD at a Top Online School. Start Now.<br/>
+
+<em>www.NexTag.com</em></a></p></div></div>				<!-- *************************************************************************************************************************** -->   
+            </div>
+
+
+		      <!-- comments -->
+ 	        
+ 	        <div id="nctcomments" class="groupItem clearboth">
+            
+            
+
+ 	          
+ 	          <div class="itemHeader"><span class="simpleblog-count">127 comment(s)</span><a href="#" class="closeEl plus-minus">[-]</a><span class="more-section"><a href="#">Go to Top</a></span></div>
+					    
+				<div class="itemContent">
+					  
+				    
+					  <a id="blogcomments"></a><div class="simpleblog-results"><a id="f351c788ce4023eb2f892de6fa948e7c"></a><p><span class="simpleblog-name">Sandra in Escondido</span> wrote on <span class="simpleblog-date">Jan 31, 2007 11:24 PM:</span><span class="simpleblog-response"> One sign says "Stop illegal aliens who murder police and civilians," and the next thing he says is were not  targeting any of them. We're targeting the people who hire them. Please make up your mind either you want to stop the police and civilian murdering illegal aliens or you want to stop people from hiring them.  Make up you minds.  I think this group is a little disorganized if they do not even know what there own agenda is. What about this statement "Wherever you go in Escondido, you see illegals," Cline said. "I've seen crime increase in Escondido dramatically. ... After a while, enough is enough." So how do we know who is illegal? Do we determine that by the color of their skin? Do we determine that based on how many children they have? Do we determine that based on the clothes they wear? I am just confused and perhaps one of these non racist people can explain this strange phenomenon to me. I can say one thing for sure crime will increase if they continue to keep these men from working because if I were them and I was not allowed to work I would do whatever it takes to survive. How ridiculous that these people have nothing better to do than to push people into criminal activity. Oh I forgot "illegal aliens just come here to steal, rape and murder does that statement sound familiar Mr. Cline. I sorry but I am ashamed of your actions and I wish you would not taint the American Flag by flying it at your hate party. Oh frankly I do not care if some members of the mm group are Latinos your racist comments made in this article say it all.
+
+
+</span></p>
+<a id="dc06931e8bc0eada3f62290b64c37ea0"></a><p><span class="simpleblog-name">John</span> wrote on <span class="simpleblog-date">Jan 31, 2007 11:33 PM:</span><span class="simpleblog-response">Kudos to Mr. Cline who, with the exception of the sign that reads "stop ilegal immigrants who murder police and civilians," seems to be genuinely concerned about the legitimate problems associated with illegals and not merely racist against Mexicans. Too often, out of either legitimate bigotry or lack of speaking ability, Minutemen make comments that characterize themselves as being opposed to anyone who's brown or exhibits latino culture. This is pitiful. Mr. Cline's comments about targeting those who hire illegals (as opposed to other Minutemen who would stoop lower and would blame even legal latino immigrants for society's woes) renews my faith that there are at least some minutemen who observe what they preach. I only hope this is really the case. </span></p>
+<a id="70f6b132d74487131cde44f0862c088d"></a><p><span class="simpleblog-name">Senior Resident</span> wrote on <span class="simpleblog-date">Jan 31, 2007 11:54 PM:</span><span class="simpleblog-response">Congratulations Dave....I appreciate what you're trying to do and I totally support you.  Hopefully you and your followers can somehow make a difference.  Escondido is looking more like Tijuana every day and someone needs to do something about it.  If there are no jobs for the illegals, then maybe they'll go someplace else, hopefully National City where they are welcomed.  Better there than here.</span></p>
+<a id="3756c826462f2dffe55d08946ee6dc3f"></a><p><span class="simpleblog-name">Occasional Labor Loophole?</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:33 AM:</span><span class="simpleblog-response">Claudia has a loophole.  If the day workers are occasional home labor, they are not employees, and it is not illegal to hire them.  HOWEVER, the day workers are independent contractors doing business in the City.  As contractors, they may need a business license to practice their trade in the City.  'No person shall transact and carry on any business, trade, profession, calling or occupation in this city without first having procured a license from the city' Escondido Municipal Code [EMC] 16-17(a).  Violation is is a misdemeanor, punishable by a fine of not more than one thousand dollars ($1,000.00) or a jail term of six months, or both.   EMC 16-249(a).  Civil penalties may also apply.  EMC 16-250.  Each and every day on which a violation occurs is a separate violation. EMC 16-251.  Finally, the City is prohibited by Federal law from issuing business licenses to illegal aliens.  (8 USC 1621)</span></p>
+<a id="95f2c4e67b5705cecafb2253ee95d9f6"></a><p><span class="simpleblog-name">Ray</span> wrote on <span class="simpleblog-date">Feb 1, 2007 1:16 AM:</span><span class="simpleblog-response">Good job Mr. Cline, you have my support.</span></p>
+<a id="d76cd20739dd5049c3b280e904e170c0"></a><p><span class="simpleblog-name">Randy</span> wrote on <span class="simpleblog-date">Feb 1, 2007 3:47 AM:</span><span class="simpleblog-response">If David Cline really wants to help his community, he should try volunteering at a soup kitchen, a local hospital or the library.  Cline is a modern day vigilante, taking the law into his own hands.  We have professional peace officers to enforce the law; we don't need Cline stirring up trouble.</span></p>
+<a id="2ed9941724162e2745c3d34306d75ec5"></a><p><span class="simpleblog-name">Shirlock</span> wrote on <span class="simpleblog-date">Feb 1, 2007 4:19 AM:</span><span class="simpleblog-response">The issue according to what is stated in this article is ambiguity. Is it true that some illegal hiring is legal? I've never heard of this before. Yes, Sandra isn't it basic common sense to have a system in place to determine who legal and who is not? Enough is enough. If I needed a reason to join the Escondido MM group you just removed any doubt. The day will yet arrive when a system of national identification will be put in place and then maybe we can have a rational discussion. Why are you even mentioning the American flag when you obviously would rather be wiping your feet on it? Sandra, your apologist rantings are not very convincing. Yes as someone against illegal immigration, I am racist. Did you ever look around you to see the variety of nationalities and skin colors of legal citizens? The issue is and will remain LEGAL VS ILLEGAL?</span></p>
+<a id="46140f893f25107e0c5bbb0d5491e0cf"></a><p><span class="simpleblog-name">Appalled</span> wrote on <span class="simpleblog-date">Feb 1, 2007 5:33 AM:</span><span class="simpleblog-response">If every last undocumented worker magically and permanently disappeared from Escondido without anyone knowing it, there would still be day laborers, and the Mexican-American population in Escondido would still represent a relatively high percentage of the overall population there.  And, of course, the Minute Men would still be out in force, the Escondido City Council would still be passing unconstitutional ordinances targeting "illegal aliens", locals would still think all homeless people are "illegal aliens", the Escondido City Council would still refuse to issue permits for homeless shelters on cold winter nights, and the locals would still claim that anyone driving without a license or insurance is an "illegal alien".  And, of course, David Cline and his rabble would still hold up signs blaming murders and rapes on "illegal aliens".  And anyone with hispanic features would be viewed by the locals as not only of Mexican origin, but as "illegal aliens" and targeted as such.  The real clincher is that the NCT would still run at least one article a day about the subject baiting all the people who post hateful drivel in these forums to continue their rabid and ignorant posting campaign.  What a sorry state of affairs.  No wonder Escondido has made itself the laughing stock of San Diego County.</span></p>
+<a id="a40b22216a3f60263cd64f6356cf8adf"></a><p><span class="simpleblog-name">JuanDiego</span> wrote on <span class="simpleblog-date">Feb 1, 2007 6:20 AM:</span><span class="simpleblog-response">Why don't you stop flying My American flag and fly your real flag. Your signs and words sound racist. How can you say a young Hispanic with a child must be an illegal with an anchor baby? Or when you see so many illegal?s, how can you tell which ones are illegal? Do they have illegal stamped on their forehead or just by their skin color?</span></p>
+<a id="820421ddb05bb3a808d1c5929fdaf458"></a><p><span class="simpleblog-name">Dickey</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:15 AM:</span><span class="simpleblog-response">I also support the Minutemen Brigade in Escondido.  When are you gathering next?  I'd like to join the efforts!</span></p>
+<a id="856eb35475002909adb8689aa350c57c"></a><p><span class="simpleblog-name">GREAT work Dave!</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:16 AM:</span><span class="simpleblog-response">I totally support you and agree with what you are doing.  I am a NATIVE, born and raised in Escondido and these illegal immigrants standing around on the street corners and all the women jaywalking with kids and strollers is going to be the end of my city.  I also work in construction so I realize just how many ILLEGAL immigrants are employed in southern CA.  It is a crime!
+As for the sign... if you had someone YOU loved killed by a drunk ILLEGAL immigrant in a car accident or your husband shot while trying to protect the public by an ILLEGAL immigrant I bet you would carrry that same sign.</span></p>
+<a id="0c29029d5d4790e9f6e8ddc348f97872"></a><p><span class="simpleblog-name">DeAnne in Texas</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:18 AM:</span><span class="simpleblog-response">In reply to Sandra in Escondido:
+No, you don't find out if people are illegal according to their skin color or how many kids they have. That's such a tired argument. You find out if they're legal by giving law enforcement the o.k to check legal status. That means if they don't have the correct papers or true legal "green cards" or work visas, then I'd bet you, they are illegal. If they are Illegal, they ought to be deported or just start rounding them up, take them to an immigration office, and get them started on the right track.  Then they won't have to resort to crime to survive. Although, many of them did resort to crime just to get here.</span></p>
+<a id="79f205689176a8a80407d34bea40c5eb"></a><p><span class="simpleblog-name">Robert24</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:20 AM:</span><span class="simpleblog-response">Great job, Dave.  Keep it up!  Do not let the bleeding hearts like Sandra discourage you.  She is quick to pick each comment of yours apart, but probably does nothing to help rid this city of its illegal element.  These illegals have absolutely no right to be here, are breaking the law by just being here, and are draining our system.  Fight on, Dave.  I support you 100%!</span></p>
+<a id="31ff4237cb2327cbc9d457263e977ec3"></a><p><span class="simpleblog-name">Mr E in Esco</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:32 AM:</span><span class="simpleblog-response">thank you! can we get you at the Home Depot in East Vally PKwy? Im there daily (in the AM) and see the gathering of "day labors" loitering in the lots. Sometimes they comeby and ask me for work, I say no dont need it, the get upset and walk away....
+Dave should get something together for the City People to write a Day Labor law like Vista has...
+
+Now before you others start the name calling, look at the facts....
+Also you havent seen racism yet, take a trip back east.... Most of this isnt based on racism, its based on safety, laws and the quality of life. But dont tell them that, it seems those who speakup are labled racists, kinda like in the 60's when poelpe defied the white only rule, they were called names and killed for trying to improve EVERYBODYS quality of life. I guess people who want to improve the quality in Escondido are unwanted by the Landlords, store owners, contractors. Seems safety is not their issue, just money and getting thier names in the paper...</span></p>
+<a id="026936bf969dcf340fcdea2d09462bb6"></a><p><span class="simpleblog-name">El Guero</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:40 AM:</span><span class="simpleblog-response">And the answer to the questions 'So how do we know who is illegal? Do we determine that by the color of their skin? Do we determine that based on how many children they have? Do we determine that based on the clothes they wear?' is: yes, all of the above, plus the fact that they speak Spanish. With authorities to intimidated to ask anyone about their immigration status for fear of racial profiling charges from the ACLU, we have to make the determination, based on appearance, for ourselves.</span></p>
+<a id="ba0dbb1b77d55ea547d47584ec06ba12"></a><p><span class="simpleblog-name">Hey Sandra</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:48 AM:</span><span class="simpleblog-response"> Please identify the "racist comments," specifically, so I can better understand.</span></p>
+<a id="4625bf38ebd1983717df2c3330922bff"></a><p><span class="simpleblog-name">Why is it....</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:53 AM:</span><span class="simpleblog-response">that these Minutemen are old, white dudes? Do they not have anything better to do with their time? They say they have latinos in their group, big whoop, doesn't mean much. They're a racist-acting group no matter what drivel comes out of their mouths.</span></p>
+<a id="23ca25aac17dd3b6cc763b89446a968d"></a><p><span class="simpleblog-name">Citizen of the USA</span> wrote on <span class="simpleblog-date">Feb 1, 2007 8:26 AM:</span><span class="simpleblog-response">I support Dave and all of those who take time out from their life to protest government entities that encourage illegal immigration for votes and money from businesses that use illegals. Illegal aliens have killed and will continue to kill police officers as long as the criminal element is here in the US. The sign "Stop illegal aliens who murder police and civilians" is appropriate.</span></p>
+<a id="316c8a44dc9013767f957a9500035c66"></a><p><span class="simpleblog-name">No Spinning out of This</span> wrote on <span class="simpleblog-date">Feb 1, 2007 8:29 AM:</span><span class="simpleblog-response">"Rench said he is particularly concerned about young Latino women he sees walking around with their children, who he believes are "anchor babies," a derisive term used to describe children born to illegal immigrant parents". Mr. Rench, I'm fourth generation American and a retired military man serving 20 years in the Navy. I'm also brown skinned and have a Spanish last name. If my wife is pushing our baby around in a stroller you, by your own admission will believe her to be an illegal and my child to be an "anchor baby".  That sir is racial prejudice and there is no amount of spin doctoring you can do to say it isn't.
+
+</span></p>
+<a id="b7e971d90f3b4ba24d1e20822c7d7483"></a><p><span class="simpleblog-name">TONY</span> wrote on <span class="simpleblog-date">Feb 1, 2007 8:31 AM:</span><span class="simpleblog-response">why is it they will hire illegals when you have veteran's out of work wanting to work tell me how did this happen some would sell ther soul for a profit.  </span></p>
+<a id="9c9499c3bd98c6c56c9e4eb26eebafe0"></a><p><span class="simpleblog-name">Ken</span> wrote on <span class="simpleblog-date">Feb 1, 2007 8:33 AM:</span><span class="simpleblog-response">Keep up the great work that you are doing to help and assist to correct a problem that is effecting so many other cities in this fine land that we call home.
+
+I do not see it as racist, but making it know that if you are in this country illegally, then we do not want you here. We do on the other hand welcome any legal immigrants who use the legal method and come into this country the legal way.
+
+Stop the employers who hire the illegal immigrants, and thus remove the source that attracts so many from coming into this country illegally.
+
+Myself, like so many others, we do not want our tax dollars supporting the illegal aliens, we also need to stop all of the free benefits that our tax dollars  pay for. We also need to change our laws to require immediate citizenship for all of these anchor babies to require that at least one of the parents be a legal citizen of the United States.</span></p>
+<a id="7faa0d2be9f40f164e0be11b24b9d77e"></a><p><span class="simpleblog-name">bob</span> wrote on <span class="simpleblog-date">Feb 1, 2007 8:36 AM:</span><span class="simpleblog-response">The only way to stop this mess is to get a new President. The only candidate that will deport illegals is Tom Tancredo   W</span></p>
+<a id="912ae305b6477f12978847c8d2dabead"></a><p><span class="simpleblog-name">Wow</span> wrote on <span class="simpleblog-date">Feb 1, 2007 8:49 AM:</span><span class="simpleblog-response">How do you decide which workers are here legally or illegally just by standing out there with your signs and waving the flag?  I have hired a few guys from the Quince street area to do odd jobs around my house.  I know for a fact that two of them, that I hire regularly, are here LEGALY.  I have helped them both with the process of extending their green cards.  
+
+I agree that there are some serious issues in Escondido.  It does look run down and sad.  Crime is up, graffiti is horrible.  But how can you say that all of these things are brought on by these guys trying to find work to feed their families.  I guess you haven't looked around at all of the white trash that lives in Escondido also?  Lot's of meth heads and such.  Maybe we need to broaden the focus in our town and not just single out one group of people as the reason for all of our trouble.</span></p>
+<a id="8741aa304f01e4decf8bf520b43708ea"></a><p><span class="simpleblog-name">bryan</span> wrote on <span class="simpleblog-date">Feb 1, 2007 8:58 AM:</span><span class="simpleblog-response">Great Job where do i sign up? nothing in the article mentions how we can join the Escondido Minutemen. I agree we need to take action. Nothing is going to get done unless we get up off our buts and act. Dont leave it up to the corrupt politicians. Illegals are not welcome in Escondido.</span></p>
+<a id="ab079c6a1dca6eec8e6c9020f1c25857"></a><p><span class="simpleblog-name">Born in the USA</span> wrote on <span class="simpleblog-date">Feb 1, 2007 9:04 AM:</span><span class="simpleblog-response">Proud of my fellow Americans who are taking a stand. WE ARE NO LONGER AFRAID OF THE RACE CARD OR THE POLITICALLY CORRECT BS. We will fight to take our country back and defend our laws!</span></p>
+<a id="368ffab4ebeeb70b6f021408ef55de3a"></a><p><span class="simpleblog-name">Concerned</span> wrote on <span class="simpleblog-date">Feb 1, 2007 9:07 AM:</span><span class="simpleblog-response">If there are no jobs for illegals, I believe most would go back to their country of origin. The fact of the matter is our government should be enforcing the laws and making our cities safer, cleaner, places by eliminating the illegal element. I would not like to see this issue turn into chaos. The glass of water is half-full folks!</span></p>
+<a id="df730b60a45a944224d78cc4c091077c"></a><p><span class="simpleblog-name">April</span> wrote on <span class="simpleblog-date">Feb 1, 2007 9:14 AM:</span><span class="simpleblog-response">The REALITY here is that Escondido has become a haven for many Mexican illegal immigrants and it has caused this city to become what it has, run down!   Before Mission, Washington and Midway streets were the most destroyed now Center city between Washington and Midway with a camp that I see Mexican men drinking beer, cooking under the palm tree and sleeping under card board. It's spreading and getting worse. Drive down Midway before Washington and there are seriously chickens in the road at times. Now we have a CaliMax 
+(ValleyMax)Grocery store like this city needs another Mexican store. I forgot all the Legal Americans are getting fed up and are leaving and what a shame.
+What is it with Mexican Men drinking beer in the front yard? Mexican Women pushing grocery carts with 4 or 5 kids in tow and they don't speak english. For all the people who say they are hard working, well then become Legal and there won't be anything for them to worry about. Could you imagine if the Escondido Police department posted a monthly report on all the illegal people that come through the Safety checkpoints, we would be astonished!
+Here's a way to determine citizenship, "Passports" We Americans must carry them while in foriegn countries and when stopped we must provide them. Simple, easy! 
+I see that crime has incresed temendously, many people would probably be extemely upset if the police would post this also but all this would be too much for so many to handle and people would not want to come here and so many would leave faster. 
+To hear so very many peole who use the "Racist" word everytime they don't like to hear someone complain about the "Illegal Mexican", wrong is wrong, illegal is illegal!
+I do hope this city gets help from the federal government on this issue so we can pass and enforce our hopefully new city ordinance someday.
+But till then "GO Mr. Cline"!!!!</span></p>
+<a id="8221025f49072bd4cefeaacaf0ba0709"></a><p><span class="simpleblog-name">Pete Nice</span> wrote on <span class="simpleblog-date">Feb 1, 2007 9:18 AM:</span><span class="simpleblog-response">Hey David Cline, what about the white people who murder police and civilians? Remember that Van Dam case? What do we do about the killer in that case? Do we send him back to Germany or Ireland?  go find something else to do. If you really want to help Escondido, start a brigade that picks up trash next to Cocos that the white transients leave. </span></p>
+<a id="d370aea99e926c69bfab89b5a40d80be"></a><p><span class="simpleblog-name">American woman</span> wrote on <span class="simpleblog-date">Feb 1, 2007 9:28 AM:</span><span class="simpleblog-response">The writer(s) use the term, "derisive" to describe the use of the term, "anchor baby."  The children of these unknown, unvetted, foreign invaders, are currently STILL recognized as citizens under the Fourteenth Amendment to the U.S. Constitution.  The provision penned by our founding fathers, declaring birthright citizenship (the original, more PC words) rights as a way to guarantee the hard-earned American citizenship of freed slaves and their families, was a righteous and much-needed one at the time of the transition of the African American population from servitude to so-called "freedom."  God knows it is taking a long time for folks to "get" the meaning behind unbiased EQUALITY, for those who were so grossly mistreated during that era, but I think they are all pretty much assured of their places as citizens of the country by now!  Birthright citizenship has no useful purpose now.  Not one of our Congressional Representatives have yet been successful in removing this useless, antiquated provision from the Constitution.  The funny thing is, not one law-maker opposed to the premise of striking birthright citizenship privileges has stood before the American people to explain the "need" for it.  I find the term, "anchor baby" quite descriptive, and not at all derisive, providing you have a grasp of the original purpose behind it!  As a matter of fact, I am pretty sick and tired of the PC whiners constantly whimpering their support of those who would illegally enter this sovereign nation.  We all know the devastating effects of this invasion.  Let's call it like it is!  Let's change the old 
+expression, "Anchors aweigh" to something like, "Anchors away...FAR away!"</span></p>
+<a id="efb40c4c4532e86eb457b51bc7da384e"></a><p><span class="simpleblog-name">Still waiting</span> wrote on <span class="simpleblog-date">Feb 1, 2007 10:06 AM:</span><span class="simpleblog-response">I'm still waiting to see white people out there looking for work and willing to do whatever to put food on the table. No, white people would rather get on welfare and apply for unemployment than pick fruit or dig ditches, which they think is beneath them. White people would rather put their hands out and beg. No, white's want minimum wage, union, benefits...blah blah blah. Beggars can't be chosers. Until unemployed white people are willing to stand on the side of the road and take whatever work comes their way, sit back down  instead of using migrant workers as an avenue to vent your frustrations over your failed lives.</span></p>
+<a id="3adca56497c70344a796fcd39b274b80"></a><p><span class="simpleblog-name">David</span> wrote on <span class="simpleblog-date">Feb 1, 2007 10:16 AM:</span><span class="simpleblog-response">Ok, it's been a few years since I have visited Escondido, but with "young Latino women" and their children under the watchful eye of Al Rench I know vigilantism is alive &amp; well there. This "they look illegal, so they must be" judgement has existed from the founding days of the Minutemen, so why should this chapter be any different? When they don't know someone's legal status (in another recent incident at a day labor site in California the local Minuteman chapter started yelling "Traitor!" to an Anglo woman that is a U.S. citizen when she came to the aid of her legal husband) they just call all Latinos "illegals".</span></p>
+<a id="a8ceb53ca7ff857bff0856212b4787cd"></a><p><span class="simpleblog-name">Temp Agency</span> wrote on <span class="simpleblog-date">Feb 1, 2007 10:36 AM:</span><span class="simpleblog-response">In the old days (1970's), when I wanted to work as a 'day laborer' I worked with a temp agency.  I did jobs I never knew existed!  It worked good for me and the employer.  Beat standing on the street like these guys.</span></p>
+<a id="f0f2a0eae388c78057b07b94dabd015b"></a><p><span class="simpleblog-name">This is ridiculous</span> wrote on <span class="simpleblog-date">Feb 1, 2007 10:39 AM:</span><span class="simpleblog-response">Please re-read the article. I too am against ILLEGAL immigration. I am of Mexican descent, however, I am born and raised, as were my parents and grandparents, here in the Good Ole' US of A. My husband and children serve our country proudly as memebers of the military. I do not agree with the statements or methods the MM's are incorporating to justify their racist behavior. This is what is most upsetting to people of color. Address the issue. How can Mr. Cline tell who's illegal or not? </span></p>
+<a id="45461462af23a2cf4fa0c1e7e421a7f8"></a><p><span class="simpleblog-name">You Cannot Tell By Looking</span> wrote on <span class="simpleblog-date">Feb 1, 2007 10:48 AM:</span><span class="simpleblog-response">There are no physical charactistics indicative of an illegal alien.  Documents must be checked.  Since, forgeries are often available, the City should check the documents with the SAVE database when granting public benefits like business licenses, housing assistance, etc.  The Systematic Alien Verification for Entitlements Program (SAVE) is a Federal database that allows state and local governments to detect forged immigration documents, social security numbers, etc.  Illegal immigrants doing business in the City are skirting the law, and violations should be abated.  Special treatment, such as turning a blind eye for political reasons, violates principles of fairness and equality.</span></p>
+<a id="7ab65f8a367dc679fbf5230bf9da5e18"></a><p><span class="simpleblog-name">It's Howdy Doody Time!</span> wrote on <span class="simpleblog-date">Feb 1, 2007 10:49 AM:</span><span class="simpleblog-response">Bless the NCT for bringing us our weekly dose of the antics of the Minutemen [Clarabell the Clown and his small coterie of Flubadubs] spraying poison seltzer water at Big Chief Thunderthud and Pricess SummerFallWinterSpring for the amusement of the online Escondido Peanut Gallery!  Kudos!</span></p>
+<a id="0173856cc7586eaf34e07edd4411550e"></a><p><span class="simpleblog-name">It's Howdy Doody Time!</span> wrote on <span class="simpleblog-date">Feb 1, 2007 10:56 AM:</span><span class="simpleblog-response">Bless the NCT for bringing us our weekly dose of the antics of the Minutemen [Clarabell the Clown and his small coterie of Flubadubs] spraying poison seltzer water at Big Chief Thunderthud and Princess SummerFallWinterSpring for the amusement of the online Escondido Peanut Gallery!  Kudos!</span></p>
+<a id="6ff9bb933219134a18fa04cc8406f394"></a><p><span class="simpleblog-name">Idea!</span> wrote on <span class="simpleblog-date">Feb 1, 2007 11:00 AM:</span><span class="simpleblog-response">If the Latino citizens wanted to return harmonious race relations to Escondido, perhaps they need to shun and ostricize those illegal immigrants who are using their neighborhoods as safe havens.  </span></p>
+<a id="6953b13930d91c2e0f03663c2dad6a59"></a><p><span class="simpleblog-name">Concerned</span> wrote on <span class="simpleblog-date">Feb 1, 2007 11:04 AM:</span><span class="simpleblog-response">Here we go once again with the racist card from Appalled and JuanDiego. As much as most of us here are not racists and haters, I have to ask how did the race card come into play? Could it have been those May 1st protests where people wrapped themselves in Mexican flags, kids left school and stopped traffic on the freeways, Took down the American Flag and flew the Mexican flag in its place? While "Mexican" is not a race, there is a major swelling of annomosity toward illegal Mexicans. Is that racism? Not by definition. The race card comes out when people like Appalled run out of plausable arguments. And BTW, your argument is laughable. And JuanDiego, can you tell if a white person is a meth head or drug addict by looking at him or her? Actually, it's not that hard. See the point? </span></p>
+<a id="4b18b4dd3df6df0ea6e480384285dc6b"></a><p><span class="simpleblog-name">Johnnyp</span> wrote on <span class="simpleblog-date">Feb 1, 2007 11:15 AM:</span><span class="simpleblog-response">SANDRA--you need to educate yourself about our counry. We are a country of laws, a republic.  Just as we have traffic laws and rules of the road.  As a nation built on immigration and a nation of immigrants there are laws that permit people to come to America. We as nation get to choose who we want to come here.  People who are not criminals, drug addicts,drug dealers, diseased, or of poor moral character, and people who have skills we need who will not be a burden to society. We want people of all colors, races, who want to be Americans by learning our language, customs,culture, values, laws and goverment.  An illegal has already broken our laws by sneaking into our country, and does not belong here. Without laws, and immigration laws, this would not be America as we know it. And, a country that can not defend its borders will not remain a country. The language, culture, and character of the country is because it has borders. Borders make a German a German and an Italian an Italian.  We are Ameicans and want to keep it that way. Come to America legally because you want our, heritage, language, culure, work ethic, vales and most of all to be an proud American citizen.</span></p>
+<a id="a8741c23788efcaffad53d213639f891"></a><p><span class="simpleblog-name">where do i sign up?</span> wrote on <span class="simpleblog-date">Feb 1, 2007 11:17 AM:</span><span class="simpleblog-response">i can't find any info on how to sign up for the escondido chapter...</span></p>
+<a id="b316f5f065964ce111f649f996506fba"></a><p><span class="simpleblog-name">So Cal Native/Osider</span> wrote on <span class="simpleblog-date">Feb 1, 2007 11:35 AM:</span><span class="simpleblog-response">As you can tell, people are pretty much fed up with the minutemen and there tactics. They represent a few and are considered the minority of peoples feeling and views. They are just modern day vigilanties trying to make a name for themselves and probably, profit too. The fact of the matter is, if they were really illegal, they probably wouldnt be standing there in the open. The minutemen really cant do anything about it and thats what probably pisses them off more than anything. They need to put there efforts into finding business's that are hiring them and stand in front of that American business but, they wont because, they can only pick on the weak.  </span></p>
+<a id="765956811efbe5f229e6089e1ad11560"></a><p><span class="simpleblog-name">Concerned</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:03 PM:</span><span class="simpleblog-response">How come my posts are not going up?</span></p>
+<a id="80f185196e5374c5809c5b5834d5735d"></a><p><span class="simpleblog-name">Dan</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:06 PM:</span><span class="simpleblog-response">If the guys looking for work standing on the street are here legally, why don't they just go over to Labor Ready, where they can get hired legally? GO MINUTEMEN!</span></p>
+<a id="fe80e21233e2155d02adc4b80436bd07"></a><p><span class="simpleblog-name">Illegal?</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:07 PM:</span><span class="simpleblog-response">Hmmm I don't know, maybe because they stand in the street looking for work? IF they are legal, why don't they use temp agencies, hiring halls or The Employment Development Department to find jobs, like LEGAL residents? NO the Minute Men are racists because they try and stop ILLEGAL street hirings of usually 100% Hispanics. Pray tell HOW is that racist? You bleeding hearts have no sense, no rationale and NO argument other than the race card.  IF there were 100 Asians standing on a street corner looking for work, the Minute Men would be protesting them as well. Or German, or Irish, who cares? IF you are standing on a street corner, trying to get work, you are most probably ILLEGAL, no matter what color. The FACT that the majority of these men are Hispanic has nothing to do with it.  The FACT that YOU keep screaming the Minute Men are racist, just proves your own racism, by assuming they are only targeting Hispanics, they are NOT. They are targeting people who loiter in street corners, looking for work illegally and the employers who would hire them, illegally. Please try some other argument than racism, it's SO tired and SO untrue, and you know it.</span></p>
+<a id="7d6fd8abbdb149c119bf5709c011bb6b"></a><p><span class="simpleblog-name">Why?</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:07 PM:</span><span class="simpleblog-response">Why is it that people on this blog can mexican-bash all they want, but if I write something about white people, it doesn't get posted? Nice double standard NCT. I know you're about selling papers, but your covert racism is downright wrong.</span></p>
+<a id="25c335a48104cfbd616711bc0550672a"></a><p><span class="simpleblog-name">Quince</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:09 PM:</span><span class="simpleblog-response">I wonder why that street is named after a spanish number? OH, that's right! We were here BEFORE you!</span></p>
+<a id="cb5ba9858135d34dbef18f66bcb29617"></a><p><span class="simpleblog-name">Bro Rufus</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:13 PM:</span><span class="simpleblog-response">I do have a problem with the last line of the first paragraph of this story, where the people are referred to as "immigrants." IF they are immigrants, then they are here legally because they've followed the law. So what's the problem? Bad reporting. These people are not immigrants, but ILLEGAL ALIENS. Words mean things. Do not desecrate my country's language, please.
+Go Minutemen!!</span></p>
+<a id="cf29153a8f05649cfbdc080a6636f812"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:13 PM:</span><span class="simpleblog-response">If these minutemen have so much time on their hands, why not have them compete on a level playing field and do some real work. If they do the work that illegals are here to get, then the illegals will go somewhere else. The illegals do have legs and arms and backs. </span></p>
+<a id="7c456d63bead8811f6a0e7d645df0fb8"></a><p><span class="simpleblog-name">Rev Ike</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:17 PM:</span><span class="simpleblog-response">HOW can any of this be racist? Latinos are caucasian, just like Indians from India. Look at an anthropology textbook and you will see there are only three races; caucasoid, mongoloid, and negroid, to use the classic terminology. PLEASE stop bandying about the word RACE in such an ignorant fashion. If you have ethnicity-based differences, please exercise half-a-gram of intellect and say so. Thank you.</span></p>
+<a id="0b4f8b9e12f086d441ccaf129e5bac04"></a><p><span class="simpleblog-name">I just love</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:28 PM:</span><span class="simpleblog-response">those like the insulting It's Howdy Doody who have probably never paid a tax in their lives, have no patriotism and think they are Humanitarians. They are, one and all, a pathetic joke, themselves. They never have an argument except to scream Racism, which is far from the case. All of you that feel it is okay to let lawless illegals come in to the US to be hired by lawbreaking employers will have a good comeuppance when YOU are forced out of your state, or your business is, because they cannot afford the taxes they must pay for all the Social Services provided the illegals. Before you open your mindless mouths again, why not look at FACTS, statistics and the failure of the California economy.  Oh I know...THAT would be racist. Better yet, take your bleeding heart down to the street corner, hire an illegal and SUPPORT him, pay his taxes and school funds, pay his medical, dental and Welfare out of your pocket! Just think, you'd have your Humantarian bonus points for life! Come on, put your Liberal money where your ignorantmouths are and give the honest, tax paying AMERICAN a break.</span></p>
+<a id="96cafc09ea58aef925865db55758c897"></a><p><span class="simpleblog-name">WOW?</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:35 PM:</span><span class="simpleblog-response">Do you pay taxes on the "guys you hire regularly?" State law says you MUST if you pay them over $600 in a calendar year. I bet you don't, so YOU are breaking the laws as well. It's people like you who "know they are legal" because you saw their green cards (a dime a dozen ANYWHERE in the US) are cheating the system along with all the other illegal hiring employers, trying, Oh so HUMANELY, to save as buck.</span></p>
+<a id="b4affb8a3cda803dc8b15f3ba976a653"></a><p><span class="simpleblog-name">Race Baiting</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:40 PM:</span><span class="simpleblog-response">Mexicanos and Latinos need to stop playing the race card.  It's counter-productive and completely misguided because they are not a "race," but an "ethnicity."  Sorry to burst the race-baiting bubble!
+
+The racial classifications used by the Census Bureau adhere to the October 30, 1997, Federal Register Notice entitled "Revisions to the Standards for the Classification of Federal Data on Race and Ethnicity" issued by the Office of Management and Budget (OMB).
+
+The five minimum race categories are:
+
+American Indian or Alaska Native. "A person having origins in any of the original peoples of North and South America (including Central America), and who maintains tribal affiliation or community attachment." 
+Asian. "A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam." 
+Black or African American. "A person having origins in any of the black racial groups of Africa. Terms such as 'Haitian' or 'Negro' can be used in addition to 'Black or African American.'" 
+Native Hawaiian or Other Pacific Islander. "A person having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands." 
+White. "A person having origins in any of the original peoples of Europe, the Middle East, or North Africa." 
+An additional category, described as an "ethnicity" rather than a "race" is:
+
+Hispanic or Latino. "A person of Cuban, Mexican, Puerto Rican, Cuban, South or Central American, or other Spanish culture or origin, regardless of race. The term, 'Spanish origin,' can be used in addition to 'Hispanic or Latino.'" </span></p>
+<a id="aab9bfd91619b01b5822ee003305422f"></a><p><span class="simpleblog-name">SoCal Native Too</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:43 PM:</span><span class="simpleblog-response">I thought the minutemen were not necessary until I saw a TV report of their meeting in a San Diego hotel being broken up by 'latino activists' with bull horns yelling obscenities.  I could not believe that such political thugs could be operating in America. I found out about Aztlan, Reconquista, El Plan, La Raza, and the Brown Berets.  Then the spring marches occurred.  This is serious stuff.  Search the internet for 'raging racist', watch the video, and learn why the minutemen are needed.  The invaders may start as economic refugies, but after Claudia fills them up with her La Raza and Aztlan dogma, the illegal aliens are tranformed into foreign aggressors!  STOP THE INVASION!</span></p>
+<a id="6308c0fc41c7945e318e55e0dd12918a"></a><p><span class="simpleblog-name">Edward</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:54 PM:</span><span class="simpleblog-response">So Cal Native/Osider, the problem is that most people are not fed with the minutemen. Most people see them as an outlet for their anger at illegal immigration in general, at the lack of effort given to controlling and stopping it by government at all levels, at law enforcement for turning a blind eye, at the Claudia's, Tina's, CSUSM, the NCT's, the unscrupulous employers, activist lawyers and judges, and the liberal public selling out the United States in order to support criminals. The problem with the people who are on the side of the minutemen is that they are the true silent majority. They are the ones who will not take the chance of loosing their jobs or tarnishing their images, attending protests, or engaging in anything that may result in conflict. They are the law abiding citizen's who occasionally speed down the freeway or smoke where their not suppose bu will not not engage in activities that would or could result in  physical violence. They look to the minutemen as their voice and a symbol of their ideals. The minutemen are in the public eye, they are loud, they are not afraid to respond in kind to the activists and I for one thank God they are here. You should too.</span></p>
+<a id="0a7da2e1afd929898c03c4a47d61d7d2"></a><p><span class="simpleblog-name">To So Cal Native</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:58 PM:</span><span class="simpleblog-response">I believe quite the opposite is true regarding the Minute Men who DON'T get tax payer money like the ACLU, DON'T get social services like the illegals, DON'T get grants and funding from the AMERICAN government like La Raza, Lulac and MeCha.  That is to name only a few of the tax payer supported anti- AMERICAN groups who suck off the system, daily. Just an aside to you obvious recipient of the Liberal "dumbed down" "public" educational system: "there" refers to a place, "their" refers to a being.  The word is vigilante.  And by all means, read (if you can) about the growing numbers of Minute Men, they are increasing daily, being joined by intelligent, right thinking AMERICANS.  I bet THAT pisses you off, doen't it? Oh, just one more thing, the argument that they probably ARE legal because they stand in the open is another myth promoted by the open border, anti American crowd.  They stand in the open BRAZENLY, like millions did in the May Day march of the communists, because they know they stand a VERY minute chance of being picked up and deported. Because...Oh my God...that would be racist!</span></p>
+<a id="bcb13205468a3b86cfc171b3f7d81a2d"></a><p><span class="simpleblog-name">Hatch in Escondido</span> wrote on <span class="simpleblog-date">Feb 1, 2007 12:58 PM:</span><span class="simpleblog-response">I was there on Wednesday for as long as I could be. It was great to meet David. David, you're a stand up guy. I am proud to be a member.
+
+I was also the last speaker at the January City Council meeting just prior to the vote on the Resolution to continue the fight against illegal aliens in this city.
+
+I will continue my efforts. I will not allow my property values to decline nor my neighborhood be brought down.
+
+</span></p>
+<a id="bd86e77f253b2f0d2064a80fa1dafd19"></a><p><span class="simpleblog-name">But Rev Ike</span> wrote on <span class="simpleblog-date">Feb 1, 2007 1:01 PM:</span><span class="simpleblog-response">Then what would be their argument?</span></p>
+<a id="581dc1cc0beb571795515bdce7d31491"></a><p><span class="simpleblog-name">To Quince</span> wrote on <span class="simpleblog-date">Feb 1, 2007 1:03 PM:</span><span class="simpleblog-response">It's pronounced "Quince," not "keen-say."  When you say "we," I assume you are referring to "Mexicanos."  If so, you are correct, Mexicans were running the show for a short time following the Spanish, but before losing a war and much of their territory to the United States.  And what has the U.S. done with "Alta" California?  Much more than Mexico has done with Baja California.  That's the real issue: Mexico has spawned a culture of corruption and chicanery, which is why they don't even have universal plumbing and sewage treatment.  If you are lucky enough to live in the U.S., whether or not you're a legal resident or citizen, you should be very grateful that you are not living in a corrupt, third world nation run by drug cartels and criminals.  This is why people continue to stream across the border - to escape a failed nation and the horrible quality of life that goes with it.  If Mexicanos want to live in an Alta California that's similar to Mexico, they need to: (1) move to Mexico, or (2) bring it on - reclaim the lost territory by proclaiming war against the United States.  You can ally yourselves with North Korea, Iran, Cuba, and Venezuela.  I'm sure Hugo Chavez is a hero to many of you who are feeling oppressed.</span></p>
+<a id="a6e0e38851c05503f980d84b823aad19"></a><p><span class="simpleblog-name">Rick Roberts for Prez!</span> wrote on <span class="simpleblog-date">Feb 1, 2007 1:17 PM:</span><span class="simpleblog-response">These Minutemen Patriots Rock!  I'm signing up now.  The have shown extreme dedication to correct a problem without violence or law-breaking.  They just want LEGAL immigration and our laws enforced.
+Love what these guys did in McGonigle Canyon, kicked Mayor Sanders' and the illegal activists' butt on that one!</span></p>
+<a id="58179f47eeefaedfe42bf9ff7eab32f1"></a><p><span class="simpleblog-name">Roger</span> wrote on <span class="simpleblog-date">Feb 1, 2007 1:20 PM:</span><span class="simpleblog-response">Mr. Cline is doing a lot more positive for this problem than our useless politicians who continously cave in to the desires of businesses for cheap labor.  These politician are only looking at the short time picture and not seeing the steady erosion of how this country was built. Get over this PC crap and correct the illegal activities - like crossing the border without proper documentation. </span></p>
+<a id="74c3223d7842dec3a88dc4bd8cdbf7e8"></a><p><span class="simpleblog-name">to "To Quince"</span> wrote on <span class="simpleblog-date">Feb 1, 2007 1:35 PM:</span><span class="simpleblog-response">Get a clue - that's a Spanish word. And if you think Spaniards were frolicking around Alta California in all their European splendor, you're racist and you're mistaken. "Bring it on"? you're starting to sound like your failed president.</span></p>
+<a id="785ef9e83e6c35c53ec7b5cdc2e36f05"></a><p><span class="simpleblog-name">JR</span> wrote on <span class="simpleblog-date">Feb 1, 2007 1:38 PM:</span><span class="simpleblog-response">Gee, Randy, if people are just supposed to let law enforcement do the job, what happens when they don't?  Ever hear of the 2nd Amendment or the freedom of assembly?</span></p>
+<a id="cce7bf06cebb18ef887317d9f9267629"></a><p><span class="simpleblog-name">Back to School Rev</span> wrote on <span class="simpleblog-date">Feb 1, 2007 1:54 PM:</span><span class="simpleblog-response">Actually, the term Mongoloid is no longer used to refer to the Mongols, who are natives of what was formerly the ancient kingdom of Mongolia in Asia.  Mongol supposedly is a native name which comes from mong meaning "brave."
+
+Mexico is diverse ethically.  The European population is cucasian but the native population is not.  The mixed population which is estimated at 95% - often called mestizo - is a mixture of Caucasian, African (from slaves who were brought to Mexico) and indigenous people - "Indians" who are thought to be Mongols who came over on the land bridge from Asia.
+
+Back to school Rev Ike.  
+
+The problem is probably not strictly racism - it is that a lot of people just don't like people who look or act differently.  Mexicans have different cultural values that many do not understand or like. Mexicans are different physcially from the mixture of races.  We locked up the Japanese during WWII but not the Germans or Italians - wonder why :)!
+
+Racism is alive and well in this country - it's just that everyone claism that THEY are not - it's always the other guy.</span></p>
+<a id="48107fa946f59207c2aeb15c5aee5f5e"></a><p><span class="simpleblog-name">Cal</span> wrote on <span class="simpleblog-date">Feb 1, 2007 2:14 PM:</span><span class="simpleblog-response">Anyone who supports this invasion, or even fails to do something about, even if just a little bit - is an enemy to the USA, our freedoms, our future.  There is no debate about this fact.  Now the question is, why are some of you traitors?  (Invaders are not included in my question for invaders are simply do what all invaders of all times do - take over).</span></p>
+<a id="8c28ee252c1d60c67af4f0ccebf7cf36"></a><p><span class="simpleblog-name">kc</span> wrote on <span class="simpleblog-date">Feb 1, 2007 2:39 PM:</span><span class="simpleblog-response">Oh please, It is probably reasonably safe to assume that the men, mostly of hispanic descent gathering for these day labor jobs are probably not here in this country with all their documents in order. In other words they are ILLEGAL. Yes the racist in me is assuming that all these men gathering every day in these spots are ILLEGAL. How dare I. Check out 5th and Quince every morning. At least 50-75 there every single weekday morning. They are probably just unemployed, how dare I assume they're illegal.   </span></p>
+<a id="86ca8def0be54191775db5dcd4c13c49"></a><p><span class="simpleblog-name">Ladonna</span> wrote on <span class="simpleblog-date">Feb 1, 2007 2:51 PM:</span><span class="simpleblog-response">Thank you Mr.Cline,after driving down quince st and Mission the other day,I counted 92 men standing around drinking,lortering and urinating where ever they want.Now that I know the minutemen will be there, I too will join then. Taking back our country one city at a time! GO MINUTEMEN!</span></p>
+<a id="4b22059d75258f606df3a752c9f34584"></a><p><span class="simpleblog-name">Ladonna</span> wrote on <span class="simpleblog-date">Feb 1, 2007 3:04 PM:</span><span class="simpleblog-response">Thank you Minutemen! The other morn. I drove down quince st.and counted 63 men standing around lortering,drinking and urinating where ever they please to do so!If the federal gov.doesnt want to do the job they were hired to do then its about time WE THE PEOPLE take a stand!I will be there Saturday morning to support my PATIOT men and women taking back our country one city at a time.</span></p>
+<a id="eaa8ee657426543bbb4875f69fab9b29"></a><p><span class="simpleblog-name">Mike</span> wrote on <span class="simpleblog-date">Feb 1, 2007 3:15 PM:</span><span class="simpleblog-response">Mr. Cline is an AMERICAN HERO !
+The Multi-Ethnic, Multi-racial Minuteman Group is neither RACIST or Fascist ! They are doing the job the the local Police and the I.C.E. agents either cannot, will not, or are not empowered to do - Mainly, They are raising awareness WHY the ILLEGAL IMMIGRATION MUST STOP ! And as Far as Racial Profiling is concerned ?
+90% of Illegal Immigrants in AMERICA are from MEXICO and its bordering countries and that is a fact !
+Oh No ? Let me ask you - How many Canadians do you see at Day Labor Sites ? How many Koreans do you see begging for work at those day labor sites ? How many Russians, Chinese ? LapLanders ? Icelanders ? Northen Mongolians ? Irish ? British ? French ?
+North Africans ? New Zealanders ?
+Australians ?
+I see men 18 - 50+ ALL MEXICAN !
+Dont TELL me about "profiling" - We KNOW who is crossing our borders and our Government is Permitting and Promoting it to happen !
+Build the Wall !
+JAIL the employers of Illegal Immigrants
+Enforce the laws !</span></p>
+<a id="1c3b6d0bbc5a9c874f3e306bbb4c0d9a"></a><p><span class="simpleblog-name">Escondido</span> wrote on <span class="simpleblog-date">Feb 1, 2007 3:19 PM:</span><span class="simpleblog-response">needs to do as Costa Mesa, enforce Federal Law, according to the FBI Illegal immigration is a federal crime and the Cities have a duty to potect its citizens from Federal Criminals. Maybe start suing the cities and the police will start doing more arrest. Start with jay walkers and people riding bicycles on sidewalks, illegal and they must provide ID to the police. </span></p>
+<a id="11c7854af251f7ec71986059f6be22e5"></a><p><span class="simpleblog-name">Robert24</span> wrote on <span class="simpleblog-date">Feb 1, 2007 3:21 PM:</span><span class="simpleblog-response">Hey Randy, maybe you should take in a few of these illegals and clothe, feed, and nourish them, instead of bagging on David for trying to make a difference.  We have been so watered down by folks like you and the ACLU that now we can't even stand up for laws that already exist and aren't being enforced. And, "Why is it", it is because most of the younger generation has not had to fight for the rights that these illegals are demanding, without earning them, and don't value those rights like the older guys that did fight for them do.  Pretty simple, huh?  Illegal is illegal.  Bye-bye!</span></p>
+<a id="f619f794248ee17e0019a3d06adacbd2"></a><p><span class="simpleblog-name">Hey Why is it</span> wrote on <span class="simpleblog-date">Feb 1, 2007 3:24 PM:</span><span class="simpleblog-response">YOU, first of all are an AGIST, worse than a racist any day in my book.  Secondly, has it ever entered your pea brain that these are retired AMERICANS and remember the good old days when immigrants were legal, they worked hard to learn English, get a job and assimilate into the AMERICAN culture.  Maybe it's that after working and paying taxes for 40 or 50 years, they are seeing that their effort was all for naught.  They see their country being given away to illegal invaders.  They see their children and grandchildren being forced to live in ravaged communities, their hospitals being closed and their educational system sinking from #1 in the world to about 87th.  Might be, they are true AMERICANS who want their country back.</span></p>
+<a id="3fa14f9d00ae49071fdaaea7cb9fa6bb"></a><p><span class="simpleblog-name">Hey Quince</span> wrote on <span class="simpleblog-date">Feb 1, 2007 3:27 PM:</span><span class="simpleblog-response">Quince is a fruit - not a number!!  You know:  fig, grape, quince.  Learn English.</span></p>
+<a id="27f9075563f51f06558a79c266f364f0"></a><p><span class="simpleblog-name">Meow-Meow</span> wrote on <span class="simpleblog-date">Feb 1, 2007 3:52 PM:</span><span class="simpleblog-response">Remember the cat chracter from Mister Rogers' Neighborhood, "Henrietta Pussycat?"  If so, you will recall that she consistently injected the phrase "meow-meow" into her statements.  The latino activists remind me of Henrietta Pussycat, although they simply substitute "racist" for "meow-meow."  Example: "The racist Minutemen are a bunch of racists doing racist stuff in a racist world, racist-racist."  Or, "I want in-state racist tuition and free racist healthcare from the racist-racists, racist-racist."  All from an ethnic group that refers to itself as, "La Raza," which means THE RACE.  Although the American public is currently in an MTV-induced coma, when the "Sleeping Giant" awakens such manipulative double standards will no longer be tolerated.  The last time a group of people referred to itself as "The Race" was in Nazi Germany.  The United States will not be destroyed by latino racists due to Political correctness and apathy - even it seems that way right now.  Law-abiding, taxpayers of ALL RACES will unite against lawlessness, corruption, fraud, and the type of racism being advanced by certain ethnic groups.  God Bless the USA!</span></p>
+<a id="fb4f5a644bbab1dbe17c856ae2d74856"></a><p><span class="simpleblog-name">Dear Editor/ NCT Owner</span> wrote on <span class="simpleblog-date">Feb 1, 2007 3:56 PM:</span><span class="simpleblog-response">Do you really think these "boards" improve (sic) the quality of public discourse?  You say these comments do not reflect your views but you are deciding which ones are posted.  Allowing people to post anonymously contributes to the slinging of hatred that we see on these and other boards. It's easy to hide behind anonymity. The NCT needs to clean up its act and stop enciting the community before something terrible happens.  Free speech - yes - but yelling fire in a crowded theater - no!  You are guilty of the latter.  I think the other papers in SD need to do a story on these boards!</span></p>
+<a id="0803b5e2b9181567ff852aba7dc81290"></a><p><span class="simpleblog-name">Concerned</span> wrote on <span class="simpleblog-date">Feb 1, 2007 4:04 PM:</span><span class="simpleblog-response">Let's face it the people who keep up with the racist, and nazi, and hate remarks are never going to get it. Not even when 10 bloggers in a row tell them it's not about race! It's not even a race issue. There's been scientific fact presented. Still, the next blog comes in and we are racists! It's funny, really. I'm just amazed at how many ill-informed people there are.</span></p>
+<a id="890ca1ecabca4078b66f13f35a6c3e16"></a><p><span class="simpleblog-name">Bill</span> wrote on <span class="simpleblog-date">Feb 1, 2007 4:08 PM:</span><span class="simpleblog-response">Mr. Cline, they are thick on Quince between the Transit Center and Ninth Street in the mornings.  Fifty or more.  Thanks for your work.</span></p>
+<a id="ca2087afdc1db713b1720143dadb47b5"></a><p><span class="simpleblog-name">Concerned</span> wrote on <span class="simpleblog-date">Feb 1, 2007 4:16 PM:</span><span class="simpleblog-response">Actually "Dear Editor/NCT" these open forum boards work pretty well. The NCT selection process is minimal and looks to me like it is there to prevent "fire" in the movie house. Everything else goes. The extreme left and right meet right here. Good perspective on life.</span></p>
+<a id="14ad10aef5b987701700018512343aa4"></a><p><span class="simpleblog-name">Quince Defined</span> wrote on <span class="simpleblog-date">Feb 1, 2007 4:30 PM:</span><span class="simpleblog-response">Knowledge is power!
+
+Main Entry: quince 
+Pronunciation: 'kwin(t)s
+Function: noun
+Etymology: Middle English quynce quinces, plural of coyn, quyn quince, from Anglo-French coign, from Latin cotoneum, alteration cydonium, from Greek kydOnion
+1 : the fruit of a central Asian tree (Cydonia oblonga) of the rose family that resembles a hard-fleshed yellow apple and is used especially in preserves 
+2 : a tree that bears quinces -- compare JAPANESE QUINCE 
+[quince illustration] </span></p>
+<a id="fcb2027eb346dc6edbd0c3e0fff55221"></a><p><span class="simpleblog-name">Greg in Oceanside</span> wrote on <span class="simpleblog-date">Feb 1, 2007 4:34 PM:</span><span class="simpleblog-response">There are those amongst us who continue to beat the drum; �how can we tell these men/women are illegal aliens?�  That argument (statement) doesn�t hold much water for most of us logical thinking people.  Because of �political correctness� illegal aliens are hiding behind the fact that we cannot just assume or walk up to them and inquire.  They�re accustomed to not being challenged because the rest of us citizens aren�t challenged.  Illegal aliens should not be here for a multitude of reasons, and it�s not because of race or ethnicity.  Granted, some are here to work, but in so doing they�re enjoying the benefits and freedoms of US citizenship without the responsibility.  Most work �under the table� without paying taxes, which means they�re enjoying the use of our roads, infrastructure, police and military protection, social and medical programs, without contributing one dime.  So, in order to stem the flow of illegal immigration, we need to create an environment that is inhospitable to illegal aliens.  To begin with, it should be unlawful to solicit work, and it should be just as unlawful to pick them up for ad hoc employment.  Having hiring halls for illegal aliens is only exacerbating the situation.  As long as there are jobs, or willing �employers� the illegal aliens will come.  As long as there are free-bees the free loaders (illegal aliens) will come.  As long as there is free education, welfare, and healthcare illegal aliens will come.  We need the Minute Men to bring awareness to the problem of illegal immigration and the problems illegal aliens bring with them.</span></p>
+<a id="5cc873fc0bae22a2ba5f419bc137b506"></a><p><span class="simpleblog-name">I'M SOOOOO TIRED</span> wrote on <span class="simpleblog-date">Feb 1, 2007 4:57 PM:</span><span class="simpleblog-response">of you liberal-minded, bleeding hearts putting the racist label on anybody who wants to rid our city of I-L-L-E-G-A-L ALIENS!  WHEN will you get it through your thick skulls that I-L-L-E-G-A-L means just that - they are breaking the law!!!  They, by their very presence here, are breaking the law - they are criminals by that very fact - that one fact!  I don't wish them bad, I simply wish them gone or to come into the country L-E-G-A-L-L-Y: as in with proper background checks!  Get off the pity-pot!  </span></p>
+<a id="e816b00e561c450db8e136f52575d797"></a><p><span class="simpleblog-name">to the racist people</span> wrote on <span class="simpleblog-date">Feb 1, 2007 5:00 PM:</span><span class="simpleblog-response">well if you are saying that illegal immigrants should be stop and to go back home but why should they because we where here first before you so called americans. Also not only mexicans that murder police and civilians so do "white people" but you guys dont look at that. So dont be talking smack about mexicans not all mexicanos are bad</span></p>
+<a id="76a5f1a9274cea3b71096399b08c9195"></a><p><span class="simpleblog-name">bvv</span> wrote on <span class="simpleblog-date">Feb 1, 2007 5:13 PM:</span><span class="simpleblog-response">Previously posted at 1:22 Are you afraid of Caludia Smith's non-profit? There is nothing slanderous in this post. [2nd send] Kudos to the Minutemen !  BTW - I've seen a copy of the stipulations under which Claudia Smith's group qualify for a non-profit [tax-exempt] status. First and foremost, that they defend upholding the law.  Claudia is always out speaking for illegal aliens and their illegal employers. She is in violation of the terms of her non-profit status .... but nothing will happen. </span></p>
+<a id="b79165337e3ddc33892a725865d3e3ab"></a><p><span class="simpleblog-name">El Guero</span> wrote on <span class="simpleblog-date">Feb 1, 2007 5:17 PM:</span><span class="simpleblog-response">Dear 'to the racist people': Please try to understand. Immigrants are like cholesterol; there's good and there's bad. The United States has a severe lack of good cholesterol while its bad choleserol is off the charts. But I wouldn't expect you to understand that.</span></p>
+<a id="47de0b628fed6fa5d22901b5730d21c4"></a><p><span class="simpleblog-name">To Quince</span> wrote on <span class="simpleblog-date">Feb 1, 2007 5:25 PM:</span><span class="simpleblog-response">I believe that it is pronounced "kwins".  It is not a spanish word, it is the name of a tree.  Maybe you should take a drive over to that area and look at the other streets....named after trees.  It is not a mexican word.</span></p>
+<a id="9dee91e67e846a7abaf30796bdd9034c"></a><p><span class="simpleblog-name">Get A Clue - Quince Street</span> wrote on <span class="simpleblog-date">Feb 1, 2007 5:31 PM:</span><span class="simpleblog-response">Quince is a tree!  In central Escondido, the generally north-south streets are named after trees and plants!  The naming system starts with Ash, Birch, Cedar, etc.  Surrounding Quince is OPQRSTUV for Orange, Pine, Quince, Redwood, Spruce, Tulip, Upas &amp; Vine.  There are two exceptions: Escondido Blvd and Broadway.  Broadway used to be called Lime Street.  You can see Lime St. imprinted in the concrete at street corners south of downtown Escondido.  Escondido Blvd used to be called Nutmeg Street.  The generally east-west streets (avenues) used to be named after states or presidents (except Grand--it was always Grand Avenue).  Later, the names of the streets south of Grand were to changed to numbers, but Pennsylvania and part of Ohio (now West-East Valley Parkway) still remain.  Grant Avenue was named after President Grant, but the legacy of this great president and general fell to Mission Ave.  The Legacies of Washington and Lincoln still survive (but seeing was happened to Grant, who knows). The City of Escondido was founded, and the streets named, by Americans decades after America won the Mexican-American war and took possession of California.  Saying that Quince is evidence of an early Spanish or Mexican heritage in Escondido is an ignorant fable.</span></p>
+<a id="0184f8a7c23c1107eec0f29f06f1bf44"></a><p><span class="simpleblog-name">Once</span> wrote on <span class="simpleblog-date">Feb 1, 2007 5:33 PM:</span><span class="simpleblog-response">Is it at one time in the past, or is it a number (10 + 1)?  Hint: this is America!</span></p>
+<a id="c167656c9028d8bdf2f390802c7a23f9"></a><p><span class="simpleblog-name">Tired</span> wrote on <span class="simpleblog-date">Feb 1, 2007 5:47 PM:</span><span class="simpleblog-response">Tired of good law abiding citizens getting the race card thrown in our faces.  We a numb to your references to the KKK, Nazi's and racisism.  We are taking this country back whether you like it or not and the more you fight it, the harder we fight back.  THANK YOU DAVE, I WILL BE OUT TO JOIN YOU ON SAT.  EVERYONE ELSE GET OUT OF BED AND JOIN HIM 7AM!  Don't be late, it will be great!</span></p>
+<a id="609004bbed09b43c06245067915b58e1"></a><p><span class="simpleblog-name">Connie</span> wrote on <span class="simpleblog-date">Feb 1, 2007 6:47 PM:</span><span class="simpleblog-response">Sign me up!  I don't want to hear anymore that this is the federal government's job to enforce our laws.  Everyone at the federal level wants amnesty.  If they wont do it we ordinary citizens have to step up.</span></p>
+<a id="ca187a5664a78ae34294128e333e6daf"></a><p><span class="simpleblog-name">What?</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:00 PM:</span><span class="simpleblog-response">Boy, the Mexicans are getting all fired up against the anglos, why, because we despise illegals in our country?  Talk to me like I am a first grader and explain that to me?</span></p>
+<a id="73568ff24dc656957abac338854b510b"></a><p><span class="simpleblog-name">gonefromEsco</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:40 PM:</span><span class="simpleblog-response">I lived in Escondido for 19 years until recently. I moved to get away from houses or in my instance, apartments with 3 to 4 families living together.I say 3 to 4 families but you really couldn't tell how many people live their. It was more a case of a woman, her 3 kids, a boyfriend, another woman and her 3 kids, another boyfriend or someone. The list would go on and on. Make a stand Escondido Minutemen, the quality of life has deteriorated, just look at Del Dios middle school. Nothing wrong with the teachers, but the students now need a police officer or squad car parked out front everyday. Last year I was admitted to the emergency room at Palomar Hospital, only to wait 3 hrs because it was clogged with illegals using it as their primary care. I was billed, were they? Keep up the good work  Esco Minutemen, and I encourage everyone to back you, unless they want to see everything go south. Don't move like I did, Stay and Fight! You guys are on the front lines, and even people in other states appreciate you. Thank You </span></p>
+<a id="82062a8c4ee051ece3cb9787c351a875"></a><p><span class="simpleblog-name">Same Problem in Penasquitos</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:43 PM:</span><span class="simpleblog-response">Way to Go Mr. CLine. I would like to starta minutemen group in Penasquitos. We have a similar problem over here. Day laborers loitering on carmel mountain Rd under the 56. Numerous encampments in the canyon. i really wish the shopping center owner would remove them from the property. they make the shopping center look bad. They litter, throw their beer cans all over the place. If we all come together as one large group we can run these people out of the palces where they wait for work. keep on protesting at the hiring sites. Then they along with the workers will leave. </span></p>
+<a id="4e5d41234ca0348bd38319069a73ea65"></a><p><span class="simpleblog-name">Same Problem in Penasquitos</span> wrote on <span class="simpleblog-date">Feb 1, 2007 7:46 PM:</span><span class="simpleblog-response">Just to let everyone know. Very soon every vehicle checkpoint in Escondido, Drivers License checkpoint, seatbelt checkpoint and DUI checkpoint. Border Patrol will be working with Escondido Police and Will have some agents at all their checkpoints soon
+
+</span></p>
+<a id="f2176ee30a2329aa52737f6e0c3723a1"></a><p><span class="simpleblog-name">DS</span> wrote on <span class="simpleblog-date">Feb 1, 2007 8:02 PM:</span><span class="simpleblog-response">If we are not very careful with the   illegals flooding into our country, we may see the beginnings of something far more militant than the Minutemen.  I support them because I don't want to see something worse come about. Want to see a political party come to power that is explosively anti-illegal? If this goes unchecked it may be the only thing that will save us. Know what Kristalnacth was? Sadly, it may take another 911 for us to realize that we need to control our borders. A revamp of the Constitution may be in order here as well.  If the baby born at the hospital doesn't have at least one legal parent, he should NOT an automatic citizen. What about abandoned babies?  Who is to say where they were born? Guest workers? Sure. Show me your vasectomy card. That would stop most of this cold when pared with the Constitutional change. I just want my country back!</span></p>
+<a id="0fba0831febd0b7b3c40b91765f9032f"></a><p><span class="simpleblog-name">Al</span> wrote on <span class="simpleblog-date">Feb 1, 2007 8:13 PM:</span><span class="simpleblog-response">Hail to the Minute Men and David Cline for taking the initiative, for being visible and vocal on our streets, representing the feelings of the true silent majority of this country. Keep up the good work David! Don't be disuaded by the pro-Illegal crowd crying the race-card at you. We know that is pure rubbish.
+I'll be beeping at you tomorrow, signaling my gratitude, on way to my taxpaying job.</span></p>
+<a id="c138a6bbc516a304193cfb8410c15c30"></a><p><span class="simpleblog-name">Harry</span> wrote on <span class="simpleblog-date">Feb 1, 2007 8:20 PM:</span><span class="simpleblog-response">Ladies,
+I read your article, "Escondido man forms city's Minutemen Brigade". Good news!
+
+Have you or anyone you know written about the rights of legal Escondido citizens, like me? 
+If I were to join the Minutemen and if I were to confront an illegal immigrant, what are my rights and responsibilities? 
+May I legally make a 'citizens arrest' and expect the police or immigration authorities to take some reasonable action? What would that action be?
+
+How must I deal with those citizens who accompany the illegal? Is there some type of 'aiding and abetting' law that can be applied and enforced against those who employ, house, or otherwise facilitate illegal?
+
+What do the Chief of police and City Attorney have to say about these questions?What is their official position concerning the Minutemen?
+What are their private positions?
+
+I hope you dig into this topic and write more.
+
+Regards,
+Harry </span></p>
+<a id="4bfef249ccdfd41f1e143a97c01f64bd"></a><p><span class="simpleblog-name">Benito</span> wrote o<!--
+     FILE ARCHIVED ON 00:53:22 Sep 05, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:32:22 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 47.779 (3)
+  esindex: 0.008
+  captures_list: 65.507
+  CDXLines.iter: 13.066 (3)
+  PetaboxLoader3.datanode: 106.285 (4)
+  exclusion.robots: 0.165
+  exclusion.robots.policy: 0.154
+  RedisCDXSource: 1.884
+  PetaboxLoader3.resolve: 30.215
+  load_resource: 139.002
+-->

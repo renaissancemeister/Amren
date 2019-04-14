@@ -1,0 +1,828 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Two sent to prison for gang rape : La Crosse Tribune</title>
+</head>
+<body>
+<script type="text/javascript" src="http://www.lacrossetribune.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('lacrossetribune.com'); TNTracker.setTracker('http://www.lacrossetribune.com/shared-content/stats/common/tracker.gif', 'https://secure.townnews.com/shared-content/stats/common/tracker.gif'); TNTracker.trackPageView(); }
+// -->
+</script> 
+
+<table width="990" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td class="pagebord"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="68%"><img src="http://www.lacrossetribune.com/artwork/header.gif" width="684" height="90"></td>
+            <td width="32%"><a href="http://www.lacrossetribune.com/artwork/header_7rm.jpg"><img src="http://www.lacrossetribune.com/artwork/header_7rm.jpg" width="305" height="90" border="0" usemap="#Map"></a></td>
+          </tr>
+        </table></td>
+  </tr>
+  <tr>
+    <td background="http://www.lacrossetribune.com/artwork/menu_bg.gif" class="menu_box">
+	
+	<table width="100%" height="64" border="0" cellpadding="0" cellspacing="0">
+  <tr align="left" valign="top">
+    <td>
+<ul id="navbar">
+	<li><a id="home_tab" class="load" href="http://www.lacrossetribune.com/">Home</a><span id="home_toggle" class="toggle"><a href="javascript:void(0);" onclick="javascript:menu('home');return false;">toggle</a></span>
+		<ul id="home">
+			<li><a href="http://www.lacrossetribune.com/shared-content/search/index.php?search=advanced">Search</a>
+			
+		<form name="searchsite" method="GET" style="display: inline;">
+          <input type="hidden" name="search" value="1">
+          <input type="hidden" name="t" value="6">
+          <input type="hidden" name="r" value="">
+          <input type="hidden" name="o" value="0">
+          <input type="hidden" name="l" value="10">
+          <input type="text" size="12" name="q">
+          <input type="hidden" name="d1" value="01-01-1999">
+          <input type="hidden" name="d2" value="today">
+          <input type="image" height="12" alt="Submit" width="12" src="http://www.lacrossetribune.com/artwork/submit.gif" value="Search" border="0" name="submit">
+		</form>
+			</li>
+			<li><a href="http://www.merlin-net.com/default.asp?CategoryName=lacrosse">Photo Reprints</a></li>
+			<li><a href="http://www.lacrossetribune.com/nie/">NIE</a></li>
+			<li><a href="http://www.lacrossetribune.com/adinfo/">Advertise Online</a></li>
+			<li><a href="http://www.lacrossetribune.com/faq/">F.A.Q. - Help</a></li>
+			<li><a href="http://www.lacrossetribune.com/requests/">Requests</a></li>
+			<li><a href="http://www.lacrossetribune.com/contactus/">Contact Us</a></li>
+			<li><a href="http://www.lacrossetribune.com/subscriber_services/sample_paper">2 Weeks FREE</a></li>
+			
+		</ul>
+	</li>
+	
+	<li><a id="news_tab" class="selected">News</a><span id="news_toggle" class="toggle_on"><a href="javascript:void(0);" onclick="javascript:menu('news');return false;">toggle</a></span>
+		<ul class="open" id="news">
+			<li><a href="http://www.lacrossetribune.com/localnews">Local</a></li>
+			<li><a href="http://www.lacrossetribune.com/wi/">Wisconsin</a></li>
+			<li><a href="http://www.lacrossetribune.com/mn/">Minnesota</a></li>
+			<li><a href="http://customwire.ap.org/dynamic/fronts/HOME?SITE=WILAC&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT">Nation / World</a></li>
+			<li><a href="http://www.lacrossetribune.com/obituaries/">Obituaries</a></li>
+			<li><a href="http://www.lacrossetribune.com/columnists/">Columnists</a></li>
+			<li><a href="http://www.lacrossetribune.com/business/">Business</a></li>
+			<li><a href="http://hosted.ap.org/dynamic/files/static/moneywire-basic/dc_tables/mwh.html?SITE=WILAC&amp;SECTION=FINANCE&amp;TEMPLATE=DEFAULT">Stocks</a></li>
+			<li><a href="http://www.lacrossetribune.com/police/">Police Blotter</a></li>
+			<li><a href="http://www.rivervalleyblogs.com/" target="_blank">BLOGS</a></li>
+			<li><a href="http://www.wilottery.com/index.asp" target="_blank">WI Lottery</a></li>
+		</ul>
+	</li>
+	
+	<li><a id="sports_tab" class="load">Sports</a><span id="sports_toggle" class="toggle"><a href="javascript:void(0);" onclick="javascript:menu('sports');return false;">toggle</a></span>
+		<ul id="sports">
+			<li><a href="http://www.insidepreps.com/">Preps</a></li>
+			<li><a href="http://www.lacrossetribune.com/localsports/">Local</a></li>
+			<li><a href="http://www.rivervalleynewspapers.com/outdoors/">Outdoors</a></li>
+			<li><a href="http://www.rivervalleynewspapers.com/golf/">Golf</a></li>
+			<li><a href="http://www.lacrossetribune.com/packers/">Packers</a></li>
+			<li><a href="http://www.lacrossetribune.com/bucks/">Bucks</a></li>
+			<li><a href="http://www.lacrossetribune.com/badgers/">Badgers</a></li>
+			<li><a href="http://hosted.ap.org/dynamic/fronts/SPORTS?SITE=WILAC&amp;SECTION=SPORTS&amp;TEMPLATE=DEFAULT">Pro Headlines</a></li>
+			<li><a href="http://customwire.ap.org/dynamic/fronts/FOOTBALL?SITE=WILAC&amp;SECTION=SPORTS&amp;TEMPLATE=DEFAULT">NFL</a></li>
+			<li><a href="http://customwire.ap.org/dynamic/fronts/BASEBALL?SITE=WILAC&amp;SECTION=SPORTS&amp;TEMPLATE=DEFAULT">MLB</a></li>
+			<li><a href="http://customwire.ap.org/dynamic/fronts/BASKETBALL?SITE=WILAC&amp;SECTION=SPORTS&amp;TEMPLATE=DEFAULT">NBA</a></li>
+			<li><a href="http://www.lacrossetribune.com/racing/">Racing</a></li>		
+		</ul>
+	</li>
+	
+	<li><a id="entertainment_tab" class="load" href="http://www.rivervalleynewspapers.com/entertainment/">Entertainment</a><span id="entertainment_toggle" class="toggle"><a href="javascript:void(0);" onclick="javascript:menu('entertainment');return false;">toggle</a></span>
+		<ul id="entertainment">
+			<li><a href="http://www.myliveonline.com/">live!</a></li>
+			<li><a href="http://www.rivervalleynewspapers.com/D_E/calendar.php">Events Calendar</a></li>
+			<li><a href="http://www.rivervalleynewspapers.com/menuguide">Dining</a></li>
+			<li><a href="http://www.lacrossetribune.com/tvlistings/">TV Listings</a></li>
+			<li><a href="http://alliance.zap2it.com/zp_mt_front_page/?site_code=wilctr">Movie Listings</a></li>
+			<li><a href="http://www.rivervalleynewspapers.com/D_E/comics.php">Comics</a></li>
+			<li><a href="http://www.rivervalleynewspapers.com/D_E/comics.php">Horoscopes</a></li>
+			<li><a href="http://www.lacrossedateline.com/">Personals</a></li>
+		</ul>
+
+	</li>
+	
+	<li><a id="features_tab" class="load">Features</a><span id="features_toggle" class="toggle"><a href="javascript:void(0);" onclick="javascript:menu('features');return false;">toggle</a></span>
+		<ul id="features">
+			<li><a href="http://www.lacrossetribune.com/aplusachievers">A+ Achievers</a></li>
+			<li><a href="http://www.lacrossetribune.com/askthetrib/">Ask the Trib</a></li>
+			<li><a href="http://www.lacrossetribune.com/faith/">Faith</a></li>
+			<li><a href="http://www.lacrossetribune.com/family/">Family</a></li>
+			<li><a href="http://www.lacrossetribune.com/food/">Food</a></li>
+			<li><a href="http://www.lacrossetribune.com/health/">Health</a></li>
+			<li><a href="http://www.rivervalleynewspapers.com/home">Home &amp; Garden</a></li>
+			<li><a href="http://www.rivervalleynewspapers.com/entertainment">live!</a></li>
+			<li><a href="http://www.lacrossetribune.com/realtime/">Real Time</a></li>
+			<li><a href="http://www.lacrossetribune.com/shrine/">Shrine</a></li>
+			<li><a href="http://www.lacrossetribune.com/travel/">Travel</a></li>
+		</ul>
+	</li>
+	
+	<li><a id="opinion_tab" class="load">Opinion</a><span id="opinion_toggle" class="toggle"><a href="javascript:void(0);" onclick="javascript:menu('opinion');return false;">toggle</a></span>
+		<ul id="opinion">
+			<li><a href="http://www.lacrossetribune.com/opinion/letters/">Letters to the Editor</a></li>
+			<li><a href="http://www.lacrossetribune.com/opinion/editorial/">Editorial</a></li>
+		</ul>
+	</li>
+	
+	<li><a id="milestones_tab" class="load">Celebrations</a><span id="milestones_toggle" class="toggle"><a href="javascript:void(0);" onclick="javascript:menu('milestones');return false;">toggle</a></span>
+		<ul id="milestones">
+			<li><a href="http://www.lacrossetribune.com/anniversaries">Anniversaries</a></li>
+			<li><a href="http://www.lacrossetribune.com/births/">Births</a></li>
+			<li><a href="http://www.lacrossetribune.com/birthdays">Birthdays</a></li>
+			<li><a href="http://www.lacrossetribune.com/congratulations">Congratulations</a></li>
+			<li><a href="http://www.lacrossetribune.com/engagements">Engagements</a></li>
+			<li><a href="http://www.lacrossetribune.com/retirements">Retirements</a></li>
+			<li><a href="http://www.lacrossetribune.com/thankyou">Thank You</a></li>
+			<li><a href="http://www.lacrossetribune.com/weddings">Weddings</a></li>
+			<li><a href="https://secure.townnews.com/lacrossetribune.com/celebrations/pay_bill/">Submission Form</a></li>
+		</ul>
+	</li>
+	
+	<li><a id="subscriber_services_tab" class="load" href="http://www.lacrossetribune.com/subscriber_services/">Subscriber Services</a><span id="subscriber_services_toggle" class="toggle"><a href="javascript:void(0);" onclick="javascript:menu('subscriber_services');return false;">toggle</a></span>
+		<ul id="subscriber_services">
+			<li><a href="https://secure.townnews.com/lacrossetribune.com/subscriber_services/new_subscription/index.php">Subscribe</a></li>
+			<li><a href="https://secure.townnews.com/lacrossetribune.com/subscriber_services/pay_bill/index.php">Make a Payment</a></li>
+			<li><a href="https://secure.townnews.com/lacrossetribune.com/subscriber_services/gift_subscriptions/index.php">Gift Subscriptions</a></li>
+			<li><a href="http://www.lacrossetribune.com/subscriber_services/vacation_stop-start">Going on Vacation</a></li>
+			<li><a href="http://www.lacrossetribune.com/subscriber_services/change_of_address">Address Change</a></li>
+			<li><a href="http://www.lacrossetribune.com/subscriber_services/delivery_questions">Delivery Issues</a></li>
+			<li><a href="http://www.lacrossetribune.com/subscriber_services/sample_paper">Free Sample</a></li>
+			<li><a href="http://www.lacrossetribune.com/subscriber_services/carrier_application">Carrier Application</a></li>
+		</ul>
+	</li>
+
+</ul>
+
+<div id="container">
+<div id="tool_bar">
+<div id="main"></div>
+<div id="side"></div>
+</div>
+</div>
+</td>
+  </tr>
+</table>
+	
+	</td>
+  </tr>
+  <tr>
+    <td><table width="100%" height="110" border="0" cellpadding="2" cellspacing="2" bgcolor="#3C4760">
+      <tr>
+        <td width="73%" rowspan="2" valign="middle"><script language="JavaScript" type="text/javascript" src="http://l4cr055e4d5.madison.com/lacrosse/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://l4cr055e4d5.madison.com/lacrosse/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:268");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?n=a95d1d9e" target="_blank"><img src="http://l4cr055e4d5.madison.com/lacrosse/adview.php?what=zone:268&amp;n=a95d1d9e" border="0" alt=""></a></noscript>
+
+</td>
+        <td width="27%" align="right" valign="top"><font color="#FFFFFF"><b>
+          <script language="javascript1.1">
+                 <!--
+                  now = new Date();
+                  month = new Array('JANUARY', 'FEBRUARY', 'MARCH', 'APRIL', 'MAY', 'JUNE', 'JULY', 'AUGUST', 'SEPTEMBER', 'OCTOBER', 'NOVEMBER', 'DECEMBER');
+                  year = now.getYear();
+                  if (year < 1000) year += 1900;
+                  document.write(month[now.getMonth()] + ' ' + now.getDate() + ', ' + year);
+                  // -->
+                </script>
+        </b></font></td>
+      </tr>
+      <tr>
+        <td align="center" valign="top"><div class="weathermod"><a href="http://www.lacrossetribune.com/weather"><img src="http://wxport.accuweather.com/wxpost/graphic.aspx?zipcode=54601&amp;type=61&amp;partner=townnews" border="0"/></a></div> <br/>
+<a class="wther" href="http://www.lacrossetribune.com/weather">Click here to view La Crosse Area Weather</a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<map name="Map">
+  <area shape="rect" coords="2,50,38,89" href="http://www.7riversmarketplace.com/ROP/Categories.aspx">
+  <area shape="rect" coords="41,50,94,89" href="http://7riversmarketplace.com/CLASS/">
+  <area shape="rect" coords="95,50,127,89" href="http://www.lacrossetribune.com/jobs">
+  <area shape="rect" coords="138,51,170,88" href="http://wheelswebsite.com/">
+  <area shape="rect" coords="179,51,213,89" href="http://homeselleronline.com/">
+  <area shape="rect" coords="220,51,257,88" href="http://7riversrentals.com/">
+  <area shape="rect" coords="260,52,303,91" href="http://7riverswebsites.com/">
+  <area shape="rect" coords="2,3,302,49" href="http://7riversmarketplace.com/">
+</map>
+</td>
+      </tr>
+      <tr>
+        <td><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="top">			
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td valign="top"><table width="100%" border="0">
+                  <tr>
+                    <td align="left"><table width="100%" border="0" background="http://www.lacrossetribune.com/artwork/sectionbarbackground.gif">
+                        <tr>
+                          <td width="46%" height="10"><span class="topbar"><a href="http://www.lacrossetribune.com/" class="topbar">Home</a> &gt;
+                                <a href="http://www.lacrossetribune.com/news" class="topbar">                            News</a> &gt; Story</span></td>
+                          <td width="54%"><div align="right"><a href="javascript://" onclick="IncreaseFontSize(1)" class="topbar">increase
+                            font size</a><span class="topbar">&nbsp;|&nbsp;</span><a href="http://www.lacrossetribune.com/articles/2005/12/16/news/01gangrape.eml" target="emailafriend"><span class="topbar">email story</span><span class="topbar">&nbsp;|&nbsp;</span><a href="http://www.lacrossetribune.com/articles/2005/12/16/news/01gangrape.prt" target="printable"><span class="topbar">print story</span></div></td>
+                        </tr>
+                      </table>
+                        <table align="right">
+                          <tr>
+                            <td align="right"><table width="100%" border="0">
+                              <tr>
+                                <td><table width="100%" border="0" align="right" cellpadding="2" cellspacing="2" style="border: 2 solid ##5C7096">
+                                    <tr>
+    <td><div class="text-center"><b><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.lacrossetribune.com/artwork/arrow_down.gif" width="8" height="8"> <font color="#990000" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;Advertisement&nbsp;
+          </font> <img src="http://www.lacrossetribune.com/artwork/arrow_down.gif" width="8" height="8"></font></b></div></td>
+  </tr>
+                                    <tr>
+                                      <td align="middle" bgcolor="#ffffff"><div class="text-center"> <script language="JavaScript" type="text/javascript" src="http://l4cr055e4d5.madison.com/lacrosse/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://l4cr055e4d5.madison.com/lacrosse/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:3");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?n=a0d831b3" target="_blank"><img src="http://l4cr055e4d5.madison.com/lacrosse/adview.php?what=zone:3&amp;n=a0d831b3" border="0" alt=""></a></noscript>
+
+ </div></td>
+                                    </tr>
+                                </table></td>
+                              </tr>
+                              <!--SPONSOR LINKS -->
+                              <tr>
+                                <td> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+	<div class="t-p t-bg13 t-ucmore">
+	<div class="t-ph">
+	  <h1>SECTION SPONSORS </h1> 
+	</div>
+		<div class="t-pc">
+	<div class="spon">
+		    <ul>
+              <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=2370&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.rivervalleynewspapers.com%2Fdrop_in%2F20121744.pdf" target="_blank">            
+                Allen Dental</a></li>
+			  <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=2266&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.beltone.com" target="_blank">  
+			    Beltone Hearing</a></li>
+              <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=1925&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.beyercabinets.com" target="_blank">           
+                Beyer Cabinets</a></li> 
+              <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=1811&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.centurytel.com" target="_blank"> 
+                CenturyTel</a></li>
+              <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=717&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.centurytel.com/about/careers%2Fabout%2Fcareers" target="_blank">
+                CenturyTel Employment</a></li> 
+              <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=248&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Ffeistdental.com" target="_blank"> 
+                Feist Dental</a></li>
+              <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=1566&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.grossauto.com/inventory/n_browse.php?id=AAFVs&amp;inv=n" target="_blank"> 
+                Gross Pontiac Buick GMC</a></li>
+              <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=1127&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.judygull.com" target="_blank"> 
+                Judy Gull, Re/Max</a></li>
+              <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=134&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fmerchantsbank.com%2Findex.pl" target="_blank"> 
+                Merchants Bank</a></li>
+              <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=1964&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.meyerassociatesrealtors.com" target="_blank">
+                Meyer &amp; Associates</a></li>
+              <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=137&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Flacrossetribune.com%2Fnorthwestrealty%2F" target="_blank"> 
+                Northwest Realty</a></li>
+			  <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=2318&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.yourkeytocomfort.com" target="_blank"> 
+			    Reisinger Heating  </a></li> 
+			  <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=138&amp;azoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.statebankfinancial.com" target="_blank"> 
+                State Bank Financial</a></li>
+              <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=388&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Flacrossetribune.com%2Fstocklumber" target="_blank"> 
+                Stock Building Supply</a></li>
+			  <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=2278&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.thethreebearsresort.com" target="_blank">
+			    Three Bears Resort</a></li>
+			  <li> <a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?bannerid=2303&amp;zoneid=217&amp;source=&amp;dest=http%3A%2F%2Fwww.uiu.edu" target="_blank">
+			    Upper Iowa University</a></li>
+				
+				
+              </ul>
+		</div>	<div class="text-center"><a href="http://www.lacrossetribune.com/adinfo/">ADVERTISING INFORMATION</a></div>
+		</div>
+	</div>	</td>
+  </tr>
+</table>	 </td>
+                              </tr>
+                            </table></td>
+                          </tr>
+                        </table>
+                        <br>
+						<span class="published">Published - Friday, December 16, 2005</span>
+						<br><br>
+                        <a href="#COMMENT_FORM">POST COMMENT</a> | <a href="#READ_COMMENT">READ
+                          COMMENTS</a> (<span class="simpleblog-count">No comments posted.</span>)
+						<br><br>
+						<span class="headline">Two sent to prison for gang rape</span><br>
+						<span class="byline">By DAN SPRINGER | La Crosse Tribune</span><br><br>
+						<div id="story">
+                        <div style="visibility:hidden">.</div>
+                        His mother called the teen&#8217;s sentence &#8220;racism.&#8221;<br/><br/>&#8220;That&#8217;s all this is ó racism,&#8221; Deborah West screamed as La Crosse County Circuit Judge Michael Mulroy announced he planned to hand down the maximum sentence to Troy E. West Jr.
+						<br>
+                        The 16-year-old from Onalaska, Wis., had been convicted of third-degree sexual assault for his role in the gang rape of a girl at a North Side home in February.<br/><br/>But from her seat in the courtroom Thursday, Deborah West shouted that the five years in prison was because her son is black ó as are the other three men convicted in the case ó and the girl is white.<br/><br/>&#8220;I&#8217;ve sat here listening to this long enough. You&#8217;re up there saying all kinds of things about my son,&#8221; she yelled at Mulroy and Assistant District Attorney Tim Gruenke, drawing a chorus of support from others in the crowd. &#8220;You&#8217;re up there accusing my child of being a gangbanger. He&#8217;s not. He&#8217;s a good kid.&#8221;<br/><br/>She eventually was escorted out of the courtroom.<br/><br/>Mulroy then denied race had any role in his decision, saying had the four been white and the victim black, the sentence would be the same.<br/><br/>Reavon Taylor, 20, of La Crosse  also received five years in prison and five years of extended supervision in the assault.<br/><br/>Jarrad Panama, 20, and Miguel A. Lopez, 18, both of La Crosse, will be sentenced this afternoon.<br/><br/>Panama, Lopez and Taylor had pleaded guilty and West pleaded no contest to a reduced charge of third-degree sexual assault.<br/><br/>According to court records, West brought the girl, then 16, to Lopez&#8217;s house Feb. 5 and took her into a dark bedroom, where she was sexually assaulted by the four males.<br/><br/>In court Thursday, West&#8217;s attorney, John Brinckman, claimed the sex with West was consensual, and he had left the room when the other three assaulted the teen.<br/><br/>Mulroy called that claim ludicrous, and agreed with Gruenke that West was the ringleader who planned the assault.<br/><br/>Mulroy said evidence was clear the girl was too scared to resist because she was in a strange house with strange men she was convinced were gang members.<br/><br/>The judge also rejected any claims the girl consented by remaining silent.<br/><br/>&#8220;When it comes to sexual contact, no means no, yes means maybe and silence means definitely no,&#8221; Mulroy said. &#8220;To argue otherwise is illogical.&#8221;<br/><br/>West did not apologize Thursday, but admitted he got involved in things he should not have. He said he is not in any gang, and claimed to be a good student with hopes of attending college.<br/><br/>His academic record tells a different story, Mulroy said.<br/><br/>&#8220;You have had excessive absences, have been truant and have a history of inappropriate behavior,&#8221; the judge said, adding that West&#8217;s grade point average was 0.895.<br/><br/>The girl, now 17, said earlier in the hearing that her life spiraled out of control after the assault. She was overcome by emotion and had to be helped out of the courtroom after West&#8217;s mother spoke out.<br/><br/>In a separate hearing, Taylor apologized for taking part in the assault.<br/><br/>Taylor, who is scheduled to stand trial early next year for robbery, burglary, drug distribution and aggravated battery, vowed to turn his life around.<br/><br/><i> Dan Springer can be reached at (608) 791-8269 or <a href="mailto:dspringer@lacrossetribune.com">dspringer@lacrossetribune.com</a>. </i>
+                        <div style="visibility:hidden">.</div>
+						<div id="morestuff">
+						<table width="450">
+						  <tr>
+                    <td valign="top" bgcolor="#EFF5F9" class="contentbox2">
+					 <b><font color="#990000" size="2">More News:</font></b><br>
+					
+					  <ul><li><a href="http://www.lacrossetribune.com/articles/2008/08/28/news/00lead.txt"><span class="link">Mom says police used &#8216;way too much force&#8217; in drinking party bust</span></a><br/><li><a href="http://www.lacrossetribune.com/articles/2008/08/28/news/01gow28.txt"><span class="link">Gow offers praise, presents challenges in address to UW-L</span></a><br/><li><a href="http://www.lacrossetribune.com/articles/2008/08/28/news/02charter28.txt"><span class="link">Charter strikes deal with Big 10 Network</span></a><br/><li><a href="http://www.lacrossetribune.com/articles/2008/08/28/news/z00charges28.txt"><span class="link">Charges filed in gun-drug case</span></a><br/><li><a href="http://www.lacrossetribune.com/articles/2008/08/28/news/z01campaign28.txt"><span class="link">Johnson, Huebsch ahead in campaign fundraising</span></a><br/><li><a href="http://www.lacrossetribune.com/articles/2008/08/28/news/z02foundation28.txt"><span class="link">Foundation links young leaders to nonprofits</span></a><br/><li><a href="http://www.lacrossetribune.com/articles/2008/08/28/news/z03crash28.txt"><span class="link">Woman killed in crash is identified</span></a><br/><li><a href="http://www.lacrossetribune.com/articles/2008/08/28/news/z04cityhall28.txt"><span class="link">Man strips down near La Crosse City Hall</span></a><br/><li><a href="http://www.lacrossetribune.com/articles/2008/08/28/news/z05tracker28.txt"><span class="link">News tracker: Monroe County administrator proposal</span></a><br/><li><a href="http://www.lacrossetribune.com/articles/2008/08/28/news/z06courts28.txt"><span class="link">Courts for Thursday, August 28, 2008</span></a><br/></td>
+                </tr></table>
+</div></div></td>
+						
+                  </tr>
+                  <tr>
+                    <td bgcolor="#FFFFFF"><div class="text-center"><table width="100%" border="0">
+  <tr align="center">
+    <td colspan="2"><b><font size="1" face="Arial, Helvetica, sans-serif"><img src="http://www.lacrossetribune.com/artwork/arrow_down.gif" width="8" height="8"> <font color="#990000" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;Advertisement&nbsp;
+          </font> <img src="http://www.lacrossetribune.com/artwork/arrow_down.gif" width="8" height="8"></font></b></td>
+	  </tr>
+  <tr align="center">
+    <td colspan="2"><img src="http://www.lacrossetribune.com/artwork/bluepix.gif" width="300" height="2"></td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+          
+    <td><div class="text-center">
+<script language="JavaScript" type="text/javascript" src="http://l4cr055e4d5.madison.com/lacrosse/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://l4cr055e4d5.madison.com/lacrosse/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:7&amp;blockcampaign=1");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?n=a523543a" target="_blank"><img src="http://l4cr055e4d5.madison.com/lacrosse/adview.php?what=zone:7&amp;n=a523543a" border="0" alt=""></a></noscript>
+
+
+</div></td>
+    <td><div class="text-center">
+<script language="JavaScript" type="text/javascript" src="http://l4cr055e4d5.madison.com/lacrosse/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://l4cr055e4d5.madison.com/lacrosse/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:7&amp;blockcampaign=1");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><noscript><a href="http://l4cr055e4d5.madison.com/lacrosse/adclick.php?n=a523543a" target="_blank"><img src="http://l4cr055e4d5.madison.com/lacrosse/adview.php?what=zone:7&amp;n=a523543a" border="0" alt=""></a></noscript>
+
+
+</div></td>
+  </tr>
+</table>
+</div></td>
+                  </tr>
+                  <tr>
+                    <td>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td bgcolor="#990000"><span class="story"><b><font color="#FFFFFF" size="3" face="Verdana, Arial, Helvetica, sans-serif">&nbsp;Tell
+                                        us what you think...</font></b></span></td>
+                              </tr>
+                              <tr>
+                                <td><a id="READ_COMMENT"></a>
+                                    <h2>&nbsp;Comments &raquo;</h2>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td><a id="blogcomments"></a><div class="simpleblog-results"></div><br>
+                                    <div class="text-center"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>PLEASE NOTE: </b> Comments on stories   that frequently update through the day disappear with each   update.<br>
+                                      The
+                                        comments above are from readers. In no
+                                        way do they represent the views of the
+                                        La Crosse Tribune.<br/><br/>
+
+<a href="mailto:online.editor@lacrossetribune.com?subject=Abuse Report">Click here</a> to report offensive or inappropriate comments. Please identify the comment you're concerned about, the story to which the comment was attached, the date of the comment and the person who made the post.</font></div>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td><hr>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td><a id="COMMENT_FORM"></a>
+                                    <h2>&nbsp;Post a comment (150 word limit) &raquo;</h2>
+                                </td>
+                              </tr>
+                              <tr>
+                                <td>
+
+<table width="98%" border="0" align="center" cellpadding="5" cellspacing="0">
+                                    <tr class="rules">
+                                      <td><b>Log In</b>  - If you have already signed up with The LaCrosse Tribune, please sign in now!</td>
+                                    </tr>
+                                  </table>
+</td>
+                              </tr>
+                              <tr>
+                                <td><div id="registration-login"><form action="http://www.lacrossetribune.com/articles/2005/12/16/news/01gangrape.txt" method="POST"><script language="JavaScript"><!--
+function registrationCheckCookie(checkbox) {var str = new String(this.document.cookie);if ( ! str.match("has_cookies") && checkbox.checked ) {var result = confirm("Your browser does not support cookies.  Click OK to see information on how to enable cookie support in your browser.  Otherwise, click CANCEL.\n\nOnce cookies are enabled, reload this page before trying again."); checkbox.checked = false; if ( result ) {window.open("/shared-content/userhelp/cookies/index.html", "userhelp", "width=350,height=200,menubar=no,location=no,directories=no,toolbar=yes");}}}
+// --></script><table border="0"><input type="hidden" name="registration" value="login"/>
+<input type="hidden" name="remember_me_days" value="0"/>
+ <tr>
+  <th align="right" valign="top">Member ID:</th>
+  <td>
+   <input type="text" name="member_id" size="20" value=""/>
+  </td>
+ </tr>
+<tr>  <th align="right">*Password:</th>  <td><input class="newsys-textbox" type="PASSWORD" name="password"></td></tr><tr>  <td>&nbsp;</td>  <td><small><a href="#" onclick="return window.open(&quot;/?registration=forgot-password&quot;, &quot;&quot;, &quot;width=380,height=190,menubar=no,resizeable=no&quot;)">Forgot Your Password?</a></small></td></tr><tr>  <td>&nbsp;</td>  <td><input class="newsys-button" type="SUBMIT" value="Login"></td></tr></table></form></div></td>
+                              </tr>
+                              <tr>
+                                <td><table width="98%" border="0" align="center" cellpadding="5" cellspacing="0">
+                                    <tr class="rules">
+                                      <td><b>Sign Up</b> - To encourage intelligent and meaningful conversation, The LaCrosse Tribune requires all commenters to register before posting comments. It's quick, it's easy, and it's free! Just fill in the information below to get started!
+<p>**Your Member ID and password will be required to log in. Your comments will appear under your user name.</pp></td>
+                                    </tr>
+                                  </table>
+</td>
+                              </tr>
+                              <tr>
+                                <td><div id="registration-register"><form action="" method="POST"><p style="font-weight: bold; color: red">Do not use usernames or passwords from your financial accounts!</p><p style="font-size: smaller"><b>Note: Fields marked with an asterisk (*) are required!</b></p><table border="0"><input type="hidden" name="registration" value="register"/>
+ <tr>
+  <th align="right" valign="top">Create a Member ID:</th>
+  <td>
+   <input type="text" name="member_id" size="20" value=""/>
+  </td>
+ </tr>
+ <tr>
+  <th align="right">*Choose a password:</th>  <td><input type="password" name="password" size="20" value=""/>
+</td>
+ </tr>
+ <tr>
+  <th align="right">*Re-enter password:</th>  <td><input type="password" name="verify_password" size="20" value=""/>
+</td>
+ </tr>
+ <tr>
+  <th align="right" valign="top">E-mail Address:</th>
+  <td>
+   <input type="text" name="email" size="20" value=""/>
+  </td>
+ </tr>
+ <tr>
+  <th align="right" valign="top">Year of Birth:</th>
+  <td>
+   <input type="text" name="birth_year" size="5" value="" maxlength="4"/>
+  </td>
+ </tr>
+<tr>  <td>&nbsp;</td>  <td><p style="font-size: smaller">(children under 13 cannot register)</p></td></tr> <tr>
+  <th align="right" valign="top">First Name:</th>
+  <td>
+   <input type="text" name="first_name" size="20" value=""/>
+  </td>
+ </tr>
+ <tr>
+  <th align="right" valign="top">Last Name:</th>
+  <td>
+   <input type="text" name="last_name" size="20" value=""/>
+  </td>
+ </tr>
+ <tr>
+  <th align="right" valign="top">Company:</th>
+  <td>
+   <input type="text" name="company" size="20" value=""/>
+  </td>
+ </tr>
+ <tr>
+  <th align="right" valign="top">Home Phone:</th>
+  <td>
+   <input type="text" name="home_phone" size="20" value=""/>
+  </td>
+ </tr>
+ <tr>
+  <th align="right" valign="top">Business Phone:</th>
+  <td>
+   <input type="text" name="business_phone" size="20" value=""/>
+  </td>
+ </tr>
+ <tr>
+  <th align="right" valign="top">Address:</th>
+  <td>
+   <input type="text" name="address" size="20" value=""/>
+  </td>
+ </tr>
+ <tr>
+  <th align="right" valign="top">City:</th>
+  <td>
+   <input type="text" name="city" size="20" value=""/>
+  </td>
+ </tr>
+ <tr>
+  <th align="right" valign="top">State:</th>
+  <td>
+   <input type="text" name="state" size="3" value="" maxlength="2"/>
+  </td>
+ </tr>
+ <tr>
+  <th align="right" valign="top">Zip Code:</th>
+  <td>
+   <input type="text" name="zipcode" size="11" value="" maxlength="10"/>
+  </td>
+ </tr>
+ <tr>
+  <th align="right" valign="top">&nbsp;</th>
+  <td>
+   <input type="submit" name="submit" value="Create Account"/>
+  </td>
+ </tr>
+</table></form></div></td>
+                              </tr>
+                              <tr>
+                                <td>
+</td>
+                              </tr>
+                            </table></td>
+                  </tr>
+                </table></td>
+                <td valign="top"><table width="165" border="0" cellspacing="2" cellpadding="2">
+                                    <tr>
+                    <td><link href="http://www.lacrossetribune.com/art/toptest.css" rel="stylesheet" type="text/css"/>
+ <table width="100%" border="0" cellspacing="0" cellpadding="0">
+   <tr>
+     <td>
+	 <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td><div class="t-p t-bg2 t-tn t-ucmore">
+                    <div class="t-ph">
+                      <h1>NEWSPAPER ADS</h1>
+                    </div>
+                    <div class="t-pc">
+                      <script language="JavaScript" src="http://www.7riversmarketplace.com/ROP/JAdTiles.aspx?n=3&amp;Imagewidth=140&amp;Imageheight=250&amp;target=_blank" type="text/javascript"></script>
+                      <div class="text-center"><a href="http://www.7riversmarketplace.com/ROP/">VIEW MORE</a></div>
+                    </div>
+                  </div> </td>
+            </tr>
+          </table>	 
+	 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+    <td>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td align="left" valign="top">
+
+					<div class="t-p t-bg3 t-ucmore">
+				<div class="t-ph">
+				  <h1>LACROSSE JOBS</h1>
+				</div>
+
+				<div class="t-pc">				
+					<script type="text/javascript" src="http://adsys.townnews.com/creative/lacrossetribune.com/topjobs_tribune/static.js"></script>
+				
+				<div class="text-center"><a href="http://www.lacrossetribune.com/hotjobs_topads/" target="_blank">VIEW MORE</a></div>
+				</div>
+		</div>
+    </td>
+  </tr>
+  <tr>
+    <td><div class="text-center"><img src="http://www.lacrossetribune.com/artwork/spacer.gif" width="1" height="5"></div></td>
+  </tr>
+
+  </table></td>
+ 	  </tr>
+     </table>
+     <table width="100%" border="0" cellpadding="0" cellspacing="0">
+       <tr>
+    <td><div class="t-p t-bg8">
+             <div class="t-ph">
+               <h1>TOP HOMES </h1>
+             </div>
+           <div class="t-pc" align="center">
+               <iframe src="http://www.paper.net/scripts/foxweb.exe/tophomes@d:\cn\hs\wi\lacrosse\tophomes" name="tophomes" width="135" marginwidth="1" height="450" marginheight="0" align="center" scrolling="No" frameborder="0" id="tophomes" valign="top"> </iframe>
+           </div>
+         </div></td>
+ 	  </tr>
+     </table></td>
+   </tr>
+ </table></td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table></td>
+              </tr>
+            </table>
+
+<!-- omniturelee extension v1.0.0 -->
+<!-- SiteCatalyst code version: H.7.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server="River_Valley_SBU"
+s.channel="www.lacrossetribune.com"
+s.pageType=""
+s.prop1="news"
+s.prop2="front"
+s.prop3="news"
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7="Two sent to prison for gang rape"
+s.prop8="DAN SPRINGER | La Crosse Tribune"
+s.prop9=""
+s.prop10=""
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14="9:47"
+s.prop15="Thursday"
+s.prop16=""
+s.prop17=""
+s.prop18=""
+s.prop19=""
+s.prop20=""
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/* Hierarchy Variables */
+s.hier1="Lee Enterprises,River_Valley_SBU,www.lacrossetribune.com,news,front,news,,"
+s.hier2="Lee Enterprises,news,River_Valley_SBU,www.lacrossetribune.com,front,news,,"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->			  
+			  </td>
+            </tr>
+			<tr>
+              <td valign="top"><style type="text/css">
+<!--
+.style2 {font-family: Arial, Helvetica, sans-serif;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-size: 16px;
+}
+.style4 {color: #FFFFFF; font-size: 9px; }
+-->
+</style>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr>
+    <td bgcolor="#3C4760"><table width="90%" height="208" border="0" align="center" cellpadding="0" cellspacing="5">
+      <tr>
+        <td width="239" height="187" align="center" valign="top"><span class="style2">Dailies</span><br/>
+            <a href="http://www.lacrossetribune.com/" target="_blank" class="bot">La
+              Crosse Tribune</a><br/>
+                  <a href="http://www.winonadailynews.com/" target="_blank" class="bot"> Winona
+                    Daily News</a><br/>
+                      <br/>
+                      <span class="style2">Weeklies</span> <br/>
+                      <a href="http://www.couleenews.com/" target="_blank" class="bot">Coulee
+                        News</a><br/>
+                          <a href="http://www.jacksoncountychronicle.com/" target="_blank" class="bot">The
+                            Chronicle</a><br/>
+                                                    <a href="http://www.holmencourier.com/" target="_blank" class="bot">Holmen
+                                                      Courier</a><br/>
+                                                    <a href="http://www.houstonconews.com/" target="_blank" class="bot">Houston
+                                                      County News</a><br/>
+                                                    <a href="http://www.onalaskalife.com/" target="_blank" class="bot">Onalaska
+                                                      Life</a><br/>
+                                                    <a href="http://www.tomahjournal.com/" target="_blank" class="bot">Tomah
+                                                      Journal</a><br/>
+                                                    <a href="http://www.vernonbroadcaster.com/" target="_blank" class="bot">Vernon
+                                                      Broadcaster</a><br/>
+                                                    <a href="http://www.westbytimes.com/" target="_blank" class="bot">Westby
+                                                      Times</a><br/>
+                                                    </p></td>
+        <td width="237" align="center" valign="top"><span class="style2">Regional</span><br/>
+            <a href="http://www.insidepreps.com/" target="_blank" class="bot">Inside
+              Preps</a><br/>
+                  <a href="http://www.myliveonline.com/" target="_blank" class="bot">My
+                    LIVE! Entertainment</a><br/>
+                      <a href="http://www.bestoftherivervalley.com/" target="_blank" class="bot">Best
+                        of River Valley</a><br/>
+                          <a href="http://www.rvbr.com/" target="_blank" class="bot">Business
+                            Report</a><br/>
+                          <a href="http://www.healthylivingtoday.net/" target="_blank" class="bot">Healthy
+                            Living Today</a><br/>
+                          <a href="http://www.strictly-golf.com/" target="_blank" class="bot">Strictly
+                            Golf</a><br/>
+                          <a href="http://www.bike-trails.net/" target="_blank" class="bot">River
+                            Valley Bike Trails</a><br/>
+                          <a href="http://www.rivervalleyblogs.com/" target="_blank" class="bot">River
+                            Valley Blogs</a><br/>
+                          <a href="http://www.rivervalleyoutdoors.com/" target="_blank" class="bot">River
+                            Valley Outdoors<br/>
+                          <br/>
+                          </a><span class="style2">Shoppers</span><br/>
+                          <a href="http://lacrossefoxxy.com/" target="_blank" class="bot"> Tri-County
+                            Foxxy</a>
+          </p></td>
+        <td width="256" align="center" valign="top"><span class="style2">Marketplace</span><br/>
+            <a href="http://www.7riversmarketplace.com/ROP/Categories.aspx" target="_blank" class="bot">Newspaper Ads</a><br/>
+			<a href="http://www.7riverswebsites.com/" target="_blank" class="bot">Local
+              Website Directory</a><br/>
+                  <a href="http://www.7riversrentals.com/" target="_blank" class="bot"> 7
+                    Rivers Rentals</a><br/>
+                      <a href="http://www.homeselleronline.com/" target="_blank" class="bot"> HomeSeller</a><br/>
+                      <a href="http://wheelswebsite.com/" target="_blank" class="bot"> Wheels
+                        Website </a><br/>
+						<a href="http://rvng.outdoormotors.com/" target="_blank" class="bot"> Outdoor Motors</a><br/>
+                          <a href="http://www.lacrossetribune.com/jobs/" target="_blank" class="bot"> Work
+                            For You</a><br/>
+                          <br/>
+                          <span class="style2">Portals</span><br/>
+                          <a href="http://www.lacrossenet.com/" target="_blank" class="bot"> La
+                            Crosse NET</a><br/>
+                          <a href="http://www.winonanet.com/" target="_blank" class="bot"> Winona
+                            NET </a><br/>
+                          </p></td>
+        <td width="236" align="center" valign="top"><span class="style2">Classifieds<br/>
+          </span><a href="http://7riversmarketplace.com/CLASS/" target="_blank" class="bot">River Valley Classifieds</a><br/>
+                    <br/>
+                    </a><span class="style2">Links</span><br/>
+                    <a href="http://www.lee.net/" target="_blank" class="bot"> Lee Enterprises</a>
+          </p></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center" valign="top" bgcolor="#CCCCCC" style="border: 1 solid #003366"><font size="1" face="Geneva, Arial, Helvetica, sans-serif"><b><a href="http://www.lacrossetribune.com/aboutus">About Us</a> | <a href="http://7riversmarketplace.com/CLASS/">Classifieds</a> | <a href="http://www.lacrossetribune.com/contactus">Contact Us</a> | <a href="http://www.lacrossetribune.com/terms">Terms of Use</a> | <a href="http://www.lacrossetribune.com/faq">F.A.Q.</a> | <a href="http://www.lacrossetribune.com/privacy">Privacy Policy</a> | <a href="http://www.lacrossetribune.com/requests">Requests</a> | <a href="http://www.lacrossetribune.com/shared-content/search/index.php?search=advanced/">Search</a> | <link rel="alternate" type="application/rss+xml" title="La Crosse Tribune News" href="http://www.lacrossetribune.com/rss/"/><a href="http://www.lacrossetribune.com/rss/" target="_blank">RSS</a> | <a href="http://www.lacrossetribune.com/videos">Videos</a> | <a href="http://www.lacrossetribune.com/websitedirectory">Advertiser Directory</a></b> | <a href="http://www.lacrossetribune.com/rss/yahoo/" target="_blank"><img src="http://www.lacrossetribune.com/images/addtomyyahoo.gif" width="91" height="17" alt="Add to My Yahoo!" border="0"/></a><br/>
+          Copyright &copy; 1997 - 2008 The La Crosse Tribune. All rights reserved.<br/>
+          Material from this site may not be published, broadcast, rewritten or distributed. A <a href="http://www.lee.net/">Lee Enterprises</a> subsidiary.</font></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</td>
+			</tr>
+        </table></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+
+
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 07:46:01 Aug 28, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:40:36 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 135.757 (3)
+  esindex: 0.015
+  captures_list: 203.467
+  CDXLines.iter: 31.84 (3)
+  PetaboxLoader3.datanode: 38.606 (4)
+  exclusion.robots: 0.324
+  exclusion.robots.policy: 0.306
+  RedisCDXSource: 11.836
+  PetaboxLoader3.resolve: 57.933
+  load_resource: 78.519
+-->

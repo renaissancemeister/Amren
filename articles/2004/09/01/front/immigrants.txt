@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title></title>
+</head>
+
+<body>
+<table table width="760" border="0" cellspacing="0" cellpadding="0">
+
+  <tr>
+    <td align="center"><table width="760" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" table>
+        <tr>
+          <td valign="middle"><span class="topteaser"></span><span class="teaserstory"></span> 
+            <span class="topteaser"><p><a href="http://www.thecrier.net/articles/2004/09/01/front/teasers/01tease.txt">Colts kickoff season</a></p><table align="RIGHT"><tr><td valign="TOP"><a href="javascript:thumbnailWindow('/articles/2004/09/01/front/teasers/01tease.img', 280, 373)"><img src="http://www.thecrier.net/content/articles/2004/09/01/front/teasers/01tease_thumb.jpg" border="0"></a></td></tr></table><p>Hundreds of players, coaches and cheerleaders and their families turned out Friday night for the opening of the Atlanta Colts football season at Murphey Candler Park. From the littlest first-time cheerleaders (L) to the 135-pound players breaking through their banner, all teams were introduced. According to the Colts president, Chuck Trense, opening night restores a tradition dating to the program&#039;s earliest days.</p><a href="http://www.thecrier.net/articles/2004/09/01/front/teasers/01tease.txt"><font class="more">More of this story</a></font></span></td>
+          <td width="324" align="center" valign="middle"><a href="http://www.thecrier.net/"><img src="http://www.thecrier.net/art/toplogo.jpg" alt="Dunwoody Crier" width="324" height="165" border="0"></a> 
+          </td>
+          <td align="left" valign="middle"><span class="topteaser"></span><span class="teaserstory"></span> 
+            <span class="topteaser"><p><a href="http://www.thecrier.net/articles/2004/09/01/front/teasers/02tease.txt">Sandy Springs group strikes up the band</a></p><table align="RIGHT"><tr><td valign="TOP"><a href="javascript:thumbnailWindow('/articles/2004/09/01/front/teasers/02tease.img', 226, 204)"><img src="http://www.thecrier.net/content/articles/2004/09/01/front/teasers/02tease_thumb.jpg" border="0"></a></td></tr></table><p>Once a person experiences the joy of learning how to make music, he or she is usually committed for a lifetime. Now those people who played in their younger years in high school or college bands and have fond memories of playing can get out their instruments and be part of the New Horizon Band of Atlanta, in residence at the Helen Benson Community Center in Sandy Springs.</p><a href="http://www.thecrier.net/articles/2004/09/01/front/teasers/02tease.txt"><font class="more">More of this story</a></font> </span> 
+          </td>
+        </tr>
+      </table></td>
+  </tr>
+  <tr>
+    <td align="left" class="color2"><span class="date"> 
+      <script language="JavaScript" class="date">
+			var now = new Date();
+			var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+			var monNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+			document.write(dayNames[now.getDay()] + " " + monNames[now.getMonth()] + " " + now.getDate() + ", " + now.getFullYear());
+		  </script>
+      </span></td>
+  </tr>
+  <tr>
+    <td><table table width="760" border="0" cellspacing="0" cellpadding="2">
+        <tr>
+          <td width="140" valign="top" class="col-left"> <p><script>
+<!-- Beginning of JavaScript -
+
+// CREDITS:
+// new hierarchical menu Version 1.1 by Urs Dudli and Peter Gehrig 
+// Copyright (c) 1999 Peter Gehrig and Urs Dudli. All rights reserved.
+// Permission given to use the script provided that this notice remains as is.
+// Additional scripts can be found at http://www.24fun.com.
+// info@24fun.ch
+// 1/18/2000
+
+// IMPORTANT: 
+// If you add this script to a script-library or script-archive 
+// you have to add a link to http://www.24fun.com on the webpage 
+// where this script Script will be running.
+// - End of JavaScript - -->
+</script>
+
+
+<link rel="stylesheet" href="http://www.thecrier.net/art/nav/navstyles.css" type="text/css">
+
+<div id="menu" name="menu" style="position:absolute;top:196px;left:6px; visibility: visible"></div>
+ </p>
+           
+           
+            </td>
+          <td align="left" valign="top" bgcolor="#FFFFFF">
+<div class="text-center"><!-- AdSys ad not found for front:top2 --> </div>
+            <hr><table width="100%" border="0" cellspacing="2" cellpadding="2">
+                    <tr>
+                      <td>
+                        <p>
+                        <span class="section">Front</span> 
+                  <p>
+<div align="left"><span class="headline-detail">Residents: Workers, move on </span><br>
+  <span class="timestamp">Tuesday, August 31, 2004 3:08 PM EDT</span> 
+  <p><span class="byline-detail"> </span> </p>
+  <table border="0" cellspacing="0" cellpadding="0" align="right">
+    <tr> 
+      <td align="center"> <table border="0" cellspacing="0" cellpadding="0" align="center" width="280">
+          <tr> 
+            <td class="photo-right"><img border="0" src="http://www.thecrier.net/content/articles/2004/09/01/front/immigrants.jpg"></td>
+          </tr>
+          <tr> 
+            <td class="photo-right" width="280"><span class="cutline">Workers stand outside a gas station on Tilly Mill waiting for temporary labor. Local residents aren&#039;t happy about it. 
+              </span> </td>
+          </tr>
+        </table></td>
+    </tr>
+    <tr> 
+      <td align="center" class="photo-right"> <p><!-- AdSys ad not found for front:middle --></p></td>
+    </tr>
+  </table>
+  <p class="detailstory"><b>By Cathy Cobbs<br>For The Crier</b><br/><br/>Residents in the Dunwoody North and Tilly Mill Road area say they are sick of their area being &quot;an employment agency for cheap labor&quot; and want the dozens of Hispanics who wait by the side of the road for their next job to move along. 
+  <p class="detailstory"><span class="storydetail">However, police and federal agencies say they have neither the personnel nor the facilities to do a sweep of the loiterers, many of whom they suspect are illegal aliens.<br/><br/>At least one complaint has been filed with the U.S. Citizenship and Immigration Service, which has been referred to an investigator.<br/><br/>On Monday morning that the workers were spread along Tilly Mill, with dozens congregating on a bridge near Peachtree Industrial Boulevard. Several small clusters also evident around Home Depot, various gas stations and convenience markets within a 100-yard range.<br/><br/>Neighbors in the Dunwoody North area say that they are often surrounded by the eager workers when pulling into parking lots, but that complaints to police and federal agencies are being ignored.</span> 
+  <table border="0" cellspacing="0" cellpadding="0" align="left" width="">
+    <tr> 
+      <td class="photo-left"></td>
+    </tr>
+    <tr> 
+      <td class="photo-left" width="280"><span class="cutline"></span></td>
+    </tr>
+  </table>
+  <p class="detailstory"><span class="storydetail">One resident who complained to state Rep. Jill Chambers (R-Chamblee) said she was told  &quot;as long as the local businesses allow the people to loiter on their property, the DeKalb police will not interfere.&quot;<br/><br/>The resident was also told that the INS doesn&#039;t have the jail space to round up the suspected illegal aliens or the funds to send them back to their home countries.<br/><br/>&quot;I want the authorities to make those people go somewhere else and I want them to check all the documents in the process,&quot; the resident said.<br/><br/>Chambers suggested that concerned residents make complaint phone calls to the business owners who allow the loitering, or organize a boycott of the business.<br/><br/>An agent with the USCIS said he could not comment on the specifics of any case referred to the agency.<br/><br/>&quot;You would have to join the academy to find out what would happen to a specific case,&quot; he said. &quot;What they do in general is take the complaint, investigate the complaint and take action.&quot;<br/><br/>A call to the USCIS media representative was not returned prior to The Crier&#039;s press time.<br/><br/>Chambers is attending the Republican National Convention in New York andcould not be reached for comment.</span> 
+  <p><img src="http://www.thecrier.net/art/print_icon.gif" width="13" height="14"><a href="http://www.thecrier.net/articles/2004/09/01/front/immigrants.prt" target="printable"><font class="detaillinks">Print this story</a></font></p>
+  <p><img src="http://www.thecrier.net/art/email_icon.gif" width="14" height="14"><a href="http://www.thecrier.net/articles/2004/09/01/front/immigrants.eml" target="emailafriend"><font class="detaillinks">Email this story</a></font></p>
+  <p><a href="http://www.thecrier.net/archives"><img src="http://www.thecrier.net/art/search_icon.gif" width="14" height="18" border="0"><span class="emailprint">Search 
+    Archives</span></a></p>
+                        </div>
+</p>
+                  </td>
+                    </tr>
+                  </table>
+            <p align="center">
+<center><span class="copyright">Copyright &copy; 2005 All Rights Reserved: The Dunwoody Crier.</span></center> 
+
+</p>
+            </td>
+          <td width="130" valign="top" class="col-right">
+    <table width="140" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        
+    <td align="left"><img src="http://www.thecrier.net/art/nav/poll.gif" width="140" height="20"></td>
+      </tr>
+      <tr>
+        
+    <td valign="top" bordercolor="#003366" class="sub-col"> 
+      <table width="140" border="0" cellpadding="0" cellspacing="0" class="poll">
+        <tr>
+          <td class="box-in">
+<table width="100%" align="center" border="0" cellspacing="0" cellpadding="1" bgcolor=""><tr align="center"><td bgcolor=""><font face="Verdana, Arial, Helvetica, sans-serif" size="-1" color=""></font></td></tr>
+<tr align="center" bgcolor=""><td><table width="100%" border="0" cellspacing="0" cellpadding="2" align="center" bgcolor="" height="60">
+<tr valign="middle"><td colspan="2" height="40"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2"><b>Ice storm 2005?
+</b></font>
+</td></tr><tr align="right" valign="bottom"><td colspan="2"><table width="100%" border="0" cellspacing="0" cellpadding="1" height="100%">
+<form method="post" action="http://www.thecrier.net/articles/2004/09/01/front/immigrants.txt"><tr><td width="15%">
+<input type="radio" name="NewVote" value="Not as bad as 1998">
+</td><td width="85%">
+<font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Not as bad as 1998</font></td></tr><tr><td width="15%">
+<input type="radio" name="NewVote" value="Don't want to be here for the next one">
+</td><td width="85%">
+<font face="Verdana, Arial, Helvetica, sans-serif" size="-2">Don't want to be here for the next one</font></td></tr><tr><td width="15%">
+<input type="radio" name="NewVote" value="A lot of slippin' slidin' fun">
+</td><td width="85%">
+<font face="Verdana, Arial, Helvetica, sans-serif" size="-2">A lot of slippin' slidin' fun</font></td></tr><tr align="center" valign="top"><td colspan="2"><br><input type="submit" value="Vote"><br>
+</td></tr></table></form></tr></table></td></tr></table> </td>
+        </tr>
+      </table>
+    </td>
+      </tr>
+    </table> <p><!-- AdSys ad not found for front:right1 --></p>
+ <p><!-- AdSys ad not found for front:right2 --></p>
+ <p><!-- AdSys ad not found for front:right3 --></p>
+ <p><!-- AdSys ad not found for front:right4 --></p>
+ <p><!-- AdSys ad not found for front:right5 --></p>
+ <p><!-- AdSys ad not found for front:right6 --></p>
+ <p><!-- AdSys ad not found for front:right7 --></p>
+ <p><!-- AdSys ad not found for front:right8 --></p>
+ <p><!-- AdSys ad not found for front:right9 --></p>
+  <p><!-- AdSys ad not found for front:right10 --></p></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+
+
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 09:07:28 Feb 05, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:53:36 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 61.718 (3)
+  esindex: 0.01
+  captures_list: 82.515
+  CDXLines.iter: 14.569 (3)
+  PetaboxLoader3.datanode: 60.237 (4)
+  exclusion.robots: 0.19
+  exclusion.robots.policy: 0.178
+  RedisCDXSource: 2.532
+  PetaboxLoader3.resolve: 98.587
+  load_resource: 149.165
+-->

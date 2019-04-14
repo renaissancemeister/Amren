@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>News : Canal Energy president dismisses lawsuit, offers warning about business in Bogalusa : The Daily News, Bogalusa, LA</title>
+</head>
+
+<body>
+<script type="text/javascript" src="http://stats.townnews.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('gobogalusa.com'); TNTracker.setTrackerDomain('stats.townnews.com'); TNTracker.trackPageView(); }
+// -->
+</script>
+
+
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"/></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1560] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1243400400) && (nAdsysTime <= 1559019599) && !adsys_hasReachedFreqCap(188173, 1)) {
+aAd = new Array('+national_popunder', '188173-1243471492', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 1;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gobogalusa.com', aAds, aCampaigns);
+
+// -->
+</script>
+
+	<div id="wrapper">
+		
+		<div id="header">
+			
+			<h1>The Daily News</h1>
+			
+			<div id="last-updated">Last updated on Sunday, Jan 02, 2011 - 01:08:33 am CST</div>
+			<div id="location-date">Washington Parish, LA | Sunday, January 02, 2011</div>
+			<div id="rotating-image">
+			<script type="text/javascript">
+      <!--
+       get_Image();
+      //-->
+      </script>
+	  	</div>
+			
+			<div id="print-edition">
+				<div class="image"><a href="http://www.gobogalusa.com/content/current/page1.pdf" target="_new"><img border="0" src="http://www.gobogalusa.com/content/current/page1.pdf.jpg"></a></div>
+				<p>Daily News&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+					Print Edition &raquo;<br/>
+					<a href="http://www.gobogalusa.com/content/current/page1.pdf" target="_new">View Front Page</a><br/>
+					<a href="javascript:void(0)" onclick="window.open('https://secure.townnews.com/shared-content/perform/?domain_name=gobogalusa.com&amp;form_template=subscribe','subscribe','width=580,height=600,scrollbars=1,toolbar=1');">Subscribe</a>
+				</p>
+			</div><!-- print-edition -->
+			
+		</div><!-- header -->
+		
+			<ul id="main-nav">
+				<li><a href="http://www.gobogalusa.com/" title="Home">Home</a></li>
+				<li><a href="http://www.gobogalusa.com/news/" title="News">News</a></li>
+				<li><a href="http://www.gobogalusa.com/opinion/" title="Opinion">Opinion</a></li>
+				<li><a href="http://www.gobogalusa.com/sports/" title="Sports">Sports</a></li>
+				<li><a href="http://www.gobogalusa.com/lifestyle/" title="Lifestyle">Lifestyle</a></li>
+				<li><a href="http://www.gobogalusa.com/obituaries/" title="Obituaries">Obituaries</a></li>
+				<li><a href="http://www.gobogalusa.com/classifieds/" title="Classifieds">Classifieds</a></li>
+				<li><a href="http://www.gobogalusa.com/archives/" title="Archives">Archives</a></li>
+				<li><a href="http://www.gobogalusa.com/about_us/" title="About Us">About Us</a></li>
+			</ul><!-- main-nav -->
+		
+		<div id="sub-nav">	
+			<ul>
+				<li><a href="http://www.gobogalusa.com/rss/"><span>RSS</span></a></li>
+			</ul>
+			<div id="header-search">
+				<form method="get" action="http://www.gobogalusa.com/shared-content/search/index.php"><input type="hidden" name="search" value="go"><input type="hidden" name="l" value="25"><input type="text" name="q" size="20"><input type="submit" value="Search"></form>
+			</div><!-- header-search -->
+			
+		</div><!-- sub-nav -->
+		
+		<div id="sub-content">
+			<div class="banner"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1560] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1232863200) && (nAdsysTime <= 1548482399)) {
+aAd = new Array('+leaderboard', '168555-1273096125', 'js');
+aAd[7] = 1;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1241413200) && (nAdsysTime <= 1557032399)) {
+aAd = new Array('+leaderboard', '185036-1286211162', 'gif');
+aAd[3] = 'http://www.lafarmbureau.com/';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gobogalusa.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+			<div id="weather" class="section">
+				
+			</div>
+		</div><!-- sub-content -->
+		
+		<div id="content" class="article">
+			
+			<div id="main_content">
+
+				<div class="col1">
+
+					<div id="breadcrumbs">
+			  			<a href="http://www.gobogalusa.com/">Home</a> &raquo; <a href="http://www.gobogalusa.com/articles/2011/01/02/news/">News</a>
+			  		</div>
+                    
+                        	<div class="social_links">
+<a href="http://www.gobogalusa.com/articles/2011/01/02/news/doc4d1e16ad5b041153755500.prt" target="printable">Print this story</a>
+<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=bb369d3c-3b84-4310-aece-e060c4a7e1fc&amp;type=website&amp;embeds=true"></script>
+<a href="#comments">Post A Comment</a>
+			    	</div>
+
+
+
+				  <h1>Canal Energy president dismisses lawsuit, offers warning about business in Bogalusa
+			    		<div></div></h1>
+
+						<p class="credits">
+			    			BY MARCELLE HANEMANN<br/>The Daily News<br>
+							Published/Last Modified on Sunday, January 2, 2011 1:08 AM CST
+			    	</p>
+					
+					<br/>
+					
+	<div class="post">
+		A clearly angry Steve Fetter, president of Canal Energy and Services, which was hit with a lawsuit for alleged racial discrimination in hiring just before Christmas, denied any wrongdoing and said he’s pulling his company out of Bogalusa because of people like the plaintiffs in the federal suit. He also warned that his business would not be the only one lost to the city.<br/><br/>But first Fetter said he’s not worried about the suit filed in federal court on Dec. 22.<br/><br/>“Number one, this has already been rejected by the federal government and the EEOC (Equal Employment Opportunity Commission) once,” he said. “The federal government has interviewed, looked and gone through all our records and dismissed it.”
+<table align="right" width="300"><tr><td>
+<div class="multimedia">	
+<div class="slideshow-block"><img src="http://www.gobogalusa.com/content/articles/2011/01/02/news/doc4d1e16ad5b041153755500.jpg" width="300"><br>
+FILE PHOTO
+In happier times, Canal Energy and Services president Steve Fetter, left, shows Washington Economic Development Foundation director Ryan Seal some of the big machinery he moved into the Bogalusa Industrial Park. After being hit with a lawsuit, Fetter now says he’s ready to pull out of town.
+
+
+
+
+
+
+
+
+</div>
+
+<br>		
+Advertisement<br>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1560] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1232863200) && (nAdsysTime <= 1548482399)) {
+aAd = new Array('+bigad', '168557-1273096159', 'js');
+aAd[7] = 1;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1241413200) && (nAdsysTime <= 1557032399)) {
+aAd = new Array('+bigad', '185047-1241460087', 'gif');
+aAd[3] = 'http://www.sitel.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1241499600) && (nAdsysTime <= 1557118799)) {
+aAd = new Array('+bigad', '185167-1241529522', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.gaylesjewelers.com';
+aAd[6] = '%2Bbigad';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1287464400) && (nAdsysTime <= 1603169999)) {
+aAd = new Array('+bigad', '239541-1287507813', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gobogalusa.com', aAds, aCampaigns);
+
+// -->
+</script>
+</div>
+		</td></tr></table>
+		In the suit 15 African-American plaintiffs claim that they applied for jobs advertised by Canal Energy, and that the company screened applicants to determine race and sometimes marked the applications of African-Americans with the letter “B” “for black.”<br/><br/>The suit also alleges that Canal had a “policy and practice” of refusing to hire African Americans, and that Fetter advised his executive assistant that he did not want to hire them.<br/><br/>Fetter said the applicants were not qualified for the positions he needed to fill.<br/><br/>“These people were positively not qualified for any position in the oilfield,” he said. “And the BP (British Petroleum) incident showed the consequences of having inexperienced people offshore.”<br/><br/>Such an attitude of entitlement is bad for business, Fetter said.<br/><br/>“Just as Chrysler left Bogalusa, Canal Energy is going to leave Bogalusa and there will never, ever be a successful oilfield operation in the city as long as the people in the city have their hands out and want something for nothing,” he said.<br/><br/>Fetter said he has called the mayor and plans to make a comment to the city council on the situation. He said he cannot recommend that any company move to Bogalusa.<br/><br/>“This is bad for the city,” Fetter said. “It’s a serious situation because of these yahoos who want something for nothing.”<br/><br/>He expressed anger, but not worry about the lawsuit.<br/><br/>“The attorneys should be ashamed of themselves,” Fetter said. “It has no merit whatsoever. The suit will be thrown out before it ever gets to court.”
+<br clear="all">
+		
+</div>
+
+			    	<br/>
+    	<div class="social_links">
+<a href="http://www.gobogalusa.com/articles/2011/01/02/news/doc4d1e16ad5b041153755500.prt" target="printable">Print this story</a>
+<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=bb369d3c-3b84-4310-aece-e060c4a7e1fc&amp;type=website&amp;embeds=true"></script>
+<a href="#comments">Post A Comment</a>
+			    	</div>
+
+		    	  <p class="copyright">Copyright &copy; 2011 Daily News</p>
+
+			    	
+	  
+
+  <div id="comments" class="section">
+
+			    		<h2><span>Comments</span></h2>
+					
+	  <div class="inner">
+						
+					      	<ul>
+					      		<a id="blogcomments"></a><div class="simpleblog-results"><div class="simpleblog-comment-1">
+<a id="3f7f9f711827b4e66cc08c34abf11017"></a><p><span class="simpleblog-name">Hmmmmm</span> wrote on <span class="simpleblog-date">Jan 5, 2011 8:55 PM:</span><div class="simpleblog-response">&quot; &quot;clerical, shipping and receiving, QA/QC, purchasing and general office work&quot;  Okay, Washington Parishers  these are the jobs that the 15 people which happened to be black applied for according to the court petition. By the way, it does not take a Ph.d in Engineering to file papers, answer the phones, or perform Quality Assurance/Control... Hmmmmm makes you wonder! Mr. you look better from behind....I hope your gone, Washington Parish has enough racism SNEAKING around...look at the post on the article... &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="cba7883eb578cc252b9c84427ce2bd01"></a><p><span class="simpleblog-name">Amazed</span> wrote on <span class="simpleblog-date">Jan 5, 2011 5:44 PM:</span><div class="simpleblog-response">&quot; To Black Professional Engineer: After viewing you comment I think you disqaulified yourself for the job. If you're an engineer grammar must not be important. You need to understand something, the mood of the country is changing rapidly. When families are barely able to buy groceries but see a few people pushing 3 and 4 buggies overflowing with meat and they drive off in a new car it upsets many. With 41 million people in this country on foodstamps troubling times are coming and those of us feeding the lazy will come to an end. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="477ca3737a8226d89a318d9f96ff6ac0"></a><p><span class="simpleblog-name">Amazed</span> wrote on <span class="simpleblog-date">Jan 5, 2011 5:33 PM:</span><div class="simpleblog-response">&quot; To Ms. T: You have absolutley NO credibilty on this issue. You have been exposed as being racist by the many prejudice comments you have posted here on the Daily News. How many people have you employed Ms T? Anyone with an ounce of common sense would not waste hard earned money on a business in a community full of people who cannot take care of themselves and have no desire to provide for themselves. People like you have little affect on us anymore. We will start speaking up, the free ride is about over! &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="3bc5e6e196dc886c9dec22947f3988a7"></a><p><span class="simpleblog-name">Yellow Rose of Texas</span> wrote on <span class="simpleblog-date">Jan 5, 2011 4:27 PM:</span><div class="simpleblog-response">&quot; I work in HR in Texas.  Fetter would be wise to hire a PR firm to advise him on how to disguise his true self.  It is obvious what he is by his brash reaction and comments. I would be curious to see  a comparison of the qualifications of the white and black applicants in this case.  Why is it when blacks seek &quot;equal&quot; opportunity it is seen as looking for a handout? I predict he will lose this suit.  It is obvious that his own staff outted him for what he really is. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="ac46db53920bcb3b470c84da8372c9d1"></a><p><span class="simpleblog-name">MoosesMom</span> wrote on <span class="simpleblog-date">Jan 5, 2011 4:24 PM:</span><div class="simpleblog-response">&quot; I agree that the practices of these 15 people and others like them will cause businesses to stay away from Bogalusa.<br/>Mr. Black Professional Engineer: correct word for the meaning you are trying to convey, proofread. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="e5e2d2057a59f6ac334d068811352cf8"></a><p><span class="simpleblog-name">bogalusaian who left</span> wrote on <span class="simpleblog-date">Jan 5, 2011 2:08 PM:</span><div class="simpleblog-response">&quot; If you feel that strong enough to call names knowingly only people that filed the suit was african american, pull the applications of those people and show Bogalusa they wasnt qualified and that you didnt write the letter B on their  app.<br/>Every company i america has suits filed agianst them. Looks like you was a undercover racist who has been uncovered, now you running.... running out of Bogalusa &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="e4f87fdc26b7d0f47a9bf9077fce9fc8"></a><p><span class="simpleblog-name">Jillora Borghese</span> wrote on <span class="simpleblog-date">Jan 5, 2011 9:31 AM:</span><div class="simpleblog-response">&quot; BogalusaOnceremoved wrote on Jan 3, 2011 12:00 AM<br/><br/>He still has to defend himself whether it has merit or not.  It could cost him a few thousand to tens of thousands, if not hundreds of thousands, just to prove the moochers have no justification for the lawsuit.  Who do you think ends up paying that?  It's the customers!<br/><br/>Your comment is further proof that unqualified people are also in the educational system. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="2b231c0584733abfb5184d74d1fe5955"></a><p><span class="simpleblog-name">proof</span> wrote on <span class="simpleblog-date">Jan 5, 2011 12:56 AM:</span><div class="simpleblog-response">&quot; To the 15 people who filed the lawsuit: Provide proof you are qualified for the job. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="0f147f3c109a52900fc34946b530e255"></a><p><span class="simpleblog-name">know the facts</span> wrote on <span class="simpleblog-date">Jan 5, 2011 12:35 AM:</span><div class="simpleblog-response">&quot; courthousenews.com/2010/12/23/Racial.pdf &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="9318f1d8cd39f1463f6167dfe95d0751"></a><p><span class="simpleblog-name">Black Professional Engineer</span> wrote on <span class="simpleblog-date">Jan 4, 2011 11:41 PM:</span><div class="simpleblog-response">&quot; This man is a racist; there are many qualified engineers graduates from LSU, Southern University, La Tech and Grambling.  Mostly all of the engineers must leave Louisiana to get hired.  This is why the medium income for whites is $84,000 and blacks is $8,000 in the state of Louisiana.  I bet he want take this kind of language to Senator Mary Landrieu.  I don’t know what qualification he referring to other than white and I am sure there are many black engineers that can pass for white in southern Louisiana. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="100f3cf85e92e2bb6153506813d4a936"></a><p><span class="simpleblog-name">Pine Knot</span> wrote on <span class="simpleblog-date">Jan 4, 2011 9:15 PM:</span><div class="simpleblog-response">&quot; Washington Parish does have a group of residents that feel &quot;entitled&quot; and if they are not hired because they are lacking in qualifications and experience then they yell racism. More importantly if the EEOC didn't find there was illegal practices in hiring this lawsuit is a waste of time and money. This behavior is why bogalusa will always be a poor town. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="396ea41ce1ae53c97e67a15622c92ee3"></a><p><span class="simpleblog-name">Hmmmmmm</span> wrote on <span class="simpleblog-date">Jan 4, 2011 7:55 PM:</span><div class="simpleblog-response">&quot; &quot;We as the public know from the report that the persons in the lawsuit are BLACK people so why do the president of this company keep calling the persons named in the lawsuit names and saying that they have their hands out trying to get something for nothing?  &quot;<br/><br/>I agree with Mr. Toussaint, seems a little racists to me... Heck, I see white folks, black folks, tan folks all kinds of folks in the unemployment office and the food stamp lines with their 'hands' out... &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="6b5031c73763fc8f9fce628ab4f4a3af"></a><p><span class="simpleblog-name">T.B.</span> wrote on <span class="simpleblog-date">Jan 4, 2011 5:30 PM:</span><div class="simpleblog-response">&quot; Typical entitlement attitude from the do nothing leeches who filed the suit.  And to the idiot commentators who are screeching &quot;racism!&quot; at Fetter because he is calling them out for being scrounging losers, you're just as bad as they are. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="15f2953db3b04c077f54b51da931f538"></a><p><span class="simpleblog-name">deedee</span> wrote on <span class="simpleblog-date">Jan 4, 2011 4:59 PM:</span><div class="simpleblog-response">&quot; I agree with &quot;Amazed&quot; where are the politicans when they are really needed. I guess they are waiting on their free night on the town at the new BAR AND GRILL. Hope you don't mind the wait. Super Bowl is a little ways off. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="e5d3a8aeff8c1d7b0cf7bc685b5b4826"></a><p><span class="simpleblog-name">Mr F</span> wrote on <span class="simpleblog-date">Jan 4, 2011 3:23 PM:</span><div class="simpleblog-response">&quot; I agree with Arvee that they contribute nothing, But they do vote for Democrats 100% of the time,so that is what they contribute is they can be counted on to vote and vote Democrat. So that will also explain to Amazed where is Sen. Nevers and Rep.Ritchie, they will never speak against thier Democrat voters and all the Business can just go to Heck. Democrats hate business they love goverment. enuf said &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="8b44d0fd0cc46f465e5dc1bb5580a0ca"></a><p><span class="simpleblog-name">Onlooker</span> wrote on <span class="simpleblog-date">Jan 4, 2011 10:31 AM:</span><div class="simpleblog-response">&quot; News for Mr. Fetter: the entitlement mindset is everywhere. You can't escape it. I've been through the EEOC ringer a couple times myself and was cleared on both occasions. Unfortunately it's the cost of doing business in our litigious society. But why threaten to yank your business out of town unless the City is supporting the plaintiffs? Or unless you're angling for the City to cough up some kind of sweet economic development offer to keep the business in town? I hope that's not the case. Hang in there with Bogalusa. Most folks there are really good people. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="e7dcba04f6867f727f363caf679e96c8"></a><p><span class="simpleblog-name">No more hand outs</span> wrote on <span class="simpleblog-date">Jan 4, 2011 9:25 AM:</span><div class="simpleblog-response">&quot; Kudos to the Daily News for reporting on this. The community needs to know why business doesn't prosper in our parish. I hope the Daily News can camp out on the front door steps of Ronnie Glen Penton's office and get an answer as why he relishes hurting our community and the honest hard working families in it? In fact maybe a large group of us should demonstrate at his office until he responds. My gut feeling is that all 15 of the individuals in the suit also filed in the  Chemical class action suit. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="fbe9cf9bfca2349762c5047d8141edd2"></a><p><span class="simpleblog-name">SD</span> wrote on <span class="simpleblog-date">Jan 4, 2011 12:44 AM:</span><div class="simpleblog-response">&quot; P.S. Mr, Fetter, Bogalusa has many honest and hardworking citizens as anywhere in the world.  Why bash Bogalusa for a few citizens that you are intolerant of?  It seems as though you seek revenge.  In additon, the city of Bogalusa nor any city or state in the US can control people in this manner.  Last time I checked, I thought we were living in a democracy and not a dictatorship. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="6c7dbe359db19c33ff99b38e15d9051f"></a><p><span class="simpleblog-name">SD</span> wrote on <span class="simpleblog-date">Jan 3, 2011 10:39 PM:</span><div class="simpleblog-response">&quot; Mr. Felter,  are you for real?  Get over yourself.  Stop whining!  Are you realist or an idealist?  I think the latter.  Hos is Bogalusa any different than any other city in the coutrtry?  ....World?   There are those who will always want something for nothing.  Have you forgotten Katrina so quickly?   I bet at some time during your lifetime you had your hand out for something you did not deserve........Be honest with yourself! &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="a4f92e8119d4c9cd406809b08ac86220"></a><p><span class="simpleblog-name">Ms. T</span> wrote on <span class="simpleblog-date">Jan 3, 2011 8:22 PM:</span><div class="simpleblog-response">&quot; It is so funny to read all of the comments from people who don't even know if the suit has any merit! Did any of you ever stop to think that there just may be some truth to the allegations? What company threatens to move because of a lawsuit? And how childish is he to call the people yahoo's? He sounds extremely racist to me and not professional at all. Do all of you have these attitudes because it stated that the people who filed are African-American? You are really showing your prejudiceness but that's typical Bogalusa, isn't it? &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="22333436a0126b47cd0028ac2c7fe204"></a><p><span class="simpleblog-name">Wayne</span> wrote on <span class="simpleblog-date">Jan 3, 2011 7:13 PM:</span><div class="simpleblog-response">&quot; This is preposterous. Why should a company hire unqualified people of low intelligence, just because they are of African ancestry?<br/><br/>Obama and Holder are a disgrace. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="c28a16df30e165f25a109af1725502a7"></a><p><span class="simpleblog-name">John Concern</span> wrote on <span class="simpleblog-date">Jan 3, 2011 6:00 PM:</span><div class="simpleblog-response">&quot; Not every African American is like that here in Bogalusa.  We need more industry to come in and be part of our growth.  Please don't let the good suffer for the bad.  Stay and see what will happen.  Unemployment is up and with your company staying it may level off.<br/>YOU WILL NEVER KNOW IF YOU LEAVE &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="a27dc9fda6f40dbc6df392b723fd407d"></a><p><span class="simpleblog-name">JM</span> wrote on <span class="simpleblog-date">Jan 3, 2011 4:02 PM:</span><div class="simpleblog-response">&quot; Mr. Toussaint: why do you say he does not like blacks?  Just because he is not willing to lower is hiring requirments because they are black?  Sounds like you are the racist.  Oh, thats not possible...reverse racism does not exist. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="69d5db8f6f6807dc658690b39f683786"></a><p><span class="simpleblog-name">JM</span> wrote on <span class="simpleblog-date">Jan 3, 2011 3:05 PM:</span><div class="simpleblog-response">&quot; It's sad that he has to find this out about Bogalusa the hard way.  That's why industry is not coming to Bogalusa and the industry that we have/had are moving out. Shame on those involved. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="58c4faad43935dd149c30596dbb9a9b9"></a><p><span class="simpleblog-name">Ares</span> wrote on <span class="simpleblog-date">Jan 3, 2011 11:14 AM:</span><div class="simpleblog-response">&quot;  Just ruined the opportunity for everyone else.  &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="d478c76f93c47d5e0f4f7df7851d25b3"></a><p><span class="simpleblog-name">stormfrontmember</span> wrote on <span class="simpleblog-date">Jan 3, 2011 10:09 AM:</span><div class="simpleblog-response">&quot; Were the previous investigations priior to Obama?  The new head of DOJ is openly racist, as video testimony over a hate crimes law shows.  I would not be surprised if DOJ over turns previous rulings. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="346664e0c32b40a64e37d5f4c23eb1ec"></a><p><span class="simpleblog-name">Offshore Toolpusher</span> wrote on <span class="simpleblog-date">Jan 3, 2011 9:50 AM:</span><div class="simpleblog-response">&quot; I agree with Mr Fetter. This is a serious matter and it is shameful that Ronnie Penton and any other attorneys would jump on this band wagon in an effort to make a quick buck and cause harm to our parish. <br/><br/>I work in the oil industry myself and you simply cannot hire unqualified people to do these type jobs. This is serious work that requires years of training and skill. Unqualified people will kill themselves and everyone working around them. I would not let any of them near my worksite to endanger me and my men. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="147397378c44700f6cfad4b2544075ed"></a><p><span class="simpleblog-name">ARVEE</span> wrote on <span class="simpleblog-date">Jan 3, 2011 9:42 AM:</span><div class="simpleblog-response">&quot; Welcome to Bogalusa!!  It's a great place for trailor trash and front poarch swingers who only draw a check with one hand and extend the other hand for a &quot;entitlement&quot;, &quot;reparation&quot; or &quot;set aside&quot;.They pay no property tax, contribute zero to the City much less society as a whole.  Generational lame butts with the same old excuss!! &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="ff3974d5ba183107361555cb0bbcba3a"></a><p><span class="simpleblog-name">BogalusaOnceremoved</span> wrote on <span class="simpleblog-date">Jan 3, 2011 12:00 AM:</span><div class="simpleblog-response">&quot; If the discrimination suits aren't vaild why run away.  Stand up and show everyone that your company is not racist.  Name calling on either siide doesn't work.  So you move to another town what makes you think that it won't happen there. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="54f4b6ccb7d058fd0cc59fb635b4011a"></a><p><span class="simpleblog-name">Mike</span> wrote on <span class="simpleblog-date">Jan 2, 2011 6:56 PM:</span><div class="simpleblog-response">&quot; This is a big part why we will not grow in this city.  I agree we have to many people wanting something for nothing.  Just take a look around when you go shopping and see people getting food stamps and complain about the prices like they worked for them.  I have said before that this town will not grow until we stop those standing with their hand out wanting their part even when they don't deserve it.   This could really hurt the growth in Washington Parish for a long time. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="f962ce9acae873143145701c46482f81"></a><p><span class="simpleblog-name">Mr. Toussaint</span> wrote on <span class="simpleblog-date">Jan 2, 2011 6:46 PM:</span><div class="simpleblog-response">&quot; First of all why so much name calling? We as the public know from the report that the persons in the lawsuit are Black people so why do the president of this company keep calling the persons named in the lawsuit names and saying that they have their hands out trying to get something for nothing? .Sounds like a person do not like blacks to me. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="c92d391cba4fcba7539df790ede8769f"></a><p><span class="simpleblog-name">josh</span> wrote on <span class="simpleblog-date">Jan 2, 2011 3:52 PM:</span><div class="simpleblog-response">&quot; He is totally right! With certain people wanting thier way, this city will always be a dead town! No one want to come to a city and be hit with a racism lawsuit! We need some leadership! &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="7bbc84077fdda5dbc1080ec1beb30af2"></a><p><span class="simpleblog-name">gator</span> wrote on <span class="simpleblog-date">Jan 2, 2011 3:41 PM:</span><div class="simpleblog-response">&quot; Sorry you didn't ask my advice before locating in Boga-stinkin-lusa, Mr. Fetter.<br/>What's hard to believe about this story -- in fact the only non-surprise -- is that someone would move their business to Bogalusa.  What were you promised and were the promises fulfilled?  The rest --claims of racial discrimination, the lawsuit, the company moving out -- could have been written 30 years ago.  <br/>Much luck to you. &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-2">
+<a id="9bb02cd43c5347a8dbd866553b79e7ce"></a><p><span class="simpleblog-name">Amazed</span> wrote on <span class="simpleblog-date">Jan 2, 2011 11:14 AM:</span><div class="simpleblog-response">&quot; We should send Steve Fetter to Baton Rouge!!!! It's good to see a man with values speak the truth. Where is Senator Nevers and Rep Ritchie on this issue? Surely they are concerned that a business is leaving Bogalusa. Where are they? &quot;</div><br/></p>
+</div>
+<div class="simpleblog-comment-1">
+<a id="e49f60aafc8384cd3e9217937553a8e2"></a><p><span class="simpleblog-name">Vernon Applewhite</span> wrote on <span class="simpleblog-date">Jan 2, 2011 7:57 AM:</span><div class="simpleblog-response">&quot; Come on down to Houma, we can do bussiness here. &quot;</div><br/></p>
+</div>
+</div>
+      	  </ul>
+						
+						</div>
+					
+					</div><!-- comments -->  
+
+			    	<div id="post_comment" class="section">
+
+			    		<h2><span>Write a Comment</span></h2>
+			
+						<div class="inner">
+                        <p> 
+                        Comment posters are responsible for the opinions they express and the accuracy of the information they provide. We urge comment writers to treat this as a public forum where manners matter. We encourage a collegial, non-insulting tone. <b>All readers comments must be approved by our staff before posting to the Web site. Be aware, in accordance with the Communications Decency Act  and provisions upheld in judicial appeal, that you are responsible for comments posted on this Web site. The Daily News is not liable for messages from third parties.</b> </p>
+                        <br>
+                        <br>
+                        <p class="small"><b>DO NOT POST:</b>            <br>
+            <b>* Potentially libelous statements or damaging innuendo.</b><br>
+           <b> * Obscene, explicit, or racist language. </b><br>
+           <b> * Personal attacks, insults or threats. </b><br>
+           <b> * The use of another person's real name to disguise your identity. </b><br>
+           <b> * Comments unrelated to the story. </b></p>  
+            <p><span class="small">Opinions, advice and all other information expressed in gobogalusa.com's reader comments represent the individual's own views and not necessarily those of the Daily News. The Daily News does not endorse and is not responsible for statements, advice or opinions offered by anyone other than authorized Daily News spokespersons. </span><br>
+                <br>
+  <b>Thank you for your comments!</b></p>
+
+
+						
+		    		  <a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.gobogalusa.com/articles/2011/01/02/news/doc4d1e16ad5b041153755500.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label> <input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-email-block"><label for="personemail" class="simpleblog-form-label">Email:</label> <span class="simpleblog-email-field">(optional)</span> <input type="text" id="personemail" name="personemail" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" onkeyup="javascript:simpleblogWordCount(this, document.simpleblog.wordcount,100);" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block">Current Word Count: <input type="text" name="wordcount" readonly="true" size="5" value="0"/></div><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: <span style="\&quot;font-size:xx-small\&quot;">(Case sensitive)</span></label><img id="simpleblog-captcha" width="125" height="50" src="http://www.gobogalusa.com/_captcha/render?id=7870"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/><input type="hidden" id="usernumber_id" name="usernumber_id" value="7870"/><input type="SUBMIT" value="Post Comment"/></div></form></div>	
+                      
+                      
+</div></div>    
+
+				</div><!-- col1 -->
+
+				<div class="col2">
+	
+<div id="classifieds" class="section">
+		
+		<h2><span>Multimedia</span></h2>
+		
+		<div class="inner">
+			
+<!-- AdSys ad not found for news:video_ad -->
+
+
+
+
+<br/>
+<a href="http://www.gobogalusa.com/video/">Click here for all videos</a>
+		</div>
+		
+	</div><!-- classifieds -->
+<script type="text/javascript" src="http://img.video.ap.org/p/j/apovn.js "></script>
+					<div id="flashcontent" class="section">
+						<script type="text/javascript">
+							var ap = new SWFObject("http://img.video.ap.org/p/s/lg_vrtimg_search.swf",
+							"lg_vrtimg_search", "129", "151", "8");
+							ap.addParam("quality", "best");
+							ap.addParam("AllowScriptAccess", "always");
+							ap.addVariable("cat", "editorsall");
+							ap.addVariable("pid", "LABOG");
+							ap.addVariable("s_URL", document.URL);
+							ap.write("flashcontent");
+						</script>
+					</div>
+
+<center><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1560] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1249275600) && (nAdsysTime <= 1564894799)) {
+aAd = new Array('+redplum', '197476-1249319987', 'gif');
+aAd[3] = 'http://www.gobogalusa.com/redplum';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gobogalusa.com', aAds, aCampaigns);
+
+// -->
+</script></center><br/>
+	
+	<div id="classifieds" class="section">
+		
+		<h2><span>Classifieds</span></h2>
+		
+		<div class="inner">
+			
+			<p>
+				<a href="http://www.gobogalusa.com/classifieds/">View All Ads</a><br/>
+				<a href="http://www.verican.us/cod6/edailynews">Place Classified Ad</a>
+			</p>
+			
+			<h4>Jobs</h4>
+			<div class="image"><a href="http://www.gobogalusa.com/classifieds/career_opportunities/"><img src="http://www.gobogalusa.com/images/jobs.jpg"></a></div>
+			<p class="more"><a href="http://www.gobogalusa.com/classifieds/career_opportunities/">View All Jobs</a></p>
+			
+			<br/>
+			
+			<h4>Homes</h4>
+			<div class="image"><a href="http://www.gobogalusa.com/classifieds/real_estate/"><img src="http://www.gobogalusa.com/images/homes.jpg"></a></div>
+			<p class="more"><a href="http://www.gobogalusa.com/classifieds/real_estate/">View All Homes</a></p>
+			
+			<br/>
+			
+			<h4>Autos</h4>
+			<div class="image"><a href="http://www.gobogalusa.com/classifieds/autos/"><img src="http://www.gobogalusa.com/images/cars.jpg"></a></div>
+			<p class="more"><a href="http://www.gobogalusa.com/classifieds/autos/">View All Autos</a></p>
+			<!-- AdSys ad not found for news:120x60button -->
+		</div>
+		
+	</div><!-- classifieds -->
+	
+</div><!-- col2 -->
+
+				<div class="col3">
+					
+                	<div id="contact-us" class="section">
+			
+		<h2><span>Contact Us</span></h2>
+		
+		<div class="inner">
+			
+<h3>						
+<br/>
+<script language="javascript">
+<!--
+var u = "richard.meek";
+var h = "wickcommunications.com";
+var linktext = "Contact Us";
+document.write("<a href=" + "mail" + "to:" + u +
+"@" + h + ">" + linktext + "</a>")
+//-->
+</script>
+<br/><br/>
+
+<a href="http://www.gobogalusa.com/about_us/homepage/">Make Us Your Homepage</a>
+
+</h3>
+			
+		</div>
+		
+	</div><!-- contact-us -->
+	
+<div class="text-center">Advertisement</div>	
+	<div class="banner">
+		<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[1560] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1232863200) && (nAdsysTime <= 1548482399)) {
+aAd = new Array('+wideskyscraper', '168556-1273096170', 'js');
+aAd[7] = 1;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1242363600) && (nAdsysTime <= 1557982799)) {
+aAd = new Array('+wideskyscraper', '186719-1242402860', 'swf');
+aAd[3] = '120';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.mageefinancial.com';
+aAd[6] = '%2Bwideskyscraper';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1243832400) && (nAdsysTime <= 1559451599)) {
+aAd = new Array('+wideskyscraper', '188856-1243872489', 'swf');
+aAd[3] = '120';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.aratalawoffice.com%2F';
+aAd[6] = '%2Bwideskyscraper';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1268629200) && (nAdsysTime <= 1584334799)) {
+aAd = new Array('+wideskyscraper', '221769-1272553275', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 1560;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'gobogalusa.com', aAds, aCampaigns);
+
+// -->
+</script>
+
+<br/><br/>
+<hr>
+<br/>
+
+<!-- Gas prices -->
+<center><a href="http://www.louisianagasprices.com/"><img src="http://www.louisianagasprices.com/gb/Louisianagasbuddy.gif" width="120" height="90" border="0"></a></center>
+<br/>
+<div class="section"><center>
+					
+				<hr>				
+				<div id="financialcontent_townnews_ad">
+	<center><script type="text/javascript" src="http://adsys.townnews.com/creative/financialcontent.dotconnectmedia.com/financial_content_ad/static.js"></script></center>
+</div>
+
+
+				<hr>
+				<div class="banner">
+				
+				</div><!-- stock -->
+
+</center></div>
+
+	</div>
+
+
+
+                    
+				</div><!-- col3 -->
+				
+			<div class="clear"><!-- float clearing div --></div>
+			
+		</div>
+		
+		</div><!-- content -->
+<div id="footer">
+	
+	<a href="http://www.gobogalusa.com/" title="Home">Home</a> &nbsp;|&nbsp;
+	<a href="http://www.gobogalusa.com/news/" title="News">News</a> &nbsp;|&nbsp;
+	<a href="http://www.gobogalusa.com/opinion/" title="Opinion">Opinion</a> &nbsp;|&nbsp;
+	<a href="http://www.gobogalusa.com/sports/" title="Sports">Sports</a> &nbsp;|&nbsp;
+	<a href="http://www.gobogalusa.com/lifestyle/" title="Lifestyle">Lifestyle</a> &nbsp;|&nbsp;
+	<a href="http://www.gobogalusa.com/obituaries/" title="Obituaries">Obituaries</a> &nbsp;|&nbsp;
+	<a href="http://www.gobogalusa.com/classifieds/" title="Classifieds">Classifieds</a> &nbsp;|&nbsp;
+	<a href="http://www.gobogalusa.com/archives/" title="Archives">Archives</a> 
+	<br/>
+	<a href="http://www.gobogalusa.com/rss/">RSS</a> &nbsp;|&nbsp;
+	<a href="http://www.gobogalusa.com/about_us/">About Us</a> &nbsp;|&nbsp;
+	<a href="http://www.gobogalusa.com/terms_of_service/">Terms of Service</a> &nbsp;|&nbsp;
+	<a href="http://www.gobogalusa.com/privacy_policy/">Privacy Policy</a>
+		<br/>
+		All Materials Copyright &copy; 2011 Daily News
+	
+</div><!-- footer -->
+
+</div><!-- wrapper -->
+
+        <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl./" : "http://www./");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6144066-13");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+      
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={qacct:"p-1b-rkC_iSahCs"};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-1b-rkC_iSahCs.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- start compete.com tag -->
+<script type="text/javascript">
+    __compete_code = '312a684a250efb96916726877042f53b';
+    (function () {
+        var s = document.createElement('script'),
+            d = document.getElementsByTagName('head')[0] ||
+                document.getElementsByTagName('body')[0],
+            t = 'https:' == document.location.protocol ? 
+                'https://c.compete.com/bootstrap/' : 
+                'http://c.compete.com/bootstrap/';
+        s.src = t + __compete_code + '/bootstrap.js';
+        s.type = 'text/javascript';
+        s.async = 'async'; 
+        if (d) { d.appendChild(s); }
+    }());
+</script>
+<!-- end compete.com tag -->
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 13:22:46 Jan 06, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:51:19 Mar 27, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 88.014 (3)
+  esindex: 0.006
+  captures_list: 111.858
+  CDXLines.iter: 18.959 (3)
+  PetaboxLoader3.datanode: 84.395 (4)
+  exclusion.robots: 0.15
+  exclusion.robots.policy: 0.139
+  RedisCDXSource: 0.717
+  PetaboxLoader3.resolve: 51.387 (2)
+  load_resource: 89.348
+-->

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>.: Corvallis Gazette-Times :.  Archives</title>
+</head>
+
+<body>
+<table width="738" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td colspan="2"> 
+<link rel="stylesheet" href="http://www.gazettetimes.com/art/styles.css" type="text/css">
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="400" background="http://www.gazettetimes.com/art/paperbg.gif" valign="top"><img src="http://www.gazettetimes.com/art/spacer.gif" width="400" height="15"></td>
+    <td background="http://www.gazettetimes.com/art/paperbg.gif" align="right">&nbsp; </td>
+  </tr>
+  <tr> 
+    <td width="400" background="http://www.gazettetimes.com/art/paperbg.gif" valign="top"><img src="http://www.gazettetimes.com/art/toplogo.gif" width="400" height="95"></td>
+    <td background="http://www.gazettetimes.com/art/paperbg.gif" valign="top" align="right"> 
+      <p><a href="http://www.gazettetimes.com/"><img src="http://www.gazettetimes.com/art/topbar.gif" width="338" height="32" border="0" alt="gazettetimes.com"></a>
+      <table border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
+        <tr> 
+          <td align="center"> 
+<table border="0" cellspacing="4" cellpadding="0">
+  <tr> 
+    <td align="center"><a href="http://www.gazettetimes.com/jobs/index.html"><img src="http://www.gazettetimes.com/art/icon_jobs.gif" width="23" height="20" border="0" alt="Jobs"><br>
+      </a><a href="http://www.gazettetimes.com/jobs/index.html" class="icon">Jobs</a></td>
+    <td align="center"><a href="http://www.midvalleyrex.com/"><img src="http://www.gazettetimes.com/art/icon_home.gif" width="23" height="20" border="0" alt="Homes"><br>
+      </a><a href="http://www.midvalleyrex.com/" class="icon">Homes</a></td>
+    <td align="center"><a href="http://gazettetimes.abracat.com/c2/transportation/hub/index.xml"><img src="http://www.gazettetimes.com/art/icon_car.gif" width="23" height="20" border="0" alt="Cars"><br>
+      </a><a href="http://gazettetimes.abracat.com/c2/transportation/hub/index.xml" class="icon">Cars</a></td>
+  </tr>
+</table>
+</td>
+          <td align="right" height="60" nowrap><script language="javascript1.2"><!-- 
+OAS_rns = new String(Math.random());
+document.write('<SCRIPT src=\"http://oas.lee.net/RealMedia/ads/adstream_mjx.ads/gazettetimes.com/archives/1'+ OAS_rns + '@' + 'Top,Right,Middle,BottomLeft,BottomRight,Left\">');
+document.write('</script>'); // --&gt;
+</script><script language="javascript1.2"><!-- // Hide from older browsers
+if (window.OAS_RICH) {
+	OAS_RICH('Top');
+}
+// End hiding -->
+</script><noscript><a href="http://oas.lee.net/RealMedia/ads/click_nx.ads/gazettetimes.com/archives/Top/1@Top,Right,Middle,BottomLeft,BottomRight,Left!Top" target="_new"><img border="0" src="http://oas.lee.net/RealMedia/ads/click_nx.ads/gazettetimes.com/archives/Top/1@Top,Right,Middle,BottomLeft,BottomRight,Left!Top"></a></noscript></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr> 
+    <td colspan="2"> 
+<table width="738" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><a href="http://www.gazettetimes.com/"><img src="http://www.gazettetimes.com/art/tabs/gry1home.gif" width="61" height="24" border="0" alt="Home"></a></td>
+    <td><a href="http://www.gazettetimes.com/news"><img src="http://www.gazettetimes.com/art/tabs/blu2news.gif" width="51" height="24" alt="News" border="0"></a></td>
+    <td><a href="http://www.gazettetimes.com/sports"><img src="http://www.gazettetimes.com/art/tabs/blu3sports.gif" width="60" height="24" border="0" alt="Sports"></a></td>
+    <td><a href="http://www.gazettetimes.com/sports/osu_beavers"><img src="http://www.gazettetimes.com/art/tabs/blu4beavers.gif" width="71" height="24" border="0"></a></td>
+    <td><a href="http://www.gazettetimes.com/classifieds/"><img src="http://www.gazettetimes.com/art/tabs/blu5class.gif" width="94" height="24" border="0" alt="Classifieds"></a></td>
+    <td><a href="http://www.gazettetimes.com/entertainment"><img src="http://www.gazettetimes.com/art/tabs/blu6enter.gif" width="119" height="24" border="0" alt="Entertainment"></a></td>
+    <td><a href="http://www.gazettetimes.com/special_sections"><img src="http://www.gazettetimes.com/art/tabs/blu7special.gif" width="138" height="24" border="0" alt="Special Sections"></a></td>
+    <td><a href="http://www.gazettetimes.com/lifestyles"><img src="http://www.gazettetimes.com/art/tabs/blu8life.gif" width="144" height="24" border="0" alt="Lifestyles"></a></td>
+  </tr>
+  <tr> 
+    <td colspan="9"><img src="http://www.gazettetimes.com/art/tabs/tophome.gif" width="738" height="3"></td>
+  </tr>
+</table>
+<table width="738" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="12" valign="top"><img src="http://www.gazettetimes.com/art/tabs/left.gif" width="12" height="17"></td>
+    <td width="714" class="navbar"><a href="https://secure.townnews.com/gazettetimes.com/subscribe/" class="nav">Subscriber 
+      Services</a> | <a href="http://www.gazettetimes.com/subscribe" class="nav"></a><a href="http://www.mvonline.com/support/contact/gtcontact.php" class="nav">Contact 
+      Us</a> | <a href="http://www.gazettetimes.com/news/opinion" class="nav">Opinion</a> | <a href="http://www.gazettetimes.com/calendar" class="nav">Calendar</a> 
+      | <a href="http://www.gazettetimes.com/news/obituaries" class="nav">Obituaries</a> | <a href="http://www.gazettetimes.com/archives" class="nav">Archives</a> 
+      | <a href="http://gazettetimes.abracat.com/c2/publicnotices/results/index.xml" class="nav">Public 
+      Notices </a> | <a href="http://www.mvonline.com/support/classified/placead.html" class="nav">Place 
+      an Ad</a></td>
+    <td width="12" valign="top" align="right"><img src="http://www.gazettetimes.com/art/tabs/right.gif" width="12" height="17"></td>
+  </tr>
+  <tr> 
+    <td width="12"><img src="http://www.gazettetimes.com/art/tabs/leftbtm.gif" width="12" height="5"></td>
+    <td background="http://www.gazettetimes.com/art/tabs/btm.gif" width="714"><img src="http://www.gazettetimes.com/art/tabs/btm.gif" width="49" height="5"></td>
+    <td width="12"><img src="http://www.gazettetimes.com/art/tabs/rightbtm.gif" width="12" height="5"></td>
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr valign="top"> 
+    <td width="132" class="col-left"> 
+      <p><table width="100" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><img src="http://www.gazettetimes.com/art/spacer.gif" width="130" height="3"></td>
+  </tr>
+  <tr> 
+    <td><img src="http://www.gazettetimes.com/art/hd_search.gif" width="130" height="23"></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#333333"> 
+      <table width="100%" border="0" cellspacing="1" cellpadding="2">
+        <tr> 
+          <form method="GET" action="http://www.gazettetimes.com/">
+            <td bgcolor="#FFFFFF" class="box" align="center"> 
+              <input type="HIDDEN" name="search" value="go">
+              <input type="HIDDEN" name="l" value="25">
+              <span class="text-sm">Keyword Search:</span><br>
+              <img src="http://www.gazettetimes.com/art/spacer.gif" width="100" height="5"><br>
+              <input type="TEXT" name="q" size="12">
+              <br>
+              <img src="http://www.gazettetimes.com/art/spacer.gif" width="100" height="5"><br>
+              <input type="SUBMIT" value="Search" name="SUBMIT">
+              <hr>
+              <div class="text-center"><a href="http://www.gazettetimes.com/archives" class="more">Advanced Search 
+                Options </a></div>
+            </td>
+          </form>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<br>
+<table width="100" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><img src="http://www.gazettetimes.com/art/spacer.gif" width="130" height="3"></td>
+  </tr>
+  <tr> 
+    <td><img src="http://www.gazettetimes.com/art/hd_papers.gif" width="130" height="23"></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#333333"> 
+      <table width="100%" border="0" cellspacing="1" cellpadding="10">
+        <tr> 
+          <td bgcolor="#FFFFFF" class="box"> 
+            <li><a href="http://www.democratherald.com/">Albany</a></li>
+            <li><a href="http://www.lebanon-express.com/">Lebanon</a></li>
+            <li><a href="http://www.cgsentinel.com/">Cottage Grove</a></li>
+            <li><a href="http://www.newportnewstimes.com/">Newport</a></li>
+            <li><a href="http://www.springfieldnews.com/">Springfield</a></li>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</p>
+    </td>
+    <td width="606" align="center"> 
+      <table width="100%" border="0" cellspacing="3" cellpadding="0">
+        <tr> 
+          <td align="right"><b><script><!--
+showCurrentDate(1);//--></script><noscript></noscript><br>
+            </b><span class="timestamp">Last modified</span> <span class="timestamp">Thursday, January 13, 2005 10:49 PM PST</span></td>
+        </tr>
+        <tr>
+          <td align="right"><img src="http://www.gazettetimes.com/art/spacer.gif" width="5" height="5"></td>
+        </tr>
+        <tr> 
+          <td class="index"> 
+            <table border="0" cellspacing="0" cellpadding="0" align="right" width="">
+              <tr> 
+                <td class="photo"></td>
+              </tr>
+              <tr> 
+                <td class="photo" width=""><span class="cutline"></span> 
+                </td>
+              </tr>
+            </table>
+            <p><a href="http://www.gazettetimes.com/archives"><img src="http://www.gazettetimes.com/art/flag/archives.gif" width="150" height="30" border="0" alt="Archives"></a><br>
+              <span class="headlinedetail">Trial set for football player</span><br>
+              <img src="http://www.gazettetimes.com/art/spacer.gif" width="5" height="5"><br>
+              <span class="bylinedetail">By The Gazette-Times</span> 
+            <p class="storydetail1">A trial has been scheduled for Oregon State University football player Joe Rudulph, who is accused of punching a National Guard soldier in November. The 12-person jury trial is set for April 25, and a trial readiness hearing is slated for April 14.<br/><br/>Corvallis police arrested Rudulph at his home Nov. 12, accusing him of assaulting Staff Sgt. Gabriel Sapp outside the Headline Cafe just after the downtown bar closed for the night. </p>
+            <p><span class="storydetail">Though some witnesses characterized the fight as racially motivated, a Benton County grand jury declined to charge Rudulph with intimidation ó Oregon&#039;s equivalent of a hate crime.</span></p>
+            <table border="0" cellspacing="0" cellpadding="0" align="right">
+              <tr> 
+                <td align="center" class="photo"> <script language="javascript1.2"><!-- // Hide from older browsers
+if (window.OAS_RICH) {
+	OAS_RICH('Middle');
+}
+// End hiding -->
+</script><noscript><a href="http://oas.lee.net/RealMedia/ads/click_nx.ads/gazettetimes.com/archives/Middle/1@Top,Right,Middle,BottomLeft,BottomRight,Left!Middle" target="_new"><img border="0" src="http://oas.lee.net/RealMedia/ads/click_nx.ads/gazettetimes.com/archives/Middle/1@Top,Right,Middle,BottomLeft,BottomRight,Left!Middle"></a></noscript></td>
+              </tr>
+            </table>
+            <p><span class="storydetail">Rudulph, 20, faces two charges of fourth-degree assault and one charge each of harassment and disorderly conduct. If convicted on all charges, Rudulph could face about a year of jail time and thousands of dollars in fines and fees.<br/><br/>A conviction could also result in his being kicked off the football team, OSU officials have said. Rudulph and three teammates involved in the altercation ó Anthony Wheat-Brown, Whitfield Usher and Ryan Rainwater ó have been suspended from the team indefinitely.</span></p>
+            <p><a href="http://www.gazettetimes.com/articles/2005/01/14/news/community/friloc06.prt" target="printable">Print this story</a> </p>
+            <p><a href="http://www.gazettetimes.com/articles/2005/01/14/news/community/friloc06.eml" target="emailafriend">Email this story</a> </p>
+            <p>&nbsp;</p>
+          </td>
+        </tr>
+        <tr valign="top"> 
+          <td> 
+            <hr>
+          </td>
+        </tr>
+      </table>
+      <table border="0" cellspacing="3" cellpadding="0" align="center" width="100%">
+  <tr align="center"> 
+    <td><script language="javascript1.2"><!-- // Hide from older browsers
+if (window.OAS_RICH) {
+	OAS_RICH('BottomLeft');
+}
+// End hiding -->
+</script><noscript><a href="http://oas.lee.net/RealMedia/ads/click_nx.ads/gazettetimes.com/archives/BottomLeft/1@Top,Right,Middle,BottomLeft,BottomRight,Left!BottomLeft" target="_new"><img border="0" src="http://oas.lee.net/RealMedia/ads/click_nx.ads/gazettetimes.com/archives/BottomLeft/1@Top,Right,Middle,BottomLeft,BottomRight,Left!BottomLeft"></a></noscript></td>
+    <td><script language="javascript1.2"><!-- // Hide from older browsers
+if (window.OAS_RICH) {
+	OAS_RICH('BottomRight');
+}
+// End hiding -->
+</script><noscript><a href="http://oas.lee.net/RealMedia/ads/click_nx.ads/gazettetimes.com/archives/BottomRight/1@Top,Right,Middle,BottomLeft,BottomRight,Left!BottomRight" target="_new"><img border="0" src="http://oas.lee.net/RealMedia/ads/click_nx.ads/gazettetimes.com/archives/BottomRight/1@Top,Right,Middle,BottomLeft,BottomRight,Left!BottomRight"></a></noscript></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="3" cellpadding="0">
+  <tr valign="top"> 
+    <td> 
+      <hr>
+    </td>
+  </tr>
+</table></td>
+  </tr>
+  <tr valign="top"> 
+    <td width="132">&nbsp;</td>
+    <td width="606" align="center"><p class="copyright" align="center">Copyright &copy; 2005 &#149; <a href="http://www.lee.net/">Lee 
+  Enterprises</a></p>
+<p align="center" class="links"> 
+  <a href="#top" class="links">Back to Top</a> | <a href="http://www.gazettetimes.com/" class="links">Home</a> 
+    | <a href="http://www.gazettetimes.com/news" class="links">News</a> | <a href="http://www.gazettetimes.com/sports" class="links">Sports</a> 
+    | <a href="http://gazettetimes.com/classifieds/" class="links">Classifieds</a> 
+    | <a href="http://www.gazettetimes.com/entertainment" class="links">Entertainment</a> | <a href="http://www.gazettetimes.com/special_sections" class="links">Special 
+    Sections</a> | <a href="http://www.gazettetimes.com/family_leisure" class="links">Family &amp; Leisure<br>
+  </a><a href="https://secure.townnews.com/gazettetimes.com/subscribe/" class="links">Subscriber 
+  Services</a> | <a href="http://www.gazettetimes.com/subscribe" class="links"></a><a href="http://www.mvonline.com/support/contact/gt.php" class="links">Contact 
+  Us</a> | <a href="http://www.gazettetimes.com/calendar" class="links">Calendar</a> | <a href="http://www.gazettetimes.com/archives" class="links">Archives</a> 
+  | <a href="http://www.mvonline.com/support/classified/placead.html" class="links">Place 
+  an Ad</a></p>
+ </td>
+  </tr>
+  <tr> 
+    <td colspan="2" align="center">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 05:03:21 Feb 01, 2005 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:04:26 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 56.851 (3)
+  esindex: 0.008
+  captures_list: 76.407
+  CDXLines.iter: 14.251 (3)
+  PetaboxLoader3.datanode: 68.526 (4)
+  exclusion.robots: 0.18
+  exclusion.robots.policy: 0.154
+  RedisCDXSource: 1.842
+  PetaboxLoader3.resolve: 106.055
+  load_resource: 132.703
+-->

@@ -1,0 +1,1178 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>
+Latinos protest Escondido council's border police support : North County Times - Californian </title>
+</head>
+
+<body>
+<!-- HEADER -->
+<div id="header_wrap">
+
+<!-- HEADER -->
+   <div id="header">
+                
+        <!-- *************************************************************************************************************************** --> 
+              <div id="headerlogo_ad">
+    
+                    <a href="http://www.nctimes.com/"><img id="nctheaderlogo" class="clear" src="http://images.townnews.com/nctimes.com/zimages/08/logo-nct.png" alt="NCTimes.com" width="235" height="89"/></a> 
+                    
+                    <div class="bannerad">
+                        <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/inland_leaderboard/static.js"></script>
+                    </div> 
+                       
+            </div>        <!-- *************************************************************************************************************************** --> 
+                
+        <!-- *************************************************************************************************************************** --> 
+               <div id="midlink" class="clear">
+		
+		
+			<ul id="main_menu" class="lava">
+                <li id="mNews"><a href="#">News</a></li>
+				<li id="mOpinion"><a href="#">Opinion</a></li>
+                <li id="mSports"><a href="#">Sports</a></li>
+				<li id="mEntertainment"><a href="#">Entertainment</a></li>
+                <li id="mFeatures"><a href="#">Features</a></li>   
+                <li id="mMarket" class="ads_menu"><a href="#">Marketplace</a></li>             
+                <li id="mCars" class="ads_menu"><a href="#">Cars</a></li>
+                <li id="mHomes" class="ads_menu"><a href="#">Homes</a></li>
+                <li id="mJobs" class="ads_menu"><a href="#">Jobs</a></li>
+
+				<!--<li id="mBusiness"><a href="#">Business</a></li>
+				<li id="mCommunity"><a href="#">Community</a></li>
+                -->
+   			</ul>
+           
+		</div>
+        
+        <div id="botlink">
+			<ul>
+			  	<li><a href="http://www.nctimes.com/" title="Home">HOME</a></li>
+				<li><a href="http://www.nctimes.com/contact_us" title="Contact Us">CONTACT US</a></li>
+                <li><a href="http://www.nctimes.com/advertising" title="Advertise">ADVERTISE</a></li>
+                <li><a href="http://www.nctimes.com/web_services" title="Subscriber Services">SUBSCRIBER SERVICES</a></li>
+            <!--<li><a href="/" title="Site Map">SITE MAP</a></li>-->
+            </ul>
+		</div> <!-- end of botlink -->
+        <!-- *************************************************************************************************************************** --> 
+        
+        <!-- *************************************************************************************************************************** --> 
+              <div id="header-search">
+		<img class="floatleft margin15top" alt="yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+			
+			<input class="searchfield" type="text" name="search" size="15" value="Search..."/>
+			<label>in </label>
+			<select name="searchType" id="searchType">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="videos">Videos</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+				<option value="web">Web</option>
+			</select>
+			
+			<input class="submitbutton" name="submitsearch" type="submit" value="Go"/>
+		</form>
+</div> <!-- end of search -->        <!-- *************************************************************************************************************************** --> 		
+                
+        </div><!-- end of header -->
+	
+</div>
+
+<!-- BODY -->
+<div id="content_wrap">
+ 	  <div id="maincontent">
+<!-- *************************************************************************************************************************** --> 
+        <div style="position:relative; z-index:999;">
+
+<!-- NEWS/LOCAL -->
+
+	<div id="submNews" class="subnav-group">
+		
+        <div class="subs lead">
+		  <h1><a href="http://www.nctimes.com/news">News Main Page</a></h1>
+          <h1><a href="http://videos.nctimes.com/">Online Videos</a></h1> 
+          <ul class="lead">
+		    <li><a href="http://www.nctimes.com/news/top_stories">Top Stories</a></li>
+		    <li><a href="http://www.nctimes.com/news/coastal">Coastal</a></li>
+		    <li><a href="http://www.nctimes.com/news/inland">Inland</a></li>
+		    <li><a href="http://www.nctimes.com/news/californian">Californian</a></li>
+            <li><a href="http://www.nctimes.com/news/sandiego">San Diego/County</a></li> 
+			<li><a href="http://www.nctimes.com/news/state">State</a></li> 
+			<li><a href="http://www.nctimes.com/news/nation">National</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/rss">RSS Feeds</a></li>
+          </ul>
+        </div>
+      
+        <div class="subs">
+          <h1>City News</h1>
+          <ul>
+          	<li><a href="http://www.nctimes.com/news/coastal/carlsbad">Carlsbad</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/del_mar">Del Mar</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/encinitas">Encinitas</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/escondido">Escondido</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/fallbrook">Fallbrook</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/lake_elsinore">Lake Elsinore</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/menifee">Menifee</a> | <a href="http://www.nctimes.com/news/californian/menifee/election2008/">Elections</a></li> 
+            <li><a href="http://www.nctimes.com/news/californian/murrieta">Murrieta</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/oceanside">Oceanside</a></li>
+            
+          </ul>
+        </div>
+        
+        <div class="subs">
+          <ul>
+			<li><a href="http://www.nctimes.com/news/inland/poway">Poway</a></li>
+          	<li><a href="http://www.nctimes.com/news/inland/ramona">Ramona</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/rb">Rancho Bernardo</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/riverside">Riverside</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/san_marcos">San Marcos</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/sb">Solana Beach</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/temecula">Temecula</a></li>
+            <li><a href="http://www.nctimes.com/news/inland//vc">Valley Center</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/vista">Vista</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/wildomar">Wildomar</a></li>
+          </ul>
+        </div>
+        
+          <div class="subs">
+		   <ul>
+		  <li><h1><a href="http://www.nctimes.com/ap">AP Headlines</a></h1></li>
+		  </ul>
+		  <h1><a href="http://www.nctimes.com/business">Business</a></h1>
+		  <ul>
+		  <li><a href="http://www.nctimes.com/business/stocks">Stocks</a></li>
+		  <li><a href="http://www.nctimes.com/gas_prices">Gas Gauge</a></li>
+		  <li><a href="http://www.nctimes.com/business/chamberlin">George Chamberlin</a></li>
+		  <li><a href="http://www.nctimes.com/business/bahr">Candace Bahr</a></li>
+		  <li><a href="http://www.nctimes.com/business/vanderspek">Jim VanderSpek</a></li>
+		  <li><a href="http://www.nctimes.com/business/knight">Gary Knight</a></li>
+		  </ul> 
+         </div>
+		  
+		  <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/community">Community</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/community">Community News</a></li>
+				<li><a href="http://www.nctimes.com/socialscene">Social Scene</a></li>
+				<li><a href="http://www.nctimes.com/community/charities_fund">Charities Fund</a></li>
+				<li><a href="http://www.nctimes.com/obituaries">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Birth</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Celebrations</a></li>
+				<li><a href="http://www.nctimes.com/traffic">Traffic</a></li>
+				<li><a href="http://www.nctimes.com/earthquake">Earthquake Reports</a></li>
+           </ul>
+		 </div> 
+        
+		 <div class="subs">
+          <h1>News Extras</h1>
+          <ul>
+          	<li><a href="http://www.nctimes.com/maillist/index.php">Daily Headline Alerts</a></li> 
+			<li><a href="http://www.nctimes.com/pdfs">View Front Pages</a></li> 
+			<li class="h1-subhead">Other News</li>
+            <li><a href="http://www.nctimes.com/military">Military</a></li> 
+			<li><a href="http://www.nctimes.com/elections2008">Elections</a></li> 
+			<li><a href="http://www.nctimes.com/news/columnists">Columns</a></li>
+			<li><a href="http://www.nctimes.com/corrections">Corrections</a></li>
+			<li><a href="http://www.nctimes.com/backpage">Backpage</a></li>
+          </ul>
+         </div>
+	
+	</div>
+	
+<!-- OPINION -->
+
+	<div id="submOpinion" class="subnav-group">
+	<div class="subs"> 
+          <h1><a href="http://www.nctimes.com/opinion/">Opinion Main</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/blog">Blogs</a></li>
+				<li><a href="http://www.nctimes.com/opinion/editorials">Editorials</a></li>
+				<li><a href="http://www.nctimes.com/opinion/letters">Letters to the editor</a></li>
+				<li><a href="http://www.nctimes.com/faith/letters">Faith &amp; Values Letters</a></li>
+				<li><a href="http://www.nctimes.com/opinion/cartoon">Editorial Cartoons</a></li>
+				<li><a href="http://www.nctimes.com/opinion/commentary">Community Forums</a></li>
+				<li><a href="http://www.nctimes.com/perspective/">Perspective</a></li>
+          </ul>
+		 </div> 
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/opinion/#columnists">Columnists</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/news/columnists/baier/">Paul Baier</a></li>
+				<li><a href="http://www.nctimes.com/opinion/brett/">Brigid Brett</a></li>
+				<li><a href="http://www.nctimes.com/opinion/chatfield/">Gail Chatfield</a></li>
+				<li><a href="http://www.nctimes.com/opinion/clausen/">Dennis Clausen</a></li>
+				<li><a href="http://www.nctimes.com/opinion/davy/">Kent Davy</a></li>
+				<li><a href="http://www.nctimes.com/opinion/harris/">Rusty Harris</a></li>
+				<li><a href="http://www.nctimes.com/opinion/jacobs/">Paul Jacobs</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/richard_kirk/">Richard Kirk</a></li>
+          </ul>
+		 </div> 
+		 <div class="subs"> 
+          <ul>
+				<li><a href="http://www.nctimes.com/opinion/rider/">Richard Rider</a></li>
+				<li><a href="http://www.nctimes.com/opinion/riehl/">Richard Riehl</a></li>
+				<li><a href="http://www.nctimes.com/opinion/scharf/">Greg Scharf</a></li>
+				<li><a href="http://www.nctimes.com/opinion/strickland/">Phil Strickland</a></li>
+				<li><a href="http://www.nctimes.com/opinion/trageser/">Jim Trageser</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/observer/">John Van Doorn</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/warth/">Gary Warth</a></li>
+          </ul>
+		 </div>
+		 <div class="subs"> 
+         <h1><a href="http://www.nctimes.com/news/columnists/">Local Columnists</a></h1>
+		 <ul>
+				<li><a href="http://www.nctimes.com/news/columnists/carr/">Charles Carr</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/jeff_frank/">Jeff Frank</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/john_hunneman/">John Hunneman</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/rb">Margot Jackson</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/betty_johnston">Betty Johnston</a></li>
+          </ul>
+		 </div>
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/opinion/#columnists">National Columnists</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/opinion/goodman/">Ellen Goodman</a></li>
+				<li><a href="http://www.nctimes.com/opinion/will">George Will</a></li>
+          </ul>
+		 </div> 
+
+     </div>
+	 
+<!-- SPORTS -->
+
+	<div style="display: none;" id="submSports" class="subnav-group">
+	   	<div class="subs lead">
+
+        	<h1><a href="http://www.nctimes.com/sports/">Sports Main Page</a></h1>
+            <ul>
+                <li><a href="http://www.nctimes.com/sports/chargers">Chargers</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/teams/083/team.aspx?id=083">Stats</a></li>
+                <li><a href="http://www.nctimes.com/sports/padres">Padres</a> | <a href="http://www.nctimes.com/blog/sports/hayesblog/">Blog</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/teams/010/team.aspx?id=010">Stats</a></li>
+
+                <li><a href="http://www.nctimes.com/sports/angels">Angels</a></li>
+				<li><a href="http://www.nctimes.com/sports/collegesports">Local Colleges</a></li>
+				<li><a href="http://www.nctimes.com/sports/golf">Golf</a></li>
+                <li><a href="http://www.nctimes.com/sports/storm">Lake Elsinore Storm</a> </li>
+                <li><a href="http://www.nctimes.com/sports/motorsports">Motorsports</a></li>
+                <li><a href="http://www.nctimes.com/sports/communitysports">Community Sports</a></li>
+
+                <li><a href="http://www.nctimes.com/sports/horseracing">Horse Racing</a></li>	
+          </ul>
+   	    </div>
+        
+	   	
+        
+        <div class="subs">
+	   	  <h1>Columnists</h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/sports/nelson">Loren Nelson</a> | <a href="http://www.nctimes.com/blog/sports/nelsonblog/">Blog</a></li>
+
+		    <li><a href="http://www.nctimes.com/sports/paris">Jay Paris</a></li>
+		    <li><a href="http://www.nctimes.com/sports/bair">Scott Bair</a></li>
+		    <li><a href="http://www.nctimes.com/sports/figueroa">Marc Figueroa</a></li>
+		    <li><a href="http://www.nctimes.com/sports/maffei">John Maffei</a></li>
+		    <li><a href="http://www.nctimes.com/sports/monahan">Terry Monahan</a></li>
+		    <li><a href="http://www.nctimes.com/sports/nahill">Jeff Nahill</a></li>
+
+			<li><a href="http://www.nctimes.com/sports/cowan">Ernie Cowan</a></li>
+		  </ul>
+   	    </div>
+        
+	   	<div class="subs">
+          <h1>Californian Columnists</h1>
+          <ul>  
+		    <li><a href="http://www.nctimes.com/sports/negri">Landon Negri</a></li>
+		  	<li class="h1-subhead">College</li>
+
+		    <li><a href="http://www.nctimes.com/sports/ncaabasketball">NCAA Basketball</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cbask/news/index.aspx?sport=AE">Stats</a></li>
+		  	<li><a href="http://www.nctimes.com/sports/ncaafootball">NCAA Football</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cfoot/news/index.aspx?sport=AF">Stats</a></li>
+		    <li><a href="http://www.nctimes.com/sports/collegesports">Other College Sports</a></li>
+	   	    <li class="h1-subhead">High School Sports</li>
+
+		    <li><a href="http://www.nctvarsity.com/">NCTVarsity</a> | <a href="http://www.nctimes.com/sports/highschool">Stats</a></li>
+		    <li><a href="http://www.calvarsity.com/">CALVarsity</a> | <a href="http://www.nctimes.com/sports/highschool/calhighschool">Stats</a></li>
+          </ul>
+   	    </div>
+		
+		<div class="subs">
+
+	   	  <h1>More Sports</h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/sports/action">Action Sports</a></li>
+		    <li><a href="http://www.nctimes.com/sports/nhl">NHL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nhl/news/index.aspx?sport=AD">Stats</a></li>            <li><a href="http://www.nctimes.com/sports/nba">NBA</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nba/news/index.aspx?sport=AC">Stats</a></li>
+
+            <li><a href="http://www.nctimes.com/sports/mlb">MLB</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/news/index.aspx?sport=AA">Stats</a></li>
+		    <li><a href="http://www.nctimes.com/sports/soccer">Soccer</a></li>
+		    <li><a href="http://www.nctimes.com/sports/tennis">Tennis</a></li>
+            <li><a href="http://www.nctimes.com/sports/olympics">Olympics</a></li>
+			<li><a href="http://www.nctimes.com/sports/outdoors">Outdoors</a></li>
+
+			<li><a href="http://www.nctimes.com/sports/boxing">Boxing</a></li>
+		  </ul>
+   	    </div>
+        
+	   	<div class="subs">
+	   	  <h1>Sunday Slant</h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/sports/sides">Choosing Sides</a></li>
+
+		    <li><a href="http://www.nctimes.com/sports/net">Nothin' But Net</a></li>
+            <li><a href="http://www.nctimes.com/sports/take5">Take 5</a></li>
+            <li><a href="http://www.nctimes.com/sports/letters">Letters/Web Comments</a></li>
+			<li class="h1-subhead">Contests</li>
+			<li><a href="http://www.leadertelegram.com/hoops/nctimes/index-2008.asp" target="_blank">Bracket Bucks</a></li> 
+		  </ul>
+   	    </div>
+		
+		 <div class="subs">
+	   	  <h1>Special Reports</h1>
+
+		  <ul>
+			<li><a href="http://www.nctimes.com/special_reports/football2007/">NCT Prep Football</a></li>
+		    <li><a href="http://www.nctimes.com/special_reports/football2007/">CAL Prep Football</a></li>
+            <li><a href="http://www.nctimes.com/special_reports/gwynn/">Tribute to Tony Gywnn</a></li>
+			<li><a href="http://www.nctimes.com/special_reports/stadium2006/">New Chargers Stadium</a></li>
+			<li><a href="http://www.nctimes.com/articles/2008/02/24/sports/mlb/doc47c1ad7e07b17302660879.txt">Spring Training Visitor's Guide</a></li>
+			<li><a href="http://www.nctimes.com/sports/ncaabasketball/special/">NCAA March Madness Section</a></li>
+
+	      </ul>
+   	    </div>
+		
+		
+        
+	   
+        
+	</div>
+
+<!-- BUSINESS 
+
+	<div id="submBusiness" class="subnav-group">
+		
+         
+	</div> -->
+
+
+<!-- OPINION 
+
+	<div id="submOpinion" class="subnav-group">
+		
+         
+	</div>-->
+
+
+<!--5 ENTERTAINMENT DROP DOWNS -->
+
+	<div id="submEntertainment" class="subnav-group">
+	    
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/entertainment">Entertainment</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/entertainment/art">Art</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/theater">Theater</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/music">Music</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/movies">Movies</a></li>
+	        <li><a href="http://www.nctimes.com/books">Books</a></li>
+		    <li><a href="http://www.nctimes.com/comics">Comics</a></li>
+		    <li><a href="http://www.nctimes.com/go">Go!</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/local_events">Events Calendar</a></li>
+	
+	        </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/food">Food &amp; Drink</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/food/wischkaemper">Let's Dish</a></li>
+		    <li><a href="http://www.nctimes.com/food/groch">Bites &amp; Pieces</a></li>
+            <li><a href="http://www.nctimes.com/goout/">Let's Go Out</a></li>
+			<li><a href="http://www.nctimes.com/admarket/restaurants/">Local Restaurant Ads</a></li>
+		  </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>TV/Media</h1>
+          <ul>
+          	<li><a href="http://www.nctimes.com/oscar_quiz">Oscar Quiz</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/television">T.V.</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/radio">Radio</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/entertainment/music">Music</a></li>
+		   </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Blogs/Columns</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/entertainment/radio/">Randy Dotinga - Static</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/television">Ann Zivotsky - TV</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/backstage">Pam Kragen - Backstage</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/sorocco">Erika Sorocco - Music</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/forms/letters/preview.php">Send Letter</a></li>
+		    </ul>
+        </div>
+		
+		 <div class="subs">
+          <h1><a href="http://www.nctimes.com/entertainment/calendar">Local Event Lists</a></h1>
+          	<ul>
+            <li><a href="http://www.nctimes.com/entertainment/local_events/">North County</a></li>	
+		    <li><a href="http://www.nctimes.com/entertainment/localcal_events/">Southwest Riverside</a></li>
+			<li class="h1-subhead">Contests</li>
+			<li><a href="http://www.nctimes.com/takemeshopping/">Take Me Shopping</a></li>
+			<li><a href="http://www.nctimes.com/vision2page/">Vision 2 Page</a></li>
+			<li><a href="http://www.leadertelegram.com/hoops/nctimes/index-2008.asp" target="_blank">Bracket Bucks</a></li> 
+		    </ul>
+        </div> 
+	</div>
+	
+<!--5 FEATURES DROP DOWNS -->
+
+	<div id="submFeatures" class="subnav-group">
+	    
+        <div class="subs lead">
+          		<h1><a href="http://www.nctimes.com/special_reports">Features</a></h1>
+          <ul class="lead">
+		         
+		  		<li class="h1-subhead"><a href="http://www.nctimes.com/food">Food</a></li>
+                <li><a href="http://www.nctimes.com/food/groch">Laura Groch</a></li>
+				<li><a href="http://www.nctimes.com/food/wischkaemper">Pam Wischkaemper</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/travel">Travel</a></li>	
+				<li class="h1-subhead"><a href="http://www.nctimes.com/comics">Comics</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/books">Books</a></li>
+				<li class="h1-subhead"><a style="color:#BA1929" href="http://www.nctimes.com/pop/">The Power of Parenting</a></li>
+	      </ul>
+        </div>
+        
+		<div class="subs">
+          <ul>
+		  		<li class="h1-subhead"><a href="http://www.nctimes.com/lifeandtimes">Life</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/deneve">Cyndie C. de Neve</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/theberge/">Gigi B. Theberge</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/gillette/">Jean Gillette</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/erdos/">Irv Erdos</a></li>
+							</ul>
+		</div>
+						
+		<div class="subs">
+          <ul>	
+				<li class="h1-subhead"><a href="http://www.nctimes.com/science">Science &amp; Technology</a></li>
+				<li><a href="http://www.nctimes.com/science/fikes">Bradley Fikes - Silicon Beach</a></li>
+				<li><a href="http://www.nctimes.com/science/ritter">Mark Ritter - Skies Above</a></li>
+				<li><a href="http://www.nctimes.com/science/edrington">Don Edrington - Computer Tutor</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/gogreen">Go Green</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>
+			</ul>
+		</div>
+		
+		<div class="subs">
+          <ul>
+		  		<li class="h1-subhead"><a href="http://www.nctimes.com/health">Health</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/agnes_herman/">Agnes Herman</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/rotell/">Michelle Rotell</a></li>
+				<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_features_button/static.js"></script></li>
+			
+			</ul>
+		</div>
+		
+		<div class="subs">
+		  <ul>	
+			  	<li class="h1-subhead"><a href="http://www.nctimes.com/faith">Faith &amp; Values</a></li>
+		  		<li><a href="http://www.nctimes.com/faith/letters">Faith &amp; Values Letters</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/homes">Homes</a></li>
+            	<li><a href="http://www.nctimes.com/homes/wilders">Tineke Wilders</a></li>
+				<li><a href="http://www.nctimes.com/homes/crawford">Rose Crawford</a></li>
+				<li><a href="http://www.nctimes.com/homes/groff">Tenaya Groff</a></li>
+				<li><a href="http://www.nctimes.com/homes/batie">Steve Batie</a></li>
+	      </ul>
+        </div>     
+ 
+	</div>
+
+<!--5 COMMUNITY DROP DOWNS 
+
+	<div id="submCommunity" class="subnav-group">
+	    
+	</div> -->
+
+<!-- SHOPPING-->
+	
+	<div id="submMarket" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/admarket/merchandise/">Buy Stuff</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/admarket/">Classifieds</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/furniture_furnishings/">Furniture</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/appliances/">Appliances</a></li>
+			<li><a href="http://www.nctimes.com/admarket/print_ads/">Browse Print Ads</a></li>
+			<li><a href="http://www.nctimes.com/admarket/garage_sales/">Garage Sales</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/give_aways/">Give Aways</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/misc_wanted/">Wanted</a></li>
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">Sell Stuff</a></h1>
+          <ul>
+           <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Animals</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34363">Boats &amp; Marine</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34354">Garage and Yard Sales</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34319">General Merchandise</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Real Estate</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">More...</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1><a href="http://pets.nctimes.com/">Pets</a></h1>
+          <ul>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Dogs">Dogs</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Cats">Cats</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Birds">Birds</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx">Browse All Pet Ads</a></li>
+				<li><a href="http://www.nctimes.com/admarket/announcements/lost_found/">Lost and Found</a></li>
+			  <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Place An Ad</a></li>
+		    </ul>
+        </div>
+        	  <div class="subs">
+		  <h1>Directories</h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/medical/">Medical</a></li>
+				<li><a href="http://www.nctimes.com/cars/directory/">Auto Dealers</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Real Estate Experts</a></li>
+				<li><a href="http://www.nctimes.com/goout/">Restaurants</a></li>
+				<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_marketplace_button/static.js"></script></li>
+				
+		    </ul>
+        </div> 
+        
+        <div class="subs">
+          <h1>Services</h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>	
+				<li><a href="http://www.nctimes.com/admarket/personal_services/">Personal Services</a></li>
+				<li><a href="http://www.nctimes.com/admarket/home_services/">Home Services</a></li>
+				<li><a href="http://www.nctimes.com/admarket/business_services/">Business Services</a></li>
+				<li class="h1-subhead">Announcements</li>
+				<li><a href="http://www.nctimes.com/admarket/legals/">Legals</a></li>
+				<li><a href="http://www.legacy.com/NCTimes/Obituaries.asp">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/celebrations/">Engagements, Weddings and other Celebrations</a></li>
+				<li><a href="http://www.nctimes.com/admarket/announcements/lost_found/">Lost and Found</a></li>
+               </ul>
+
+        </div>  
+
+		
+        </div> 	
+    
+ <!-- CARS -->  
+    <div id="submCars" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://wheels.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+			<li><a href="http://wheels.nctimes.com/">Wheels For You</a></li>
+			<li><a href="http://www.nctimes.com/admarket/transportation/?ad_type=display">Auto Print Ads</a></li>
+			<li><a href="http://wheels.nctimes.com/results.php?eqdealerid=202095">Classified Ads</a></li>
+			<li><a href="http://nctimes.outdoormotors.com/">Outdoor Motors</a></li>
+			<li><a href="http://www.nctimes.com/cars/directory/">Local Dealer Directory</a></li>		
+			<li><a href="http://www.nctimes.com/admarket/transportation/specialty_antiques/">Specialty &amp; Antiques</a></li>	
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Sell</h1>
+          <ul>
+			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34358">Place an Ad</a></li>	
+			<li><a href="http://www.nctimes.com/admarket/transportation/wanted_to_buy/">Wanted to Buy</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1>Research and Tools</h1>
+          <ul>
+			<li><a href="http://wheels.nctimes.com/research.php">Research and Advice</a></li>		
+			<li><a href="http://wheels.nctimes.com/tools.php">Payment Calculator</a></li>
+		    </ul>
+        </div>
+          <div class="subs">
+          <h1>Parts &amp; Service</h1>
+          <ul>		
+			<li><a href="http://www.nctimes.com/admarket/transportation/auto_parts/">Auto Parts</a></li>
+			<li><a href="http://www.nctimes.com/admarket/personal_services/automotive_service_repair/">Service &amp; Repair</a></li>
+			<li class="h1-subhead">Quick Searches</li>
+			<li><a href="http://www.nctimes.com/admarket/?=&amp;change_path=%2F&amp;query=auto+repair&amp;sort=featured+desc+start_date+desc&amp;limit=25">Auto Repair</a></li>
+			<li><a href="http://www.nctimes.com/admarket/?=&amp;change_path=%2F&amp;query=oil+change&amp;sort=featured+desc+start_date+desc&amp;limit=25">Oil Change</a></li>
+		    </ul>
+        </div>      
+        <div class="subs">
+          	<ul>		
+         	 <li><a href="http://wheels.nctimes.com/"><img src="http://wheels.nctimes.com/art/nctimes-wheels-logo.jpg" alt="wheels.nctimes.com" border="0"/></a></li>
+			 <li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_cars_button/static.js"></script></li>
+		 	</ul>
+		</div>
+	</div>
+    
+ <!-- HOMES -->  
+    <div id="submHomes" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://homes.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+		  		<li><a href="http://homes.nctimes.com/">Search Local MLS</a></li>
+            	<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=11%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=6&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C16%2C14%2C15&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=S&amp;WebSearches=Y">Classifieds</a></li>
+				<li><a href="http://www.nctimes.com/homes/tophomes/">Top Homes</a></li>
+			  	<li><a href="http://www.nctimes.com/newhomes/">New Homes</a></li>
+				<li><a href="http://www.nctimes.com/tourofhomes/">Open House Map</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+				<li><a href="http://www.nctimes.com/homes/">Homes News</a></li>
+		    </ul>
+        </div>
+		  <div class="subs">
+          <h1>Quick Searches</h1>
+          <ul>	
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=0&amp;HPrice=400000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Under $400,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=400000&amp;HPrice=500000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$400,000-$500,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=500000&amp;HPrice=600000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$500,000-$600,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=600000&amp;HPrice=700000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$600,000-$700,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=700000&amp;HPrice=800000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$700,000-$800,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=800000&amp;HPrice=900000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$800,000-$900,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=900000&amp;HPrice=1000000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$900,000-$1,000,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=1000000&amp;HPrice=&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Over $1,000,000</a></li>
+				</ul>
+        </div>
+        
+        
+        <div class="subs">
+         <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Sell</a></h1>
+		  	<ul>
+				<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Place an Ad</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+          </ul>
+		  </div>
+         
+		 <div class="subs">
+         	<h1><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchIndex.asp">Rent</a></h1>
+	  	   	<ul>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Classified Ads</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=8&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Apartments</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=4&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Houses</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=32&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Condos</a></li>
+		   		<li><a href="http://www.nctimes.com/homes/toprentals/">Top Rentals</a></li>
+	  			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34283">Place an Ad</a></li>
+		    </ul>
+        </div>
+
+        
+        <div class="subs">
+          <h1>Homes Columns</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/news/columnists/cal_gardens">Tineke Wilders - California Gardens</a></li>
+			<li><a href="http://www.nctimes.com/news/columnists/crawford/">Rose Crawford - Ask Rose</a></li>
+			<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_homes_button/static.js"></script></li>
+		   </ul>
+        </div>
+        
+     
+	</div>
+ 
+  <!-- JOBS -->  
+    <div id="submJobs" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1>Find a Job</h1>
+          <ul class="lead">
+		  	<li><a href="http://www.nctimes.com/jobs">Job Search</a></li>
+            <li><a href="http://www.nctimes.com/jobs">Log In</a></li> 
+			<li><a href="http://nctimes.com/hotjobs_topads">View Top Jobs</a></li>
+			<li><a href="http://hotjobs.yahoo.com/create-resume?partner=oceansideescondido">Post Resume</a></li>
+			<li><a href="http://help.yahoo.com/l/us/yahoo/hotjobs/?partner=oceansideescondido">Jobs FAQ and Help</a></li>
+			<li class="h1-subhead"><a href="http://hotjobs.yahoo.com/careertools?partner=oceansideescondido">Research Tools</a></li>       
+			<li><a href="http://hotjobs.yahoo.com/career-articles?partner=oceansideescondido">Career Articles</a></li>
+			<li><a href="http://hotjobs.yahoo.com/salary?partner=oceansideescondido">Salary Info</a></li>
+			<li><a href="http://hotjobs.yahoo.com/interview?partner=oceansideescondido">Interviewing Tips</a></li>
+			</ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Quick Search</h1>
+          <ul>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Accounting_Finance-t-anytime-g-578132?partner=oceansideescondido">Accounting &amp; Finance</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Construction_Facilities-t-anytime-g-578132?partner=oceansideescondido">Construction</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Education_Training-t-anytime-g-578132?partner=oceansideescondido">Education</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Healthcare-t-anytime-g-578132?partner=oceansideescondido">Healthcare</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Manufacturing_Operations-t-anytime-g-578132?partner=oceansideescondido">Manufacturing</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Sales-t-anytime-g-578132?partner=oceansideescondido">Sales</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Government_Military-t-anytime-g-578132?partner=oceansideescondido">Government &amp; Military</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido&amp;keywords_all=part+time&amp;type=main&amp;metro_area=1">Part Time</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido">Browse All</a></li>
+		    </ul>
+        </div>
+        
+		<div class="subs">
+          <h1>For Employers</h1>
+          <ul>	
+        	<li><a href="http://www.nctimes.com/jobs/packages/">Place an Ad</a></li>
+			<li><a href="http://selfcare.hotjobs.yahoo.com/hjss/hjss_partners.php?P=oceansideescondido">Sign In</a></li>
+			<li class="h1-subhead"><a style="color:#BA1929" href="http://www.nctimes.com/careerfair/">Career Fair</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/workhere">Jobs at NCT</a></li> 
+		  </ul>
+		</div>
+		
+     	<div class="subs">
+			<h1>Yahoo! HotJobs Local Search</h1>
+			<script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_jobs_button/static.js"></script>
+		</div>
+     
+	</div>
+    
+
+</div><!-- *************************************************************************************************************************** -->      
+
+ 	    <!-- COL 1,2 -->  
+ 	    <div id="twocols" class="c980 floatleft">
+ 	      
+ 	      <!-- COLUMN 1 - STORY CONTENT -->	  
+ 	      <div id="col1_story" class="c640 floatleft rborder">
+ 	        
+ 	        <div class="groupItem">
+ 	          <h1>Latinos protest Escondido council's border police support</h1>
+              <h2></h2>
+		      <p class="by">By: DAVID FRIED - Staff Writer |<span class="published"> <span class="timestamp">Wednesday, October 19, 2005 10:43 PM PDT</span></span><a href="https://secure.townnews.com/nctimes.com/forms/link/linkform.php?des=Latinos protest Escondido council's border police support" target="_blank"> &infin;</a></p>
+				      
+              <div class="tool_options"> 				     
+                   <ul id="storytools">
+                      <li class="comment"><a href="#nctcomments"><span class="simpleblog-count">42 comment(s)</span></a></li>
+                        <li class="fontup"><a href="javascript:IncreaseFontSize(2)" title="Enlarge article font size.">Increase Font</a></li>
+                        <li class="fontdown"><a href="javascript:DecreaseFontSize(2)" title="decrease font size.">Decrease Font </a></li>
+                        <li class="email">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2005/10/20/news/inland/21_43_1210_19_05.eml" target="emailafriend">email this story</a>                         </li>  
+                        <li class="print">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2005/10/20/news/inland/21_43_1210_19_05.prt" target="printable">print this story</a>                        </li>
+                </ul>
+                            
+                    <div class="clearleft"></div>
+              </div>
+                      
+                  
+              <div class="instory-content clearboth">
+                <img border="0" src="http://images.townnews.com/nctimes.com/content/articles/2005/10/20/news/inland/21_43_1210_19_05.jpg">
+                Eight-year-old Samantha Vazquez was one of the about 60 protestors that gathered at Grape Day Park before marching to Escondido City Hall on Wednesday.
+<br><small><b>  Don Boomer    </b></small>
+<br><a href="https://secure.townnews.com/nctimes.com/forms/photo_services/linkorder.php?des=    Don Boomer  Eight-year-old Samantha Vazquez was one of the about 60 protestors that gathered at Grape Day Park before marching to Escondido City Hall on Wednesday.   " target="new">Order a copy of this photo</a>
+<!-- <BR> <A HREF="XXXXXXXXXXX" target="new">Additional Links</A>  -->
+<br> <a href="http://www.nctimes.com/news/photogallery/" target="new">Visit our Photo Gallery</a><br> <hr>
+              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+			  <p>ESCONDIDO ---- Dozens of protesters from Escondido's Latino community packed City Hall on Wednesday, angered by the council's recent support for a proposed ballot initiative that would create a police force to target illegal immigration.<br/><br/>Carrying signs decrying the decision as divisive and racist, some seven dozen protesters gathered in Grape Day Park before marching into the City Hall chambers to voice their opposition to the council's decision to throw its support behind the California Border Police Act.<br/><br/>Last week, in a symbolic nod of support, the council voted 3-2 to back the initiative, which would establish a state-run police agency that would patrol the U.S border with Mexico and take responsibility for apprehending suspected illegal immigrants in California's communities. Mayor Lori Pfeiler and Councilman Ron Newman voted against the resolution.<br/><br/>Many of the protesters' comments were directed at Councilwoman Marie Waldron, who authored the resolution of support and is the chairwoman of Californians Against Illegal Immigration. Waldron has also been helping collect the 600,000 signatures necessary to place the initiative on the June 2006 ballot.<br/><br/>They accused Waldron ---- who is running for an Assembly seat in the 74th District next year ---- of grandstanding as she gears up for her 2006 campaign.<br/><br/>Some audience members held signs stating in Spanish that Waldron was against human rights for Mexicans and urging the community not to support her. Protesters left the chambers calling for Waldron's resignation.<br/><br/>"The responsibility of local elected officials is to represent and hear the voices of your community," said Christian Ramirez, director of the San Diego chapter of American Friends Service Committee. "It is not to use your seat for your own political agenda."<br/><br/>Consuelo Martinez, who helped coordinate the demonstration for the Escondido Human Rights Committee, a group that has opposed strict immigration controls, said the resolution went against the council's stated goal of improving relations with the city's Latino community.<br/><br/>As to whether the council was alienating itself from Latinos by supporting the initiative, Waldron said after the meeting, "I would hope that wouldn't be the case, because there has been a lot of support for enforcing immigration law by the people who came here legally."<br/><br/>Roughly 42 percent of Escondido's population is Latino, according to estimates from the San Diego Association of Governments, a regional planning agency.<br/><br/>Many in the packed auditorium said they work and pay rent and taxes in the community, and insisted they deserve the council's respect.<br/><br/>Many spoke in Spanish and used translators.<br/><br/>"Here in Escondido, we don't have anybody who represents us," said Mario Alvarez, an Escondido resident of 23 years. "But thank you very much for those who are attacking us, because you are uniting us."<br/><br/>Some audience members also criticized the council's decision to ratify the resolution during its afternoon session, despite organizers' request to hold the item for the evening session, after many residents' working hours. The ratification vote followed the same lines as last week's vote.<br/><br/>The border police initiative is the brainchild of Assemblyman Ray Haynes, R-Murrieta, an outspoken critic of illegal immigration. Haynes proposes creating a state police force of 2,000 to 3,000 agents that would operate on an annual budget of about &#036;200 million to &#036;300 million.<br/><br/>The new force would take on responsibilities currently under the purview of the federal Border Patrol, operating along the border and within cities around the state. The initiative would also authorize the construction of detention facilities for illegal immigrants apprehended by the patrol force.<br/><br/>In June 2004, the U.S. Border Patrol began operating a mobile patrol unit that conducted sweeps of inland cities stretching from Escondido to Ontario. In just two weeks, those agents had apprehended some 500 illegal immigrants.<br/><br/>The sweeps drew the ire of immigrants' advocates and the operations were halted a short time later, according to Border Patrol union officials. Border Patrol officials denied that the agency had yielded to political pressure and stopped the sweeps.<br/><br/>Supporters of the border police initiative say it is needed to enforce existing immigration laws, and would save the state millions of dollars each year.<br/><br/>A 2004 study by the Federation for American Immigration Reform, a Washington group that pushes for tougher immigration controls, estimated that California is home to 3 million illegal immigrants, costing the state roughly &#036;9 billion in education, law enforcement, social services and other costs.<br/><br/>Waldron said later she understood the demonstrators' concerns, but that the council's resolution was only symbolic and the initiative would come before the voters for final approval.<br/><br/>At last week's meeting, two audience members, one from Escondido and another from Temecula, urged the council to approve the resolution.<br/><br/>Contact staff writer David Fried at (760) 740-5416 or <a href="mailto:dfried@nctimes.com">dfried@nctimes.com</a>.</p>
+		      <!--<p>[xcomponent:paragraphs:3]</p>-->
+ 	          
+ 	          <div id="socialbookmarking" class="tool_options">
+ 	            
+ 	            
+ 	            <div class="clearboth"></div>
+              </div>
+	        </div>
+		      <!-- comments -->
+ 	        
+ 	        <div id="nctcomments" class="groupItem clearboth">
+ 	          
+ 	          <div class="itemHeader"><span class="simpleblog-count">42 comment(s)</span><a href="#" class="closeEl plus-minus">[-]</a><span class="more-section"><a href="#">Go to Top</a></span></div>
+					    
+				<div class="itemContent">
+					  
+				    
+					  <a id="blogcomments"></a><div class="simpleblog-results"><a id="dec7a8b376329f8415f0221d42f25e83"></a><p><span class="simpleblog-name">Bruce</span> wrote on <span class="simpleblog-date">Oct 20, 2005 7:21 AM:</span><span class="simpleblog-response">How sad.  If all of the protester's were legal, congratulations to them.  Illegal immigration is the issue.  You are welcome here, if you obey the rules, just like everybody else.  I have many Latino friends, but it is the illegal and criminal issue that is at stake here.  Don't make it racial; it's not.  It is about being here lawfully.  Very clear.   </span></p>
+<a id="89c6b1c7f69611fdae94e74e0c4518c3"></a><p><span class="simpleblog-name">Steve</span> wrote on <span class="simpleblog-date">Oct 20, 2005 9:06 AM:</span><span class="simpleblog-response">Was there a single, logical reason against this initiative? It seemed as if the grandstanding was on the protester's side. </span></p>
+<a id="4508b0d20fafbb7a29549d4f4a8922fd"></a><p><span class="simpleblog-name">Frida</span> wrote on <span class="simpleblog-date">Oct 20, 2005 11:19 AM:</span><span class="simpleblog-response">Bravo to those who stood up against this initiative. Of course those who are US Citizens are very quick to say something is not racist, but when have they encountered racism? We all know Mexicans will be targeted by this initiative and unfortunetely, that is why no one cares. Do you really think the Border Police will be stopping the European immigrants? I think not. How can anyone not see it is about race? Wake up people.</span></p>
+<a id="8c2a1a92b69a53e57a3ab7379a5170f6"></a><p><span class="simpleblog-name">Sue</span> wrote on <span class="simpleblog-date">Oct 20, 2005 11:34 AM:</span><span class="simpleblog-response">In my own experiences, I have seen many here illegally, working under the table and sending that money back to family in Mexico to bring them here - also illegally.  Working under the table and paying rent do not contribute to the good of the state.  Our schools are overcrowded and English-speaking children are being pushed aside in order to give the Spanish-speaking more attention...in their own language (spoken and written).  This is from my own experiences with the schools here.  Also, no matter where you come from, you should learn English and live by the rules.  I have lived in another country and I did learn the language and did learn the laws and abided by them, including getting a legal driver's license.  I have friends of many nationalities and they are here legally.  We do need more control of the situation.</span></p>
+<a id="616a58bffff03bb78332b3691a776861"></a><p><span class="simpleblog-name">Billy</span> wrote on <span class="simpleblog-date">Oct 20, 2005 11:46 AM:</span><span class="simpleblog-response">I'm soo sick of these law breakers calling us racists, these poeple need to start obeying our laws if they want to have equal rights. </span></p>
+<a id="8f5345d3a3620cebc67bc88cbf9247e4"></a><p><span class="simpleblog-name">Jerry</span> wrote on <span class="simpleblog-date">Oct 20, 2005 12:24 PM:</span><span class="simpleblog-response">I think the reason why they protest is because they are bored. How is this a racist policy? If the state passed an initiative that banned Mexicans from living in the US then I could see the point of a protest. I am a Mexican-American, my parents migrated to this country legally and I was born in the US. These activist just want to cause trouble and divide people. </span></p>
+<a id="dcbcaedf1a66fc636bac9cd6f1e29fe4"></a><p><span class="simpleblog-name">Maria</span> wrote on <span class="simpleblog-date">Oct 20, 2005 12:31 PM:</span><span class="simpleblog-response">I do think it is a racial thing, just like Frida said. You won't see anybody else getting stopped. 
+Illegal immigrants aren't the only ones that don't obey the laws. </span></p>
+<a id="9a2487c0cae3d6a7d1849d1979d71013"></a><p><span class="simpleblog-name">Bob H</span> wrote on <span class="simpleblog-date">Oct 20, 2005 12:44 PM:</span><span class="simpleblog-response">Patrolling the border is ineffectual. There are over a million Criminal Foreigners here and in LA county. We need Interior Enforcement.</span></p>
+<a id="fd0d2e0634458d0cbed4df3e80cd69eb"></a><p><span class="simpleblog-name">Karen</span> wrote on <span class="simpleblog-date">Oct 20, 2005 12:55 PM:</span><span class="simpleblog-response">Of course it is Racial (not racist)... there is only one RACE that is trying to cross our borders and that is Mexicans.  Why doesn't Consuelo live in Mexico if it is so wonderful?  Having worked with her I know from personal experience that she likes to use her race as her shield and accuses everyone of racial discrimination if they don't agree with her views of open borders.  Escondido used to be a beautiful place to live and raise a family but because of the over-run of all the illegal Mexicans it is a dump.  Property values are in the toilet and all the school funding goes to English as a second language.  Wake up Consuelo!!!  English is the first language in this country and if you don't like it- head for the border!</span></p>
+<a id="8e7fa877e9e307f298151e7584f02634"></a><p><span class="simpleblog-name">Marcio</span> wrote on <span class="simpleblog-date">Oct 20, 2005 1:54 PM:</span><span class="simpleblog-response">To Frida: 
+Of course Mexicans will be targeted. No other nationality (and it's a nationality, not a race) is overwhelming and colonizing us. No other nationality is making the quality of our schools and social services decline in such an obvious manner, and no other nationality talks openly of the "Reconquista".
+Mexicans are welcome here as long as they immigrate legally and live like Americans. Mexico is a horrible place to live, so I don't blame them for wanting to come here, but they should do it legally. And when they get here they should live as Americans rather than trying to make this country into Mexico. After all, why did they leave? </span></p>
+<a id="bdbdfb5b74616325d41a758487e08edd"></a><p><span class="simpleblog-name">Frida</span> wrote on <span class="simpleblog-date">Oct 20, 2005 2:39 PM:</span><span class="simpleblog-response">This lady Karen contradicts herself. How can you say property values are in the toilet when most peopel can't even afford to buy a one-bedroom condo? You are the perfect example of those who denys racism, probably because you are not brown, probably because you are a citizen . Of course, after all you seem to feel superior to Mexicans. Sure sounds racist to me.
+
+Terrorists are not crossing our border, why waste money on more border patrol and state police agents when the real cause of migration is economics. The US has a high standard of living, they like luxery items at low prices,  hence, you exploit people to get the products and services that you want. Don't punish the working class for your inhumane and selfish wants.
+
+</span></p>
+<a id="4647b7b374f5c1456c778d270900d4cd"></a><p><span class="simpleblog-name">Mike</span> wrote on <span class="simpleblog-date">Oct 20, 2005 2:44 PM:</span><span class="simpleblog-response">Curious...
+
+Frida stated -"Of course those who are US Citizens are very quick to say something is not racist"
+
+So those who are here legally are racist for opposing a criminal invasion from another country?  (By definition, illegal immigrants are criminals).
+ 
+This doesn't single out a single race.  But Mexican-nationals being the primary offenders, they will tend to detain more Mexicans.  (BTW, if they're illegal immigrants, they're not Americans, they're Mexicans.  It's not their race, it's their citizenship).
+
+I strongly believe immigration is the strength of this nation, but I oppose all criminals.</span></p>
+<a id="622fd3617744419f2a09c50414e39544"></a><p><span class="simpleblog-name">Darlene</span> wrote on <span class="simpleblog-date">Oct 20, 2005 3:02 PM:</span><span class="simpleblog-response">Bravo to the City Council for taking a stand.  We've spent plenty of tax dollars in Escondido to help those who've abused our system by coming illegally.  Don't let the vocal minority cloud the issue. What's so hard about 'illegal'.  As the General in Louisiana said, "Let's not get stuck on stupid". </span></p>
+<a id="80866523ba2b5a4aec421a43a091aded"></a><p><span class="simpleblog-name">Alex</span> wrote on <span class="simpleblog-date">Oct 20, 2005 3:06 PM:</span><span class="simpleblog-response">This is Racist!For those of you that don't know there are more people who immigrate from Canada illegally, however, the finger is pointed at Mexicans. One needs to look at it from a historical context and look at the underlying issues. </span></p>
+<a id="b21ccc416a7b3c9ddb9464c897e6c84f"></a><p><span class="simpleblog-name">Kevin</span> wrote on <span class="simpleblog-date">Oct 20, 2005 3:43 PM:</span><span class="simpleblog-response">Alex and Frida could care less if all of Mexico invades the USA.  In fact, deep down they want it to happen.  It all goes back to the land grab politics of old.  Well, comparing the USA to Mexico is like apples to rotten oranges.  The more we let these Mexican Indian peasants into this once-great first-world nation, the more we will resemble a third-world toilet.  Just drive thru their neighborhoods all over the country.  They are toilets, to put it mildly.  I love this country and my family has been here for centuries.  I certainly do not want millions of desperate Mexicans destroying the greatness that was created by my forefathers.  Enough of this invasion!</span></p>
+<a id="06674e5cd0d3e9dbd8ab0ba8fbb66755"></a><p><span class="simpleblog-name">Theresa</span> wrote on <span class="simpleblog-date">Oct 20, 2005 4:00 PM:</span><span class="simpleblog-response">It is not surprise that something as stupid as this initiative was sopported by Waldron. She has an ability to identify populist measures to promote herself. It is sad that people are fast to point the finger and blame other for their problems, but they do not think that by supporting  it 200 to 300 million will have to come out of their pockets! I agree, being an illigal worker is not right, but behind everyone of them is a illegal employer willing to pay under the table to make their wallets fatter. So there are two sides to the problem isn't it?  </span></p>
+<a id="5d569a00189044620d496955af20663f"></a><p><span class="simpleblog-name">Christian</span> wrote on <span class="simpleblog-date">Oct 20, 2005 4:02 PM:</span><span class="simpleblog-response">I am constantly amazed at people who want to turn the issue of illegal immigration into a racial issue, it is not, it is a issue of economics.  The fact is America can not keep on taking in the worlds poorest and uneducated people at an unchecked rate, our schools, hospitals, and roads are on the verge of collapsing because we don�t have the resources to keep up.  It is not a race issue it is one of poverty an you race peddlers should be ashamed of your self for dividing our nation and race baiting our children.</span></p>
+<a id="8f484b6d896d57740d9ff96c467c0c4e"></a><p><span class="simpleblog-name">Theresa</span> wrote on <span class="simpleblog-date">Oct 20, 2005 4:11 PM:</span><span class="simpleblog-response">Everybody seems to forget that behind every illegal worker is an illegal employer, willing to pay under the table to bring down his costs, thus avoideing paying taxes. The difference is that one does it out of need, and the other aout of greed. The coulcil woman supporting this idea has a long record of supporting populist initiatiaves to promote herlself. Sadly many well intentionated citizens follow her sniky rethoric</span></p>
+<a id="b6ae13695776b96e90e21d70cd1d1d91"></a><p><span class="simpleblog-name">Ed</span> wrote on <span class="simpleblog-date">Oct 20, 2005 5:23 PM:</span><span class="simpleblog-response">The sad thing about the meeting in Escondido regarding the Border Police Initiative is that almost all the protesters were/are uninformed.  They were incited by a few agitators to rally against protecting the borders of the United States of America.  I hate to use a cliche but what part of ILLEGAL do they not understand?  This initiative IN NO WAY INHIBITS law abiding people from immigrating to the US of A for a better life including those from the Pacific Rim countries, Canada, Europe, Middle East and yes South America.  But it does authorize the State of California to do the job of protecting our borders that the federal government will not do.  </span></p>
+<a id="180f96f694ec9c2e10057766097a7247"></a><p><span class="simpleblog-name">Diane</span> wrote on <span class="simpleblog-date">Oct 20, 2005 6:13 PM:</span><span class="simpleblog-response">La Raza should register as agents of a foreign government!
+I detest their bullying tactics against American citizens.
+And their anti-American politics.
+
+   Diane</span></p>
+<a id="9226b8db9dca4643d245f231e476afbc"></a><p><span class="simpleblog-name">Evette</span> wrote on <span class="simpleblog-date">Oct 20, 2005 6:27 PM:</span><span class="simpleblog-response">  Just to clarify for those of you who think that "America" is the United States; it isn't. American is composed of the entire continent; therefore, anyone who is born in this continent is an American. 
+
+ It simply shows the arrogance and ignorance of those who say that immigrants should  �live like American".   
+</span></p>
+<a id="16324a7798c50fe2947a3335433be4f8"></a><p><span class="simpleblog-name">Roberto</span> wrote on <span class="simpleblog-date">Oct 20, 2005 7:39 PM:</span><span class="simpleblog-response">Here within,it is evident that there is some ignorance. On one hand, we have Mexicans and Mexican descendats just trying to make a living and live in peace. On the other hand, we have those anglos who believe that all people who live wihtin the U.S should only speak English.  last time, I checked this was a free country. Many believe that the precence of Mexicans affects others or the property value. the reality is that their ethnocentric views prevent them from seeing conceptualy istead of objectively. It is sickening how, Hittler tryed to purify Germans in Germany.  In the same manner,  Anglos try to purify their race by directly suppressing Mexicans, and Mexican descendants.  whoever supporst this border policy support violates the true principles of fundation in this country. In reality every one here is an immigrant except true Americans(Native Americans) whose land was stolen by false deal and reducing their numbers to present American nations.  </span></p>
+<a id="9da536ed6c7a88777625feb7964c0719"></a><p><span class="simpleblog-name">jonathan</span> wrote on <span class="simpleblog-date">Oct 20, 2005 8:04 PM:</span><span class="simpleblog-response">I live in escondido i see everyday life in escondido. It kinda of looks like MEXICO. think there has to be some control of immagration legal or illigal.But having a police that looks for illigal mexicans is like finding a needle in a hay stack. For one reason most already have kids that are u.s born citizens.And there is a lot of mexican/americans that can be judged l.Becuse of the features or skin color. So tell me who likes to be in a postion where you are stop for the way you look and talk.Even if you where born here?</span></p>
+<a id="d21948dd63c0247769567a62f14507c7"></a><p><span class="simpleblog-name">nee</span> wrote on <span class="simpleblog-date">Oct 20, 2005 8:43 PM:</span><span class="simpleblog-response">I am mexican-american, born and raised in the usa. I have a min wage job and 2 children. I can't even get medi-cal for my children. I work just as hard as anyone who crosses over the border illegal. It is against the law. What are we teaching the children. Do what ever needs to be done no matter what laws we break. Are you need is one person to pass to another that it is easy to cross the broders into the us. We need to protect our people. Send a message. He who cross illegal will be arrested.</span></p>
+<a id="2b197665b21ce191ce1c2d42280600db"></a><p><span class="simpleblog-name">Harold</span> wrote on <span class="simpleblog-date">Oct 20, 2005 9:10 PM:</span><span class="simpleblog-response">We must control our borders.  Can terrorist be so stupid not to come across from Mexico?  Everyone else does, illegally of course.  It is not fair to those people that go through the hoops to gain access to the US LEGALLY.  Thats the key word, Legal.</span></p>
+<a id="4d400e68df6cf70535aa13f22a9328ff"></a><p><span class="simpleblog-name">Diego</span> wrote on <span class="simpleblog-date">Oct 20, 2005 11:15 PM:</span><span class="simpleblog-response">Is there a single logical explanation to support a Border Police?  For anyone to believe that by deputizing the Minutemen your problems will be solved is pure lunacy.  The issue of immigration is a question rooted in failed US sponsored foreign economic policies.  Therefore taking a stance against the human rights of immigrants (whatever their status) is like taking a stance against the survivers of Hurricane Katrina since they had to resort to taking food from stores in order to survive.  The situation in Latin America is the same, except the hurricane that strikes every day and every year is man-made and is called NAFTA.  But for some reason, peole choose to ignore that fact.  And how can anyone be so ignorant to believe it is not about race?  The Border Police is supposed to look for "suspected" illegal immigrants.  What criteria will they use if not physical appearance, skin color, language spoken, and what side of town they are from?  What part of racial-profiling don't you understand?  I guess it is unfortunately true what people from other countries say about North Americans; they are a very ignorant people.  After all, most of you still believe we are in Iraq to look for weapons of mass destruction.  Speaking of Iraq, if you oppose illegal immigration, and "invasions" by undocumented workers here, then how can you turn around and support the illegal presence of the US in Iraq and a REAL terrorist invasion on behalf of the US in Iraq?  It seems as if the US is the one entering a country illegally and truly invading a country, it is ok with you. 
+Finally, I need to remind some of you that Spanish was spoken here before English was spoken, and actually Spanish preceded English by at least 100 years.  </span></p>
+<a id="46417a7c906e13770cfa495834eacfa1"></a><p><span class="simpleblog-name">Ray</span> wrote on <span class="simpleblog-date">Oct 21, 2005 1:18 AM:</span><span class="simpleblog-response">I have nothing against LEGAL immigration, it is ILLEGAL immigration that had me seeing blood red. Illegals it seems have proven to be a drain on the system, we have a lot of hospitals close to bankruptcy, due to illewgals who cannot nor will not pay their bills. We have an educational system which is going down hill because of having to teach illegals instead of focusing on the ones who are here legally.
+I live in Kern County and yes, we have oour share of illegals too. I would back a California Border Police. I would love to see immigration sweeps happening all over the state and mass deportations. I would love to see the 14th ammendment changed to clairfy the status of an American to include, Child of a natural citizen or naturalized citizen. Children born to non citizens are the nationality of the parent, not a citizen of the U.S..
+This would help to make illegals think about staying home and working to improve their home country.
+
+Raymond Mars
+4500 Lantados Street
+Bakersfield California, Ca 93307
+raymondmars@yahoo.com</span></p>
+<a id="9e4905fdecdb1951e096654ed6a981cb"></a><p><span class="simpleblog-name">Jerry</span> wrote on <span class="simpleblog-date">Oct 21, 2005 6:45 AM:</span><span class="simpleblog-response">So much hatred from both sides that it makes me sick. The Anglos call Escondido a toilet because of the Mexicans and Latinos call them racist and ignorant. I was born and raised in Escondido, California. Escondido to me, has always looked the same. It's really not that bad. The activist are just looking to start trouble and the anglos are angry. But then again, I try to see thier point of view, what if it were Chinese crossing the border? I'm sure it would be the same. If you want to point the finger, blame the US Govt. They are the ones who benefit from this the most. </span></p>
+<a id="ee90fd57011cab3b85befd798528d281"></a><p><span class="simpleblog-name">Litl Bits</span> wrote on <span class="simpleblog-date">Oct 21, 2005 7:38 AM:</span><span class="simpleblog-response">I am compelled to join my voice with those who support Waldron in this effort. I want to know when ILLEGALS, those who are here in VIOLATION of our LAWS, have been given civil rights.
+They just don't get it, do they? Our laws are written to protect OUR CITIZENS! When one is in violation of the law, one loses some civil rights. Non-citizens have NO rights, no protection under our laws (except those humanitarian 'laws' like "thou shalt not kill".)  
+I worked as an ER Nurse in SoCal. Illegals know full well that our law states that we MUST treat anyone who shows up at our doors. We (Cal. ERs) have become the clinic of choice for illegals, who come in with everything from flu symptoms to needing stitches.
+I join forces with those who are tired of having OUR RIGHTS as citizens usurped by those who openly flaunt our laws. I just can't understand what part of I-L-L-E-G-A-L they don't understand! 
+And yes, we need to go after those employers who hire these illegals. SUPPORT THE BORDER POLICE INITIATIVE! Take back OUR country!</span></p>
+<a id="d3c1d3dab32ae50b6be729f4b6465167"></a><p><span class="simpleblog-name">Kevin</span> wrote on <span class="simpleblog-date">Oct 21, 2005 2:13 PM:</span><span class="simpleblog-response">The term "Native Americans" can only refer to those born here.  Even the "indians" who refer to themselves as the REAL "Native Americans" are fooling themselves.  There were no human beings on this continent for many, many years.  Dinosaurs used to own this place.  Asian migration took place during the ice ages onto this continent.  These are the "indians" who are in reality "Early Americans" who were simple fisherman, hunters and gatherers.  When the more advanced/evolved Europeans (English, French and Spaniards) first came to the continent centuries ago, they wanted to escape the overcrowded conditions of Europe and start anew.  The English took control of the eastern USA (which the land was to become), the French the central and the Spanish the west.  Eventually all three nations departed by the 1800s and left most of the land to the USA Government and some portions in the Southwest to Mexico.  Eventually all of Alta California, Arizona, New Mexico and Texas became USA territory thru wars and treaties.  Does anyone with a brain living in the lower 48 honestly want to live under a third-world Mexican federal government?  To be honest, if so many Mexicans want to live in our territory, I suggest that the USA simply take ALL of Mexico so that we can ALL freely move back and forth and own land on both sides of the Rio Grande.  Face it, Mexico has had many, many years to get its act together and it simply ain't gonna happen.  Just let a great nation like the USA that knows how to run a ship take complete control of Mexico.  Actually, we might as well include Canada and just make it one big North America nation.  As much as I despise the current southern invasion, I think this is the only real solution to the Latin American mess.  Then we could easily seal the smaller border with the Central American welfare states like Mexico currently tries to do.  Can you imagine what coastal properties in Mexico might sell for in a real capitalist marketplace?</span></p>
+<a id="def4fe354dd65cccca4f082ca28d28fa"></a><p><span class="simpleblog-name">Kevin</span> wrote on <span class="simpleblog-date">Oct 21, 2005 2:39 PM:</span><span class="simpleblog-response">P.S.  When people in a debate have no valid arguments, they usually resort to name calling hence the "racist" diatribe.  Only legal immigrants belong within our borders and these protestors know it, but simply do not care because their true allegance is to Mexico.  Do you think Mexico lets in Guatamalans and El Salvadorans the way we allow Mexicans into the USA.  Hah!  They shoot and ask questions later.  Wish our government would do the same.  It will take yet another 9/11 disaster for them to hopefully wake up.  Another solution to this mess is to start fining (enforcing the '86 law) and jailing those who knowingly hire illegals.  It is really that easy.  Take away the ability to make a living and they will hopefully return home.  This ain't brain surgery.  If we had politicians with guts, it could be done.  Time to stop wasting money in Iraq.</span></p>
+<a id="056b3d293a13f62539de19b5f5d5bf1f"></a><p><span class="simpleblog-name">James</span> wrote on <span class="simpleblog-date">Oct 21, 2005 6:02 PM:</span><span class="simpleblog-response">Escondido City Council should not be influenced by The Mexicans who are clamoring for an open border and who loudly protest any attempt to make them comply with our Laws . They are aided by the American Friends Service committee a Quaker organization who are one world enthusiasts and never miss an opportunity to join agitators in their so called Protests.
+We need a program that identifies Guest Workers and people with Ligitimate Green Cards so that our laws can be enforced. Mexican Workers are essential to Agribusiness and are generally well paid for their skill level. State and Local Police should be able to turn over suspects to Immigration Authorities </span></p>
+<a id="7163584a697159612e163adcce30bbec"></a><p><span class="simpleblog-name">Marcia</span> wrote on <span class="simpleblog-date">Oct 24, 2005 9:42 AM:</span><span class="simpleblog-response">If this is not a racial issue, then why does everyone keep referring synonomously to illegals and mexicans/latinos? They are not one in the same. Shouldn't the term be applied to all that violate our laws? Unfortunatly we are inundated with people who move here from outside CA and  are ignorant to the difference between  Chicano/South American/Central American/Puerto Rican etc... All they see is brown skin and assume that person does not speak English and/or is illegal. Not a race issue?! If that is what you need to tell yourself to justify your racist ideas, go ahead...no one else is fooled.</span></p>
+<a id="321e2241e682984a8a5d7943d83157d2"></a><p><span class="simpleblog-name">Jerry</span> wrote on <span class="simpleblog-date">Oct 25, 2005 6:15 AM:</span><span class="simpleblog-response">In response to Maricas comments. Seeing that the majority of illegalls are Mexicans, it's only obvious that they focus on that. I'm sure there are alot of illegal Asians in this country as well. So it's natural that we will get a little emotional about this issue because we are Mexican or Latino. I say don't point the finger at the illegal! Private business doesn't care about America and the US govt. obviously itsn't worried either. </span></p>
+<a id="236750b843136f4e04e4bedb020ff5c9"></a><p><span class="simpleblog-name">Frida</span> wrote on <span class="simpleblog-date">Oct 25, 2005 6:57 PM:</span><span class="simpleblog-response">Correct Marcia. It is about race. If the Canadians were here in huge numbers with out documents, there woudl be no issue. It's the xenophobia that exists so strongly here in North County. We have the KKK here...no wonder!
+
+I remember being at a rally/protest about 3 years ago and there were mostly Mexicans around, no one even bothered to ask why we were there. People from cars simply yelled "Go back to Mexico!" They called us other racials slurs all because of our skin color. People still seem to forget we are human beings, immigration laws are made by people, politicians, there is no such thing as a border in the world, borders are man-made! People have use them to divide. Well it's working, this is why you see the division of human beings, people actually people human beings can be illegal. Anytime people think of "illegal" they think of Mexican. It's sad!</span></p>
+<a id="fd2d4577de4203e7d069f39f65a9216e"></a><p><span class="simpleblog-name">B.</span> wrote on <span class="simpleblog-date">Oct 31, 2005 8:46 AM:</span><span class="simpleblog-response">This is the United of States of America, California is a state in the United States of America and when one lives here one should follow the laws of this country, not Canada, Mexico, France, or Nicaragua. When one comes to this country by choice  and illegally there are certain rules and regulations that must and should follow and if they don't they should be deported immediately, no questions asked!! These may not be the rules of Canada or Mexico but they are still the rules in the country.
+One of the rules is to wait your turn and not get in front of someone else in line, Frida and thats what people like you appparently don't understand.
+WAIT YOUR TURN AND ABIDE BY THE LAW!!!!
+I believe as Patrick Fitzgerald said the other day, that we are a nation of laws and the everyone should abide by the law or there is anarchy!!!</span></p>
+<a id="0d4357d345ef0e0c08128859529b9416"></a><p><span class="simpleblog-name">Letty</span> wrote on <span class="simpleblog-date">Mar 27, 2006 7:23 PM:</span><span class="simpleblog-response">In response to the protests, today alot of my peers took off from school to go "protest" the bad thing was half of them didnt even know what was going on, they just wanted to leave school. that's sad.
+
+As for the proposition it is NOT about mexican pride or anything like that, it is NOT about racism.
+
+By protesting in such an obnoxious way you have made ALL us mexicans look bad, please find a way for your voice to be heard in a CIVILIZED manner.
+
+I'm against the proposition because mexicans are NOT criminals, ever since we came here we have been here for one reason and one reason only and that is to work, we do all the dirty work everyone else refuses to do. If you get rid of "the illegals" you WILL be eliminating so many workers, workers that have been nothing but loyal to this country, who consider themselves Americans because thats all they know, if you send them back to mexico it like putting a worm in a rat cage. Think about all that mexicans have done. No its not fair but please find a better way to have your voice heard.
+
+-Letty, 16</span></p>
+<a id="c096a85d12be75c0ac3eb8608dffc407"></a><p><span class="simpleblog-name">Arthur</span> wrote on <span class="simpleblog-date">Mar 28, 2006 2:59 PM:</span><span class="simpleblog-response">Yeah, Maybe we should close our borders,so we won't let mexican people come over here and work.While were at it lets close Canada's Borders too? What about not letting any one at all come in our country.Were hurting for jobs anyways, huh??? Lets make sure that nobody comes in to the U.S. no matter what nationality they are.(Irish,German,Italian,African,French,English) They might be terrorists too. That fact is that the Illegals that people are complaining about are actually the backbone of this country. They work hard ,if not twice as hard as the average american does. We as americans are lazy.We really don't want to work as much as we have to.  We want our stuff fast and cheap. Meixcans and the other people south of the border just want to work. They don't want to start an argument. We treat them as they were second class citizens,and if they weren't worth anything. With out them We would have the new 200,000 dollar houses that could easily cost 500,000.When people think of Mexicans, they think they are all criminals.Most of them are not. They have families,and just like us they get up in the morning and work to provide food on the table for their family. Remember our forefathers were immagrants too, And If they were alive to see what were are doing to our country they would be ashamed.... I think they if we close off the border we should at least give the people that are already here a chance of citizenship, they are at least entitled that. After all this is the land of opportunity,right??</span></p>
+<a id="1bc2d24c0678bfa924290f18ffaaeada"></a><p><span class="simpleblog-name">Authur</span> wrote on <span class="simpleblog-date">Mar 28, 2006 3:44 PM:</span><span class="simpleblog-response">Without illeagal immagration,we would not be able to live the lifestyle that we live today. Our country was founded on immagration. You can not stop terrorisim. This is a excuse that the goverment wanted to give you in order to close the the border. The government gets tired of the complaints that they get form the  southern states about the immagration problem, this is their only solution.
+Not everybody with dark brown skin is a terrorist. I don't want to throw the race card out, but most of the prople that want the borders closed part of their decision was based on race. I agree with Frida. People say that they don't want mexicans here because they don't pay taxes?? The one's that are here are not aware of the process of citizenship. If they did know Most of them would try for citizenship, and pay taxes. The Mexican people I know
+are very compliant with the law. They aren't drug dealers or gangsters, or what ever stereotype that people give them as bad people. People say that its is not a racial thing, Part of it is.If Bruce thinks that it isn't then he really needs to open his eyes. It's sad that we still use race as an issue, it's sad that as long as this country has around that race is a major factor. Everything in this country is based on race. They Never asked you what race you were wwhen applying for a credi card application?How about a college application? Everything in this country is based on race, wheather you accept it or not. I'm glad you have Latino friends, I'm pround of you.Most of those protesters are citizens. I reall don't mean to put you in the spot-light but that first part of that comment that you made "How sad. If all of the protester's were legal, congratulations to them. Illegal immigration is the issue." Is the kind of kind of thought that should not be encouraged. These are parents or grandparents that the government wants to send back, or charge them with an offense.Would you be happy if the government decided to send you folks back to their country because they weren't here legally. Let me ask you something??? Are your folks terrorists?? No, So why are we trying to do this in the first place? Think about it I Mean really think about it.This issues has many layers of issues, Not just a legal one.  </span></p>
+<a id="7c98eb193427fb2f6aabc84d86e96286"></a><p><span class="simpleblog-name">nc</span> wrote on <span class="simpleblog-date">Mar 29, 2006 9:03 PM:</span><span class="simpleblog-response">VIVA MEXICO!!!!!!!!you know america doesnt exist without us!!!!you guys dont wanna earn 5$ an hour well do it!!!what are tyou donna break a nail???VIVA MEXICO!!</span></p>
+<a id="dc3ecfd9eaeb20fa103ae6beaed04375"></a><p><span class="simpleblog-name">manuel</span> wrote on <span class="simpleblog-date">Apr 4, 2006 10:56 AM:</span><span class="simpleblog-response">''IT'S ALL ABOUT THE MEXICANS 4 ALL U HATERS.........</span></p>
+<a id="5657fbc725b9bfb10193417e76b67925"></a><p><span class="simpleblog-name">LUE</span> wrote on <span class="simpleblog-date">Apr 4, 2006 11:05 AM:</span><span class="simpleblog-response">EVERYBODY KNOWS THAT AMERICA CANT COTINUE BEEN STRONG WITHOUT THE MEXICANS SO STOP HATEING AND SHOUT !!!!!!!VIVA MEXICO!!!!!!!!</span></p>
+</div>			    </div>
+	        </div>
+			    
+ 			<!--forms -->		
+ 	        <div id="commentform" class="groupItem">
+			
+			<!-- *************************************************************************************************************************** --> 
+        	<p id="commentPolicy">First name only. Comments  including last names, contact addresses, email addresses or phone numbers will be deleted. All comments are screened before they appear online, so please keep them brief. Comments reflect the views of those commenting and not necessarily those of the North County Times or its staff writers. <a href="http://www.nctimes.com/blogpolicy">Click here</a> to view additional comment policies.</p>			<!-- *************************************************************************************************************************** --> 
+ 	          
+ 	          <div class="itemHeader">Submit Comment<a href="#" class="closeEl plus-minus">[-]</a></div>
+					    
+				<div class="itemContent">
+					  
+				    <p><a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.nctimes.com/articles/2005/10/20/news/inland/21_43_1210_19_05.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label> <input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-email-block"><label for="personemail" class="simpleblog-form-label">Email:</label> <span class="simpleblog-email-field">(optional)</span> <input type="text" id="personemail" name="personemail" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: </label><img id="simpleblog-captcha" width="125" height="50" src="http://www.nctimes.com/shared-content/newsys/common/generatecaptcha.php"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/><input type="SUBMIT" value="Post Comment"/></div></form></div></p>
+				</div>
+	        </div>	
+						
+			<!-- *********************************** LETTER TO EDITOR INCLUDE ******************************************************* --> 
+        		<div id="letterToEditor" class="groupItem clearboth">
+			
+
+					    
+				<div class="itemContent">
+					  
+				    <h1><a href="http://www.nctimes.com/forms/letters/editor.php">Click to submit LETTER TO THE EDITOR</a></h1>
+					
+				</div>
+</div>			<!-- *************************************************************************************************************************** --> 
+			
+          </div>
+                
+<!-- COLUMN 2 -->		  
+ 	      <div id="col2_story" class="c339 floatright lborder margin-1left">
+ 	        <!-- TABS -->	  				
+ 	        
+ 	        <!-- *************************************************************************************************************************** --> 
+        	<div id="most-tabs" class="groupItem8-4-4-4 clearboth">
+ 	          <ul>
+ 	            <li><a href="#tab-1"><span>Most Comments</span></a></li>
+                <li><a href="#tab-2"><span>Popular News</span></a></li>
+                <li><a href="#tab-3"><span>Breaking News</span></a></li>
+              </ul>
+                   
+                <div id="tab-1">  
+                    <p>Today's Stories</p>
+                    <ul class="secondary clearleft">
+                        <ul class="topblogs-list"><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/04/20/opinion/letters/d502fba5937d38888825742f007c6224.txt">LETTERS: April 20, 2008</a> <span class="topblogs-count">(67)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/04/20/opinion/letters/047025b27cd3b44c8825742f00824660.txt">LETTERS: April 21, 2008</a> <span class="topblogs-count">(66)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/04/20/news/sandiego/86f3c28c350b0d4d8825742c007c26af.txt">REGION: Day laborers finding less work</a> <span class="topblogs-count">(55)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/04/20/opinion/jacobs/dc4eec944171b7698825742e00593b90.txt">OPINION: Temecula doesn't need to be rescued</a> <span class="topblogs-count">(33)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/04/20/news/coastal/sb/1f658fb6bdc017f08825743000839ffc.txt">SOLANA BEACH: Pack with baseball bats surround and smash SUV</a> <span class="topblogs-count">(19)</span></li></ul>
+                    </ul>
+                </div>
+                  
+                <div id="tab-2" class="ui-tabs-hide">           
+                     <ul class="secondary clearleft">
+                        
+                        <li><a href="http://www.nctimes.com/articles/2008/04/20/news/coastal/sb/1f658fb6bdc017f08825743000839ffc.txt">SOLANA BEACH: Pack with baseball bats surround and smash SUV <span class="popular-count">(1367)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/04/20/news/sandiego/86f3c28c350b0d4d8825742c007c26af.txt">REGION: Day laborers finding less work <span class="popular-count">(1099)</span></a></li><li><a href="http://www.nctimes.com/articles/2007/08/09/news/top_stories/1_02_398_8_07.txt">New employment rules aim to crack down on illegal workers <span class="popular-count">(1036)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/04/20/news/inland/escondido/9db7d492ee8aff328825742c006eb876.txt">ESCONDIDO: Historians weigh value of 1950s tract homes <span class="popular-count">(854)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/04/19/opinion/editorials/aaff54f0c23579788825742e006ccae9.txt">EDITORIAL: Cop unions' clout behind secrecy <span class="popular-count">(758)</span></a></li>
+                    </ul>
+                </div>
+                  
+                <div id="tab-3" class="ui-tabs-hide">
+                   
+                    <ul class="secondary clearleft">
+                       <ul class="secondary clearleft">
+                       		
+                           
+                       </ul>
+                    </ul>        
+                </div>
+	        </div>			<!-- *************************************************************************************************************************** -->      
+   
+<!-- AD -->				
+ 	        <div class="story_ad groupItem floatright display-inline-ie">
+ 	          <p class="adv">Advertisement</p>
+	  		    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/inland_bigad/static.js"></script>
+            </div>       
+    
+<!-- VIDEOS -->
+ 	        <div id="videos" class="groupItem floatright display-inline-ie">
+ 	          
+ 	          <h1 class="heading">Videos </h1>
+                        
+                <div class="itemContent" style="text-align:center">
+                	<!-- *************************************************************************************************************************** --> 
+                	
+<!-- News -->
+<script type="text/javascript" language="javascript" src="http://api.vmixcore.com/widgets/video_list_player.js.php?token=9a0ed32259503ae76b8adc4cfc5e86df"></script>
+<script type="text/javascript" language="javascript">
+var wid = new VideoListPlayerWidget();
+wid.play_url = 'http://videos.nctimes.com/p/video?id=';
+wid.genre_name='News';
+wid.hide_post=1;
+wid.width = 320;
+wid.height = 515;
+wid.script1 = 'http://www.nctimes.com/s_code.js'; 
+wid.script2 = 'http://www.nctimes.com/zincludes/08/omniture/vmix_code.js';
+wid.drawWidget();
+</script>                 	<!-- *************************************************************************************************************************** -->      
+                </div>
+		    </div>
+                
+<!-- Yahoo Ads
+           		
+			  	[yahoo_content_match] -->
+                
+<!-- TopAds -->                
+            <!-- *************************************************************************************************************************** --> 
+        	<div id="topads335" class="c335 clearboth">
+                <div class="margin4left clearboth floatleft">
+                    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_jobs_new/static.js"></script>
+                </div>
+                
+                <div class="margin4right floatright">
+                    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_ads_new/static.js"></script>
+                </div>
+</div>			<!-- *************************************************************************************************************************** -->      
+
+ 	        <div class="clearer"></div> 
+	      </div>             
+    	</div>
+    
+    <div class="clearer"></div>
+   </div>
+</div>
+  <!-- end of maincontent -->
+
+<!-- FOOTER -->
+<div id="footer_wrap">
+ 	    <div id="footer">
+<!-- *************************************************************************************************************************** --> 
+      <!--       		<div id="pageInfo" class="crumlinks">		
+					<a href="/">HOME</a>&nbsp;&rarr;&nbsp;[section_name:4:1:&nbsp;&rarr;&nbsp;]
+				</div>
+-->
+            
+            <div id="address">
+                <div class="groupItem8-8-8-8 clearboth floatleft">
+                    <p class="office">Escondido</p>
+                    <p>(760) 745-6611</p>
+                    <p>207 East Penn. Ave.</p>
+                    <p>Escondido, CA 92025</p>
+                </div>
+                 <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office">Oceanside</p>          
+                    <p>(760) 433-7333</p>
+                    <p>1722 South Coast Highway</p>
+                    <p>Oceanside, CA 92054</p>
+                </div>
+                <div class="groupItem8-8-8-8 floatleft">
+                    <p class="office">The Californian</p>         
+                    <p>(951) 676-4315</p>
+                    <p>28765 Single Oak Drive, Suite 100</p>
+                    <p>Temecula, CA 92590</p>
+                </div>
+                <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office"> Fallbrook</p>       
+                    <p>(760) 728-6116</p>
+                    <p>1112 S. Main Ave.</p>
+                    <p>Fallbrook, CA 92028</p>
+                </div>
+                <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office">San Marcos</p>
+                    <p>(760) 761-4400</p>
+                    <p>933 W. San Marcos Blvd, Bldg. A</p>
+                    <p>San Marcos, CA 92069</p>
+                </div>
+             </div>
+       
+       <!-- search -->
+        <div id="footer-search">
+        <img alt="powered by yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+        
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+         	
+			<input class="searchfield" type="text" name="search" size="15" value="Search..."/>
+			<label>in </label>
+			<select name="searchType" id="searchTypeFoot">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+		<!--	<option value="web">Web</option>-->
+			</select>
+			
+			<input class="submitbutton" id="submitsearchFoot" name="submitsearchFoot" type="submit" value="Go"/>
+       
+		</form>
+		</div> <!-- end of search -->
+ 	   <!-- *************************************************************************************************************************** --> 
+     </div>
+</div><!-- end of footer -->
+
+<!-- Omniture  -->                    
+		<!-- *************************************************************************************************************************** --> 
+      	<!-- SiteCatalyst code version: H.7.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="http://www.nctimes.com/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server="escondido"
+s.channel="nctimes.com"
+s.pageType=""
+s.prop1="news"
+s.prop2="21_43_1210_19_05.txt"
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+s.prop9=""
+s.prop10=""
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14=""
+s.prop15=""
+s.prop16=""
+s.prop17=""
+s.prop18=""
+s.prop19=""
+s.prop20=""
+s.prop21=""
+s.prop22=""
+s.prop23=""
+
+
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/* Hierarchy Variables */
+s.hier1="Lee Enterprises," + s.server + "," + s.channel + "," + s.prop1 + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
+s.hier2="Lee Enterprises," + s.prop1 + "," + s.server + "," + s.channel + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->		<!-- *************************************************************************************************************************** --> 
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 22:17:03 Apr 21, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:58:26 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 111.497 (3)
+  esindex: 0.008
+  captures_list: 136.404
+  CDXLines.iter: 18.374 (3)
+  PetaboxLoader3.datanode: 105.882 (4)
+  exclusion.robots: 0.174
+  exclusion.robots.policy: 0.164
+  RedisCDXSource: 1.763
+  PetaboxLoader3.resolve: 64.254
+  load_resource: 106.772
+-->

@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>TheTandD.com | Life without daddy</title>
+</head>
+
+<body>
+<div id="head">
+<div id="top_nav">
+<ul>
+  <li><strong><a href="https://secure.townnews.com/thetandd.com/subscriber_services/">Subscriber Services</a></strong></li>
+  <li><a href="http://thetandd.com/shared-content/search/index.php?search=advanced">Advanced Search</a></li> 
+  <li><a href="http://www.timesanddemocrat.com/other/about">About Us</a></li>
+  <li><a href="http://www.timesanddemocrat.com/other/contact">Contact Us</a></li>
+</ul>
+</div>
+
+<div id="logo"><a href="http://www.thetandd.com/">The Times and Democrat</a></div>
+
+<div id="home_banner">
+	<script type="text/javascript" src="http://adsys.townnews.com/creative/thetandd.com/weather/static.js"></script>
+</div>
+
+<div class="clear"></div>
+
+<div id="navigation">
+<ul id="nav">
+<li><a href="http://www.timesanddemocrat.com/news">News</a><ul>
+  <li><a href="http://www.timesanddemocrat.com/news">Local / Top News</a></li>
+  <li><a href="http://www.timesanddemocrat.com/news/ap">National</a></li>
+  <li><a href="http://www.timesanddemocrat.com/ap-state-sc">State</a></li>
+  <li><a href="http://www.timesanddemocrat.com/calendar">Calendar</a></li>
+  <li><a href="http://www.timesanddemocrat.com/crime">Crime</a></li>
+  <li><a href="http://www.timesanddemocrat.com/announce">Announcements</a></li>
+  <li><a href="http://www.timesanddemocrat.com/business">Business</a></li> 
+  <li><a href="http://www.timesanddemocrat.com/weather/http://www.thetandd.com/weather/#traffic">Traffic</a></li>
+ <li><a href="http://www.timesanddemocrat.com/outdoors">Outdoors</a></li>
+<li><a href="http://www.timesanddemocrat.com/schoolnews">School News</a></li>
+ <li><a href="http://www.timesanddemocrat.com/weather">Weather</a></li>
+  <li><a href="http://www.timesanddemocrat.com/vgallery"><span class="new">Multimedia Gallery</span></a></li>
+  <li><a href="http://www.thetandd.com/news_interactive/"><span class="new">Interactive</span></a></li>
+ <li><a href="http://pictopia.com/perl/gal?provider_id=507"><span class="new">Photo Galleries / Store</span></a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/opinion">Opinion</a><ul>
+  <li><a href="http://www.timesanddemocrat.com/columns">Columns</a></li>
+  <li><a href="http://www.timesanddemocrat.com/blogs">Blogs</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/sports">Sports</a><ul>
+  <li><a href="http://www.timesanddemocrat.com/sports/prep">Prep Sports</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/scsu">SCSU</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/claflin">Claflin</a></li>  
+  <li><a href="http://www.timesanddemocrat.com/sports/usc">S. Carolina</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/clemson">Clemson</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/college">Other Colleges</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/local">Other Local</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/wire">Sports<em>Wire</em></a></li>
+ <li><a href="http://www.timesanddemocrat.com/outdoors">Outdoors</a></li>
+  <li><a href="http://www.timesanddemocrat.com/vgallery"><span class="new">Multimedia Gallery</span></a></li>
+  <li><a href="http://pictopia.com/perl/gal?provider_id=507"><span class="new">Photo Galleries / Store</span></a></li>
+  <li><a href="http://www.timesanddemocrat.com/blogs">Blogs</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/features">Features</a><ul>
+  <li><a href="http://www.timesanddemocrat.com/features/health">Health</a></li>
+  <li><a href="http://thetandd.ctwfeatures.com/health/"><span class="new">Body &amp; More</span></a>
+  <li><a href="http://www.timesanddemocrat.com/bridal">Bridal</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features/food">Food</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features/leisure">Leisure</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features/religion">Religion</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features/fries">Orangeburgers and Fries</a></li>
+  <li><a href="http://thetandd.ctwfeatures.com/home/"><span class="new">Home &amp; Garden</span></a>
+  <li><a href="http://www.timesanddemocrat.com/features/sunday">Sunday Magazine</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features/lifestyles">Lifestyles</a></li>
+ <li><a href="http://www.timesanddemocrat.com/outdoors">Outdoors</a></li>
+  <li><a href="http://www.timesanddemocrat.com/vgallery"><span class="new">Multimedia Gallery</span></a></li>
+  <li><a href="http://pictopia.com/perl/gal?provider_id=507"><span class="new">Photo Galleries / Store</span></a></li>
+  <li><a href="http://www.timesanddemocrat.com/blogs">Blogs</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/ap/entertainment">Entertainment</a><ul>
+<!--<li><a href="/entertainment">Local / Top News</a></li>-->
+  <li><a href="http://www.timesanddemocrat.com/ticket">The Ticket</a></li>
+  <li><a href="http://www.timesanddemocrat.com/ap/entertainment/movies">Movies</a></li>
+  <li><a href="http://www.timesanddemocrat.com/ap/entertainment/music">Music</a></li>
+  <li><a href="http://www.timesanddemocrat.com/ap/entertainment/tv">TV</a></li>
+  <li><a href="http://www.timesanddemocrat.com/specialsections/tvguide/index.html" target="_blank">TV Schedule</a></li>
+<!--<li><a href="/games">Games</a></li>-->
+  <li><a href="http://www.timesanddemocrat.com/vgallery"><span class="new">Multimedia Gallery</span></a></li>
+  <li><a href="http://pictopia.com/perl/gal?provider_id=507"><span class="new">Photo Galleries / Store</span></a></li>
+  <li><a href="http://www.timesanddemocrat.com/blogs">Blogs</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/obits">Obituaries</a></li>
+<li><a href="http://www.timesanddemocrat.com/admarket">Classified</a><ul>
+<!--<li><a href="">Place an Ad</a></li>-->
+  <li><a href="http://www.timesanddemocrat.com/admarket/announcements">Announcements</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/financial">Financial</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/help_wanted">Help Wanted</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/merchandise">Merchandise</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/pets_supplies">Pets &amp; Supplies</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/real_estate_for_sale">Real Estate For Sale</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/recreation">Recreation</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/rentals">Rentals</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/service_directory">Service Directory</a></li>
+<li><a href="http://www.timesanddemocrat.com/admarket/services_repairs">Services &amp; Repairs</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/jobs">Jobs</a><ul>
+    <li><a href="http://www.timesanddemocrat.com/workhere/index.html">Work With Us</a></li>
+<li><a href="http://www.timesanddemocrat.com/jobs">Local Job Search</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/admarket/transportation">Cars</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/real_estate_for_sale">Homes</a></li>
+ <li><a href="http://www.timesanddemocrat.com/sections/">Special</a><ul>
+  <li><a href="http://www.timesanddemocrat.com/sections/">Sections</a></li>
+  <li><a href="http://www.timesanddemocrat.com/contest/">Contests</a></li>
+</ul></li>
+</ul></li>
+</ul>
+
+  <div id="search">
+	<form action="http://www.thetandd.com/shared-content/search/index.php" method="get">
+		<input type="hidden" name="search" value="go">
+		<input type="hidden" name="l" value="25">
+		<input class="searchtxt" type="text" name="q" value="Enter Keyword(s)" onfocus="if (this.value == 'Enter Keyword(s)') this.value= '';">
+		<input class="search" type="submit" value="Search">
+	</form>
+   </div>
+</div>
+
+<div id="date"><a href="http://www.timesanddemocrat.com/ap/today-in-history"><script><!--
+showCurrentDate(1);//--></script><noscript></noscript></a><span class="logTools">You are not logged in. | <a href="javascript:void(0);" onclick="javascript:toggleLogin('show');">Login</a> | <a href="http://www.timesanddemocrat.com/signup/">Register</a></span></div>
+
+<div id="weather"><p>Current weather conditions: <a href="http://www.timesanddemocrat.com/weather">			Partly Cloudy and 74&#176; F </a></p></div>
+
+<div class="clear"></div>
+<div id="log_box">
+<h4>Log in to TheTandD.com</h4>
+<form action="http://thetandd.com/articles/2006/10/08/features/doc45283b658b6a2862478122.txt" method="POST"><script language="JavaScript"><!--
+function registrationCheckCookie(checkbox) {var str = new String(this.document.cookie);if ( ! str.match("has_cookies") && checkbox.checked ) {var result = confirm("Your browser does not support cookies.  Click OK to see information on how to enable cookie support in your browser.  Otherwise, click CANCEL.\n\nOnce cookies are enabled, reload this page before trying again."); checkbox.checked = false; if ( result ) {window.open("/shared-content/userhelp/cookies/index.html", "userhelp", "width=350,height=200,menubar=no,location=no,directories=no,toolbar=yes");}}}
+// --></script><table border="0"><input type="hidden" name="registration" value="login"/>
+<input type="hidden" name="remember_me_days" value="7"/>
+ <tr>
+  <th align="right" valign="top">*Member ID:</th>
+  <td>
+   <input type="text" name="member_id" size="20" value=""/>
+  </td>
+ </tr>
+<tr>  <th align="right">*Password:</th>  <td><input class="newsys-textbox" type="PASSWORD" name="password"></td></tr><tr><td>Remember login?<br><small>(<a href="http://www.timesanddemocrat.com/shared-content/userhelp/cookies/index.html" target="userhelp">requires cookies)</a></small></td><td><input type="checkbox" name="remember_me" onclick="registrationCheckCookie(this)" value="1"></td></tr><tr>  <td>&nbsp;</td>  <td><small><a href="#" onclick="return window.open(&quot;/?registration=forgot-password&quot;, &quot;&quot;, &quot;width=380,height=190,menubar=no,resizeable=no&quot;)">Forgot Your Password?</a></small></td></tr><tr>  <td>&nbsp;</td>  <td><input class="newsys-button" type="SUBMIT" value="Login"></td></tr></table></form>
+<div class="forgot"><a href="javascript:void(0);" onclick="javascript:toggleLogin('hide');">[x] Close</a></div>
+</div>
+</div>
+<div id="wrapper"> 
+<div id="main">
+<h2>Life without daddy</h2>
+<span class="by">By KEITH POUNDS, T&D; Correspondent<span class="published">Sunday, October 08, 2006</span>
+<p><span class="leave_comment"><a href="#tdcomments"><span class="simpleblog-count"><span class="simpleblog-count">1 comment(s)</span></span></a></span> | <span class="default"><a href="#" title="Article default font size." onclick="setActiveStyleSheet('default'); return false;">Default</a></span> |
+<span class="large"><a href="#" title="Enlarge article font size." onclick="setActiveStyleSheet('large'); return false;">Large</a></span>
+</p></span>
+
+<div id="story_content">
+<p>Illegitimacy used to be scandalous, something hidden at homes for unwed mothers or behind grandma's closed doors.<br/><br/>But, a 2003 article by Steve Sailer, "Black Illegitimacy Rates Decline," acknowledges a slight decrease in black illegitimacy rates by that year, but revealed that unwed pregnancy rates (per 1,000) among blacks was 167, among Latinos was 166 and whites was 58.<br/><br/>But in 1980, national illegitimacy rates had risen to 18 percent, increasing to 33.5 percent by 2001 and to 33.8 percent by 2002. In a 2003 article, Steve Sailer says black illegitimacy rates actually declined in 2003 but unwed pregnancy rates per 1,000 167 among blacks, 166 among Latinos and 58 among whites.<br/><br/>According to the South Carolina Commission for Minority Affairs' 2004 Statistical Profile, 31 percent of all children in South Carolina under the age of 18 live in single-parent families; 52 percent of African-American children and 19 percent of white children. Of all females in the state who give birth, 40.1 percent are single; 68.9 percent of African Americans and 11.1 percent of Caucasian mothers.<br/><br/>"Eighty-five percent of all poor black children live in fatherless families" meaning that "the poverty rate for black children without fathers is nearly six times that for black children with two parents," writes David Horowitz, an early Black Panther supporter, in his 1999 book, "Hating Whitey."<br/><br/>In his controversial 2002 speech during the NAACP commemoration of Brown vs. Board of Education, actor Bill Cosby decried the fact that: "No longer is a person embarrassed because they're pregnant without a husband. No longer is a boy considered an embarrassment if he tries to run away from being the father."<br/><br/>In the 1984 book, "Losing Ground," Charles Murray wrote that "illegitimacy is the single most important social problem of our time -- more important than crime, drugs, poverty, illiteracy, welfare, or homelessness because it drives everything else."<br/><br/>Children of both sexes from father-absent families are more likely to divorce, Murray said. Boys without dads also have difficulty with pair bonding and have decreased drive and ambition, and girls have higher rates of illegitimate pregnancy themselves, he added. Other sources point out the prominence of young girls from fatherless homes who "carry on the cycle" by having their own children out of wedlock at a younger-than-average age.<br/><br/>Multiple statistical sources show children raised in single-parent, female-headed households are six times more likely than children with two-parent homes to be poor, and that males of all races, reared in such an environment, are responsible for 70 percent of youth violence.<br/><br/>Among northeast Asians, only about 10 children are born to unwed mothers per 1,000 births. These rates correlate directly with their higher rates of marriage and extended families, lower divorce rate, lower infant mortality and lower rates of drug, alcohol or tobacco use during pregnancy, even among poor Asians.<br/><br/>In "Promises I Keep; Why Poor Women put Motherhood before Marriage," Allison DeMarco looks at the decrease in need for government help among two-parent families because of the increase in income when both work. She cites a study which shows that poor, unmarried women often insist they don't "devalue" marriage; they simply make the "personal choice to postpone marriage until they are ready."<br/><br/>The study raises the question of why these mothers didn't likewise make the personal choice to postpone having babies. As DeMarco elaborates, and statistics clearly show, "early births to poor, unwed mothers is clearly detrimental to the lives of the children."<br/><br/>Education and the poor<br/><br/>Among the 40 percent of black children who are poor, 85 percent come from single-parent homes. Horowitz suggests this circumstance leaves these children at a disadvantage in educational opportunities, specifically in college and university competition, and even in the job market. He writes that by the time many of these children are ready for higher education, or job seeking, "they may suffer from dysfunctional behaviors, or have developed disabling habits, or have internalized cultural attitudes hostile to academic achievement, or simply lack the supportive environment a middle-class home provides."<br/><br/>This, Horowitz suggests, accounts for the high dropout rates among affirmative action students.<br/><br/>He blames present-day civil rights groups for not marching and calling for "protests" against bad parenting, drug dealers, hate-filled rap music and failing schools and for not supporting strong marriages of two-parent families to keep children out of poverty. This culture of failure, he writes, involves "self-defeating stereotypes that reduce black people to violent, oversexed 'gangstas,' minstrel show comedians and mindless athletes" who "embrace the notion of victimhood."  ††††††††††† †<br/><br/>Crime<br/><br/>The 1994 Color of Crime Report found that of the 1,700,000 interracial crimes committed that year, 90 percent (1,140,670) were committed by blacks against whites. Of those black-on-white crimes, 173,374 were robberies and the remaining 84 8 percent were assaults and rapes. These statistics reveal the uncomfortable fact that blacks are twice as likely as whites to commit hate crimes and more than 250 times more likely to commit them against whites than are whites against blacks.<br/><br/>Other figures include that black males represent 70 percent of defendants in violent juvenile cases, 60 percent of juvenile murder defendants, 72 percent of rape defendants, 78 percent of robbery defendants, and 61 percent of assault defendants. As Horowitz suggests, rather than blaming these statistics on "profiling," it may be more effective to realize that these numbers could stem from the fact that of the 31,000 or so gangs in the United States, with membership numbers of about one million, 80 percent of those members are Hispanic or black.<br/><br/>The statistics cited above are especially alarming when considering that the absence of fathers during their children's developmental years correlates directly with increased violence and crime.<br/><br/>A.V. Strong, founder and director of A Better Way, is a military veteran and former gang member. Strong has said the gang problem is getting "terrible in South Carolina"†and exists everywhere in the state, including Orangeburg County.† Gangs like MS 13, Folk Blood, and Crips exist in Orangeburg, he said, and, although he doesn't have an exact number of how many youth are involved in gangs, "I've dealt with several hundred down there, actually involved."<br/><br/>†††† Gangs create anarchy, Strong said, and, although no gang-related murders have occurred in Orangeburg County, "as long as they're allowed to exist, the murders will follow, they will follow.† Just like I said in SC a few years ago when we were in denial, I said, well, let's start getting our suits ready because we're going to go to funerals.† I've attended 11 funerals of gang related homicides in South Carolina in the last two and a half years."†<br/><br/>To stop gang violence from spreading, Strong said, "We've got to educate the parents, the community leaders, and we've got to stop being in denial."<br/><br/>Without a father in the home, a child has a greater chance of living in a poorer neighborhood and a lesser chance of developing the skills to take advantage of social programs provided to help them out of a disadvantaged situation. Instead of running away from a responsibility that should be a blessing, leaving them to find identity in whatever culture is offered on their particular street corner, fathers need to stand by their offspring, and provide them that which no amount of money can buy -- a role model on which they can build their character.</p>
+</div>
+
+<div class="clear"></div>
+
+<div class="tool_options">
+<div>
+<span class="email"><a href="http://thetandd.com/articles/2006/10/08/features/doc45283b658b6a2862478122.eml" target="emailafriend">E-mail this story</a></span> |
+<span class="print"><a href="http://thetandd.com/articles/2006/10/08/features/doc45283b658b6a2862478122.prt" target="printable">Print this story</a></span><!--|
+<span class="shar"><a href="/pages/share.php" onclick="window.open(this.href, 'child', 'scrollbars,width=480,height=440'); return false;">Share this story: </a></span>--></div>
+<!--<a href=""><img src="http://thetandd.com/images/digg.gif"></a><a href=""><img src="http://thetandd.com/images/newsvine.gif"></a><a href="">-->
+</div>
+
+<a id="tdcomments"></a>
+<script type="text/javascript" src="http://www.thetandd.com/scripts/show_comments.js"></script>
+
+<div id="comment_toggle"><div id="toggle_txt">&nbsp;</div><div id="comment_btn"><a class="hide_comments" href="javascript:void(0);" id="comm_link" onclick="javascript:show_comments();read_comments();">&nbsp;</a></div></div>
+<div class="toggle_count"><span class="simpleblog-count"><span class="simpleblog-count">1 comment(s)</span></span></div>
+<div id="comments_block">
+<div class="comments_disclaimer">The following comments are reader submitted. 
+	They do not represent the views of The T&amp;D or Lee 
+	Enterprises.</div>
+<div id="sb"><a id="blogcomments"></a><div class="simpleblog-results">
+	<br>
+    <a id="blogcomments"></a><div class="simpleblog-results"><a id="76bf04e3ac649d8789e8452ec44a64b8"></a><p><span class="simpleblog-name">NSM</span> wrote on <span class="simpleblog-date">Oct 7, 2006 8:55 PM:</span><div class="simpleblog-response">&quot; Absolutely scary statistics, a terrific report. This should have made the headlines of T and D. &quot;</div><br/></p>
+</div>
+    <br><br>
+</div></div>
+</div>
+<script language="javascript">read_comments();</script>
+
+<h5>&raquo; Post a comment <span class="small">Thanks for your comment! Once 
+approved, your comment will appear on the site.</span></h5>
+
+<div id="notlogged"><h2>You must be logged in to comment.</h2><a href="#top" onclick="javascript:toggleLogin('show');"><img src="http://www.timesanddemocrat.com/images/site/sign_in.gif" alt="Click Here To Sign in"/></a><br/><br/><a href="http://www.timesanddemocrat.com/signup/register/"><strong>Click here to get an account</strong></a><br/><strong><em>it's free and quick</em></strong></div>
+
+<div class="policy"><span class="policy_link">Please note:</span> The Times and 
+	Democrat provides our story commenting feature in order to solicit feedback, 
+	debate and discussion on topics of local interest. Please keep in mind that 
+	civility is a necessary component of productive conversation. All blatantly 
+	inflammatory or otherwise inappropriate comments (i.e. vulgarity, marketing, 
+	etc.) are subject to rejection and/or removal. Comments will appear if and 
+	when they are approved. Thanks for reading, and thanks for participating.</div>
+</div>
+
+<div id="side">
+	<div><table width="" height="" rows="2" cols="1"><tr><td align="center"><img src="http://www.timesanddemocrat.com/content/articles/2006/10/08/features/doc45283b658b6a2862478122.jpg"></td></tr><tr><td></td></tr></table></div>
+	<div>
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"/></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[293] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1133913600) && (nAdsysTime <= 1275436799)) {
+aAd = new Array('features+in_story', '35776-1183271884', 'jpg');
+aAd[3] = 'http://thetandd.com/pages/cgrill/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 293;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'thetandd.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+    <div> <!-- Yahoo Content Match Category = news -->
+
+		<style type="text/css">
+			@import url('http://www.qctimes.com/scripts/content_match_styles.css');
+		</style>
+		<div class="yahoo_content_match"><h1><a class="side_ads" href="http://searchmarketing.yahoo.com/srch/contentmatch.php" rel="nofollow">Ads by Yahoo!</a></h1>
+
+<div><h2><a href="http://ypn-100.overture.com/d/sr/?xargs=e4UAWX51xVBC5DT84CeHbhjl7Q0stOazUnaUrFJeUYNhE8DT5u9AEXrIpne7aIsN8Ez8h-7Y7DIkTtR7F2OXk--q8z1v7wEN4NFPOoQ6wwJJU5RooB0LPRuTQD2OqCnUB7twwEdHBcV3APZBd6ysIQOGRShYzLHimBOJPOyOZi4P8kLwBQ-HuN2GujQobSVrm993uqCehcxpijD-BM_5KdWekR1iqvrgfFCvo9cEo1b1Lvd113AgAVcxlE4YJw1XPQoAzb_JwRuPpqgsewYxY3MxLY5ys0TvloG-rpf4_G0R6gPgHO8J_U-NPEenAwCGuJw2il9Xr_UNZHJwFEk4vVHw9L9G0dcjtejXLJnkPbotMvzr2PxqOYS2sGe7x-uw" rel="nofollow">Refinance and Save $1,000S</a></h2>
+
+<p><a href="http://ypn-100.overture.com/d/sr/?xargs=e4UAWX51xVBC5DT84CeHbhjl7Q0stOazUnaUrFJeUYNhE8DT5u9AEXrIpne7aIsN8Ez8h-7Y7DIkTtR7F2OXk--q8z1v7wEN4NFPOoQ6wwJJU5RooB0LPRuTQD2OqCnUB7twwEdHBcV3APZBd6ysIQOGRShYzLHimBOJPOyOZi4P8kLwBQ-HuN2GujQobSVrm993uqCehcxpijD-BM_5KdWekR1iqvrgfFCvo9cEo1b1Lvd113AgAVcxlE4YJw1XPQoAzb_JwRuPpqgsewYxY3MxLY5ys0TvloG-rpf4_G0R6gPgHO8J_U-NPEenAwCGuJw2il9Xr_UNZHJwFEk4vVHw9L9G0dcjtejXLJnkPbotMvzr2PxqOYS2sGe7x-uw" rel="nofollow">$150,000 Mortgage for $483/month. Compare up to 4 free quotes.<br/>
+
+<em>www.pickamortgage.com</em></a></p></div><div><h2><a href="http://ypn-100.overture.com/d/sr/?xargs=Ua74I-Gv6cNvgPDr-WnHtxUfHCYa0Y9_s2gOqEEt8ewqWM7vSzkxWwhLLpWgyHkdcHqEwQQ2sRSyNLd6asoHz4RfszVvMNsURiEci0p5Pej1nvYYNawi4v4tKCGTsbT6-X20yvD_DJ0XqtvJiKlkHAC2OXdeEvp-EMknjhi3VcOxcZIr9QSc5zaIjBTKPkyULCO_nto-E8GVgd0g5rPES1LUVGXZdWqD3AMEFKGAtNKsNyYjyMj8coFy3ZyoBBSzBfTVMZbfApdAcXD40GVGh3wTRaK0nWkCAZjxqGwn74B1g9Wa3u9NfCtin3O6PTt9DuH6RSVDCPkZkkHmDDVReuCRBy9W2WnBJ7VpX59Dw92vpPvUfVQL86Miw77DSU4L" rel="nofollow">Refinance $300,000 for Only $965/Month</a></h2>
+
+<p><a href="http://ypn-100.overture.com/d/sr/?xargs=Ua74I-Gv6cNvgPDr-WnHtxUfHCYa0Y9_s2gOqEEt8ewqWM7vSzkxWwhLLpWgyHkdcHqEwQQ2sRSyNLd6asoHz4RfszVvMNsURiEci0p5Pej1nvYYNawi4v4tKCGTsbT6-X20yvD_DJ0XqtvJiKlkHAC2OXdeEvp-EMknjhi3VcOxcZIr9QSc5zaIjBTKPkyULCO_nto-E8GVgd0g5rPES1LUVGXZdWqD3AMEFKGAtNKsNyYjyMj8coFy3ZyoBBSzBfTVMZbfApdAcXD40GVGh3wTRaK0nWkCAZjxqGwn74B1g9Wa3u9NfCtin3O6PTt9DuH6RSVDCPkZkkHmDDVReuCRBy9W2WnBJ7VpX59Dw92vpPvUfVQL86Miw77DSU4L" rel="nofollow">$300,000 Mortgage for only $965/month. Save $1,000's - No obligation.<br/>
+
+<em>www.HomeLoanHelpLine.com</em></a></p></div><div><h2><a href="http://ypn-100.overture.com/d/sr/?xargs=to06vv-SADJxxFbFi5yO_ChWzvYjcQftNQHTrBgvSgn_7LS8NGfHW6k8jsmNDuvMlTibVGcNRAOt0hG2jOvRxAmYQ3M0gzjRk_kMRf3AnFEyzsHnvW6WuuRxC_bWKNa-NKoeB4LLzAXcLCSWKyWuXNseDxh_XyKCWEWylcoKRg6ulA3PiZoBE93jBTIae5ZjL6cLA4vaSGjGtsTBQdUVbtlUkIy45oGeJxuR4W015nJ8RHnnRKuSuIIi8tuglSpXRlJfL17c8IZ590328GvIm6r5N7HAxfsrRfvOgqOzL3eiqvqqeoYyYVr5mtSYJ3P8AYzVWwMvO_voPKgSF3Z7n7RO1IvLb41Jyhp7JAhxEbnDOFB1kMEO0L3yl6ve4sOH" rel="nofollow">Online College Programs - US Residents</a></h2>
+
+<p><a href="http://ypn-100.overture.com/d/sr/?xargs=to06vv-SADJxxFbFi5yO_ChWzvYjcQftNQHTrBgvSgn_7LS8NGfHW6k8jsmNDuvMlTibVGcNRAOt0hG2jOvRxAmYQ3M0gzjRk_kMRf3AnFEyzsHnvW6WuuRxC_bWKNa-NKoeB4LLzAXcLCSWKyWuXNseDxh_XyKCWEWylcoKRg6ulA3PiZoBE93jBTIae5ZjL6cLA4vaSGjGtsTBQdUVbtlUkIy45oGeJxuR4W015nJ8RHnnRKuSuIIi8tuglSpXRlJfL17c8IZ590328GvIm6r5N7HAxfsrRfvOgqOzL3eiqvqqeoYyYVr5mtSYJ3P8AYzVWwMvO_voPKgSF3Z7n7RO1IvLb41Jyhp7JAhxEbnDOFB1kMEO0L3yl6ve4sOH" rel="nofollow">Get matched with up to 5 colleges with 1 form. Serious inquiries only.<br/>
+
+<em>www.NexTag.com/online-degrees</em></a></p></div></div></div>
+	
+	
+	<h4>More Features</h4>
+	<div class="more_headlines">
+		<ul><a href="http://www.timesanddemocrat.com/articles/2006/10/08/features/doc4521be3029726439177825.txt"><li>A delicate balance</li></a><a href="http://www.timesanddemocrat.com/articles/2006/10/08/features/doc4525a88a45bbb571765167.txt"><li>A garden of peace</li></a><a href="http://www.timesanddemocrat.com/articles/2006/10/08/features/doc4526dc51609f7079826368.txt"><li>How to deal ...</li></a><a href="http://www.timesanddemocrat.com/articles/2006/10/08/features/doc4529be2389883736772630.txt"><li>Passing the bird</li></a><a href="http://www.timesanddemocrat.com/articles/2006/10/08/features/doc4529beb3ac047020783763.txt"><li>Home-grown, American-owned</li></a><a href="http://www.timesanddemocrat.com/articles/2006/10/08/features/doc45208dafef162004467073.txt"><li>‘Project Ignition’ students address school board</li></a><a href="http://www.timesanddemocrat.com/articles/2006/10/08/features/doc45208e84e8d49506689005.txt"><li>B-17 flies again</li></a><a href="http://www.timesanddemocrat.com/articles/2006/10/08/features/doc45283b658b6a2862478122.txt"><li>Life without daddy</li></a><a href="http://www.timesanddemocrat.com/articles/2006/10/08/features/doc452091e607460367776890.txt"><li>A newsman looks back</li></a></ul>
+	</div>
+	<div>	<script type="text/javascript" src="http://adsys.townnews.com/creative/thetandd.com/topads/static.js"></script>
+	<script type="text/javascript" src="http://adsys.townnews.com/creative/thetandd.com/topjobs/static.js"></script>
+	<script type="text/javascript" src="http://adsys.townnews.com/creative/thetandd.com/topautos2/static.js"></script>
+	<script type="text/javascript" src="http://adsys.townnews.com/creative/thetandd.com/tophomes2/static.js"></script><br>
+	
+</div>
+
+</div>
+
+</div>
+
+<div id="footer">
+	<ul id="ft_sections">
+  <li><h2>&raquo; Sections</h2></li>
+  <li><a href="http://www.timesanddemocrat.com/">Homepage</a></li>
+  <li><a href="http://www.timesanddemocrat.com/news">News</a></li>
+  <li><a href="http://www.timesanddemocrat.com/business">Business</a></li>
+  <li><a href="http://www.timesanddemocrat.com/weather">Weather</a></li>
+  <li><a href="http://www.timesanddemocrat.com/crime">Crime</a></li>      
+  <li><a href="http://www.timesanddemocrat.com/opinion">Opinion</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports">Sports</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features">Features</a></li>
+  <li><a href="http://www.timesanddemocrat.com/entertainment">Entertainment</a></li>
+  <li><a href="http://www.timesanddemocrat.com/obits">Obituaries</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sections">Sections</a></li>
+  <li><a href="http://www.timesanddemocrat.com/contest">Contests</a></li>
+</ul>
+
+<ul id="ft_services">
+  <li><h2>&raquo; Services</h2></li>
+  <li><a href="http://www.timesanddemocrat.com/other/advertise">Advertise on Our Site</a></li>
+  <li><a href="http://www.timesanddemocrat.com/other/homepage">Make Us Your Homepage</a></li>
+  <li><a href="http://www.timesanddemocrat.com/other/contact">Contact Us </a></li>
+
+  <li><a href="http://www.timesanddemocrat.com/other/about">About Us</a></li>
+  <li><a href="http://pictopia.com/perl/gal?provider_id=507" target="_blank">Online Photo Store</a></li>
+  <li><div class="ft_br"></div></li>
+  <li class="ft_subscribe"><a href="https://secure.townnews.com/thetandd.com/subscriber_services/">Subscriber services</a></li>
+  <li class="ft_calendar"><a href="http://www.timesanddemocrat.com/calendar">Calendar</a></li>
+  <li class="ft_rss"><a href="http://www.timesanddemocrat.com/rss">RSS</a></li>
+</ul>
+
+<ul id="ft_publications">
+  <li><h2>&raquo; Classified</h2></li>
+  <li><a href="http://www.timesanddemocrat.com/classifieds">Homepage</a></li>
+  <li><a href="http://www.thetandd.com/classifieds/?loc=detail&amp;main=Help%20Wanted">Jobs</a></li>
+  <li><a href="http://www.thetandd.com/classifieds/?loc=detail&amp;main=Transportation">Cars</a></li>
+  <li><a href="http://www.thetandd.com/classifieds/?loc=detail&amp;main=Real%20Estate%20For%20Sale">Homes</a></li>
+</ul>
+
+<div id="ft_search">
+<h2>&raquo; Search</h2>
+	<form action="http://www.thetandd.com/shared-content/search/index.php" method="get">
+	<input class="searchtxt" type="text" name="q" value="Enter Keyword(s)" onfocus="if (this.value == 'Enter Keyword(s)') this.value= '';">
+	<input type="hidden" name="search" value="go">
+	<input type="hidden" name="l" value="25">
+	<input class="search" type="submit" value="Search" name="search">
+</form>
+
+<ul>
+  <li id="ft_lee"><a href="http://www.lee.net/" target="_blank">Lee Enterprises</a></li>
+  <li><a href="http://www.lee.net/" target="_blank">A Lee Enterprises subsidiary</a></li>
+  <li><a href="http://www.lee.net/newspapers" target="_blank">Other Lee Websites</a></li>
+</ul>
+</div>
+
+<div class="copyright"><span><a href="#top">Back to top</a></span>Copyright &copy; 2008, The Times and Democrat, Orangeburg, SC | <a href="http://www.timesanddemocrat.com/other/terms">Terms of Service</a> and <a href="http://www.timesanddemocrat.com/other/privacy">Privacy Policy</a></div>
+<div class="omniture">
+<script language="javaScript" type="text/javascript" src="http://www.thetandd.com/s_code.js"></script>
+
+<!-- omniturelee extension v1.0.0 -->
+<!-- SiteCatalyst code version: H.7.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server="The Times and Democrat"
+s.channel="thetandd.com"
+s.pageType=""
+s.prop1="articles"
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7="Life without daddy"
+s.prop8="KEITH POUNDS, T&D Correspondent"
+s.prop9=""
+s.prop10=""
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14="4"
+s.prop15="Monday"
+s.prop16=""
+s.prop17=""
+s.prop18=""
+s.prop19=""
+s.prop20=""
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/* Hierarchy Variables */
+s.hier1="Lee Enterprises,The Times and Democrat,thetandd.com,articles,,,,"
+s.hier2="Lee Enterprises,articles,The Times and Democrat,thetandd.com,,,,"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->
+<script language="JavaScript" type="text/javascript">
+<!-- 
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//-->
+</script></div>    
+</div>
+
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:21:36 Apr 21, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:50:41 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 26.013 (3)
+  esindex: 0.009
+  captures_list: 52.654
+  CDXLines.iter: 18.439 (3)
+  PetaboxLoader3.datanode: 29.951 (4)
+  exclusion.robots: 0.199
+  exclusion.robots.policy: 0.186
+  RedisCDXSource: 2.007
+  PetaboxLoader3.resolve: 15.45
+  load_resource: 49.53
+-->

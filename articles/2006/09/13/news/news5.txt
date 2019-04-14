@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>
+      San Pedro Valley News-Sun | Benson, Arizona
+    </title>
+</head>
+  <body>
+    <div id="page">
+     
+ <div id="mast" align="center">
+        <img src="http://www.bensonnews-sun.com/img/logo.gif">
+      </div>
+	  <center><!-- AdSys ad not found for news:top --></center>
+      <div id="menu" align="center">
+        <span class="style10" align="center">
+          &bull;
+          <a href="http://bensonnews-sun.com/">Home</a>
+          |
+          <a href="http://bensonnews-sun.com/news/">Local News</a>
+          |
+          <a href="http://bensonnews-sun.com/news/Local_Sports/">Sports</a>
+          |
+          <a href="http://bensonnews-sun.com/obituaries/">Obituaries</a>
+          |
+          <a href="http://bensonnews-sun.com/news/Editorial_Opinion/">Opinions</a>
+          |
+          <a href="http://bensonnews-sun.com/archives/">Archives</a>
+          |
+          <a href="http://bensonnews-sun.com/classifieds/">Classified</a>
+          |
+          <a href="http://bensonnews-sun.com/about/">Services</a>
+          
+          &bull;
+        </span>
+        <br/>
+        <span class="date">
+          <script><!--
+showCurrentDate(1);//--></script><noscript></noscript>
+        </span>
+        <span class="search">
+          <form method="get" action="http://www.bensonnews-sun.com/shared-content/search/index.php"><input type="hidden" name="search" value="go"><input type="hidden" name="l" value="25"><input type="text" name="q" size="20"><input type="submit" value="Search"></form>
+        </span>
+      </div>
+
+      <div id="bodyBlock">
+        <div id="column1" align="center">
+          <img src="http://www.bensonnews-sun.com/img/sub_otherinfo.gif">
+          <div id="lMenu" align="left">
+            
+            <a href="http://www.bensonnews-sun.com/news/" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Local News
+              </p></a>
+            <!--<a href="#" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Nation/World
+              </p></a>-->
+            <a href="http://www.bensonnews-sun.com/obituaries/" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Obituaries
+              </p></a>
+            <a href="http://wwwa.accuweather.com/forecast.asp?zipcode=85602&amp;partner=townnews" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Weather
+              </p></a>
+            <a href="http://www.bensonnews-sun.com/news/Editorial_Opinion/" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Opinions
+              </p></a>
+            <a href="http://www.bensonnews-sun.com/news/Local_Sports/" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Local Sports
+              </p></a>
+            <a href="http://www.bensonnews-sun.com/news/Features/" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Features
+              </p></a>
+            <a href="http://www.bensonnews-sun.com/classifieds/" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Classifieds
+              </p></a>
+            <a href="https://secure.townnews.com/shared-content/perform/?domain_name=bensonnews-sun.com&amp;form_template=classifieds" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Advertise
+              </p></a>
+              <a href="http://www.bensonnews-sun.com/guestbook/" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Guestbook
+              </p></a>
+              <a href="http://www.bensonnews-sun.com/about/" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Contact Us
+              </p></a>
+              <a href="https://secure.townnews.com/shared-content/perform/?domain_name=bensonnews-sun.com&amp;form_template=subscribe" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Subscribe
+              </p></a>
+              <a href="http://www.bensonnews-sun.com/links/" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Local Links
+              </p></a>
+              <a href="http://www.bensonnews-sun.com/archives/" class="menuItem">
+              <p class="menuItem">
+                &nbsp;&nbsp;&nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Archives
+              </p></a>
+			  <a href="http://www.bensonnews-sun.com/art/employment.pdf" class="menuItem">
+              <p class="menuItem">
+                &nbsp;
+                <img src="http://www.bensonnews-sun.com/img/sub_bullets.gif" border="0" align="middle">
+                &nbsp;&nbsp;Application
+          </p></a>
+          </div>
+          <img src="http://www.bensonnews-sun.com/img/sub_otherinfoInv.gif"><br/>
+          <span class="weather">
+          <img src="http://www.bensonnews-sun.com/img/weather.gif"><a target="_new" href="http://wwwa.accuweather.com/forecast.asp?zipcode=85602&amp;partner=townnews"><img src="http://www.accuweather.com/wxpost/small_byzip/85602/21" border="0" alt="Weather Magnet"/></a>     
+          </span>   
+          <br/>
+          <div class="text-center">
+          <br/>
+            <!-- AdSys ad not found for news:left1 --><br/>
+            <!-- AdSys ad not found for news:left2 --><br/>
+          </div>
+        </div>
+
+        <div id="column2">
+		  <div class="text-center"><!-- AdSys ad not found for news:top --></div>
+          <div id="row" style="padding-top: 3px;">
+             <h1>More bears killed near Sierra Vista</h1>
+          
+          <span class="deck"></span><br/>
+          <span class="byline"></span><br/>
+                 <div id="artText">
+                    
+                    <div id="artTools">
+                              <span class="artDate">
+                              <br/>
+                              <div class="text-center">
+                                <strong> <a href="http://www.bensonnews-sun.com/articles/2006/09/13/news/news5.prt" target="printable">Print this story</a> | <a href="http://www.bensonnews-sun.com/articles/2006/09/13/news/news5.eml" target="emailafriend">Email this story</a> </strong><!--| <a href="javascript:HaloScan('[component:headline]');" target="_self"><img src="/img/comment_icon.gif" border="0"> <script type="text/javascript">postCount('[component:headline]');</script></a>-->
+                              <hr>
+                              </div>
+                              
+                               <br/><br/>
+              				        <span class="artDate"></span>
+                              </span><br/><br/>
+                               <span class="ad">
+                                  Advertisement
+                                </span>
+                                <script type="text/javascript">
+<!-- 
+document.write('<scr' + 'ipt type="text/javascript" src="http://adsys.townnews.com/global/capped.js"></scr' + 'ipt>');
+aCampaigns = new Array();
+aCampaigns[312] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+if ((nAdsysTime >= 1154304000) && (nAdsysTime <= 1185926399)) {
+aAd = new Array('news+instory', '53469', 'gif');
+aAd[3] = 'http://www.beaudrycars.com/';
+aAd[4] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 312;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'bensonnews-sun.com', aAds, aCampaigns);
+
+// -->
+</script>
+                              <br/>
+                              <br/>
+                              
+                      </div>
+                     
+                    Gentry Braswell<br/><br/>Wick Communications<br/><br/>A Ramsey Canyon nuisance bear thought to have been wounded by a gunshot in late August returned to the same residence Thursday morning, and this time it was shot and killed.
+                    
+                    The motor home of a U.S. Forest Service employee also was ransacked Wednesday by a bear at the Carr House in Carr Canyon, and the bear was shot and killed after the animal charged at the owner. "They always do. If they get in once, they come back," said Zac Ribbing, a local Forest Service trails foreman who owns the motor home.<br/><br/>The two bear killings follow two bears being killed last week. The Arizona Game and Fish Department says a mix of illegal immigrant leftovers and lower than normal natural food supplies are causing bears to look for other sources of food.<br/><br/>Bear at motor home<br/><br/>At 11:05 a.m. Wednesday, a passing motorist phoned the Forest Service after seeing a 3-year-old male bear attempting to enter the motor home.<br/><br/>Ribbing was at the Sierra Vista Forest Service office when the call came in. He and colleagues arrived at the motor home about 11:20 a.m.<br/><br/>Five people threw things at the bear and yelled at it, trying to scare the animal from the motor home. The bear had entered the trailer through the side entrance door and was inside scavenging for food when the people arrived, according to a report on Thursday by Arizona Game and Fish Department Field Supervisor Kurt Kahti.<br/><br/>The bear did not appear to be frightened by their actions and continued to eat food from the trailer's cupboards.<br/><br/>Ribbing shot at the bear while it was in the motor home, trying to scare the bear away, but it didn't work.<br/><br/>After that, someone sprayed the bear with a fire extinguisher and the bear left the motor home, though it charged the owner when it exited.<br/><br/>Ribbing shot the bear again with the .357-caliber pistol, striking the animal with a single bullet in the chest. The animal continued about 35 yards, then fell down, but was still moving, according to the report. The bear was shot once more and died.<br/><br/>"The Arizona Game and Fish Department has a policy handling nuisance bears," according to Kahti's release.<br/><br/>"Those that do not yield to humans and break into hard sided structures are the highest category and are euthanized as a public safety threat. This bear qualified for that action."<br/><br/>Bear returns to home<br/><br/>The bear thought to have been wounded last month after being shot at by a Ramsey Canyon resident returned to the residence Thursday morning.<br/><br/>This animal also fit into the state's definition of the most dangerous kind of nuisance bear.<br/><br/>On the morning of Aug. 29, a sow was shot and killed and a cub accidentally killed by a rubber bean-bag bullet after returning multiple times to the Ramsey Canyon Inn Bed and Breakfast.<br/><br/>In the evening of Aug. 29, an adolescent black bear pushed around a locked upright deep-freezer on the porch of a residence near the bed and breakfast.<br/><br/>The bear also attempted to enter the house through various windows, and when the resident, a local firefighter, tried to chase the animal off, the bear charged him.<br/><br/>The resident retreated into his house, the bear tried to enter a window, the man went out the front, and the bear charged again. The homeowner then shot at the bear with a .357-caliber pistol, thinking he had superficially wounded the animal, which ran into the woods, not to be seen again until this week.<br/><br/>The bear returned to the same residence Thursday morning. It tore and badly damaged the roof of a small sports-utility vehicle, then climbed onto the roof of the man's house, according to Kahti's report.<br/><br/>The bear began to tear into the roof. The animal came down and sat on a rock in the yard. The homeowner killed the bear with a rifle.<br/><br/>When the bear was examined after its death by a state wildlife manager Thursday, no old injuries were found that could have been incurred when it was shot at last week. The animal weighed about 130 pounds, was in good condition with about one inch of fat along the hindquarters and had fat deposits in the body cavity as well. Examination of its stomach contents found small amounts of grass, along with manzanita and juniper berries, in addition to apples and cinnamon rolls from the trailer.<br/><br/>Despite that, officials believe it was the same bear that was at the home last week.<br/><br/>(Editor's Note: Gentry Braswell is a reporter at the Sierra Vista Herald/Bisbee Daily Review.)<br/><br/>The resident asked his identity not be revealed, citing frequent misunderstandings by people who do not consider the dangers such unafraid nuisance animals present along with their concern for the well-being of bears.<br/><br/>Contributors to recent bear activity<br/><br/>The Forest Ranger whose trailer was ransacked by a bear last Wednesday talked about these bears that have grown fearless of people.<br/><br/>The visit by the bear at his trailer was the first Zac Ribbing knew of by that particular bear, he said.<br/><br/>The bear ate some of the Forest Ranger's groceries before being interrupted.<br/><br/>"He had a couple apples, and some tortillas," he said. "He pried the door right out of the middle, actually, kind of peeled it open."<br/><br/>First, the bear tried to get in to the trailer through the skylights, he said.<br/><br/>Arizona Game and Fish noted a few conditions which might be contributing to the high activity of bears in local urban-wildlife interfaces this summer.<br/><br/>Such contributors to this kind of bear action are often a lack of food on the mountain, the presence of food and attractants in the residential areas, and the acclimation of bears to humans due in part to the presence of undocumented aliens passing through the mountain, Kahti's report said.<br/><br/>"Their (undocumented alien) camps have a large amount of trash. Bears lost their fear of humans and find that humans carry and leave food behind," the report said.<br/><br/>"The Arizona Game and Fish Department has a policy handling nuisance bears," according to Kahti's release.<br/><br/>"Those that do not yield to humans and break into hard sided structures are the highest category and are euthanized as a public safety threat. This bear qualified for that action." Fish and Game said this season is typically the time of year bears should be putting on fat for the winter hibernation, but that does not appear to be taking place. Rather, it appears many bears are using their fat reserve instead of adding to it.<br/><br/>Furthermore, since last winter's rains were light in Southeastern Arizona, food sources such as acorns, prickly-pear fruit and manzanita berries were not produced, leaving bears to search for other food sources, the report said.<br/><br/>(Edtior's Note: Gentry Braswell is a reporter at the Sierra Vista Herald/Bisbee Daily Review.)
+                    
+                    <br/><br/>
+              </div>
+          </div>
+        </div>
+        <div id="column3" align="center">
+          <script type="text/javascript">
+<!-- 
+document.write('<scr' + 'ipt type="text/javascript" src="http://adsys.townnews.com/global/capped.js"></scr' + 'ipt>');
+aCampaigns = new Array();
+aCampaigns[312] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+if ((nAdsysTime >= 1154304000) && (nAdsysTime <= 1185926399)) {
+aAd = new Array('news+topads_right', '53271', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 312;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'bensonnews-sun.com', aAds, aCampaigns);
+
+// -->
+</script><br/>
+<script type="text/javascript">
+<!-- 
+document.write('<scr' + 'ipt type="text/javascript" src="http://adsys.townnews.com/global/capped.js"></scr' + 'ipt>');
+aCampaigns = new Array();
+aCampaigns[312] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+if ((nAdsysTime >= 1154390400) && (nAdsysTime <= 1185926399)) {
+aAd = new Array('news+right1', '54191', 'gif');
+aAd[3] = 'http://irmab.longrealty.com/';
+aAd[4] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 312;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'bensonnews-sun.com', aAds, aCampaigns);
+
+// -->
+</script><br/>
+<!-- AdSys ad not found for news:right2 --><br/>
+<!-- AdSys ad not found for news:right3 --><br/>
+<!-- AdSys ad not found for news:right4 -->
+
+        </div>
+      </div>
+      <div style="clear: both;">
+      </div>
+      <div id="footer" align="center">
+        <img src="http://www.bensonnews-sun.com/img/copyright.gif" width="310" height="22" style="margin-top: 7px;">
+      </div>
+    </div>
+  </body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 03:58:57 Nov 21, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:23:04 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 170.737 (3)
+  esindex: 0.007
+  captures_list: 256.922
+  CDXLines.iter: 14.661 (3)
+  PetaboxLoader3.datanode: 130.797 (4)
+  exclusion.robots: 0.2
+  exclusion.robots.policy: 0.184
+  RedisCDXSource: 65.474
+  PetaboxLoader3.resolve: 213.912 (2)
+  load_resource: 238.219
+-->

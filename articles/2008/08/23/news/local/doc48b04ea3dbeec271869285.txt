@@ -1,0 +1,689 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Nebraska preferences bill headed to November ballot - News - Local - The Beatrice Daily Sun - Beatrice, Nebraska's Community Newspaper</title>
+</head>
+<body>
+<script type="text/javascript" src="http://www.beatricedailysun.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('beatricedailysun.com'); TNTracker.setTracker('http://www.beatricedailysun.com/shared-content/stats/common/tracker.gif', 'https://secure.townnews.com/shared-content/stats/common/tracker.gif'); TNTracker.trackPageView(); }
+// -->
+</script>
+
+<div id="wrapper">
+	<div id="wrapper2">
+
+		<div id="header">
+
+			<a href="http://www.beatricedailysun.com/"><img src="http://www.beatricedailysun.com/imgs/beatriceDailySunLogo.gif" alt="The Beatrice Daily Sun - Local Beatrice Nebraska News" id="logo"/></a>
+
+			<div class="leaderboard-728x90 floatRight"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[540] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1170828000) && (nAdsysTime <= 1233467999)) {
+aAd = new Array('+leaderboard', '71623-1217860224', 'jpg');
+aAd[3] = 'http://www.beatriceford.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 540;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'beatricedailysun.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+			<div id="rightHeader">
+				<div id="marketplace" class="floatRight noMargin">
+					<!--//Icons from famfamfam.com-->
+					<a href="http://www.beatricedailysun.com/classifieds/merchandise/"><img src="http://www.beatricedailysun.com/imgs/icon_cart.gif" alt=""/> Merchandise</a>
+					<a href="http://www.beatricedailysun.com/jobs/"><img src="http://www.beatricedailysun.com/imgs/icon_briefcase.gif" alt=""/> Jobs</a>
+					<a href="http://www.beatricedailysun.com/classifieds/autos/"><img src="http://www.beatricedailysun.com/imgs/icon_car.gif" alt=""/> Cars</a>
+					<a href="http://www.beatricedailysun.com/classifieds/real_estate/"><img src="http://www.beatricedailysun.com/imgs/icon_house.gif" alt=""/> Homes</a>
+					<a href="http://www.beatricedailysun.com/classifieds/rentals/"><img src="http://www.beatricedailysun.com/imgs/icon_key.gif" alt=""/> Rentals</a>
+				</div>
+				<div id="searchBar" class="floatRight ">
+					<form action="http://www.beatricedailysun.com/search/" method="get">
+					<label for="search">Search:</label>
+					<select name="search" id="search">
+						<option value="news">News</option>
+						<option value="archives">Archives</option>
+						<option value="classifieds">Classifieds</option>
+						<option value="calendar">Calendar</option>
+						<option value="gallery">Gallery</option>
+					</select>
+					<label for="keyword">for:</label>
+					<input type="text" name="keyword" id="keyword" value="" size="15"/>
+					<input type="submit" value="Go"/>
+					</form>
+				</div>
+			</div>
+		</div>
+		<div id="nav_top">
+		<div id="home_section" class="highlighted"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/" onmouseover="current_section = &quot;home_section&quot;; selectMenu();" onmouseout="current_section = &quot;&quot;">Home</a></div>
+<div id="news_section"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/news/" onmouseover="current_section = &quot;news_section&quot;; selectMenu();" onmouseout="current_section = &quot;&quot;">News</a></div>
+<div id="sports_section"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/sports/" onmouseover="current_section = &quot;sports_section&quot;; selectMenu();" onmouseout="current_section = &quot;&quot;">Sports</a></div>
+<div id="community_section"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/community/" onmouseover="current_section = &quot;community_section&quot;; selectMenu();" onmouseout="current_section = &quot;&quot;">Community</a></div>
+<div id="living_section"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/living/" onmouseover="current_section = &quot;living_section&quot;; selectMenu();" onmouseout="current_section = &quot;&quot;">Living</a></div>
+<div id="photo_section"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/shared-content/gallery/" onmouseover="current_section = &quot;photo_section&quot;; selectMenu();" onmouseout="current_section = &quot;&quot;">Galleries</a></div>
+<div id="marketplace_section"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/classifieds/" onmouseover="current_section = &quot;marketplace_section&quot;; selectMenu();" onmouseout="current_section = &quot;&quot;">Classifieds</a></div>
+<div id="weather_section"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/weather/" onmouseover="current_section = &quot;weather_section&quot;; selectMenu();" onmouseout="current_section = &quot;&quot;">Weather</a></div>
+<div id="search_section"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/search/" onmouseover="current_section = &quot;search_section&quot;; selectMenu();" onmouseout="current_section = &quot;&quot;">Search</a></div>
+<div id="obits_section"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/obituaries/" onmouseover="current_section = &quot;obits_section&quot;; selectMenu();" onmouseout="current_section = &quot;&quot;">Obituaries</a></div>
+<div id="services_section"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/services/" onmouseover="current_section = &quot;services_section&quot;; selectMenu();" onmouseout="current_section = &quot;&quot;">Services</a></div>
+
+		</div>
+		<div id="nav_bottom">
+		<noscript>
+		<a href="http://www.beatricedailysun.com/news/local/">Local</a> <a href="http://www.beatricedailysun.com/news/nebraska/">State</a> <a href="http://www.beatricedailysun.com/news/world/">Nation &amp; World</a> <a href="http://www.beatricedailysun.com/obituaries/">Obituaries</a>
+		</noscript>
+		</div>
+		<script type="text/javascript">current_section = "news_section"; changeSelectedSection();</script>
+
+		<!-- AdSys ad not found for news/local:ad_peel -->		
+
+		<div id="main">
+			<h1>Nebraska preferences bill headed to November ballot</h1>
+			<div id="article_source"></div>
+			<div id="article_timestamp">Saturday, Aug 23, 2008 - 12:59:57 pm CDT</div>
+
+			<div class="clearBoth"> </div>
+
+				<div class="story" style="">
+				<p>The Associated Press<br/><br/>California businessman Ward Connerly is enjoying success in Nebraska but failure in Arizona this week in a national effort to dismantle preferential-treatment programs for women and minorities.<br/><br/>He offered a &#036;10,000 reward in Arizona to anyone who can provide information about fraud he says may have kept an initiative off the November ballot. Connerly&rsquo;s American Civil Rights Institute is sending a team of lawyers to the state after Arizona Secretary of State Jan Brewer announced Thursday the measure got about 35,000 signatures too few.</p>
+
+				<div class="storyAd-300x250">
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"/></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[540] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1133503200) && (nAdsysTime <= 1480571999)) {
+aAd = new Array('news+in_story', '35507-1171485523', 'jpg');
+aAd[3] = 'http://www.diodecom.net/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 540;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1171432800) && (nAdsysTime <= 1487138399)) {
+aAd = new Array('news+in_story', '72353-1171485673', 'jpg');
+aAd[3] = 'http://www.diodecom.net/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 540;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1171432800) && (nAdsysTime <= 1487138399)) {
+aAd = new Array('news+in_story', '72354-1171485701', 'jpg');
+aAd[3] = 'http://www.diodecom.net/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 540;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1208926800) && (nAdsysTime <= 1240549199)) {
+aAd = new Array('news+in_story', '125297-1208968907', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 540;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'beatricedailysun.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+
+				<p>&ldquo;All our opponents know if we get it on the ballot, it passes,&rdquo; Connerly said Friday.<br/><br/>In Nebraska, Secretary of State John Gale said Friday the initiative had 24,000 more valid signatures than it needed to make it on the November ballot.<br/><br/>Signatures were still being reviewed in Colorado, but similar attempts failed this year in Missouri and Oklahoma. Connerly has prevailed with similar measures in California, Michigan and Washington in past elections.<br/><br/>The proposed constitutional amendment never uses the words &ldquo;affirmative action.&rdquo; But it would prohibit state and local governments from giving preferential treatment to people on the basis of race, sex, ethnicity or national origin.<br/><br/>Connerly said he&rsquo;s not giving up and doesn&rsquo;t look at successes and failures in isolation.<br/><br/>&ldquo;You can&rsquo;t judge this as a snapshot,&rdquo; Connerly said. &ldquo;We will be back in Missouri.&rdquo;<br/><br/>And if he fails in challenging the Arizona result, his organization will try again, Connerly said. It took more than three years to get on the ballot in Michigan, he said.<br/><br/>Opponents of his Nebraska measure have vowed to keep fighting, too. A lawsuit pending in Lancaster County District Court challenges the ballot language, which opponents say is misleading and unclear.<br/><br/>And Nebraskans United, a group created to fight the initiative, has given the secretary of state video and other evidence that petition circulators left petitions unattended, among other alleged violations of state law.<br/><br/>David Kramer, spokesman for Nebraskans United, said his group will continue to try to disprove the legitimacy of petition signatures. He said Nebraskans United has so far found more than 36,500 signatures it considers questionable.</p>
+			</div>
+
+			
+<h2 class="clearLeft">Leave a Comment</h2>
+<div id="commentForm">
+
+	All posts are subject to our <a href="http://www.beatricedailysun.com/services/terms_of_use/" onclick="javascript:window.open('/services/terms_of_use/', 'terms', 'scrollbars=1,resizeable=0,,width=600,height=600'); return false">Terms</a>
+	and <a href="http://www.beatricedailysun.com/services/standards_and_rules/" onclick="javascript:window.open('/services/standards_and_rules/', 'standards', 'scrollbars=1,resizeable=0,,width=600,height=600'); return false">Standards</a>.
+	<br/>Your posted comment will appear after it has been approved.
+
+	<a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.beatricedailysun.com/articles/2008/08/23/news/local/doc48b04ea3dbeec271869285.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label> <input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-email-block"><label for="personemail" class="simpleblog-form-label">Email:</label> <span class="simpleblog-email-field">(optional)</span> <input type="text" id="personemail" name="personemail" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: </label><img id="simpleblog-captcha" width="125" height="50" src="http://www.beatricedailysun.com/shared-content/newsys/common/generatecaptcha.php?1220025928"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/><input type="SUBMIT" value="Post Comment"/></div></form></div>
+
+	</div>
+
+
+
+<a id="blogcomments"></a>
+
+
+
+		</div>
+
+		<div id="middle">
+			
+
+						<div class="story_actions">
+
+				<div id="textSizeChanger">
+					
+					<div>Text Size:</div>
+					<img src="http://www.beatricedailysun.com/imgs/textSizeIncUp.gif" alt="Text Size Increase" name="textSizeUp" id="textSizeUp" onclick="TextResize.textSizeUp(&quot;main&quot;)"/>
+					<img src="http://www.beatricedailysun.com/imgs/textSizeDecUp.gif" alt="Text Size Decrease" name="textSizeDown" id="textSizeDown" onclick="TextResize.textSizeDown(&quot;main&quot;)"/>
+					<script type="text/javascript">TextResize.checkPreset('main');</script>
+				</div>
+
+			  <a href="http://www.beatricedailysun.com/articles/2008/08/23/news/local/doc48b04ea3dbeec271869285.prt" onclick="window.open('/articles/2008/08/23/news/local/doc48b04ea3dbeec271869285.prt', 'PrintStory', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=650,height=600,left = 10,top = 100'); return false;"><img src="http://www.beatricedailysun.com/art/printer.gif" alt=""/> Print Story</a>
+						<a href="http://www.beatricedailysun.com/articles/2008/08/23/news/local/doc48b04ea3dbeec271869285.eml" onclick="window.open('/articles/2008/08/23/news/local/doc48b04ea3dbeec271869285.eml', 'EmailStory', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=650,height=600,left = 10,top = 100'); return false;"><img src="http://www.beatricedailysun.com/art/env.gif" alt=""/> Email Story</a>
+			</div>
+
+			
+
+			
+
+							<div id="mostBox">
+					<div class="tabBoxHeader">
+						<div id="mostRead" class="selected"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/storystats/" onclick="selectTab(&quot;mostRead&quot;, this.parentNode,  &quot;mostReadContent&quot;); return false;"> Most Read</a></div>
+						<div id="mostCommented"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/storystats/" onclick="selectTab(&quot;mostCommented&quot;, this.parentNode, &quot;mostCommentedContent&quot;); return false;">Most Commented</a></div>
+					</div>
+
+					<div class="tabBoxContent" id="mostReadContent">
+						<ul>
+							<li><a href="http://www.beatricedailysun.com/articles/2008/08/29/news/local/doc48b6ba25cea81941981142.txt">Beatrice woman leaves legacy of giving back to the community</a></li>
+<li><a href="http://www.beatricedailysun.com/articles/2008/08/29/news/local/doc48b5b22415d53335210756.txt">Maurstad to leave FEMA</a></li>
+<li><a href="http://www.beatricedailysun.com/articles/2008/08/29/news/local/doc48b5b38a9cfcc244475424.txt">Gage County supervisors again reject prosecutor grant</a></li>
+<li><a href="http://www.beatricedailysun.com/articles/2008/08/29/news/local/doc48b6b97fd730f900151481.txt">County Board rejects prosecutor grant, again</a></li>
+<li><a href="http://www.beatricedailysun.com/articles/2008/08/29/news/court_house_news/doc48b6b1bd3e371755998584.txt">Transfers</a></li>
+
+						</ul>
+					</div>
+
+					<div class="tabBoxContent hidden" id="mostCommentedContent">
+
+							<ul class="topblogs-list">
+							
+<li class="topblogs-entry"><a href="http://www.beatricedailysun.com/articles/2008/08/29/news/local/doc48b5b38a9cfcc244475424.txt">Gage County supervisors again reject prosecutor grant</a> (23)</li>
+<li class="topblogs-entry"><a href="http://www.beatricedailysun.com/articles/2008/08/29/news/local/doc48b04dd81204a797372840.txt">County attorney will ask board to reconsider grant proposal</a> (19)</li>
+<li class="topblogs-entry"><a href="http://www.beatricedailysun.com/articles/2008/08/29/news/local/doc48b6b97fd730f900151481.txt">County Board rejects prosecutor grant, again</a> (8)</li>
+<li class="topblogs-entry"><a href="http://www.beatricedailysun.com/articles/2008/08/29/news/local/doc48b568772a567452297441.txt">Hickman council says horse must go</a> (8)</li>
+<li class="topblogs-entry"><a href="http://www.beatricedailysun.com/articles/2008/08/29/news/local/doc48b41e97600fd466298098.txt">Hearing set for men convicted of 1985 murder</a> (8)</li>							</ul>
+
+					</div>
+
+
+				</div>
+
+	
+
+			<div class="middleColAd-300x250"><!-- AdSys ad not found for news/local:middle_column_300x250 --></div>
+
+							<div id="mediaBox">
+					<div class="tabBoxHeader">
+						<div id="localVideo" class="tab selected"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/video/" onclick="selectTab(&quot;localVideo&quot;, this.parentNode,  &quot;localVideoContent&quot;); return false;">Local Video</a></div>
+						<div id="apVideo" class="tab"><div class="left"></div><div class="right"></div><a href="#" onclick="selectTab(&quot;apVideo&quot;, this.parentNode, &quot;apVideoContent&quot;); return false;">AP Video</a></div>
+						<div id="photoGalleries" class="tab"><div class="left"></div><div class="right"></div><a href="http://www.beatricedailysun.com/shared-content/gallery/" onclick="selectTab(&quot;photoGalleries&quot;, this.parentNode, &quot;photoGalleriesContent&quot;); return false;">Photos</a></div>
+					</div>
+
+					<div class="tabBoxContent" id="localVideoContent">
+						<div class="textCenter">
+
+						<iframe src="http://media.beatricedailysun.com/frontmedia2.php?type=video&amp;num=3" width="324" height="155" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" border="0" allowtranspagency="true"></iframe>
+												<a href="http://www.beatricedailysun.com/video/">All Videos</a>
+						</div>
+					</div>
+
+					<div class="tabBoxContent hidden" id="apVideoContent">
+						<div class="textCenter">
+						<strong>AP Video: Breaking News </strong>
+						<div id="apVideoBox">
+	<script type="text/javascript" src="http://img.video.ap.org/p/j/apovn.js?refresh=20080829110528"></script>
+	<script type="text/javascript">
+		var ap = new SWFObject('http://img.video.ap.org/p/s/sm_hz_3thumb_scroll.swf?refresh=20080829110528', 'sm_hz_3thumb_scroll', '280', '100', '7');
+		ap.addParam('quality', 'best');
+		ap.addParam('bgcolor', '#FFFFFF');
+		ap.addVariable('cat', 'breaking');
+		ap.addVariable('pid', 'NEBEA');
+		ap.addVariable('fontcolor', '0xCA5F00');
+		ap.addParam('AllowScriptAccess', 'always');
+		ap.write('apVideoBox');
+	</script>
+	</div>
+						</div><br/>
+					</div>
+
+					<div class="tabBoxContent hidden" id="photoGalleriesContent">
+						<div id="photos">
+						
+						<div class="album">
+							<a href="http://www.beatricedailysun.com/shared-content/gallery/?galleryid=1&amp;albumid=125&amp;mediaid=1350" onclick="javascript:void(0)" title="Week of August 25 - 30, 2008"><img src="http://www.beatricedailysun.com/resources/image_resizer.php?url=/content/gallery/gallery_1/album_125/thumb_photo48b31c16e014d602278311.jpg&amp;max_w=100&amp;max_h=100&amp;equalize=true" alt="Week of August 25 - 30, 2008"></a>
+							<div class="title">
+								<a href="http://www.beatricedailysun.com/shared-content/gallery/?galleryid=1&amp;albumid=125&amp;mediaid=1350" onclick="javascript:void(0)" title="Week of August 25 - 30, 2008">Week of August 25 - 30, 2008</a>
+							</div>
+						</div>
+
+						<div class="album">
+							<a href="http://www.beatricedailysun.com/shared-content/gallery/?galleryid=4&amp;albumid=124&amp;mediaid=1339" onclick="javascript:void(0)" title="August 18-23, 2008"><img src="http://www.beatricedailysun.com/resources/image_resizer.php?url=/content/gallery/gallery_4/album_124/thumb_photo48ab5939b7f37603264153.jpg&amp;max_w=100&amp;max_h=100&amp;equalize=true" alt="August 18-23, 2008"></a>
+							<div class="title">
+								<a href="http://www.beatricedailysun.com/shared-content/gallery/?galleryid=4&amp;albumid=124&amp;mediaid=1339" onclick="javascript:void(0)" title="August 18-23, 2008">August 18-23, 2008</a>
+							</div>
+						</div>
+
+						<div class="album">
+							<a href="http://www.beatricedailysun.com/shared-content/gallery/?galleryid=5&amp;albumid=61&amp;mediaid=307" onclick="javascript:void(0)" title="Thursday, January 31, 2008"><img src="http://www.beatricedailysun.com/resources/image_resizer.php?url=/content/gallery/gallery_5/album_61/thumb_photo47a1f1c05e413600612988.jpg&amp;max_w=100&amp;max_h=100&amp;equalize=true" alt="Thursday, January 31, 2008"></a>
+							<div class="title">
+								<a href="http://www.beatricedailysun.com/shared-content/gallery/?galleryid=5&amp;albumid=61&amp;mediaid=307" onclick="javascript:void(0)" title="Thursday, January 31, 2008">Thursday, January 31, 2008</a>
+							</div>
+						</div>
+						<div class="clearLeft"> </div>
+						<a href="http://www.beatricedailysun.com/shared-content/gallery/" style="font-size: 10px;">View All Galleries</a>
+						</div>
+					</div>
+
+				</div>
+
+	
+
+			
+			<h3><a href="http://www.beatricedailysun.com/calendar">Calendar of Events <img src="http://www.beatricedailysun.com/imgs/arrowRedBig.gif" alt="" class="arrow"/></a></h3>
+			<div id="calendarBox" class="contentBox">
+
+				
+<table class="calendar floatLeft" style="width: 175px">
+  <tr>
+	<th colspan="7" id="calhead">
+		August 2008
+	</th>
+  </tr>
+  <tr>
+	<th>S</th>
+	<th>M</th>
+	<th>T</th>
+	<th>W</th>
+	<th>T</th>
+	<th>F</th>
+	<th>S</th>
+ </tr>
+  <tr class="week">
+    	<td>
+     		
+	</td>
+    	<td>
+     		
+	</td>
+    	<td>
+     		
+	</td>
+    	<td>
+     		
+	</td>
+    	<td>
+     		
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-01" title="Events for August 1, 2008">1</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-02" title="Events for August 2, 2008">2</a>
+	</td>
+  </tr>  <tr class="week">
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-03" title="Events for August 3, 2008">3</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-04" title="Events for August 4, 2008">4</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-05" title="Events for August 5, 2008">5</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-06" title="Events for August 6, 2008">6</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-07" title="Events for August 7, 2008">7</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-08" title="Events for August 8, 2008">8</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-09" title="Events for August 9, 2008">9</a>
+	</td>
+  </tr>  <tr class="week">
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-10" title="Events for August 10, 2008">10</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-11" title="Events for August 11, 2008">11</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-12" title="Events for August 12, 2008">12</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-13" title="Events for August 13, 2008">13</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-14" title="Events for August 14, 2008">14</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-15" title="Events for August 15, 2008">15</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-16" title="Events for August 16, 2008">16</a>
+	</td>
+  </tr>  <tr class="week">
+    	<td>
+     		17
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-18" title="Events for August 18, 2008">18</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-19" title="Events for August 19, 2008">19</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-20" title="Events for August 20, 2008">20</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-21" title="Events for August 21, 2008">21</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-22" title="Events for August 22, 2008">22</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-23" title="Events for August 23, 2008">23</a>
+	</td>
+  </tr>  <tr class="week">
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-24" title="Events for August 24, 2008">24</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-25" title="Events for August 25, 2008">25</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-26" title="Events for August 26, 2008">26</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-27" title="Events for August 27, 2008">27</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-28" title="Events for August 28, 2008">28</a>
+	</td>
+    	<td class="active-today">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-29" title="Events for Today, August 29, 2008">29</a>
+	</td>
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-30" title="Events for August 30, 2008">30</a>
+	</td>
+  </tr>  <tr class="week">
+    	<td class="active">
+		<a class="date" href="http://www.beatricedailysun.com/calendar/?showdate=2008-08-31" title="Events for August 31, 2008">31</a>
+	</td>
+    	<td>
+     		
+	</td>
+    	<td>
+     		
+	</td>
+    	<td>
+     		
+	</td>
+    	<td>
+     		
+	</td>
+    	<td>
+     		
+	</td>
+    	<td>
+     		
+	</td>
+  </tr></table>
+
+
+				<div class="visualIEFloatFix"><b>Today's Events</b></div>
+				<ul class="visualIEFloatFix">
+
+	
+<li><a href="javascript:void(0)" onclick="javascript:window.open('/calendar/details/?eventid=42','_blank','width=500,height=500,scrollbars=1,status=0');" title="Toastmasters International">Toastmasters International</a></li>
+<li><a href="javascript:void(0)" onclick="javascript:window.open('/calendar/details/?eventid=122','_blank','width=500,height=500,scrollbars=1,status=0');" title="Support groups">Support groups</a></li>
+
+
+				</ul>
+				<div class="clearLeft"> </div>
+			</div>
+
+
+
+
+
+
+
+		</div>
+
+		<div id="right">
+
+		<div class="textCenter">
+			<br/>
+				<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[540] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1204610400) && (nAdsysTime <= 1520229599)) {
+aAd = new Array('+right_column_badge1', '117552-1204672827', 'jpg');
+aAd[3] = 'http://www.beatricedailysun.com/bridal/';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 540;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1215666000) && (nAdsysTime <= 1531285199)) {
+aAd = new Array('+right_column_badge1', '137110-1215726999', 'jpg');
+aAd[3] = 'http://www.beatricedailysun.com/marketplace/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 540;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'beatricedailysun.com', aAds, aCampaigns);
+
+// -->
+</script>
+				<br/><br/>
+				<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[540] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1216702800) && (nAdsysTime <= 1532321999)) {
+aAd = new Array('+right_column_badge2', '138764-1219874296', 'jpg');
+aAd[3] = 'https://www.communitynewscontest.com/index.php?contestid=48';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 540;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'beatricedailysun.com', aAds, aCampaigns);
+
+// -->
+</script>
+			<br/><br/>
+		</div>
+
+
+		<br/>
+			<div class="rightCol-160x600"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[540] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1133416800) && (nAdsysTime <= 1228111199)) {
+aAd = new Array('news+right_column_160x600', '35473-1195074422', 'jpg');
+aAd[3] = 'http://www.hillhomefurnishings.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 540;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1151038800) && (nAdsysTime <= 1466744399)) {
+aAd = new Array('news+right_column_160x600', '50800-1195592576', 'jpg');
+aAd[3] = 'http://www.beatricedailysun.com/extras/beatricemanor/beatricemanor_splash6.html';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 540;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'beatricedailysun.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+
+			<div class="rightCol-160TopAds"><!-- AdSys ad not found for news/local:rightcol-160topads --></div>
+
+			<div class="rightCol-160TopJobs"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[540] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1138687200) && (nAdsysTime <= 1454306399)) {
+aAd = new Array('+rightcol-160topjobs', '33901-1220018288', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 540;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'beatricedailysun.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+
+			<div class="textCenter">
+			
+
+			</div>
+		</div>
+
+		<div id="footer">
+			<div class="floatLeft">
+				&copy; 2008 Beatrice Daily Sun  |
+				<a href="http://www.beatricedailysun.com/services/sitemap/">Site Map</a>  |
+				<a href="http://www.beatricedailysun.com/services/contact_us/">Contact Us</a>  |
+				<a href="http://www.beatricedailysun.com/services/privacy_policy/" onclick="window.open('/services/privacy_policy/', 'PrivacyPolicy', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=500,height=500,left = 10,top = 100'); return false;" target="_NEWP">Privacy Policy</a>
+			</div>
+			<div class="floatRight">
+
+			
+
+			<img src="http://www.beatricedailysun.com/imgs/rssIcon.gif" alt="RSS Icon" id="rssIcon"/> <a href="http://www.beatricedailysun.com/rss/">RSS Feeds</a></div>
+		</div>
+
+	</div>
+</div>
+
+<div>
+
+<!-- journalstar omniture extension v1.0.0 -->
+<!-- SiteCatalyst code version: H.7. Copyright 1997-2006 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="http://www.beatricedailysun.com/resources/omniture/s_code.js"></script>
+<script language="JavaScript"><!--
+/* Omniture Params to record. */
+s.server='BeatriceDailySun';
+s.channel='beatricedailysun.com';
+s.pageName='Archived Article: news/local: Nebraska preferences bill headed to November ballot';
+s.prop1='news';
+s.prop2='local';
+s.prop6='BeatriceDailySun';
+s.prop7='Nebraska preferences bill headed to November ballot';
+s.prop8='';
+s.heir1='Lee Enterprises,BeatriceDailySun,beatricedailysun.com,news,local,,,';
+s.heir2='Lee Enterprises,news,BeatriceDailySun,beatricedailysun.com,local,,,';
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->
+
+
+<div id="preloadedImages">
+</div>
+</div>
+</body>
+</html>
+
+
+
+
+<!--
+     FILE ARCHIVED ON 16:05:29 Aug 29, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:21:10 Mar 28, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 115.847 (3)
+  esindex: 0.008
+  captures_list: 160.042
+  CDXLines.iter: 13.832 (3)
+  PetaboxLoader3.datanode: 82.741 (4)
+  exclusion.robots: 0.153
+  exclusion.robots.policy: 0.139
+  RedisCDXSource: 27.467
+  PetaboxLoader3.resolve: 27.661
+  load_resource: 92.07
+-->

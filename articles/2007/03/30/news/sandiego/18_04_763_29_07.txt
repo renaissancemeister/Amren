@@ -1,0 +1,1190 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>
+Judge unseals Schwilk warrant : North County Times - Californian </title>
+</head>
+
+<body>
+<script type="text/javascript" src="http://www.nctimes.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('nctimes.com'); TNTracker.setTracker('http://www.nctimes.com/shared-content/stats/common/tracker.gif', 'https://secure.townnews.com/shared-content/stats/common/tracker.gif'); TNTracker.trackPageView(); }
+// -->
+</script>
+<!-- HEADER -->
+<div id="header_wrap">
+
+<!-- HEADER -->
+   <div id="header">
+                
+        <!-- *************************************************************************************************************************** --> 
+              <div id="headerlogo_ad">
+    
+                    <a href="http://www.nctimes.com/"><img id="nctheaderlogo" class="clear" src="http://images.townnews.com/nctimes.com/zimages/08/logo-nct.png" alt="NCTimes.com" width="235" height="89"/></a> 
+                    
+                    <div class="bannerad">
+                        <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/biz_leaderboard/static.js"></script>
+                    </div> 
+                       
+            </div>        <!-- *************************************************************************************************************************** --> 
+                
+        <!-- *************************************************************************************************************************** --> 
+               <div id="midlink" class="clear">
+				
+			<ul id="main_menu" class="lava">
+                <li id="mNews"><a href="http://www.nctimes.com/news/">News</a></li>
+				<li id="mOpinion"><a href="http://www.nctimes.com/opinion/">Opinion</a></li>
+                <li id="mSports"><a href="http://www.nctimes.com/sports/">Sports</a></li>
+				<li id="mEntertainment"><a href="http://www.nctimes.com/entertainment/">Entertainment</a></li>
+                <li id="mFeatures"><a href="http://www.nctimes.com/features/">Features</a></li>   
+                <li id="mMarket" class="ads_menu"><a href="http://www.nctimes.com/admarket/">Marketplace</a></li>             
+                <li id="mCars" class="ads_menu"><a href="http://www.nctimes.com/cars/">Cars</a></li>
+                <li id="mHomes" class="ads_menu"><a href="http://homes.nctimes.com/">Homes</a></li>
+                <li id="mJobs" class="ads_menu"><a href="http://www.nctimes.com/jobs/">Jobs</a></li>
+   			</ul>
+           
+		</div>
+        
+        <div id="botlink">
+			<ul>
+			  	<li><a href="http://www.nctimes.com/" title="Home">HOME</a></li>
+				<li><a href="http://www.nctimes.com/contact_us/" title="Contact Us">CONTACT US</a></li>
+                <li><a href="http://www.nctimes.com/advertising/" title="Advertise">ADVERTISE</a></li>
+                <li><a href="http://www.nctimes.com/web_services/" title="Subscriber Services">SUBSCRIBER SERVICES</a></li>
+            <!--<li><a href="/" title="Site Map">SITE MAP</a></li>-->
+            </ul>
+		</div> <!-- end of botlink -->
+        <!-- *************************************************************************************************************************** --> 
+        
+        <!-- *************************************************************************************************************************** --> 
+              <div id="header-search">
+	<script language="javascript" type="text/javascript">
+	jQuery(document).ready(function() {
+		var search_value = $('input[@name=query]').val();
+		jQuery('#yahooSearchBox').val(search_value);
+	});
+	</script>
+		 <img class="floatleft margin15top" alt="yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+				    
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+			<input class="searchfield" type="text" name="search" size="15" value="Search..." id="yahooSearchBox"/> 
+			<label>in </label>
+			<select name="searchType" id="searchType">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="videos">Videos</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+				<option value="web">Web</option>
+			</select>
+			
+			<input class="submitbutton" name="submitsearch" type="submit" value="Go"/>
+		</form>
+</div> <!-- end of search -->        <!-- *************************************************************************************************************************** --> 		
+                
+        </div><!-- end of header -->
+	
+</div>
+
+<!-- BODY -->
+<div id="content_wrap">
+ 	  <div id="maincontent">
+<!-- *************************************************************************************************************************** --> 
+        <div style="position:relative; z-index:999;">
+
+<!-- NEWS/LOCAL -->
+
+	<div id="submNews" class="subnav-group">
+
+        <div class="subs lead">
+		  <h1><a href="http://www.nctimes.com/news">News Home Page</a></h1>
+          <ul class="lead">
+		    <li><a href="http://www.nctimes.com/news/top_stories">Top Stories</a></li>
+		    <li><a href="http://www.nctimes.com/news/coastal">Coastal</a></li>
+		    <li><a href="http://www.nctimes.com/news/inland">Inland</a></li>
+		    <li><a href="http://www.nctimes.com/news/californian">The Californian</a></li>
+            <li><a href="http://www.nctimes.com/news/sandiego">Region</a></li> 
+			<li><a href="http://www.nctimes.com/news/state">State</a> | <a href="http://www.nctimes.com/news/nation">National</a></li> 
+			<li><a href="http://www.nctimes.com/ap">Today's AP Headlines</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/rss">RSS Feeds</a></li>
+          </ul>
+        </div>
+      
+        <div class="subs">
+          <h1>City News</h1>
+          <ul>
+          	<li><a href="http://www.nctimes.com/news/coastal/carlsbad">Carlsbad</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/del_mar">Del Mar</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/encinitas">Encinitas</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/escondido">Escondido</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/fallbrook">Fallbrook</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/lake_elsinore">Lake Elsinore</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/menifee">Menifee</a></li> 
+            <li><a href="http://www.nctimes.com/news/californian/murrieta">Murrieta</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/oceanside">Oceanside</a></li>
+          </ul>
+        </div>
+        
+        <div class="subs">
+          <ul>
+			<li><a href="http://www.nctimes.com/news/inland/poway">Poway</a></li>
+          	<li><a href="http://www.nctimes.com/news/inland/ramona">Ramona</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/rb">Rancho Bernardo</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/riverside">Riverside County</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/san_marcos">San Marcos</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/sb">Solana Beach</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/temecula">Temecula</a></li>
+            <li><a href="http://www.nctimes.com/news/inland//vc">Valley Center</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/vista">Vista</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/wildomar">Wildomar</a></li>
+          </ul>
+        </div>
+        
+        <div class="subs">
+			<h1><a href="http://www.nctimes.com/business">Business Home Page</a></h1>
+			<ul>
+          		<li><a href="http://www.nctimes.com/blogs/minding_your_business/">Business Blog</a></li>
+          		<li><a href="http://www.nctimes.com/columnists/business/">Business Columnists</a></li>
+          		<li><a href="http://www.nctimes.com/gas_prices">Gas Gauge</a></li>
+		  		<li><a href="http://www.nctimes.com/business/stocks">Stocks</a></li>
+          		
+                <li class="h1-subhead">Other News</li>
+          		<li><a href="http://www.nctimes.com/military">Military</a></li> 
+		  		<li><a href="http://www.nctimes.com/elections2008">Elections</a></li> 
+		  		<li><a href="http://www.nctimes.com/corrections">Corrections</a></li>
+		  		<li><a href="http://www.nctimes.com/backpage">Backpage</a></li>
+		  <!--<li><a href="/business/chamberlin">George Chamberlin</a></li>
+		  <li><a href="/business/bahr">Candace Bahr</a></li>
+		  <li><a href="/business/vanderspek">Jim VanderSpek</a></li>
+		  <li><a href="/business/knight">Gary Knight</a></li>-->
+			</ul> 
+   		</div>
+		  
+          <div class="subs"> 
+          	<h1><a href="http://www.nctimes.com/columnists/local/">Local Columnists</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/news/columnists/baier/">Paul Baier</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/jeff_frank">Jeff Frank</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/betty_johnston/">Betty Johnston</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/john_hunneman/">John Hunneman</a></li>
+                <li><a href="http://www.nctimes.com/news/columnists/tom_morrow/">Tom Morrow</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/observer/">John Van Doorn</a></li>
+				<li><a href="http://www.nctimes.com/columnists/local/">More Local Columnists</a></li>
+                <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+           	</ul>
+		 </div> 
+          
+		  <div class="subs"> 
+          	<ul>
+				<li><a href="http://www.nctimes.com/weather">Weather</a></li>
+				<li><a href="http://www.nctimes.com/traffic">Traffic</a></li>
+		  		<li><a href="http://www.nctimes.com/earthquake">Earthquake Reports</a></li>
+		  		<li><a href="http://videos.nctimes.com/">Videos</a></li>
+            	<li><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+                <li><a href="http://www.nctimes.com/archives/">Archives</a></li>
+                <li class="h1-subhead">News Extras</li>
+          		<li><a href="http://www.nctimes.com/maillist/index.php">Daily Headline Alerts</a></li> 
+				<li><a href="http://www.nctimes.com/pdfs">View Front Pages</a></li> 
+           </ul>
+		 </div> 
+	</div>
+	
+<!-- OPINION -->
+	<div id="submOpinion" class="subnav-group">
+	<div class="subs lead"> 
+          <h1><a href="http://www.nctimes.com/opinion/">Opinion Home Page</a></h1>
+          <ul>
+				<!-- <li><a href="/blog">Blogs</a></li> -->
+                <li><a href="http://www.nctimes.com/blogs/editorscorner">Editor's Corner Blog</a></li>
+				<li><a href="http://www.nctimes.com/opinion/editorials">Editorials</a></li>
+				<li><a href="http://www.nctimes.com/opinion/cartoon">Editorial Cartoons</a></li>
+				<li><a href="http://www.nctimes.com/opinion/commentary">Community Forums</a></li>
+				<li><a href="http://www.nctimes.com/perspective/">Perspective</a></li>
+                <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+          </ul>
+		 </div> 
+         
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/columnists/opinion">Opinion Columnists</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/opinion/brett/">Brigid Brett</a></li>
+				<li><a href="http://www.nctimes.com/opinion/chatfield/">Gail Chatfield</a></li>
+                <li><a href="http://www.nctimes.com/opinion/clausen/">Dennis Clausen</a></li>
+                <li><a href="http://www.nctimes.com/opinion/davy">Kent Davy</a></li>
+				<li><a href="http://www.nctimes.com/opinion/jacobs/">Paul Jacobs</a></li>
+				<li><a href="http://www.nctimes.com/opinion/kirk/">Richard Kirk</a></li>
+				<li><a href="http://www.nctimes.com/opinion/rider/">Richard Rider</a></li>
+				<li><a href="http://www.nctimes.com/opinion/riehl/">Richard Riehl</a></li>
+           	</ul>
+          </div>     
+                
+         <div class="subs">
+         	<ul>
+            	<li><a href="http://www.nctimes.com/opinion/scharf/">Greg Scharf</a></li>
+				<li><a href="http://www.nctimes.com/opinion/strickland/">Phil Strickland</a></li>
+                <li><a href="http://www.nctimes.com/opinion/trageser/">Jim Trageser</a></li>
+                <li><a href="http://www.nctimes.com/columnists/opinion">More Columnists</a></li>
+          	</ul>
+		 </div> 
+         
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/columnists/opinion">National Columnists</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/opinion/goodman/">Ellen Goodman</a></li>
+                <li><a href="http://www.nctimes.com/opinion/north/">Oliver North</a></li>
+				<li><a href="http://www.nctimes.com/opinion/will">George Will</a></li>
+          </ul>
+		 </div>
+         
+		 <div class="subs"> 
+         <h1>Letters</h1>
+		 <ul>
+				<li><a href="http://www.nctimes.com/opinion/letters">Letters to the editor</a></li>
+				<li><a href="http://www.nctimes.com/faith/letters">Faith &amp; Values Letters</a></li>
+          </ul>
+		 </div>
+     </div>
+	 
+<!-- SPORTS -->
+
+	<div style="display: none;" id="submSports" class="subnav-group">
+	   	<div class="subs lead">
+
+        	<h1><a href="http://www.nctimes.com/sports/">Sports Main Page</a></h1>
+            <ul>
+                <li><a href="http://www.nctimes.com/sports/chargers">Chargers</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/teams/083/team.aspx?id=083">Stats</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=3">Blog</a></li>
+                <li><a href="http://www.nctimes.com/sports/padres">Padres</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/teams/010/team.aspx?id=010">Stats</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=4">Blog</a></li>
+                <li><a href="http://www.nctimes.com/sports/angels/">Angels</a></li>
+		    	<li><a href="http://www.nctimes.com/sports/action">Action Sports</a></li>
+                <li><a href="http://www.nctimes.com/sports/communitysports">Community Sports</a></li>
+				<li><a href="http://www.nctimes.com/sports/golf">Golf</a></li>
+                <li><a href="http://www.nctimes.com/sports/horseracing">Horse Racing</a></li>	
+                <li><a href="http://www.nctimes.com/sports/motorsports">Motorsports</a></li>
+				<li><a href="http://www.nctimes.com/sports/outdoors">Outdoors</a></li>
+          </ul>
+   	    </div>
+
+        <div class="subs">
+	   	  <h1><a href="http://www.nctimes.com/columnists/sports">Columnists</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/sports/nelson">Loren Nelson</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=20">Blog</a></li>
+		    <li><a href="http://www.nctimes.com/sports/paris">Jay Paris</a></li>
+		    <li><a href="http://www.nctimes.com/sports/maffei">John Maffei</a></li>
+			<li class="h1-subhead">Sunday Slant</li>
+		    <li><a href="http://www.nctimes.com/sports/sides">Choosing Sides</a></li>
+		    <li><a href="http://www.nctimes.com/sports/net">Nothin' But Net</a></li>
+            <li><a href="http://www.nctimes.com/sports/take5">Take 5</a></li>
+            <li><a href="http://www.nctimes.com/sports/letters">Letters</a></li>
+		  </ul>
+   	    </div>
+        
+	   	<div class="subs">
+          <h1>Colleges</h1>
+          <ul>  
+          	<li><a href="http://www.nctimes.com/sports/aztecs">San Diego State</a></li>
+			<li><a href="http://www.nctimes.com/sports/collegesports">Local Colleges</a></li>
+		    <li><a href="http://www.nctimes.com/sports/ncaabasketball">NCAA Basketball</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cbask/news/index.aspx?sport=AE">Stats</a></li>
+		  	<li><a href="http://www.nctimes.com/sports/ncaafootball">NCAA Football</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cfoot/news/index.aspx?sport=AF">Stats</a></li>
+			<li class="h1-subhead">High Schools</li>
+		    <li><a href="http://www.nctvarsity.com/">NCTVarsity</a> | <a href="http://www.nctimes.com/sports/highschool">Stats</a></li>
+		    <li><a href="http://www.calvarsity.com/">CALVarsity</a> | <a href="http://www.nctimes.com/sports/highschool/calhighschool">Stats</a></li>
+          </ul>
+   	    </div>
+		
+		<div class="subs">
+	   	  <h1>More Sports</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/sports/nba">NBA</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nba/news/index.aspx?sport=AC">Stats</a></li>		    		<li><a href="http://www.nctimes.com/sports/nfl">NFL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/news/index.aspx?sport=AB">Stats</a></li>		    		<li><a href="http://www.nctimes.com/sports/nhl">NHL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nhl/news/index.aspx?sport=AD">Stats</a></li>            <li><a href="http://www.nctimes.com/sports/mlb">MLB</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/news/index.aspx?sport=AA">Stats</a></li>
+            <li><a href="http://www.nctimes.com/sports/storm">Storm</a></li>
+		    <li><a href="http://www.nctimes.com/sports/tennis">Tennis</a></li>
+            <li><a href="http://www.nctimes.com/sports/olympics">Olympics</a></li>
+			<li><a href="http://www.nctimes.com/sports/boxing">Boxing</a></li>
+		  </ul>
+   	    </div>
+		
+		 <div class="subs">
+	   	  <h1><a href="http://www.nctimes.com/special_reports">Special Reports</a></h1>
+		  <ul>
+			<li><a href="http://www.nctimes.com/special_reports/football2007/">NCT Prep Football - 2007</a></li>
+		    <li><a href="http://www.nctimes.com/special_reports/football2007/">CAL Prep Football - 2007</a></li>
+            <li><a href="http://www.nctimes.com/special_reports/gwynn/">Tribute to Tony Gywnn</a></li>
+            <li><a href="http://www.nctimes.com/articles/2008/05/06/sports/highschool/023d5a64e94bd0998825744000582c05.txt">Star Power: Big-name athletes turned coaches</a></li>
+	      	<li><a href="http://www.nctimes.com/usopen2008/">US Open 2008</a></li>
+            	<li class="h1-subhead"><a href="http://www.nctimes.com/blogs/sports_insider">Sports Main Blog Page</a></li>
+          </ul>
+   	    </div>
+  
+	</div>
+
+
+<!--5 ENTERTAINMENT DROP DOWNS -->
+
+	<div id="submEntertainment" class="subnav-group">
+	    
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/entertainment">Entertainment Home Page</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/entertainment/television">T.V.</a> | <a href="http://www.nctimes.com/entertainment/television/listings/">Listings</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/movies">Movies</a> | <a href="http://www.nctimes.com/cinema-source/movies/">Listings</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/art">Art</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/theater">Theater</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/music">Music</a></li>
+	        <li><a href="http://www.nctimes.com/books">Books</a></li>
+		    <li><a href="http://www.nctimes.com/comics">Comics</a></li>
+		    <li><a href="http://www.nctimes.com/go">Go!</a></li>
+	      </ul>
+        </div>
+        
+		 <div class="subs">
+          <h1><a href="http://www.nctimes.com/entertainment/calendar">Local Events</a></h1>
+          	<ul>
+            <li><a href="http://www.nctimes.com/entertainment/local_events/">North County</a></li>	
+		    <li><a href="http://www.nctimes.com/entertainment/localcal_events/">Southwest Riverside County</a></li>
+			<!--<li class="h1-subhead">Contests</li>
+			<li><a href="http://www.nctimes.com/PetPinUp/">Pet Pin Up 2008</a></li>-->
+		    </ul>
+        </div>         
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/food">Food &amp; Drink</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/food/wischkaemper">Let's Dish</a></li>
+		    <li><a href="http://www.nctimes.com/food/groch">Bites &amp; Pieces</a></li>
+            <li><a href="http://www.nctimes.com/goout/">Let's Go Out</a></li>
+			<li><a href="http://www.nctimes.com/admarket/print_ads/restaurants/">Local Restaurant Ads</a></li>
+		  </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/columnists/entertainment">Entertainment Columnists</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/entertainment/television">TV: Ann Zivotsky</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/radio/">Radio: Randy Dotinga</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/backstage">Theater: Pam Kragen</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/sorocco">Music: Erika Sorocco</a></li>
+            <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+            <li class="h1-subhead"><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+		    </ul>
+        </div>
+	</div>
+	
+<!--5 FEATURES DROP DOWNS -->   
+
+	<div id="submFeatures" class="subnav-group">
+	    
+        <div class="subs lead">
+          		<h1><a href="http://www.nctimes.com/features">Features Home Page</a></h1>
+          <ul class="lead">
+				<li><a href="http://www.nctimes.com/books">Books</a></li>
+				<li><a href="http://www.nctimes.com/comics">Comics</a></li>
+				<li><a href="http://www.nctimes.com/faith">Faith &amp; Values</a></li>
+		  		<li><a href="http://www.nctimes.com/food">Food</a></li>
+				<li><a href="http://www.nctimes.com/homes">Homes</a></li>
+          		<li><a href="http://www.nctimes.com/health">Health</a></li>
+          		<li><a href="http://www.nctimes.com/lifeandtimes">Life</a></li>
+				<li><a href="http://www.nctimes.com/science">Science &amp; Technology</a></li>
+				<li><a href="http://www.nctimes.com/travel">Travel</a></li>	
+	      </ul>
+        </div>
+        
+		  <div class="subs"> 
+          	<h1><a href="http://www.nctimes.com/community">Community</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/community">Community News</a></li>
+				<li><a href="http://www.nctimes.com/socialscene">Social Scene</a></li>
+				<li><a href="http://www.nctimes.com/community/charities_fund">Charities Fund</a></li>
+				<li><a href="http://www.nctimes.com/obituaries">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Births</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Celebrations</a></li>
+           </ul>
+		 </div>
+         
+      	<div class="subs">
+        	<h1><a href="http://www.nctimes.com/special_reports">Special Reports</a></h1>
+         	<ul>
+				<li><a href="http://www.nctimes.com/gogreen">Go Green</a></li>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>
+				<li><a href="http://www.nctimes.com/pop/">The Power of Parenting</a></li>
+                <li><a href="http://www.nctimes.com/special/meth/">The Power of Parenting - Part 2</a></li>
+                <li><a href="http://www.nctimes.com/special_reports">More Special Reports</a></li>
+            	<li class="h1-subhead"><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+            </ul>
+      	</div>
+
+		<div class="subs">
+          	<h1><a href="http://www.nctimes.com/columnists/features">Features Columnists</a></h1>
+			<ul>
+				<li><a href="http://www.nctimes.com/news/columnists/erdos/">Irv Erdos</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/deneve">Cyndie C. de Neve</a></li>
+				<li><a href="http://www.nctimes.com/homes/crawford">Rose Crawford</a></li>
+                <li><a href="http://www.nctimes.com/food/groch">Laura Groch</a></li>
+            	<li><a href="http://www.nctimes.com/homes/wilders">Tineke Wilders</a></li>
+                <li><a href="http://www.nctimes.com/news/columnists/petperspective">Pet Perspective</a></li>
+            	<li><a href="http://www.nctimes.com/features">More Features</a></li>
+			</ul>
+        </div>    
+	</div>
+
+<!--5 COMMUNITY DROP DOWNS 
+
+	<div id="submCommunity" class="subnav-group">
+	    
+	</div> -->
+
+<!-- SHOPPING-->
+	
+	<div id="submMarket" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/admarket/">Buy Stuff</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/admarket/">Classifieds</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/furniture_furnishings/">Furniture</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/appliances/">Appliances</a></li>
+			<li><a href="http://www.nctimes.com/admarket/print_ads/">Browse Print Ads</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/garage_sales/">Garage Sales</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/give_aways/">Give Aways</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/misc_wanted/">Wanted</a></li>
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">Sell Stuff</a></h1>
+          <ul>
+           <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Animals</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34363">Boats &amp; Marine</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34354">Garage and Yard Sales</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34319">General Merchandise</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Real Estate</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">More...</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1><a href="http://pets.nctimes.com/">Pets</a></h1>
+          <ul>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Dogs">Dogs</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Cats">Cats</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Birds">Birds</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx">Browse All Pet Ads</a></li>
+				<li><a href="http://www.nctimes.com/admarket/of_note/announcements/lost_found/">Lost and Found</a></li>
+			  <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Place An Ad</a></li>
+		    </ul>
+        </div>
+        	  <div class="subs">
+		  <h1>Directories</h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/medical/">Medical</a></li>
+				<li><a href="http://www.nctimes.com/cars/directory/">Auto Dealers</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Real Estate Experts</a></li>
+				<li><a href="http://www.nctimes.com/goout/">Restaurants</a></li>
+				<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_marketplace_button/static.js"></script></li>
+				
+		    </ul>
+        </div> 
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/admarket/services/">Services</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>	
+            </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Announcements</h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/admarket/of_note/public_legal_notices/">Legals</a></li>
+				<li><a href="http://www.legacy.com/NCTimes/Obituaries.asp">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/admarket/of_note/celebrations/">Engagements, Weddings, Celebrations</a></li>
+				<li><a href="http://www.nctimes.com/admarket/of_note/announcements/lost_found/">Lost and Found</a></li>
+               </ul>
+
+        </div>
+         
+
+		
+        </div> 	
+    
+ <!-- CARS -->  
+    <div id="submCars" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://wheels.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+			<li><a href="http://wheels.nctimes.com/">Wheels For You</a></li>
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/?ad_type=display">Auto Print Ads</a></li>
+			<li><a href="http://wheels.nctimes.com/results.php?eqdealerid=202095">Classified Ads</a></li>
+			<li><a href="http://nctimes.outdoormotors.com/">Outdoor Motors</a></li>
+			<li><a href="http://www.nctimes.com/cars/directory/">Local Dealer Directory</a></li>		
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/wheels/specialty_antiques/">Specialty &amp; Antiques</a></li>	
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Sell</h1>
+          <ul>
+			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34358">Place an Ad</a></li>	
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/wheels/wanted_to_buy/">Wanted to Buy</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1>Research and Tools</h1>
+          <ul>
+			<li><a href="http://wheels.nctimes.com/research.php">Research and Advice</a></li>		
+			<li><a href="http://wheels.nctimes.com/tools.php">Payment Calculator</a></li>
+		    </ul>
+        </div>
+          <div class="subs">
+          <h1>Parts &amp; Service</h1>
+          <ul>		
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/wheels/auto_parts/">Auto Parts</a></li>
+			<li><a href="http://www.nctimes.com/admarket/services/auto_motorcycle_svc_repair/">Service &amp; Repair</a></li>
+<!--			<li class="h1-subhead">Quick Searches</li>
+			<li><a href="/admarket/?=&amp;change_path&#61;%2F&amp;query&#61;auto+repair&amp;sort&#61;featured+desc+start_date+desc&amp;limit&#61;25">Auto Repair</a></li>
+			<li><a href="/admarket/?=&amp;change_path&#61;%2F&amp;query&#61;oil+change&amp;sort&#61;featured+desc+start_date+desc&amp;limit&#61;25">Oil Change</a></li>-->
+		    </ul>
+        </div>      
+        <div class="subs">
+          	<ul>		
+         	 <li><a href="http://wheels.nctimes.com/"><img src="http://wheels.nctimes.com/art/nctimes-wheels-logo.jpg" alt="wheels.nctimes.com" border="0"/></a></li>
+			 <li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_cars_button/static.js"></script></li>
+		 	</ul>
+		</div>
+	</div>
+    
+ <!-- HOMES -->  
+    <div id="submHomes" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://homes.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+		  		<li><a href="http://homes.nctimes.com/">Search Local MLS</a></li>
+            	<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=11%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=6&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C16%2C14%2C15&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=S&amp;WebSearches=Y">Classifieds</a></li>
+				<li><a href="http://www.nctimes.com/homes/tophomes/">Top Homes</a></li>
+				<li><a href="http://www.nctimes.com/tourofhomes/">Open House Map</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+				<li><a href="http://www.nctimes.com/homes/">Homes News</a></li>
+		    </ul>
+        </div>
+		  <div class="subs">
+          <h1>Quick Searches</h1>
+          <ul>	
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=0&amp;HPrice=400000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Under $400,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=400000&amp;HPrice=500000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$400,000-$500,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=500000&amp;HPrice=600000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$500,000-$600,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=600000&amp;HPrice=700000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$600,000-$700,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=700000&amp;HPrice=800000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$700,000-$800,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=800000&amp;HPrice=900000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$800,000-$900,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=900000&amp;HPrice=1000000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$900,000-$1,000,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=1000000&amp;HPrice=&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Over $1,000,000</a></li>
+				</ul>
+        </div>
+        
+        
+        <div class="subs">
+         <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Sell</a></h1>
+		  	<ul>
+				<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Place an Ad</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+          </ul>
+		  </div>
+         
+		 <div class="subs">
+         	<h1><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchIndex.asp">Rent</a></h1>
+	  	   	<ul>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Classified Ads</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=8&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=A&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Apartments</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=4&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=A&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Houses</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=32&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=A&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Condos</a></li>
+		   		<li><a href="http://www.nctimes.com/homes/toprentals/">Top Rentals</a></li>
+	  			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34283">Place an Ad</a></li>
+		    </ul>
+        </div>
+
+        
+        <div class="subs">
+          <h1>Homes Columns</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/news/columnists/cal_gardens">Tineke Wilders - California Gardens</a></li>
+			<li><a href="http://www.nctimes.com/news/columnists/crawford/">Rose Crawford - Ask Rose</a></li>
+			<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_homes_button/static.js"></script></li>
+		   </ul>
+        </div>
+        
+     
+	</div>
+ 
+  <!-- JOBS -->  
+    <div id="submJobs" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1>Find a Job</h1>
+          <ul class="lead">
+		  	<li><a href="http://www.nctimes.com/jobs">Job Search</a></li>
+            <li><a href="http://www.nctimes.com/jobs">Log In</a></li> 
+			<li><a href="http://nctimes.com/hotjobs_topads">View Top Jobs</a></li>
+			<li><a href="http://hotjobs.yahoo.com/create-resume?partner=oceansideescondido">Post Resume</a></li>
+			<li><a href="http://help.yahoo.com/l/us/yahoo/hotjobs/?partner=oceansideescondido">Jobs FAQ and Help</a></li>
+			<li class="h1-subhead"><a href="http://hotjobs.yahoo.com/careertools?partner=oceansideescondido">Research Tools</a></li>       
+			<li><a href="http://hotjobs.yahoo.com/career-articles?partner=oceansideescondido">Career Articles</a></li>
+			<li><a href="http://hotjobs.yahoo.com/salary?partner=oceansideescondido">Salary Info</a></li>
+			<li><a href="http://hotjobs.yahoo.com/interview?partner=oceansideescondido">Interviewing Tips</a></li>
+			</ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Quick Search</h1>
+          <ul>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Accounting_Finance-t-anytime-g-578132?partner=oceansideescondido">Accounting &amp; Finance</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Construction_Facilities-t-anytime-g-578132?partner=oceansideescondido">Construction</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Education_Training-t-anytime-g-578132?partner=oceansideescondido">Education</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Healthcare-t-anytime-g-578132?partner=oceansideescondido">Healthcare</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Manufacturing_Operations-t-anytime-g-578132?partner=oceansideescondido">Manufacturing</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Sales-t-anytime-g-578132?partner=oceansideescondido">Sales</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Government_Military-t-anytime-g-578132?partner=oceansideescondido">Government &amp; Military</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido&amp;keywords_all=part+time&amp;type=main&amp;metro_area=1">Part Time</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido">Browse All</a></li>
+		    </ul>
+        </div>
+        
+		<div class="subs">
+          <h1>For Employers</h1>
+          <ul>	
+        	<li><a href="http://www.nctimes.com/jobs/packages/">Place an Ad</a></li>
+			<li><a href="http://selfcare.hotjobs.yahoo.com/hjss/hjss_partners.php?P=oceansideescondido">Sign In</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/workhere">Jobs at NCT</a></li> 
+		  </ul>
+		</div>
+		
+     	<div class="subs">
+			<h1>Yahoo! HotJobs Local Search</h1>
+			<script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_jobs_button/static.js"></script>
+		</div>
+     
+	</div>
+    
+
+</div><!-- *************************************************************************************************************************** -->      
+
+ 	    <!-- COL 1,2 -->  
+ 	    <div id="twocols" class="c980 floatleft">
+ 	      
+ 	      <!-- COLUMN 1 - STORY CONTENT -->	  
+ 	      <div id="col1_story" class="c640 floatleft rborder">
+ 	        
+ 	        <div class="groupItem">
+ 	          <h1>Judge unseals Schwilk warrant</h1>
+               <h2></h2>
+		      <p class="by">By: TERI FIGUEROA - Staff Writer |<span class="published"> <span class="timestamp">Thursday, March 29, 2007 9:21 PM PDT</span></span> <a href="https://secure.townnews.com/nctimes.com/forms/link/linkform.php?des=Judge unseals Schwilk warrant" target="_blank"> &infin;</a></p>
+				      
+              <div class="tool_options"> 				     
+                   <ul id="storytools">
+                      <li class="comment"><a href="#nctcomments"><span class="simpleblog-count">51 comment(s)</span></a></li>
+                        <li class="fontup"><a href="javascript:IncreaseFontSize(2)" title="Enlarge article font size.">Increase Font</a></li>
+                        <li class="fontdown"><a href="javascript:DecreaseFontSize(2)" title="decrease font size.">Decrease Font </a></li>
+                        <li class="email">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2007/03/30/news/sandiego/18_04_763_29_07.eml" target="emailafriend">email this story</a>                         </li>  
+                        <li class="print">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2007/03/30/news/sandiego/18_04_763_29_07.prt" target="printable">print this story</a>                        </li>
+                </ul>
+                            
+                    <div class="clearleft"></div>
+              </div>
+                      
+                  
+              <div class="instory-content clearboth">
+                <img border="0" src="http://images.townnews.com/nctimes.com/content/articles/2007/03/30/news/sandiego/18_04_763_29_07.jpg">
+                Jeff Schwilk argues his case in court at the San Diego County Courthouse in San Diego on Thursday.
+<br><small><b>BILL WECHTER  </b>Staff Photographer</small> 
+<br><a href="https://secure.townnews.com/nctimes.com/forms/photo_services/linkorder.php?des=      bill wechter/ Jeff Schwilk argues his case in court at the San Diego County Courthouse in San Diego on Thursday." target="new">Order a copy of this photo</a>
+<br><a href="http://www.nctimes.com/movie/schwilk0307/viewer.html" target="_blank"><img src="http://images.townnews.com/nctimes.com/art/video.gif" border="0"> View A Video</a>
+ <br> <a href="http://www.nctimes.com/news/photogallery/" target="new">Visit our Photo Gallery</a>   
+  <br> <hr>
+              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+			  <p>SAN DIEGO ---- The founder of the San Diego Minutemen won his bid in court Thursday to unseal the sworn statement of a police detective in support of a warrant to search the home of the controversial activist. <br><a href="http://www.nctimes.com/movie/schwilk0307/viewer.html" target="_blank"><img src="http://images.townnews.com/nctimes.com/art/video.gif" border="0"> View A Video</a><br/><br/>Anti-illegal immigration activist Jeff Schwilk also won approval in his quest to have Judge Jeffrey Fraser order San Diego police to return any items from last week's search ---- part of a criminal investigation into the vandalism of three migrant camps in Rancho Penasquitos ---- that are not deemed relevant to the case.<br/><br/>No one has been charged in the Jan. 27 slashing and destruction of the camps in McGonigle Canyon, an attack during which vandals allegedly cut and destroyed clothing, sleeping bags, and other items belonging to the migrants.<br/><br/>The case remains under investigation for vandalism, but "police also characterize it as a potential hate-crime case," Deputy District Attorney Oscar Garcia told Judge Fraser in court.<br/><br/>Garcia also said that police have focused on people who have ties to the San Diego Minutemen, an anti-illegal immigration group that has protested outside of sites where day labors gather in search of work, and migrant squatter camps.<br/><br/>Police have served at least three warrants in the case. The first warrant, served a few weeks ago, was for the home of former Minutemen spokesperson Christie Czajkowski.<br/><br/>Police also searched the home of Julie Adams last week, who lives near McGonigle Canyon.<br/><br/>The newly unsealed affidavit is a sworn statement by San Diego police Detective Patrick Lenhart, in which Lenhart lays out his investigation and asked for permission to search Schwilk's Oceanside home for evidence possibly linking Schwilk to the crime.<br/><br/>Schwilk, who represented himself at Thursday's hearing, said outside of the courtroom that he was at a different area than the canyon site in question on that day and was not involved in anything related to the vandalism.<br/><br/>According to the newly unsealed affidavit, Schwilk told Lenhart that he was there with a group of people so they could trim branches in parts of the canyon, which has housed makeshift migrant encampments for decades.<br/><br/>In the affidavit, Schwilk said the group wanted to clear brush so that crimes couldn't be committed visibly there.<br/><br/>Eight days after police searched his home and seized items, Schwilk told a judge that he wanted to get some of his stuff back.<br/><br/>Among the items Schwilk said he most wants back is his computer, which contains information on members of the American Independent Party. Schwilk said in court that he is the communications director for the party's local central committee.<br/><br/>"We need that back now," Schwilk told the judge. "(Without it) our party is shut down. We cannot conduct the operations of our political party."<br/><br/>The political party's committee chairman for the area, D. Clark, was in court Thursday to support Schwilk.<br/><br/>The state chairman of the American Independent Party said in a telephone interview Thursday night from his Northern California home that he had never heard of Schwilk but that he had appointed Clark as area chairman five days ago. Ed Noonan, the state chairman, said it was possible Clark had just brought Schwilk on board as the communications chair.<br/><br/>Fraser said that any seized political information should be returned to Schwilk, and ordered the San Diego Police Department to do so expeditiously.<br/><br/>Also seized by police was the phone list of members of the Minutemen. Other items taken from Schwilk's home include cameras, videotapes and computer disks, according to the search warrant receipt.<br/><br/>According to Lenhart's affidavit, one victim identified Czajkowski in a photo lineup as part of the group he saw damaging his property.<br/><br/>Reached by phone Thursday evening, Czajkowski said she can prove via cell phone records that she was not in the canyon at the time of the vandalism<br/><br/>Lenhart's affidavit also noted that none of the witnesses picked out Schwilk from a lineup of photographs, nor did anyone pick out Adams.<br/><br/>Adams did not immediately return a call for comment Thursday night.<br/><br/>Witnesses said that between 1:30 p.m. and 3 p.m. on Jan. 27, two women and four men were seen leaving their cars and walking in the canyon areas where the encampments were vandalized, according to Lenhart.<br/><br/>One of the women was seen videotaping the others as they destroyed property at one of the camps, Lenhart wrote in the affidavit.<br/><br/>Lenhart said the loss of property for seven of the victims is about &#036;1,000. Lenhart said another of the victims ---- who said he hid and watched as the vandals ruined his campsite, then later was chased by the vandals ---- had his computer and digital camera destroyed, among other items, and his loss is about &#036;3,000.<br/><br/>Lenhart wrote that, during his investigation, Adams and her attorney came to the police station so police could interview Adams. But the interview never happened, because Lenhart refused to agree to not submit a case against Adams.<br/><br/>Lenhart also wrote that he spoke with Schwilk, who said he was in the canyon on Jan. 27 with a group of people who responded to his e-mail to help trim bushes and pick up trash in McGonigle Canyon.<br/><br/>The detective wrote that Schwilk told him the vandals were remorseful for what they had done. However, Lenhart wrote, Schwilk told him he did not take part in or even witness the event, but had only heard rumors about it.<br/><br/>Contact staff writer Teri Figueroa at (760) 631-6624 or <a href="mailto:tfigueroa@nctimes.com">tfigueroa@nctimes.com</a>.</p>
+		     
+            <!-- *************************************************************************************************************************** --> 
+                    <div class="margin20top">
+            	 	<span class="floatright">
+<a href="http://www.nctimes.com/articles/2007/03/30/news/sandiego/18_05_483_29_07.txt"><img src="http://images.townnews.com/nctimes.com/zimages/08/next_story.gif" border="0" alt="Next"></a></span>
+             		
+                    <div class="clearboth"></div>
+  </div>                    <!-- *************************************************************************************************************************** -->      
+             
+	        </div>
+            
+            <div class="groupItem8-8-8-8">
+                    
+                    <!-- *************************************************************************************************************************** --> 
+                    					<div class="boxed floatleft" style="width:300px;">
+                            <h2 class="bottomdottedborder textcenter">More Stories</h2>
+                               <ul class="secondary clearleft">
+                                     
+                                     <li><a href="http://www.nctimes.com/articles/2007/03/30/news/sandiego/18_04_763_29_07.txt">Judge unseals Schwilk warrant</a></li><li><a href="http://www.nctimes.com/articles/2007/03/30/news/sandiego/18_05_483_29_07.txt">San Diego diocese offers &#036;95 million for sex abuse claims</a></li><li><a href="http://www.nctimes.com/articles/2007/03/30/news/sandiego/18_05_543_29_07.txt">Official denies firing of San Diego prosecutor tied to corruption case</a></li><li><a href="http://www.nctimes.com/articles/2007/03/30/news/sandiego/18_06_003_29_07.txt">U.S., Mexico discover two incomplete border tunnels</a></li><li><a href="http://www.nctimes.com/articles/2007/03/30/news/sandiego/18_06_063_29_07.txt">Four arrested in Vista on suspicion of being part of identity theft ring</a></li>
+                               </ul>
+                    </div>
+                    <!-- *************************************************************************************************************************** -->      
+                    
+                    
+                    <div class="boxed floatright" style="width:290px;">
+                    <!-- *************************************************************************************************************************** --> 
+                    <!--	 <p class="tags margin10bottom"><span>More Stories:</span> <a href="/pages/?q=[component:byline]&byline=1">[component:byline]</a></p>
+-->                   
+                                                     <!-- *************************************************************************************************************************** -->      
+                    </div>
+                    
+                  <div class="clearboth"></div>
+            </div>
+            
+            
+            <div id="socialbookmarking" class=" groupItem tool_options">
+ 	            
+ 	            <div class="clearboth"></div>
+                
+            </div>
+            
+            <div class="groupItem">
+            	<!-- ******************[yahoo_content_match]************************************************************************************ --> 
+        		 
+<!-- Yahoo Content Match Category = news -->
+
+                <style type="text/css">
+                        @import url('http://www.nctimes.com/shared-content/newsys-yahoo-search/css/content_match_styles.css');
+                </style>
+                <div class="yahoo_content_match"><h1><a class="side_ads" href="http://searchmarketing.yahoo.com/" rel="nofollow">Ads by Yahoo!</a></h1>
+
+<div><h2><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20AGRkGGzlHgXDPJbDE4S6I3zn3MMy9NVReKkgMxYb0cz9tnMb1SweRcbr6Ka9ksBtbyH1xHYN-PDj9v9WE1qrvCK75be5yBGri7Dq7TjoR_hcR5CD-ym3QU0r_6C-Hgou-6CaQ2mBfjr87zSy73C5wnHRgR3Iy6VEyAYxQO3j6n2f_bwfrXvc3140rCQt3UtsZz_fDUkB0aJeWshL3sRR10nkeWbHnGeLaO55sCnbA1wSaSgkhFJGFYk" rel="nofollow">Online Degrees</a></h2>
+
+<p><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20AGRkGGzlHgXDPJbDE4S6I3zn3MMy9NVReKkgMxYb0cz9tnMb1SweRcbr6Ka9ksBtbyH1xHYN-PDj9v9WE1qrvCK75be5yBGri7Dq7TjoR_hcR5CD-ym3QU0r_6C-Hgou-6CaQ2mBfjr87zSy73C5wnHRgR3Iy6VEyAYxQO3j6n2f_bwfrXvc3140rCQt3UtsZz_fDUkB0aJeWshL3sRR10nkeWbHnGeLaO55sCnbA1wSaSgkhFJGFYk" rel="nofollow">Get Your AA, BA, Masters or PhD at a Top Online School. Start Now.<br/>
+
+<em>www.NexTag.com</em></a></p></div><div><h2><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20AKkWdil1pHEjCL955l3789ABJyAUIWjg1iivGy9SiwY_vnTPpPTl7mQ65PG7RDGAISClYxqW_0ztGhxZci80Usm07nw5rhYGs1-EZVq7cuU9o9Q1MLWOwKGjMFwIgXeKxkwGcSVUIIv2NkGIFbQfYf3xetkdkfsGjIEVWigQSRNM9kpyBOqwg-SGmVhN7ULmMM_4IEO8DpG_J1HlVEwNVI7sVyHZcZjx64xvGSuMHGr2j7TaE2D6Bo4" rel="nofollow">Car Insurance Quotes Online</a></h2>
+
+<p><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20AKkWdil1pHEjCL955l3789ABJyAUIWjg1iivGy9SiwY_vnTPpPTl7mQ65PG7RDGAISClYxqW_0ztGhxZci80Usm07nw5rhYGs1-EZVq7cuU9o9Q1MLWOwKGjMFwIgXeKxkwGcSVUIIv2NkGIFbQfYf3xetkdkfsGjIEVWigQSRNM9kpyBOqwg-SGmVhN7ULmMM_4IEO8DpG_J1HlVEwNVI7sVyHZcZjx64xvGSuMHGr2j7TaE2D6Bo4" rel="nofollow">Compare auto insurance quotes from top companies online.<br/>
+
+<em>www.insurance.com</em></a></p></div><div><h2><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20AGRkGGzlHgXDb2S8vkMF9ozn3MMy9NVReMlXFCdSXtBTyE-UUa3wkVuoMVsJ4__3FecUvq1rb5dWSGbkMKjPi3hNs8a8668zVmIfVLPqAG374V0nTxf6I3aYPE_ALupWF8CnUpHDYGBpoMA7WFz0Wswc4TRsB-sISzOIgF-y8JRbEAGbY_obZDyvxQzkl98l4LpPVChACvy5L0UiwElbFMXbnWQxLNbB9UAw6pztLScZyBeVEyQiDbg" rel="nofollow">See Today's Mortgage Rates</a></h2>
+
+<p><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20AGRkGGzlHgXDb2S8vkMF9ozn3MMy9NVReMlXFCdSXtBTyE-UUa3wkVuoMVsJ4__3FecUvq1rb5dWSGbkMKjPi3hNs8a8668zVmIfVLPqAG374V0nTxf6I3aYPE_ALupWF8CnUpHDYGBpoMA7WFz0Wswc4TRsB-sISzOIgF-y8JRbEAGbY_obZDyvxQzkl98l4LpPVChACvy5L0UiwElbFMXbnWQxLNbB9UAw6pztLScZyBeVEyQiDbg" rel="nofollow">Calculate Your New Mortgage Payment. See Rates- No Credit Check Req.<br/>
+
+<em>www.LowerMyBills.com</em></a></p></div></div>				<!-- *************************************************************************************************************************** -->   
+            </div>
+
+
+<!-- ROS ad -->
+		    <div class="ros_ad margin8left">
+              	<p class="adv">Advertisement</p>  
+               	<script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/comment_banner/static.js"></script>
+            </div>
+		      <!-- comments -->
+ 	        
+ 	        <div id="nctcomments" class="groupItem clearboth">
+                 
+
+ 	          <div class="itemHeader"><span class="simpleblog-count">51 comment(s)</span><a href="#" class="closeEl plus-minus">[-]</a><span class="more-section"><a href="#">Go to Top</a></span></div>
+					    
+				<div class="itemContent">
+					  
+				    
+					<a id="blogcomments"></a><div class="simpleblog-results"><a id="e9f2c8881330bb2c0d33f893baa624e3"></a><p><span class="simpleblog-name">Joaquin</span> wrote on <span class="simpleblog-date">Mar 29, 2007 9:28 PM:</span><span class="simpleblog-response">Lenhart needs to learn about washing machines because he'll be working at Sears soon. Where did Robert plug in his computer? </span></p>
+<a id="c8e98635190b4346ed5c06b89245888b"></a><p><span class="simpleblog-name">Robert24</span> wrote on <span class="simpleblog-date">Mar 29, 2007 9:35 PM:</span><span class="simpleblog-response">Jeff Schwilk for President!!!</span></p>
+<a id="5e38b23e31e4f521d41cfdccbffbf806"></a><p><span class="simpleblog-name">hmmmmmmmmmm</span> wrote on <span class="simpleblog-date">Mar 29, 2007 9:49 PM:</span><span class="simpleblog-response">I wasn't aware that migrants needed computers, digital camera's in their make shift camps.  Didn't I read that the witness stated someone stole his computer and now the NCT says the witness says his computer was damaged  .  Which is it.  I'm not buying any of this story anymore.  It really seems to me that the PD doesn't want to deal with illegal issues.  Seems the Minutemen are exposing that illegals are ignored.  Seems like the PD is just harrassing Schwilk.  Who's next?</span></p>
+<a id="e3ca3103e93ee729c5bfbde91b12bd4a"></a><p><span class="simpleblog-name">Witch hunt</span> wrote on <span class="simpleblog-date">Mar 29, 2007 9:51 PM:</span><span class="simpleblog-response">It clearly shows that Adams and Schwilk were not identified by witnesses. So, why are these people being harrassed?  I hope they sue the PD, because this is nothing more than a witch hunt!</span></p>
+<a id="2c1da6398d23080cad766f74b8abdee6"></a><p><span class="simpleblog-name">SDMM Member</span> wrote on <span class="simpleblog-date">Mar 29, 2007 10:46 PM:</span><span class="simpleblog-response">Today the American People won a Huge Victory against the forces of evil and corruption!!!  SDPD has been exposed as being bed with liars and the Mexican Government.  Dep. DA Oscar Garcia is probably good friends with Johnny Sutton.  Wow, I hope this goes National and Bush gets the message loud and clear that he works for us, not the other way around!
+
+
+</span></p>
+<a id="091731986b35e5b9a402b19cb8c17264"></a><p><span class="simpleblog-name">i don't know</span> wrote on <span class="simpleblog-date">Mar 29, 2007 10:55 PM:</span><span class="simpleblog-response">About President, but he sure showed DA Garcia that Garcia is not above the law.  Before this is all over with I believe there will be a lot of people getting pink slips in San Diego.</span></p>
+<a id="ce531c3b52c62d0428ba12c59a916b05"></a><p><span class="simpleblog-name">bvv</span> wrote on <span class="simpleblog-date">Mar 29, 2007 11:03 PM:</span><span class="simpleblog-response">Hmmmm... illegal construction workers, getting paid by cash [no pesky tax deductions], living free on someone else's property -- apparently under the protection of the police -- no wonder these folks can send back $billions to their home nation.</span></p>
+<a id="8b3543007d6370058fb8e898ce0d79c2"></a><p><span class="simpleblog-name">S...</span> wrote on <span class="simpleblog-date">Mar 29, 2007 11:18 PM:</span><span class="simpleblog-response">Hey my Minutemen buddies, just because this looser, Schwilk, supports your hate agenda does not mean that he, nor any of you, is above the law.  I see prison in the future of many of you.  You better check what happens to those inmates convited of hate crimes.</span></p>
+<a id="18c21280c0426c0ce8ac82b529df8b4a"></a><p><span class="simpleblog-name">To SDMM Member</span> wrote on <span class="simpleblog-date">Mar 29, 2007 11:21 PM:</span><span class="simpleblog-response">SDMM Member said: "SDPD has been exposed as being bed with liars and the Mexican Government."  Boy, SDMM Member, you sure have a lot of credibility.  NOT!</span></p>
+<a id="4a66085c5d55d93c976790b21a404323"></a><p><span class="simpleblog-name">Godzilla</span> wrote on <span class="simpleblog-date">Mar 29, 2007 11:25 PM:</span><span class="simpleblog-response">This whole thing seems very fishy, could the SDPD be doing the bidding for those who would do away with the southern boarder. Hey voters, I don't think thats in your best interest, do you? If this kind of intimidation is whats expected or somehow just to become normal behaviour, do we really live in a free society?</span></p>
+<a id="c7846f4c43843e74c40bfdf3f6817aa4"></a><p><span class="simpleblog-name">Skip</span> wrote on <span class="simpleblog-date">Mar 30, 2007 12:22 AM:</span><span class="simpleblog-response">Don't Forget !  Illegal Aliens are still Illegal, and 80% of American Citizens want Illegal Immigration stopped.</span></p>
+<a id="9774c28e4cf1e18e2d031a80c79742bf"></a><p><span class="simpleblog-name">wondering</span> wrote on <span class="simpleblog-date">Mar 30, 2007 4:39 AM:</span><span class="simpleblog-response">I am wondering why the sworn statement of the detective involved in getting the search warrant was sealed in the first place. It appears that the minuite men have some people within thier orginazation who are working for the police.</span></p>
+<a id="d9b1687428853e99f259db71ca567cef"></a><p><span class="simpleblog-name">CampoMM</span> wrote on <span class="simpleblog-date">Mar 30, 2007 6:01 AM:</span><span class="simpleblog-response">Good Work Jeff! A victory for the American People!
+
+The SDMM today, who will San Diego PD harrass tomorrow? </span></p>
+<a id="65b626dc0fd35f1f00751ea921ce8e8b"></a><p><span class="simpleblog-name">Voice of Reason</span> wrote on <span class="simpleblog-date">Mar 30, 2007 6:12 AM:</span><span class="simpleblog-response">What's this? People are "camping" in hidden make shift villages in canyons in San Diego? And SDPD knows about it? And the County Administration officials know about it? And the Health Department Officials know about it? And the only people who have done anything about this are neighboring legal residents who live in homes along the canyons along with vigilant citizens? The paid public servants responsible for ensuring the safety and health of ALL people living in San Diego have clearly failed us in this case. It should have been obvious when the minutemen targeted this encampment that vandalism or worse was on the horizon, as these types often act on emotion -generally hate and anger. By not resolving the situation of the illegal camps when they were made publicly obvious by the minutemen; the officials involved -and sadly uninvolved- created a situation where boiling hatred could be poured over the people in this camp. These people have already had a hard road just to get where they are. In most cases, it would be better if they were returned to their countries of origin. Since the U.S. government, State, and local officials refuse to deal with this and other problems in an effective manner; undisciplined citizens will continue to act with varying levels of professionalism and respect for others. Clean out these camps. Give the canyons back to the wildlife. And finally force other countries to deal with their own economies in a fair and legal way. </span></p>
+<a id="cb91063f9d91343bf2e9b6239f6e41c3"></a><p><span class="simpleblog-name">sounds like a witch hunt...</span> wrote on <span class="simpleblog-date">Mar 30, 2007 7:01 AM:</span><span class="simpleblog-response">So, Lenhart says the illegals lost of property of $1000 and $3000, total: $4000.
+
+How many of you legal taxpaying Americans have had this much interest by the police when your house has been broken into, your car stolen, or your property tagged?</span></p>
+<a id="214d1d4bfafdd255e87c13d58504dec3"></a><p><span class="simpleblog-name">Yeah Sure Jeff</span> wrote on <span class="simpleblog-date">Mar 30, 2007 7:19 AM:</span><span class="simpleblog-response">"The detective wrote that Schwilk told him the vandals were remorseful for what they had done. However, Lenhart wrote, Schwilk told him he did not take part in or even witness the event, but had only heard rumors about it." Why didn't he come forward immediately with information. Talk about aiding and abeting criminals!!! Just the same way that Metzger was held responsible for a crime that was committed in Portland miles away from Fallbrook because his rhetoric and direction was the primary cause that the crime was committed.  This is the same thing.  I say Jeff ... should be prosecuted.  
+
+</span></p>
+<a id="6a0e57815ebf42e59abf6d1cf5f68b8c"></a><p><span class="simpleblog-name">Carlsbad Citizen</span> wrote on <span class="simpleblog-date">Mar 30, 2007 7:30 AM:</span><span class="simpleblog-response">Good for Jeff Schwilk and the Minutemen.  Keep it up!! American are tired of our government officials doing more for illegals than for us. This will stop. 
+And once again the NCT is showing its pro-illegal alien bias in their writing. The writer of this article said the minutemen "...protested outside of sites where day labors gather in search of work, and migrant squatter camps." You should have said they "protested outside of sites where illegal immigrants gather in search of work, and illegal immigrant squatter camps." I have never heard of these minutemen protesting against legal citizens, only illegal aliens. Please quit adding your pro-illegal spins in articles.</span></p>
+<a id="2445c3f0af1fe00de590dc62b0545e03"></a><p><span class="simpleblog-name">To Yeah Sure</span> wrote on <span class="simpleblog-date">Mar 30, 2007 7:38 AM:</span><span class="simpleblog-response">Maybe Jeff heard rumors about it , from the NCT, UT and the TV news..........JUST like everyone else!  He and Adams where in photo line ups and the supposed witness ( not ) could not identify them.  KNow why?  Because the y didn't do it!  Get a clue people.  This is a total set up by the open borders people.  While the illegal remain out on the streets protected by law enforcement.</span></p>
+<a id="036541d71d9a9f547f3438b1a8be6d69"></a><p><span class="simpleblog-name">Corrupt SDPD</span> wrote on <span class="simpleblog-date">Mar 30, 2007 8:18 AM:</span><span class="simpleblog-response">Perjury by a police officer is a serious crime.  This is being exposed right now and more will come out soon. Sit tight and see what happens.  This is a conspiracy and the only question is how high this goes?  We know the DA played a part in this witch hunt and scheme to bring down the Minutemen in San Diego. Wake up folks, this could happen to you if you speak out against the illegal immigration corporation.</span></p>
+<a id="b79c948acd3f30863f25ff6438f43e2f"></a><p><span class="simpleblog-name">Digital camera and computer?</span> wrote on <span class="simpleblog-date">Mar 30, 2007 8:31 AM:</span><span class="simpleblog-response">Where the heck do illegal aliens, living illegally in the canyons, working illegally for slave wages, get a $1000 camera and a $2000 computer? This whole thing is SO ridiculous!!! It is an obvious fabrication and I find it VERY sad that NCT and others fall for it.</span></p>
+<a id="c6a152152692f8f8905c29b83780b27f"></a><p><span class="simpleblog-name">Hammer of Justice</span> wrote on <span class="simpleblog-date">Mar 30, 2007 8:32 AM:</span><span class="simpleblog-response">On something like this, the police and district attorneys want their case to be solid so that I can come down hard, real hard.</span></p>
+<a id="f907166640e68dcb5f6819d0ba0a79ec"></a><p><span class="simpleblog-name">American Sympathizer</span> wrote on <span class="simpleblog-date">Mar 30, 2007 8:39 AM:</span><span class="simpleblog-response">Remember folks, What is important here is NOT what actually happened but the seriousness of the charges.
+
+It's the accusations that matter. Remember Mexico has Napoleonic Law, your Guilty till proven innocent. I hate to say it we are half way in Mexico. The City of San Diego has it's own Little Napoleon known as City Attorney.</span></p>
+<a id="04c60b7104a99aff39cb1ac6276af0b8"></a><p><span class="simpleblog-name">Wow... this proves MY theory.</span> wrote on <span class="simpleblog-date">Mar 30, 2007 8:56 AM:</span><span class="simpleblog-response">I think the PRO ILLEGAL immigrant groups will lie steal and cheat to try and discredit loyal Americans who just want our borders protected and want the illegals deported.</span></p>
+<a id="596ccb9badc35c8de7f0acbcd84f334e"></a><p><span class="simpleblog-name">Police Exaggeration</span> wrote on <span class="simpleblog-date">Mar 30, 2007 9:33 AM:</span><span class="simpleblog-response">The original complaints talked about blankets, boots and clothing. http://www.nctimes.com/articles/2007/01/30/news/top_stories/1_05_311_29_07.txt Now we hear about $3000 in a computer and digital camera.  The illegal alien camper needs to stop by his local electronics store.  New computers run about $500 and digital cameras run about $200.  Sounds like someone is being coached to pump up the charges. </span></p>
+<a id="cfa836572d030d97bee00bdc074cd711"></a><p><span class="simpleblog-name">just cleaning up</span> wrote on <span class="simpleblog-date">Mar 30, 2007 9:34 AM:</span><span class="simpleblog-response">What a sweetheart Jeff Schwilk is. "Schwilk, who represented himself at Thursday's hearing, said outside of the courtroom that he was at a different area than the canyon site in question on that day and was not involved in anything related to the vandalism. According to the newly unsealed affidavit, Schwilk told Lenhart that he was there with a group of people so they could trim branches in parts of the canyon, which has housed makeshift migrant encampments for decades." I assume the people vandalizing the sleeping bags and possessions of poor migrant farmworkers were in another part of the canyon at that time. What a coincidence.</span></p>
+<a id="6fd889bbdd4d34b8e4aa407454fee494"></a><p><span class="simpleblog-name">Veteran</span> wrote on <span class="simpleblog-date">Mar 30, 2007 10:00 AM:</span><span class="simpleblog-response">It appears that the illegals control the DA's office.  Why else would they be pestering legal citizens and taking the words of illegals.  This situation has ceased to be funny and is not just pathetic.  Maybe the AIP is the right approach for more of us.  Couldn't be worse than what we've got now.</span></p>
+<a id="0d6dd93938f8df0d0ce6f86448ac68ac"></a><p><span class="simpleblog-name">you don't get it</span> wrote on <span class="simpleblog-date">Mar 30, 2007 10:20 AM:</span><span class="simpleblog-response">Some people here don't understand. Just because you are in this country illegally does not mean you can be assaulted or robbed by vigilantes. For one thing, not one of us has to prove citizenship to another civilian. In fact, some of us get extremely upset with people who think you are an illegal immigrant because you look Hispanic. The other thing is just because someone is living like a homeless person doesn't mean they are here illegally.</span></p>
+<a id="e9e6179618827f4303167182cc89ff97"></a><p><span class="simpleblog-name">Blah blah..</span> wrote on <span class="simpleblog-date">Mar 30, 2007 10:24 AM:</span><span class="simpleblog-response">blah...what happened to the law is the law you ...? You've been praeching on these blogs for years that you aren't racist, that you just want the law enforced. What does one criminal's indiscretion (someone's lack of documents) have to do with your grandmaster [allegedly] vandalizing and breaking the law? About as much as the law has to do with your position on undocumented immigrants...nothing. ...</span></p>
+<a id="722df674369e0fe01b11ef1105216f23"></a><p><span class="simpleblog-name">American woman</span> wrote on <span class="simpleblog-date">Mar 30, 2007 10:43 AM:</span><span class="simpleblog-response">Yada, yada, yada!  Let's get on with the work at hand, ladies and gentlemen.
+As usual, there will be nothing to hold against the Minuteman movement.  This is a "San Diego thing."  SD law enforcement has felt the pressure brought by anti-illegal alien/open borders activists, including the Minutemen and women.  I hate to say that I feel there is rampant corruption in the SDPD, but I will go so far as to 
+opine that if it's NOT corruption, they are the laziest darn bunch of cops I've ever dealt with.  It's high time the country (local, state and federal gov'ts) take a step forward, for a change!  Where is the integrity?  The courage of our convictions?  Where the heck are the AMERICANS?  Just stop and think:  If the majority of law enforcement agencies in each and every state would stand together and demand that we address the illegal invasion at the local and state levels (as has Hazleton, PA, for instance), IT WOULD BE A DONE DEAL!  There's power in numbers and strength in truth.  Where are the heroes?  Certainly not in DC.  Not occupying the seats of Congress!  Not operating within the Department of Homeland Security/ICE or the Department of JUSTICE!  We are on our own, America!  When will we stand tiogether?</span></p>
+<a id="022d4954f26d7cc4fdf9ac665b71d941"></a><p><span class="simpleblog-name">Questionable Warrants</span> wrote on <span class="simpleblog-date">Mar 30, 2007 10:49 AM:</span><span class="simpleblog-response">This is the second questionable warrent issued reported in the news the past two weeks.  Very scary stuff.  I always thought there had to be some REASON to search and remove someones stuff.  Isn't that in the Constitution or something?</span></p>
+<a id="b9d230b16b1ecc28c91f1d69b1354c6f"></a><p><span class="simpleblog-name">legalatina</span> wrote on <span class="simpleblog-date">Mar 30, 2007 10:55 AM:</span><span class="simpleblog-response">No amnesty. Build the fence. Secure the borders. Enforce the law. Report and deport.  Enough of this insanity. </span></p>
+<a id="bfc2de8bf31d6c5d98ab9e068f37d307"></a><p><span class="simpleblog-name">LUVUS</span> wrote on <span class="simpleblog-date">Mar 30, 2007 11:02 AM:</span><span class="simpleblog-response">No, "you don't get it" it's YOU that doesn't get it.  There is absolutely no reason for an individual who is here legally to fear the law...OR to live in a canyon.  Skin color has nothing to do with it.  Our government provides employment oportunities as well as limited financial help to those who are down on their luck.  The Catholic Church, as well as many others, will be more than happy to lend a hand to anyone who fits this catagory!  In fact, the Catholic Church excells and takes pride in aiding and abetting illegal aliens.  So really, there's no excuse for legal canyon dwellers. You can be assured of one other thing, too:
+Law enforcement will NEVER charge anyone they stop on the highway or arrest for a crime with anything but crimes they have committed or laws they have broken, including implementation of the results gleaned from background and citizenship checks!  It's just not done!  So quit worrying.  Only immigration law breakers will be charged with that crime.</span></p>
+<a id="395618f1bbf82d2371e6c4b83ff6d16e"></a><p><span class="simpleblog-name">Hatch in Escondido</span> wrote on <span class="simpleblog-date">Mar 30, 2007 11:31 AM:</span><span class="simpleblog-response">To: , I completely agree that being here illegally should not be cause for being subjected to criminal acts. One wrong does not deserve another.
+
+That being said, what does that have to do with Schwilk? Nothing has been proven against him and he was not even picked out in a police line-up.
+
+You are right about not having to prove citizenship to another civilian. BUT, a person does have to prove elligibility for work to civilians- if they are employers. An employer faces possible heavy penalties for knowingly hiring illegal aliens.
+
+By the way, how many illegal aliens that live in canyons, or any homeless people own computers and digital cameras? </span></p>
+<a id="126f954b85fb029e38776a5de45ab889"></a><p><span class="simpleblog-name">Pudley, Esq</span> wrote on <span class="simpleblog-date">Mar 30, 2007 11:38 AM:</span><span class="simpleblog-response">Now hear this. Hola! Y'all better learn to speak Spanish fluent and soon too! "Senators and lobbyists are putting the final touches on a comprehensive immigration-reform bill that includes an easier citizenship path for illegal aliens and weaker enforcement provisions than were in the highly criticized legislation that the Senate approved last year." From the Washington Times, 2-22-07. While you're at it, bone up on Mexican grub and things like that, cuz you'll need to know all kinds of new stuff! Pretty soon illegals will be legal. Que te vaya bien y adios. Oh yeah, anuther thing.  This is Ceasar Chavez Day,  viva Mexico!!! (y viva La Raza!!!)</span></p>
+<a id="f0ea0d1a0c42c93cfacaa296e5b974fa"></a><p><span class="simpleblog-name">Marty</span> wrote on <span class="simpleblog-date">Mar 30, 2007 12:04 PM:</span><span class="simpleblog-response">As somone once said, this is foregn politics rise to power. A copy of Jeff's computer will end up in the hands of the Mexican Gov. Just ask the Mexican Consulate about it. They want it and are against all the pro-USA movements supporting our soverenty. Mexico also is backing all the seperatist groups.</span></p>
+<a id="295625a03a994bee0dc5f59bb5d2c708"></a><p><span class="simpleblog-name">BetsyR</span> wrote on <span class="simpleblog-date">Mar 30, 2007 12:30 PM:</span><span class="simpleblog-response">Hey, Pudley, We the People will never allow an amnesty bill to be passed, so don't get your hopes up.  Also, Caesar Chavez was an American who WAS AGAINST ILLEGAL IMMIGRATION, you moron!</span></p>
+<a id="2e9b8e00054ee1c080fc629a77205408"></a><p><span class="simpleblog-name">If there is ANY honor IN THEM</span> wrote on <span class="simpleblog-date">Mar 30, 2007 12:36 PM:</span><span class="simpleblog-response">the Minutemen will do some housecleacing of their own and throw out the likes of Schwilt. </span></p>
+<a id="110a75d4f8176ed53660a2b17e7c6250"></a><p><span class="simpleblog-name">To Pudley</span> wrote on <span class="simpleblog-date">Mar 30, 2007 1:56 PM:</span><span class="simpleblog-response">I don't know where you get your information but the president is backing down on some of his "open borders" policies, with this new legislation, but I'm sure you haven't heard about that.  This will never be Mexico my friend.  We the Americans will be cleaning house soon and I would like to start with people like you.  Please learn to spell "another."  </span></p>
+<a id="a934be18864580f57fa1ba8711a07600"></a><p><span class="simpleblog-name">Vanessa</span> wrote on <span class="simpleblog-date">Mar 30, 2007 2:05 PM:</span><span class="simpleblog-response">These people (mm) and what they represent is an embarrasment to our country, their ancestors, and the world.  They say what goes around comes back around, and be forwarned, your day for Judgement will come too.</span></p>
+<a id="19c396e4a613087ebc4b0604edad2333"></a><p><span class="simpleblog-name">Horray for the little guy</span> wrote on <span class="simpleblog-date">Mar 30, 2007 2:25 PM:</span><span class="simpleblog-response">Sounds like Jeff Schwilk has a good civil action against the police department.  This can happen to any of us without just cause. I hope he pursues this case.</span></p>
+<a id="4a1b1c72edd5ff37bd414103d1d842c2"></a><p><span class="simpleblog-name">Police Haters</span> wrote on <span class="simpleblog-date">Mar 30, 2007 3:07 PM:</span><span class="simpleblog-response">Stop hating the police.  A crime was committed and (allegedly) there is suspect information.. Whether it's good information or not the police have to follow up on it to see.  If Jeff wasn't involved then the police investigation should show that.  But the fact that he was in the same canyon that day and made statements that the people who committed the crime are sorry would lead a reasonable person to believe it's probable he is involved...Hence the issuance of a warrant by a judge!!!!  But that still doesn't mean he is guilty just that the police are doing their jobs and ensuring he isn't the one who vandalised the camp... Police work sometimes require cops to arrest people for things they don't believe should be illegal and to let poeple go even thouh they think they should be arrested or deported...  Remeber we make the laws, we elect the politicians, cops just follow the laws (if they are good cops!).  And this just sounds like good police work unless soenthing else comes out!!!!</span></p>
+<a id="12ad59545d84a1c013f13cd10be4ed54"></a><p><span class="simpleblog-name">TRX</span> wrote on <span class="simpleblog-date">Mar 30, 2007 3:28 PM:</span><span class="simpleblog-response">I agree with about 99% of what "Voice of Reason 6:12 AM" said. However, I don't think the Minutemen and their followers are acting out of "hate and anger". They are operating out of frustration due to the faiure of those empowered to uphold our laws to do something about the serious illegal problems we face.  Thanks also to "American woman 10:43 AM" for posting an intelligent discussion.</span></p>
+<a id="7da8e95f9e58dd46bf5615e502f1791b"></a><p><span class="simpleblog-name">Hatch in Escondido</span> wrote on <span class="simpleblog-date">Mar 30, 2007 3:37 PM:</span><span class="simpleblog-response">Police Haters, point well taken. I don't like what has happened, but, you may be right and they were just doing their job.
+
+But, please consider this: The police are an extension of a political body- that being the city government. The city government was sorely embarrassed by the rally at McGonigle- as was the chief of police.
+
+I have reason to believe that illegal alien supporters are asserting influence through fairly powerful groups, not necessarily including the ACLU, but also not excluding them. One particulary powerful direction from which very serious influence comes is the government of Mexico.
+
+Many will recall his statements during his last trip to California as the president of Mexico. His words were as clear his predecessor's, Ernesto Zedillo: We will fight your laws against illegal immigration!
+
+How else would one explain it? After all, the US Constitution reserves the power over immigration to the states. Congress can only make policy regarding naturalization.
+
+And yet, our federal government is making immigration law as I write this, with the support and guidance from the White House.</span></p>
+<a id="a751345cb01987c7058d71dd4f78b79a"></a><p><span class="simpleblog-name">To Police Haters</span> wrote on <span class="simpleblog-date">Mar 30, 2007 3:47 PM:</span><span class="simpleblog-response">IF the SDPD had been doing their job, Schwilk would NEVER had been in the canyon in the first place. More and more SDPD seems to take it's marching orders from Mexico..it is very sad. Squatters infesting our canyons, practicing child prostitution and Santeria? Being sold into slave labor by the large corporations? After the initisl broken law of entering the country illegally, THAT is further law breaking that is never enforced.  WHY?</span></p>
+<a id="39f0b6f4d3254c3a1971d3a71fb7d063"></a><p><span class="simpleblog-name">Veteran</span> wrote on <span class="simpleblog-date">Mar 30, 2007 4:20 PM:</span><span class="simpleblog-response">Pudley.  It's stupid comments like yours that may cause vigilantes to rise even more than they are now.  I think that finally some members of congress are finally realizing that some citizens do not like their approach regarding amnesty and are starting to search for other plans.  One of these is to control the borders first.  Me, I would just close the borders totally for about six months and see who starts complaining then.  it wouldn't be most Americans.</span></p>
+<a id="6a8da9ae5ae05f5a8101f6fd4764c5ae"></a><p><span class="simpleblog-name">What no</span> wrote on <span class="simpleblog-date">Mar 30, 2007 4:38 PM:</span><span class="simpleblog-response">television sets, washers and dryers, refrigerators were stolen out of the canyon? Sounds to me like the illegals were providing the police with free doughnuts!</span></p>
+<a id="531f848071b4ef53ed432fddf8385157"></a><p><span class="simpleblog-name">HA, HA, HA</span> wrote on <span class="simpleblog-date">Mar 30, 2007 4:58 PM:</span><span class="simpleblog-response">Ay, yi, yi.  I try thees again.  OK soon El Presidente Bush y Senors McCane y Kennedy gonna get that Amnesty Law passed.  Watch out then hombres.  Look at the new law hombres.  Legalized residency for all immigrants &amp; no more "illegal" stuff.  OK, read it mi amigos. From Washington Times:  "We're going for more. We're going for more." Such was Mexico President Vicente Fox's jubilant reaction to George W. Bush's proposal to grant de facto amnesty to an estimated 8 million to 11 million illegal aliens working in the United States, the majority of whom are from Mexico. President Bush believes that his plan "will make America a more compassionate, more human, and stronger country." Wait &amp; see senors.  Soon we outnumber you here &amp; maybe vote to cecede &amp; be part of Mexico again.  All southwest USA was Mexico amigos.  Open borders at least, OK.  No more "illegal" stuff.  No humans are "illegal." All rednecks back to dust bowl like reverse Grapes of Wrath.  Take Swilluk with you.  HA, HA, HA.   Movimiento Estudiantil Chicano de Atzlan.   </span></p>
+<a id="5c0de5f9696a2b5ad9fc22b647f847c3"></a><p><span class="simpleblog-name">2007 !</span> wrote on <span class="simpleblog-date">Mar 30, 2007 9:07 PM:</span><span class="simpleblog-response">Is the year we take back our country from the corrupt politicians, local and Federal.  Can't you just feel the American anger building?  Its not hate and its not racism.  Its frustration with being turned  into a third world poverty nation and seeing our communities destroyed by unchecked illegal immigration. The only question remaining is will this be peaceful or by force as the original Minutemen did against the British oppressors?  I'm joining SDMM today and help these guys save San Diego!</span></p>
+<a id="6746e31199da01da07865b962a3be828"></a><p><span class="simpleblog-name">Al</span> wrote on <span class="simpleblog-date">Mar 30, 2007 9:42 PM:</span><span class="simpleblog-response">Keep up your work Jeff. This country needs you and your groups efforts. Brush this one off and forge ahead in your fight against the ILLEGAL alien invasion which will only ruin this country.</span></p>
+<a id="e0d47bbe83cd24d14dede3dd61a3a438"></a><p><span class="simpleblog-name">HA, HA, HA</span> wrote on <span class="simpleblog-date">Mar 30, 2007 10:07 PM:</span><span class="simpleblog-response">Hey you Senor 2007.  You better get used to Mexicanos ruling here in Alta California. Yeah, &amp; in Arizona, Nueve Mexico &amp; Texas too senor.  Si.  We're gonna move capital of California to Tijuana man.  Si.  Reconquista California that was take from us way back there.  You go back to where you came from Senor 2007.  Si.  Viva Mexico y Vival La Raza!!!!!  Hey Senor, maybe if we let you stay you can mow my lawn.  HAHAHAHA </span></p>
+<a id="1fdc204d0977d36573bbda8481d2efb4"></a><p><span class="simpleblog-name">HA HA BANG!</span> wrote on <span class="simpleblog-date">Apr 1, 2007 12:58 PM:</span><span class="simpleblog-response">You should read the US Constitution, Article III, Section 3.</span></p>
+</div>
+                    			    
+                </div>
+                
+	        </div>
+			    
+ 			<!--forms -->		
+ 	        <div id="commentform" class="groupItem">
+			
+			<!-- *************************************************************************************************************************** --> 
+        	<p id="commentPolicy">First name only. Comments including last names, contact addresses, e-mail addresses or phone numbers will be deleted. Attempts to misrepresent your identity or impersonate any person will not be approved. All comments are screened before they appear online, so please keep them brief. Comments reflect the views of those commenting and not necessarily those of the North County Times or its staff writers. <a href="http://www.nctimes.com/commentpolicy">Click here</a> to view additional comment policies.</p>			<!-- *************************************************************************************************************************** --> 
+ 	          
+ 	          <div class="itemHeader">Submit Comment<a href="#" class="closeEl plus-minus">[-]</a></div>
+					    
+				<div class="itemContent">
+					  
+				    <p><a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.nctimes.com/articles/2007/03/30/news/sandiego/18_04_763_29_07.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label> <input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-email-block"><label for="personemail" class="simpleblog-form-label">Email:</label> <span class="simpleblog-email-field">(optional)</span> <input type="text" id="personemail" name="personemail" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: </label><img id="simpleblog-captcha" width="125" height="50" src="http://www.nctimes.com/shared-content/newsys/common/generatecaptcha.php?1223883447"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/><input type="SUBMIT" value="Post Comment"/></div></form></div></p>
+				</div>
+	        </div>
+            
+ 	     	<!-- *********************************** LETTER TO EDITOR INCLUDE ******************************************************* --> 
+        		<div id="letterToEditor" class="groupItem clearboth">
+			
+
+					    
+				<div class="itemContent">
+					  
+				    <h1><a href="http://www.nctimes.com/forms/letters/editor.php">Click to submit LETTER TO THE EDITOR</a></h1>
+					
+				</div>
+</div>			<!-- *************************************************************************************************************************** --> 
+            
+            
+            
+            
+          </div>
+          
+          
+                
+                
+<!-- COLUMN 2 -->
+		  
+ 	     	<!-- *********************************** SECTION SPECIFI INCLUDE ******************************************************* --> 
+        		<div id="col2_story" class="c339 floatright lborder margin-1left">
+ 	        <!-- TABS -->	  				
+ 	        
+ 	        <!-- *************************************************************************************************************************** --> 
+        	<div id="most-tabs" class="groupItem8-4-4-4 clearboth">
+ 	          <ul>
+ 	            <li><a href="#tab-1"><span>Most Comments</span></a></li>
+                <li><a href="#tab-2"><span>Popular News</span></a></li>
+                <li><a href="#tab-3"><span>Breaking News</span></a></li>
+              </ul>
+                   
+                <div id="tab-1" class="ui-tabs-hide">  
+                    <p>Today's Stories</p>
+                    <ul class="secondary clearleft">
+                        <ul class="topblogs-list"><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/10/12/opinion/letters/z75306c360bcba5bd882574de007b9a1d.txt">LETTERS: NCT, Oct. 12, 2008</a></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/10/11/sports/highschool/z5499e0df7e0d2b9a882574df001e4890.txt">PREP FOOTBALL: Mt. Carmel uses strong ground game to beat Orange Glen</a></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/10/11/news/coastal/oceanside/za99e0c7abae5ad39882574dd001742b0.txt">OCEANSIDE: Fire union raps councilmen over ambulance discussions</a></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/10/11/sports/highschool/z1844286a1649dccb882574df001d9f7e.txt">PREP FOOTBALL: Defense delivers: Vista's stops stifle unbeaten Escondido</a></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/10/11/news/inland/escondido/zcd9471a8de707b4f882574df007b4745.txt">ESCONDIDO: Road rage incident turns deadly</a></li></ul>
+                    </ul>
+                </div>
+                  
+                <div id="tab-2" class="ui-tabs-hide">           
+                     <ul class="secondary clearleft">
+                        
+                        <li><a href="http://www.nctimes.com/articles/2008/10/11/news/coastal/oceanside/z25ba8f43152e5ed8882574e0000c58bd.txt">OCEANSIDE: Hundreds celebrate gay pride <span class="popular-count">(861)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/10/11/sports/chargers/zf8a643f0e6e1a687882574e000037616.txt">CHARGERS: The hits keep on coming for Harrison <span class="popular-count">(849)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/10/12/opinion/letters/z75306c360bcba5bd882574de007b9a1d.txt">LETTERS: NCT, Oct. 12, 2008 <span class="popular-count">(820)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/10/11/business/z764a75e19c5df47a882574e0000818cd.txt">ESCONDIDO: Home buyers find bargains at auction <span class="popular-count">(697)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/10/11/news/inland/escondido/zcd9471a8de707b4f882574df007b4745.txt">ESCONDIDO: Road rage incident turns deadly <span class="popular-count">(590)</span></a></li>
+                    </ul>
+                </div>
+                  
+                <div id="tab-3" class="ui-tabs-hide">
+                   
+                       <ul class="secondary clearleft">
+                       		
+                           
+                       </ul>
+                          
+                </div>
+	        </div>			<!-- *************************************************************************************************************************** -->      
+   
+<!-- AD -->				
+ 	        <div class="story_ad groupItem floatright display-inline-ie">
+ 	          <p class="adv">Advertisement</p>
+	  		    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/biz_bigad/static.js"></script>
+            </div>       
+    
+<!-- VIDEOS -->
+ 	        <div id="videos" class="groupItem floatright display-inline-ie">
+ 	          
+ 	          <h1 class="heading">Videos </h1>
+                        
+                <div class="itemContent" style="text-align:center">
+                	<!-- *************************************************************************************************************************** --> 
+                	
+<!-- News -->
+<script type="text/javascript" language="javascript" src="http://api.vmixcore.com/widgets/video_list_player.js.php?token=9a0ed32259503ae76b8adc4cfc5e86df"></script>
+<script type="text/javascript" language="javascript">
+var wid = new VideoListPlayerWidget();
+wid.play_url = 'http://videos.nctimes.com/p/video?id=';
+wid.genre_name='News';
+wid.show_featured=1;
+wid.hide_post=1;
+wid.width = 320;
+wid.height = 515;
+wid.script1 = 'http://www.nctimes.com/s_code.js'; 
+wid.script2 = 'http://www.nctimes.com/zincludes/08/omniture/vmix_code.js';
+wid.drawWidget();
+</script>                 	<!-- *************************************************************************************************************************** -->      
+                </div>
+		    </div>
+                
+                
+<!-- TopAds -->                
+            <!-- *************************************************************************************************************************** --> 
+        	<div id="topads335" class="c335 clearboth">
+                <div class="margin4left clearboth floatleft">
+                    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_jobs_new/static.js"></script>
+                </div>
+                
+                <div class="margin4right floatright">
+                    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_ads_new/static.js"></script>
+                </div>
+</div>			<!-- *************************************************************************************************************************** -->      
+
+ 	        <div class="clearer"></div> 
+	      </div>			<!-- *************************************************************************************************************************** --> 
+
+<!-- COLUMN 2 END -->             
+    	</div>
+    
+    <div class="clearer"></div>
+   </div>
+</div>
+  <!-- end of maincontent -->
+
+<!-- FOOTER -->
+<div id="footer_wrap">
+ 	    <div id="footer">
+<!-- *************************************************************************************************************************** --> 
+      <!--       		<div id="pageInfo" class="crumlinks">		
+					<a href="/">HOME</a>&nbsp;&rarr;&nbsp;[section_name:4:1:&nbsp;&rarr;&nbsp;]
+				</div>
+-->
+            
+            <div id="address">
+                <div class="groupItem8-8-8-8 clearboth floatleft">
+                    <p class="office">Escondido</p>
+                    <p>(760) 745-6611</p>
+                    <p>207 East Penn. Ave.</p>
+                    <p>Escondido, CA 92025</p>
+                </div>
+                 <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office">Oceanside</p>          
+                    <p>(760) 433-7333</p>
+                    <p>1722 South Coast Highway</p>
+                    <p>Oceanside, CA 92054</p>
+                </div>
+                <div class="groupItem8-8-8-8 floatleft">
+                    <p class="office">The Californian</p>         
+                    <p>(951) 676-4315</p>
+                    <p>28765 Single Oak Drive, Suite 100</p>
+                    <p>Temecula, CA 92590</p>
+                </div>
+                <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office"> Fallbrook</p>       
+                    <p>(760) 728-6116</p>
+                    <p>1112 S. Main Ave.</p>
+                    <p>Fallbrook, CA 92028</p>
+                </div>
+             </div>
+       
+       <!-- search -->
+        <div id="footer-search">
+        <img alt="powered by yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+        
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+         	
+			<input class="searchfield" type="text" name="search" size="15" value="Search..."/>
+			<label>in </label>
+			<select name="searchType" id="searchTypeFoot">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+		<!--	<option value="web">Web</option>-->
+			</select>
+			
+			<input class="submitbutton" id="submitsearchFoot" name="submitsearchFoot" type="submit" value="Go"/>
+       
+		</form>
+		</div> <!-- end of search -->
+ 	   <!-- *************************************************************************************************************************** --> 
+     </div>
+</div><!-- end of footer -->
+
+<!-- Omniture  -->                    
+<!-- *************************************************************************************************************************** --> 
+      	<!-- general code-->
+
+<!-- SiteCatalyst code version: H.7.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="http://www.nctimes.com/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server="escondido"
+s.channel="nctimes.com"
+s.pageType=""
+s.prop1="news"
+s.prop2="sandiego"
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+s.prop9=""
+s.prop10=""
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14=""
+s.prop15=""
+s.prop16=""
+s.prop17=""
+s.prop18=""
+s.prop19=""
+s.prop20=""
+s.prop21=""
+s.prop22=""
+s.prop23=""
+
+
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/* Hierarchy Variables */
+s.hier1="Lee Enterprises," + s.server + "," + s.channel + "," + s.prop1 + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
+s.hier2="Lee Enterprises," + s.prop1 + "," + s.server + "," + s.channel + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->
+
+<!-- Begin Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl./" : "http://www./");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5512081-1");
+pageTracker._trackPageview();
+</script>
+<!-- End Google Analytics --><!-- *************************************************************************************************************************** --> 
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 00:37:28 Oct 13, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 04:28:30 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 65.248 (3)
+  esindex: 0.013
+  captures_list: 348.019
+  CDXLines.iter: 12.748 (3)
+  PetaboxLoader3.datanode: 45.448 (4)
+  exclusion.robots: 0.159
+  exclusion.robots.policy: 0.148
+  RedisCDXSource: 267.213
+  PetaboxLoader3.resolve: 18.234
+  load_resource: 60.299
+-->

@@ -1,0 +1,1562 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Today's Top Breaking News Headlines  for Washington DC and the Nation  - Examiner.com</title>
+</head>
+<body>
+
+
+<script language="Javascript">
+function searchAction()
+{
+	if (document.search.srchWhat[1].checked == true) {
+	document.search.action='http://www.google.com/custom';
+	document.search.method = 'get';
+	document.search.target="_new";
+	}
+	if (document.search.srchWhat[0].checked == true) {
+	document.search.action='/search.html';
+	document.search.method = 'get';
+	document.search.target="_self";
+	}
+	return true;
+}
+</script>
+<script language="Javascript">
+	var axel = Math.random() + "";
+	var ord = axel * 1000000000000000000;
+
+	function setHomepage (obj)
+	{
+		var homepageURL = document.URL; 		
+		if (homepageURL.substring(homepageURL.length-1) == '#')
+		{	
+			homepageURL = homepageURL.substring(0,homepageURL.length-1);		
+		}
+		if (homepageURL.indexOf('setEdition=') != -1) {
+			var qs = homepageURL.substring(homepageURL.indexOf('?')+1);
+			var nvPair = qs.substring(qs.indexOf('setEdition='));
+			if (nvPair.indexOf('&') != -1) {
+				nvPair = nvPair.substring(0, nvPair.indexOf('&')+1);
+			}
+			qs = qs.replace(nvPair,'');
+			if (qs != '') {
+				homepageURL = homepageURL.substring(0, homepageURL.indexOf('?')+1) + qs;
+			}
+			else {
+				homepageURL = homepageURL.substring(0, homepageURL.indexOf('?'));
+			}
+		}		
+		obj.style.behavior='url(#default#homepage)';		
+		obj.setHomePage(homepageURL);
+	}
+	function XToggle(id)
+	{
+    divElement = document.getElementById(id);
+
+    if (divElement)
+    {
+      if (divElement.className == 'X-closed')
+      {
+        divElement.className = "X-open";
+      }
+      else
+      {
+         divElement.className = "X-closed";
+      }
+    }
+	}
+
+	function clickclear(thisfield, defaulttext) {
+		if (thisfield.value == defaulttext) {
+		thisfield.value = "";
+		thisfield.style.color = "#000000";
+		}
+	}
+	
+	function clickrecall(thisfield, defaulttext) {
+		if (thisfield.value == "") {
+		thisfield.value = defaulttext;
+		thisfield.style.color = "#A9A9A9";
+		}
+	}
+
+	function doNothing() {
+	}
+
+
+</script>
+
+
+
+
+
+
+
+<!--google_ad_section_start(weight=ignore)-->
+
+<!-- wrapper for the whole page; this table ends in the footer -->
+<table border="0" cellpadding="0" cellspacing="0" width="950" align="center">
+	
+	<tr>
+		<td colspan="3">
+		
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tr>
+				<td id="header">
+				<!-- begin  header-SAN FRANCISCO -->
+				
+				<table width="100%" cellpadding="4" cellspacing="0" border="0">
+				<tr>	
+					<td width="37%" valign="middle" style="background-color: #f0f0f0; border-bottom: 1px solid #BABABA;">
+					
+						<div style="display:inline; float: left; padding: 4px 10px 0 0; font-size: 16px;  font-family: arial;">	<strong>Washington DC  </strong>  | <a href="javascript:doNothing()" style="color:##134a9e; font-size:11px; font-weight:normal;  font-family: arial; text-decoration:underline;" onclick="cssdropdown.dropit(this,event,'dropmenu1')">Change My City</a></div>
+					
+					</td>
+							
+					<td width="30%" style="background-color: #f0f0f0; border-bottom: 1px solid #BABABA;">
+					
+						<div style="display:inline; float: left; padding: 4px 10px 0 0;">
+							<a href="http://www.examiner.com/Washington_DC-Weather.html"><img src="http://www.examiner.com/weather/images/70_notext.jpg" alt="More Weather..." width="26" height="26" border="0"></a>
+						</div>
+						<div style="display: inline; float: left; padding: 0 0 0 0;">
+							Mist, 44 &deg;F - <a href="http://www.examiner.com/Washington_DC-Weather.html">Forecast</a>  
+							<br/>
+							1:54 AM December 13						</div>								
+										</td>
+							
+					<td align="right" width="33%" style="background-color: #f0f0f0; border-bottom: 1px solid #BABABA;">
+					<form name="search" action="http://www.examiner.com/search.html" method="get" id="search" style="float:right;margin: 2px 2px 0 0;">
+					<input type="hidden" name="source" value="all">
+					<input type="hidden" name="phrase" value="no">
+					<input type="hidden" name="queryType" value="text">
+					<input id="q" type="text" name="q" size="40" maxlength="255" style="color: #A9A9A9;" value="e.g., article topic or author" onclick="clickclear(this, 'e.g., article topic or author')" onblur="clickrecall(this,'e.g., article topic or author')"/>
+					<br><div style="float:left; margin: 2px 4px 2px 13px;"><input type="radio" name="srchWhat" value="news" checked> Examiner.com  <input type="radio" name="srchWhat" value="google"> Google Web</div>
+											
+					
+					<input type="hidden" name="client" value="pub-7479725245717969"></input>
+					<input type="hidden" name="forid" value="1"></input>
+					<input type="hidden" name="channel" value="2113002361"></input>
+					<input type="hidden" name="ie" value="ISO-8859-1"></input>
+					<input type="hidden" name="oe" value="ISO-8859-1"></input>
+					<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:0;LW:0;L:http://www.examiner.com/img/logo_examiner.gif;S:http://www.examiner.com;FORID:1;"></input>
+					<input type="hidden" name="hl" value="en"></input>
+					<input id="submit-search" name="submit" type="submit" value="Search" style="font-size: 10px;" align="top" onclick="return searchAction();">
+					</form>					</td>
+				</tr>		
+				<tr>				
+					<td colspan="3">
+					
+					<table width="100%" border="0" cellpadding="0" cellspacing="0"><tr><td align="left">
+					<div style="vertical-align: middle; padding: 0 0 0 0;"><a href="http://www.examiner.com/"><img src="http://www.examiner.com/img/menu/examinercom_logo.gif" style="padding: 0 10px 0 0;"/></a></div>
+					
+					</div>
+					</td>
+					<td align="left" width="470">
+
+                 
+                
+				
+                
+
+				
+		
+		
+		
+			
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+			<script language="JavaScript">
+			document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/examiner.Washington_DC/Home;tile=6;dcopt=ist;sz=450x37;ord=\'+ord+\'?" ><\/SCRIPT>');
+			</script>
+			<script>
+			if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+			document.write('<A HREF="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;tile=6;dcopt=ist;sz=450x37;" TARGET="_blank">');
+			document.write('<IMG SRC="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;tile=6;dcopt=ist;sz=450x37;" WIDTH="450" HEIGHT="37" BORDER="0" ALT=""></A>');
+			}
+			</script>
+			<noscript>
+			<a href="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;tile=6;dcopt=ist;sz=450x37;" target="_blank">
+			<img src="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;tile=6;dcopt=ist;sz=450x37;" width="450" height="37" border="0" alt=""></a>
+			</noscript>	
+		
+		
+
+		
+                
+				</td>
+				<td align="right">
+					
+						 <div style="display:inline; float: left; padding: 2px 10px 0 10px;"> 
+						<a href="http://dcpaper.examiner.com/" target="_new" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event10'; s.events='event10'; s.tl(this,'o','View Print Edition - Washington DC');">
+						<img src="http://www.examiner.com/img/menu/newspaperLogo.jpg" border="0"></a> <br>
+						<a href="http://dcpaper.examiner.com/" target="_new" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event10'; s.events='event10'; s.tl(this,'o','View Print Edition - Washington DC');">
+						View Print Edition</a>						
+						</div>
+					
+					</td><td>
+						<div style="display: inline; float: left">		
+						<a href="http://dcpaper.examiner.com/" target="_new" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event10'; s.events='event10'; s.tl(this,'o','View Print Edition - Washington DC');"><img src="http://www.examiner.com/img/menu/pdfbutton.jpg" border="0" style="display: inline; vertical-align: text-bottom; padding: 5px 0 2px 0;"></a><br>
+							<a href="http://www.examiner.com/rss/"><img src="http://www.examiner.com/img/menu/rssbutton.jpg" border="0" style="vertical-align: text-bottom; display: inline;"></a> 	
+						 
+						</div>			
+							
+						</td>
+					</tr></table>				
+				  </td>
+				</tr>							
+				</table>
+				</td>
+			</tr>	
+			<tr>
+				
+				<td align="center">
+				
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr>	
+				<td align="left">				
+				
+
+				
+		
+		
+		
+			
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+			<script language="JavaScript">
+			document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/examiner.Washington_DC/Home;tile=4;dcopt=ist;sz=728x90;ord=\'+ord+\'?" ><\/SCRIPT>');
+			</script>
+			<script>
+			if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+			document.write('<A HREF="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;tile=4;dcopt=ist;sz=728x90;" TARGET="_blank">');
+			document.write('<IMG SRC="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;tile=4;dcopt=ist;sz=728x90;" WIDTH="728" HEIGHT="90" BORDER="0" ALT=""></A>');
+			}
+			</script>
+			<noscript>
+			<a href="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;tile=4;dcopt=ist;sz=728x90;" target="_blank">
+			<img src="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;tile=4;dcopt=ist;sz=728x90;" width="728" height="90" border="0" alt=""></a>
+			</noscript>	
+		
+		
+
+	
+				</td>
+				<td width="10"></td>
+				<td align="right">
+				
+
+				
+		
+		
+		
+			
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+			<script language="JavaScript">
+			document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/examiner.Washington_DC/Home;tile=7;dcopt=ist;sz=200x90;ord=\'+ord+\'?" ><\/SCRIPT>');
+			</script>
+			<script>
+			if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+			document.write('<A HREF="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;tile=7;dcopt=ist;sz=200x90;" TARGET="_blank">');
+			document.write('<IMG SRC="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;tile=7;dcopt=ist;sz=200x90;" WIDTH="200" HEIGHT="90" BORDER="0" ALT=""></A>');
+			}
+			</script>
+			<noscript>
+			<a href="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;tile=7;dcopt=ist;sz=200x90;" target="_blank">
+			<img src="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;tile=7;dcopt=ist;sz=200x90;" width="200" height="90" border="0" alt=""></a>
+			</noscript>	
+		
+		
+
+	
+				</td>				
+				</tr>
+			</table>				
+				
+			
+				</td>
+			</tr>
+			<tr>
+				<td><link rel="stylesheet" type="text/css" href="http://www.examiner.com/css/headermenu.css"/>
+
+
+<script>
+var selectedPrimary = 'nav_74';
+var selectedSecondaryContainer = 'nav_74_secondary';
+var hoverPrimary = '';
+var hoverSecondaryContainer = '';
+var menuTimer;
+function showmenu(element) {
+// move to hidemenu when appropriate
+if (hoverPrimary != '') {
+off_assignment(document.getElementById(hoverPrimary));
+off_assignment(document.getElementById(selectedPrimary));
+document.getElementById(hoverSecondaryContainer).style.display = "none";
+document.getElementById(selectedSecondaryContainer).style.display = "block";
+}
+hoverPrimary = element.id;
+hoverSecondaryContainer = element.id+"_secondary";
+flip_assignment(element);
+previous = document.getElementById(selectedSecondaryContainer);
+previous.style.display = "none";
+document.getElementById(hoverSecondaryContainer).style.display = "block";
+if (hoverSecondaryContainer != selectedSecondaryContainer)
+document.getElementById(selectedSecondaryContainer).style.display = "none";
+}
+function start_menu_timeout() {
+if ((hoverPrimary != selectedPrimary) && (menuTimer == null))
+menuTimer = setTimeout("reset_menu()", 1000);
+}
+function cancel_menu_timeout() {
+if ((hoverPrimary != selectedPrimary) && (menuTimer != null)) {
+clearTimeout(menuTimer);
+menuTimer = null;
+}
+}
+function reset_menu() {
+if (hoverPrimary != selectedPrimary) {
+document.getElementById(hoverSecondaryContainer).style.display = "none";
+document.getElementById(selectedSecondaryContainer).style.display = "block";
+flip_assignment(document.getElementById(selectedPrimary));
+flip_assignment(document.getElementById(hoverPrimary));
+}
+}
+function flip_assignment(element) {
+if (element.className.indexOf('_on') !=-1) {
+element.className = element.className.replace("_on", "");
+} else {
+element.className = element.className + "_on";
+}
+}
+function off_assignment(element) {
+element.className = element.className.replace("_on", "");
+}
+</script>
+<div id="nvigation_container" class="navigation">
+<div id="primary_nav" class="primary_nav">
+<div id="nav_74" class="pnv_cg1" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/Washington_DC-Home.html">Home</a></div><div id="nav_73" class="pnv_cg1" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/Washington_DC-News.html">News</a></div><div id="nav_7" class="pnv_cg1" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/Washington_DC-Politics.html">Politics</a></div><div id="nav_1" class="pnv_cg1" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/Washington_DC-Entertainment.html">Entertainment</a></div><div id="nav_4" class="pnv_cg1" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/Washington_DC-Sports.html">Sports</a></div><div id="nav_5" class="pnv_cg1" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/Washington_DC-Business.html">Business</a></div><div id="nav_61" class="pnv_cg1" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/blogs/index.html">Blogs</a></div><div id="nav_82" class="pnv_cg1" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/Washington_DC-Opinion.html">Opinion</a></div><div id="nav_123" class="pnv_cg2" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/Washington_DC-City_Guide.html">City Guide</a></div><div class="primary_nav_spacer">&nbsp;</div><div id="nav_62" class="pnv_cg3" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://shopdc.examiner.com/ROP/Categories.aspx">Marketplace</a></div><div id="nav_44" class="pnv_cg3" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/classified/index.cfm?setCity=Washington_DC">Classifieds</a></div><div id="nav_34" class="pnv_cg3" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/Washington_DC-Autos.html">Autos</a></div><div id="nav_38" class="pnv_cg3" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/Washington_DC-Jobs.html">Jobs</a></div><div id="nav_36" class="pnv_cg3" onmouseover="showmenu(this); cancel_menu_timeout();" onmouseout="start_menu_timeout();"><a href="http://www.examiner.com/Washington_DC-Real_Estate.html">Real Estate</a></div>
+</div><div class="navigation_rule"></div>
+<div id="secondary_nav" class="secondary_nav" onmouseover="cancel_menu_timeout();" onmouseout="start_menu_timeout();">
+<div id="nav_74_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+<div id="nav_74_167" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Examiner_Newsroom.html">Examiner Newsroom</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_74_75" class="secondary_nav_button"><a href="http://www.examiner.com/Photos.html">Today In Pictures</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_74_72" class="secondary_nav_button"><a href="http://www.examiner.com/blogs/today_in_history">Today in History</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_74_49" class="secondary_nav_button"><a href="http://www.examiner.com/By_State.html">By State</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_74_58" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Topics.html">By Topic</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_74_104" class="secondary_nav_button"><a href="http://extra.examiner.com/feedback/form/?setEdition=Washington_DC&amp;type=tip">Submit a Tip</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_74_105" class="secondary_nav_button"><a href="http://extra.examiner.com/feedback/form/?setEdition=Washington_DC&amp;type=photo">Submit a Photo</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_74_106" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Maps.html">Maps</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_74_107" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Yellow_Pages.html">Yellow Pages</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_74_108" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Government.html">Government</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_74_33" class="secondary_nav_button"><a href="http://www.examiner.com/Search.html">Search</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+</div>
+<div id="nav_73_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+<div id="nav_73_136" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Local_News.html">Local News</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_73_83" class="secondary_nav_button"><a href="http://www.examiner.com/City-Washington_DC-c8-District_Of_Columbia.html">District</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_73_109" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-Northern_Virginia.html">Northern Virginia</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_73_84" class="secondary_nav_button"><a href="http://www.examiner.com/State-Virginia.html">Virginia</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_73_147" class="secondary_nav_button"><a href="http://www.examiner.com/State-District_Of_Columbia.html">District Of Columbia</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_73_14" class="secondary_nav_button"><a href="http://www.examiner.com/US.html">US</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_73_3" class="secondary_nav_button"><a href="http://www.examiner.com/World.html">World</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+</div>
+<div id="nav_7_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+<div id="nav_7_134" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Local_Politics.html">Local Politics</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_7_63" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-White_House.html">White House</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_7_158" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-House_and_Senate.html">Capital</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_7_161" class="secondary_nav_button"><a href="http://www.examiner.com/Topic~Virginia_Politics.html">Virginia Politics</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_7_110" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-North_Korea.html">North Korea</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_7_64" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-Iraq_War.html">Iraq</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_7_125" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-Iran.html">Iran</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_7_65" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-Washington_DC_Examiner's_2006_Election_Coverage.html">Elections</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_7_86" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-by_Bill_Sammon.html">Bill Sammon</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_7_112" class="secondary_nav_button"><a href="http://www.examiner.com/dc/SalaryFiles">WECAN</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_7_113" class="secondary_nav_button"><a href="http://www.examiner.com/yan">Yeas and Nays</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+</div>
+<div id="nav_1_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+<div id="nav_1_135" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Local_Entertainment.html">Local Entertainment</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_1_68" class="secondary_nav_button"><a href="http://www.examiner.com/Movies.html">Movies</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_1_126" class="secondary_nav_button"><a href="http://www.examiner.com/TV.html">TV</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_1_69" class="secondary_nav_button"><a href="http://www.examiner.com/Music.html">Music</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_1_11" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Strange.html">Strange</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_1_114" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Restaurants.html">Restaurants</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_1_116" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Movie_Showtimes.html">Movie Showtimes</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_1_117" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Events.html">Events</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+</div>
+<div id="nav_4_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+<div id="nav_4_137" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Local_Sports.html">Local Sports</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_87" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-Washington_Redskins.html">Redskins</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_88" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-Washington_Nationals.html">Nationals</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_89" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-Wizards.html">Wizards</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_90" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-D%2EC%2E%20United.html">D.C. United</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_91" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-Washington_Capitals.html">Capitals</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_118" class="secondary_nav_button"><a href="http://www.examiner.com/NASCAR.html">NASCAR</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_80" class="secondary_nav_button"><a href="http://www.examiner.com/Basketball.html">Basketball</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_127" class="secondary_nav_button"><a href="http://www.examiner.com/College.html">College</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_70" class="secondary_nav_button"><a href="http://www.examiner.com/Football.html">Football</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_128" class="secondary_nav_button"><a href="http://www.examiner.com/Soccer.html">Soccer</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_71" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-NHL.html">Hockey</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_162" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-Baseball.html">Baseball</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_4_163" class="secondary_nav_button"><a href="http://www.examiner.com/Topic-Golf.html">Golf</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+</div>
+<div id="nav_5_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+<div id="nav_5_138" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Local_Business.html">Local Business</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_5_6" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Technology.html">Technology</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_5_9" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Science.html">Science</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_5_10" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Health.html">Health</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_5_120" class="secondary_nav_button"><a href="http://www.examiner.com/Stock_Market.html">Stock Market</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+</div>
+<div id="nav_61_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+<div id="nav_61_168" class="secondary_nav_button"><a href="http://www.examiner.com/blogs/tapscotts_copy_desk ">Tapscott's Copy Desk</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_61_169" class="secondary_nav_button"><a href="http://www.examiner.com/blogs/behind_the_wheel">Behind the Wheel</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_61_170" class="secondary_nav_button"><a href="http://www.examiner.com/blogs/beeler">Editorial Cartoons</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_61_72" class="secondary_nav_button"><a href="http://www.examiner.com/blogs/today_in_history">Today in History</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_61_122" class="secondary_nav_button"><a href="http://www.examiner.com/search.cfm?daterange=30days&amp;q=&amp;phrase=no&amp;queryType=blogs">Search Blogs</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+</div>
+<div id="nav_82_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+<div id="nav_82_55" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Commentary.html">Commentary</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_82_54" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Editorial.html">Editorial</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_82_56" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Letters.html">Letters</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+</div>
+<div id="nav_123_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+<div id="nav_123_114" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Restaurants.html">Restaurants</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_123_116" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Movie_Showtimes.html">Movie Showtimes</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_123_106" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Maps.html">Maps</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_123_117" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Events.html">Events</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_123_107" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Yellow_Pages.html">Yellow Pages</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_123_108" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Government.html">Government</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_123_153" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Traffic.html">Traffic</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_123_52" class="secondary_nav_button"><a href="http://www.examiner.com/Washington_DC-Weather.html">Weather</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+<div id="nav_123_171" class="secondary_nav_button"><a href="http://www.examiner.com/blogs/DC_in_Pictures ">DC in Pictures</a></div>
+<div class="secondary_nav_div_left">&nbsp;</div><div class="secondary_nav_div_right">&nbsp;</div>
+</div>
+<div id="nav_77_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+</div>
+<div id="nav_62_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+</div>
+<div id="nav_44_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+</div>
+<div id="nav_34_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+</div>
+<div id="nav_38_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+</div>
+<div id="nav_36_secondary" style="display: none;">
+<div class="spacer">&nbsp;</div>
+</div>
+</div>
+</div>
+<script>
+showmenu(document.getElementById('nav_74'));
+</script>
+</td>
+			</tr>
+			<tr>
+				<td><div style="height:10px;"></div></td>
+			</tr>
+			</table>
+			
+			</td>
+		</tr>
+
+				
+		
+		<tr>
+			
+			<td valign="top" style="width: 780px">
+			
+<!--google_ad_section_start(weight=ignore)-->
+<!--google_ad_section_end(weight=ignore)-->
+<table class="content-width" cellspacing="0" cellpadding="0" border="0">
+<tr>
+<td colspan="3">
+<div style="margin-bottom: 3px;">
+<div style="padding-top: 5px;">
+<!--
+<div class="text-center">
+<strong>
+<font face="Arial" size="3" color="#800000">Examiner Exclusive<br>
+<font face="Arial" size="4">
+<a href="http://www.examiner.com/a-435446~Riley_Bechtel__Chairman_and_CEO__Bechtel_Group_Inc_.html">
+The American Economy according to Riley Bechtel,<br>
+Chairman and CEO of Bechtel Group Inc.</strong>
+</a>
+</font>
+</div>
+<br>
+<div class="panel_divider" style="margin-top: 8px;"></div>
+--> 
+</div>
+</div>
+</td>
+</tr>
+<tr valign="top">
+ 
+<td width="450">
+<!--google_ad_section_start-->
+<div class="header_red header_red_bg"><b>The Washington DC Examiner</b> &nbsp;</div>
+<div class="panel_divider" style="margin-bottom: 8px;">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h1">
+<a href="http://www.examiner.com/a-453100~Yeas_and_Nays__Wednesday__Dec__13.html">Yeas and Nays: Wednesday, Dec. 13</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<a href="http://www.examiner.com/a-453100~Yeas_and_Nays__Wednesday__Dec__13.html"><img src="http://www.examiner.com/images/newsroom/small/small_7A9DFF81-3048-2F0A-CAE64DF05974E0D0.jpg" alt="Photo courtesy HuffingtonPost.com" border="0" align="left" class="img_left" width="150" height="198"></a>
+<div id="panel_leadstory">
+<span class="panel_timestamp">
+Washington DC Examiner<br/>
+by Jeff Dufour and Patrick Gavin, 22 hrs ago, WASHINGTON
+</span>
+<br/>
+Jeff Dufour and Patrick Gavin cover people, power and politics in the beltway each weekday. Email them at yan@dcexaminer.com . 
+</div>
+</td>
+</tr>
+</table>
+<div><img src="http://www.examiner.com/\img\h1_empty.gif" width="1" height="4"></div>
+</div>
+<div class="panel_divider" style="margin-bottom: 8px;">
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h2">
+<a href="http://www.examiner.com/a-453078~Earmarks_are_no_loss__say_some.html">Earmarks are no loss, say some</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<div id="panel_leadstory">
+<span class="panel_timestamp">
+22 hrs ago, WASHINGTON
+</span>
+<br/>
+The earmarks are dead, at least for this year. Lobbyists who promised a return on the fees they billed may be panicking, but organizations forced to pay the freight for specially designated projects are smiling in the privacy of their Washington offices.  
+</div>
+</td>
+</tr>
+</table>
+</div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h2">
+<a href="http://www.examiner.com/a-453093~In_shift__GOP_backs_tapping_surplus_for_transportation.html">In shift, GOP backs tapping surplus for transportation</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<div id="panel_leadstory">
+<span class="panel_timestamp">
+22 hrs ago, Richmond
+</span>
+<br/>
+Virginia House Speaker William Howell, R-Stafford, issued a statement late Monday saying he and fellow GOP delegates want to use at least half of Virginia’s budget surplus for transportation, equaling about $225 million to $275 million.  
+</div>
+</td>
+</tr>
+</table>
+<strong>More from The Washington DC Examiner</strong> 
+<div>
+<div id="panel_TopNews">
+<ul>
+      	        	<li><a href="http://www.examiner.com/a-453094~Kaine_touts_more_funds_for_schools.html">Kaine touts more funds for schools</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-453075~Working_out_the_kinks.html">Working out the kinks</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-453071~Mandarin_Oriental_Washington_takes_top_honors_among_world_business_hotels.html">Mandarin Oriental Washington takes top honors among world business hotels</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-453072~A_non_United_front_on_Adu_s_departure.html">A non-United front on Adu’s departure</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="padding-top: 5px;">
+<table width="450" border="0" cellspacing="5" cellpadding="0">
+  <tr>
+    <td width="200" class="header_red_bg" id="header_red"><a href="http://www.examiner.com/blogs/index.html">Blogs</a></td>
+    <td width="250" class="header_red_bg" id="header_red"><a href="http://www.examiner.com/Washington_DC-City_Guide.html">Local Resources</a> </td>
+  </tr>
+  <tr>
+    <td width="200" valign="top">
+  <!--start blog content for Washington DC-->
+<table width="160" border="0" cellspacing="2" cellpadding="2">
+<tr><td> 
+<b>Editorial Cartoons</b><br>
+by Nate Beeler</td></tr>
+<tr>
+<td valign="top" width="60" align="left">
+<a href="http://www.examiner.com/blogs/beeler">
+<img src="http://www.examiner.com/assets/art/cartoon.jpg" border="0"></a>
+</td></tr>
+<tr>
+<td valign="top" valign="top">
+<a href="http://www.examiner.com/blogs/beeler">
+<img src="http://www.examiner.com/assets/art/beeler.jpg" style="padding: 2px; margin-right: 5px" width="50" align="left" border="0"></a>
+View Nate Beeler's blog and get his behind-the-pencil thoughts that created these nationally-known cartoons.
+<a href="http://www.examiner.com/blogs/beeler">Check it out</a>!
+</td></tr>
+</table>
+<!--End blog content for Washington DC-->
+</td>
+    <td width="250" valign="top">
+<img src="http://www.examiner.com/assets/promo/images/weather.gif" align="absmiddle" hspace="2"/><a href="http://www.examiner.com/Washington_DC-Weather.html">Get Current DC Weather</a><br>
+<img src="http://www.examiner.com/assets/promo/images/restaurants.gif" align="absmiddle" hspace="2"/><a href="http://www.examiner.com/Washington_DC-Restaurants.html">Browse DC Dining Guide</a><br>
+<img src="http://www.examiner.com/assets/promo/images/movie.gif" align="absmiddle" hspace="2"/><a href="http://www.examiner.com/Washington_DC-Movie_Showtimes.html">Search Local Movie Listings</a><br>
+<img src="http://www.examiner.com/assets/promo/images/maps.gif" align="absmiddle" hspace="2"/><a href="http://www.examiner.com/Washington_DC-Maps.html">Access Detailed Maps</a><br>
+<img src="http://www.examiner.com/assets/promo/images/autos.gif" align="absmiddle" hspace="2"/><a href="http://www.traffic.com/Washington-DC-Traffic/Washington-DC-Traffic-Reports.html?ct=ma_map">Monitor Live DC Traffic</a><br>
+<img src="http://www.examiner.com/assets/promo/images/yp.gif" align="absmiddle" hspace="2"/><a href="http://www.examiner.com/Washington_DC-Yellow_Pages.html">Find Washington DC Businesses</a><br>
+<div class="panel_divider" style="margin-top: 8px;"></div>
+<!--start local writer promo-->
+<table style="margin-top:5px; height:75px; width:250px;">
+<tr>
+<td>
+<a href="http://www.examiner.com/Topic-By_Bill_Sammon.html">
+<img src="http://www.examiner.com/assets/art/sammon.gif" width="64" height="75" style="padding-right:2px;" border="0"/></a>
+</td>
+<td>
+Bill Sammon <br>
+<a href="http://www.examiner.com/a-444142~President_Bush_says__We_will_prevail__in_Iraq.html" class="panel_h2">
+President Bush says 'We will prevail' in Iraq </a><br>
+ <a href="http://www.examiner.com/Topic-By_Bill_Sammon.html">View all recent columns</a>
+</td>
+</tr>
+</table>
+<!--end local writer promo-->
+</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="header_red_bg" id="header_red"><a href="http://www.examiner.com/Washington_DC-Local_Sports.html">DC Sports</a> </td>
+  </tr>
+  <tr>
+    
+<td colspan="2" align="top">
+<!--start DC sports update-->
+<table width="450">
+<tr>
+<td width="225" valign="top" valign="top">
+<div style="background-color:#efe6cc; padding-left:3px;"><strong>NFL</strong></div>
+<strong>Sunday Final Score</strong><br/>
+Washington Redskins 19, Philadelphia Eagles 21 <br>
+<strong>Sunday, December 17</strong><br/>
+Washington at New Orleans - 1 p.m.
+</td>
+<td valign="top" width="225">
+<div style="background-color:#efe6cc; padding-left:3px;"><strong>NBA</strong></div>
+<strong>Sunday Final Score</strong><br/>
+Houston 114, Washington 109<br/>
+<strong>Sunday, December 17</strong><br/>
+Denver at Washington - 7 p.m.
+<p>
+<div style="background-color:#efe6cc; padding-left:3px;"><strong>NHL</strong></div>
+<strong>Monday Final Score</strong><br/>
+Pittsburgh 5, Washington 4  (2OT)
+    <strong>Friday, December 15</strong><br/>
+Washington at Atlanta - 7:30 p.m.
+</td>
+</tr>
+</table>
+<!--end DC sports update-->
+</td>
+  </tr>
+  <tr>
+    <td colspan="2" class="header_red_bg" id="header_red"><a href="http://www.examiner.com/Washington_DC-Local_Entertainment.html">Washington DC Entertainment</a></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+<!--start DC entertainment update-->
+<table>
+<tr>
+<td>
+<a href="http://www.examiner.com/a-453079~Keeping_the__Faith_.html" class="panel_h2">
+<img src="http://www.examiner.com/images/newsroom/small/small_7A2EF62E-3048-2F0A-CAB61B1164BE9EB9.jpg" width="130" align="left" border="0" style="padding-right:3px;"></a>
+<a href="http://www.examiner.com/a-453079~Keeping_the__Faith_.html" class="panel_h2">
+Keeping the 'Faith' </a><br>
+The Irish didn't invent the extended monologue play, but given their gift for gab, it is not surprising that they have mastered the form better than anyone else.
+   </td>
+   </tr>
+   <tr>
+   <td>
+<br>
+   <a href="http://www.examiner.com/a-453080~In_a_state_of_Nirvana.html" class="panel_h2">
+In a state of Nirvana</a> <br>
+It would be so easy simply to explain that Nirvana lives up to its promise of 'perfect bliss,' but that would be missing the point. 
+   </td>
+   </tr>
+</table>
+<!--end DC entertainment update-->
+</td>
+  </tr>
+</table> 
+</div>
+<div id="header_red" class="header_red_bg" style="margin-top: 8px;"><a href="http://www.examiner.com/classified/index.cfm?setCity=Washington_DC">Washington DC Classifieds</a></div>
+      
+<table width="450" cellspacing="0" cellpadding="0" style="margin-bottom: 8px; padding-top: 12px">
+<tr><td>
+<div class="classified"> 
+<div class="cl_panel">
+<div class="cl_panel_header" id="cl_panel_header_jobs">
+<img src="http://www.examiner.com/img/classified/tab_Jobs_left_corner.png" style="float: left"/>
+<img src="http://www.examiner.com/img/classified/tab_Jobs_right_corner.png" style="float: right"/>
+<img src="http://www.examiner.com/img/classified/tab_Jobs_icon.png" class="cl_panel_icon"/>
+<span class="cl_panel_title">Jobs</span>
+</div>
+<div class="cl_panel_body" style="height: 191px;">
+<a href="http://www.examiner.com/classified/index.cfm?action=JobResult&amp;SetCity=Washington_DC&amp;function=JobCategory&amp;category=33&amp;crCat=Other">Other (23)</a><br/>
+<a href="http://www.examiner.com/classified/index.cfm?action=JobResult&amp;SetCity=Washington_DC&amp;function=JobCategory&amp;category=3&amp;crCat=Advertising%20and%20Marketing">Advertising and Marketing (2)</a><br/>
+<a href="http://www.examiner.com/classified/index.cfm?action=JobResult&amp;SetCity=Washington_DC&amp;function=JobCategory&amp;category=37&amp;crCat=Real%20Estate">Real Estate (1)</a><br/>
+<a href="http://www.examiner.com/classified/index.cfm?action=JobResult&amp;SetCity=Washington_DC&amp;function=JobCategory&amp;category=1&amp;crCat=Accounting">Accounting (0)</a><br/>
+<a href="http://www.examiner.com/classified/index.cfm?action=JobResult&amp;SetCity=Washington_DC&amp;function=JobCategory&amp;category=2&amp;crCat=Administrative">Administrative (0)</a><br/>
+<a href="http://www.examiner.com/classified/index.cfm?action=JobResult&amp;SetCity=Washington_DC&amp;function=JobCategory&amp;category=4&amp;crCat=Aerospace%20and%20Aviation">Aerospace and Aviation (0)</a><br/>
+<a href="http://www.examiner.com/classified/index.cfm?action=JobResult&amp;SetCity=Washington_DC&amp;function=JobCategory&amp;category=5&amp;crCat=Agriculture%2C%20Forestry%2C%20and%20Fishing">Agriculture, Forestry, and Fishing (0)</a><br/>
+<a href="http://www.examiner.com/classified/index.cfm?action=JobResult&amp;SetCity=Washington_DC&amp;function=JobCategory&amp;category=0">..More</a> 
+</div>
+<div class="cl_panel_body" style="height: 49px;">
+<center>
+<form action="http://www.examiner.com/classified/index.cfm?action=JobResult&amp;SetCity=Washington_DC" method="post" style="margin:0px; padding:0px;">
+<input name="keyword" type="text" size="15"/>
+<br/>
+<input type="submit" value="Search Jobs" name="submit" style="width: 100px"/>
+    </form>
+    </center>
+</div>
+<div class="cl_panel_footer" id="cl_panel_footer_jobs">_</div>
+</div>
+</div>
+<div class="classified"> 
+<div class="cl_panel">
+<div class="cl_panel_header" id="cl_panel_header_autos">
+<img src="http://www.examiner.com/img/classified/tab_Autos_left_corner.png" style="float: left"/>
+<img src="http://www.examiner.com/img/classified/tab_Autos_right_corner.png" style="float: right"/>
+<img src="http://www.examiner.com/img/classified/tab_Autos_icon.png" class="cl_panel_icon"/>
+<span class="cl_panel_title">Autos</span>
+</div>
+<div class="cl_panel_body" style="height: 191px;">
+ <a href="http://www.examiner.com/classified/index.cfm?action=AutoResult&amp;SetCity=Washington_DC&amp;function=AutoCategory&amp;AUTOTYPE=1&amp;crCat=Cars%20and%20Trucks">Cars and Trucks (188)<br/></a> <a href="http://www.examiner.com/classified/index.cfm?action=AutoResult&amp;SetCity=Washington_DC&amp;function=AutoCategory&amp;AUTOTYPE=2&amp;crCat=RVs%20and%20Campers">RVs and Campers (5)<br/></a> <a href="http://www.examiner.com/classified/index.cfm?action=AutoResult&amp;SetCity=Washington_DC&amp;function=AutoCategory&amp;AUTOTYPE=3&amp;crCat=Boats">Boats (6)<br/></a> <a href="http://www.examiner.com/classified/index.cfm?action=AutoResult&amp;SetCity=Washington_DC&amp;function=AutoCategory&amp;AUTOTYPE=4&amp;crCat=Personal%20Watercrafts">Personal Watercrafts (0)<br/></a> <a href="http://www.examiner.com/classified/index.cfm?action=AutoResult&amp;SetCity=Washington_DC&amp;function=AutoCategory&amp;AUTOTYPE=5&amp;crCat=Motorcycles">Motorcycles (20)<br/></a> <a href="http://www.examiner.com/classified/index.cfm?action=AutoResult&amp;SetCity=Washington_DC&amp;function=AutoCategory&amp;AUTOTYPE=6&amp;crCat=ATVs">ATVs (0)<br/></a> <a href="http://www.examiner.com/classified/index.cfm?action=AutoResult&amp;SetCity=Washington_DC&amp;function=AutoCategory&amp;AUTOTYPE=7&amp;crCat=Snowmobiles">Snowmobiles (0)<br/></a><a href="http://www.examiner.com/classified/index.cfm?action=AutoResult&amp;SetCity=Washington_DC&amp;function=AutoCategory&amp;category=0">..More</a> 
+</div>
+<div class="cl_panel_body" style="height: 49px;">
+<center>
+<form action="http://www.examiner.com/classified/index.cfm?action=AutoResult&amp;SetCity=Washington_DC" method="post" style="margin:0px; padding:0px;">
+<input name="keyword" type="text" size="15"/>
+<br/>
+<input type="submit" value="Search Autos" name="submit" style="width: 100px"/>
+    </form>
+    </center>
+</div>
+<div class="cl_panel_footer" id="cl_panel_footer_autos">_</div>
+</div>
+</div>
+<div class="classified"> 
+<div class="cl_panel">
+<div class="cl_panel_header" id="cl_panel_header_homes">
+<img src="http://www.examiner.com/img/classified/tab_Homes_left_corner.png" style="float: left"/>
+<img src="http://www.examiner.com/img/classified/tab_Homes_right_corner.png" style="float: right"/>
+<img src="http://www.examiner.com/img/classified/tab_Homes_icon.png" class="cl_panel_icon"/>
+<span class="cl_panel_title">Homes</span>
+</div>
+<div class="cl_panel_body" style="height: 191px;">
+<a href="http://www.examiner.com/classified/index.cfm?action=EstateResult&amp;SetCity=Washington_DC&amp;function=EstateCategory&amp;propertytype=1&amp;crCat=Apartments%20and%20Condos">Apartments and Condos (26)</a><br/><a href="http://www.examiner.com/classified/index.cfm?action=EstateResult&amp;SetCity=Washington_DC&amp;function=EstateCategory&amp;propertytype=2&amp;crCat=Commercial">Commercial (5)</a><br/><a href="http://www.examiner.com/classified/index.cfm?action=EstateResult&amp;SetCity=Washington_DC&amp;function=EstateCategory&amp;propertytype=3&amp;crCat=Homes">Homes (93)</a><br/><a href="http://www.examiner.com/classified/index.cfm?action=EstateResult&amp;SetCity=Washington_DC&amp;function=EstateCategory&amp;propertytype=4&amp;crCat=Land">Land (6)</a><br/><a href="http://www.examiner.com/classified/index.cfm?action=EstateResult&amp;SetCity=Washington_DC&amp;function=EstateCategory&amp;propertytype=5&amp;crCat=Mobile%20Homes">Mobile Homes (0)</a><br/><a href="http://www.examiner.com/classified/index.cfm?action=EstateResult&amp;SetCity=Washington_DC&amp;function=EstateCategory&amp;propertytype=6&amp;crCat=Other">Other (8)</a><br/><a href="http://www.examiner.com/classified/index.cfm?action=EstateResult&amp;SetCity=Washington_DC&amp;function=EstateCategory&amp;propertytype=7&amp;crCat=Vacation%20Property">Vacation Property (11)</a><br/><a href="http://www.examiner.com/classified/index.cfm?action=EstateResult&amp;SetCity=Washington_DC&amp;function=EstateCategory&amp;category=0">..More</a> 
+</div>
+<div class="cl_panel_body" style="height: 49px;">
+<center>
+<form action="http://www.examiner.com/classified/index.cfm?action=EstateResult&amp;SetCity=Washington_DC" method="post" style="margin:0px; padding:0px;">
+<input name="keyword" type="text" size="15"/>
+<br/>
+<input type="submit" value="Search Homes" name="submit" style="width: 100px"/>
+    </form>
+    </center>
+</div>
+<div class="cl_panel_footer" id="cl_panel_footer_homes">_</div>
+</div>
+</div>
+</td></tr></table>
+<!--google_ad_section_end-->
+<!--google_ad_section_start(weight=ignore)-->
+</td>
+<td class="gutter">&nbsp;</td>
+<td width="300">
+<div class="header_red header_red_bg" style="margin-top: 0px;">Nation and World</div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h1">
+<a href="http://www.examiner.com/a-454742~Lettuce_Suspected_in_Taco_Bell_E__Coli.html">Lettuce Suspected in Taco Bell E. Coli</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<a href="http://www.examiner.com/a-454742~Lettuce_Suspected_in_Taco_Bell_E__Coli.html"><img src="http://www.examiner.com/images/ap/NJME10112122308.jpg" alt="People are seen as they dine at a Taco Bell restaurant in South Plainfield, N.J. Tuesday, Dec. 12, 2006. All but four of Taco Bell's 86 New Jersey restaurants were back in business Tuesday even as the fast-food chain and health officials across the country attempted to determine what caused an outbreak of E. coli that sickened scores of customers in four states.  (AP Photo/Mel Evans)" border="0" align="left" class="img_left" style="margin: 3px 0 1px 0;" width="300" height="220"></a>
+<div id="panel_leadstory" style="clear: left;">
+<span class="panel_timestamp">
+</span>
+<br/>
+</div>
+</td>
+</tr>
+</table>
+<strong>More Nation and World News</strong>
+<div>
+<div id="panel_TopNews">
+<ul>
+      	        	<li><a href="http://www.examiner.com/a-454143~At_Least_55_Die_in_More_Iraqi_Violence.html">At Least 55 Die in More Iraqi Violence</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454644~Kevorkian_to_Be_Paroled_in_June.html">Kevorkian to Be Paroled in June</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-455300~S_D__Sen__Tim_Johnson_Undergoing_Surgery.html">S.D. Sen. Tim Johnson Undergoing Surgery</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-455218~Space_Station_Solar_Wing_Half_Retracted.html">Space Station Solar Wing Half-Retracted</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454438~_Raymond__Dad_Peter_Boyle_Dies_in_NYC.html">'Raymond' Dad Peter Boyle Dies in NYC</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-455175~Qantas_Accepts__8_64B_Takeover_Offer.html">Qantas Accepts $8.64B Takeover Offer</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-455160~Matsuzaka__Boston_Reach_Preliminary_Pact.html">Matsuzaka, Boston Reach Preliminary Pact</a>
+</li>
+</ul>
+</div>
+</div>
+<div style="margin-top: 4px; margin-bottom: 4px;">
+<script language="JavaScript">
+document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/examiner.Washington_DC/Home;pos=1;tile=4;sz=300x60;ord=\' + ord + \'?\'" ><\/SCRIPT>');
+</script>
+<script>
+if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0)
+{
+document.write('<A HREF="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;pos=1;tile=4;sz=300x60;ord=\' + ord + \'?\'" TARGET="_blank">');
+document.write('<IMG SRC="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;pos=1;tile=4;sz=300x60;ord=\' + ord + \'?\'" WIDTH="300" HEIGHT="60" BORDER="0" ALT=""></A>');
+}
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;pos=1;tile=4;sz=300x60;ord=123456789" target="_blank">
+<img src="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;pos=1;tile=4;sz=300x60;ord=123456789" width="300" height="60" border="0" alt=""></a>
+</noscript>
+<script language="JavaScript">
+document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/examiner.Washington_DC/Home;pos=2;tile=5;sz=300x60;ord=\' + ord + \'?\'" ><\/SCRIPT>');
+</script>
+<script>
+if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0)
+{
+document.write('<A HREF="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;pos=2;tile=5;sz=300x60;ord=\' + ord + \'?\'" TARGET="_blank">');
+document.write('<IMG SRC="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;pos=2;tile=5;sz=300x60;ord=\' + ord + \'?\'" WIDTH="300" HEIGHT="60" BORDER="0" ALT=""></A>');
+}
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;pos=2;tile=5;sz=300x60;ord=123456789" target="_blank">
+<img src="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;pos=2;tile=5;sz=300x60;ord=123456789" width="300" height="60" border="0" alt=""></a>
+</noscript>
+<script language="JavaScript">
+document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/examiner.Washington_DC/Home;pos=3;tile=6;sz=300x60;ord=\' + ord + \'?\'" ><\/SCRIPT>');
+</script>
+<script>
+if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0)
+{
+document.write('<A HREF="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;pos=3;tile=6;sz=300x60;ord=\' + ord + \'?\'" TARGET="_blank">');
+document.write('<IMG SRC="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;pos=3;tile=6;sz=300x60;ord=\' + ord + \'?\'" WIDTH="300" HEIGHT="60" BORDER="0" ALT=""></A>');
+}
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;pos=3;tile=6;sz=300x60;ord=123456789" target="_blank">
+<img src="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;pos=3;tile=6;sz=300x60;ord=123456789" width="300" height="60" border="0" alt=""></a>
+</noscript>
+<div style="margin-top: 8px; border: 1px solid #aaaaaa;">
+<div id="header_red" class="header_red_bg"><span style="padding: 4px;">Most Popular</span></div>
+<div id="feature_no_top" style="padding-left: 12px; background: #ffffff;">
+<a href="http://www.examiner.com/a-426640~Britney_s_Crotch_Shots_Take_Web_by_Storm.html">1. Britney's Crotch Shots Take Web by Storm</a><br/>
+           
+<a href="http://www.examiner.com/blogs/baltimore_in_pics">2. Blog - Baltimore In Pictures</a><br/>
+           
+<a href="http://www.examiner.com/a-454136~Democrats__roll_continues_with_Texas_win_in_District_23.html">3. Democrats' roll continues with Texas win in District 23</a><br/>
+           
+<a href="http://www.examiner.com/a-453654~Fla__Senator_Defies_Bush__Visits_Syria.html">4. Fla. Senator Defies Bush, Visits Syria</a><br/>
+           
+<a href="http://www.examiner.com/a-454894~Execution_of_Fla__Inmate_Takes_34_Min_.html">5. Execution of Fla. Inmate Takes 34 Min.</a><br/>
+           
+<a href="http://www.examiner.com/a-453100~Yeas_and_Nays__Wednesday__Dec__13.html">6. Yeas and Nays: Wednesday, Dec. 13</a><br/>
+           
+<a href="http://www.examiner.com/a-453019~Options_out_in_left_field.html">7. Options out in left field</a><br/>
+           
+<a href="http://www.examiner.com/a-453214~Scoop__Britney_caught_kissing_a_new_man.html">8. Scoop! Britney caught kissing a new man</a><br/>
+           
+<a href="http://www.examiner.com/a-454790~Wisconsin_Hunter_Bags_Deer_With_7_Legs.html">9. Wisconsin Hunter Bags Deer With 7 Legs</a><br/>
+           
+<a href="http://www.examiner.com/a-454872~Solar_Wing_Remains_Half_Retracted.html">10. Solar Wing Remains Half-Retracted</a><br/>
+           
+ 
+</div>
+</div>
+<div style="padding-bottom: 4px;">
+<div style="margin-top: 12px;">
+<div style="margin-top: 4px; margin-bottom: 4px;">
+<div id="header_red" class="header_red_bg">Hot Topics</div>
+<a href="http://www.examiner.com/Topic-Anna_Nicole_Smith.html">Anna Nicole Smith</a>  | 
+<a href="http://www.examiner.com/Topic-Borat.html">Borat</a>  | 
+<a href="http://www.examiner.com/Topic-Britney_Spears.html">Britney Spears</a>  | 
+<a href="http://www.examiner.com/Topic-Elections.html">Elections</a>  | 
+<a href="http://www.examiner.com/Topic-Gas_Prices.html">Gas Prices</a>  | 
+<a href="http://www.examiner.com/Topic-Hurricane.html">Hurricane</a>  | 
+<a href="http://www.examiner.com/Topic-Iraq.html">Iraq</a>  | 
+<a href="http://www.examiner.com/Topic-Middle_East.html">Middle East</a>  | 
+<a href="http://www.examiner.com/Topic-MLB_.html">MLB </a>  | 
+<a href="http://www.examiner.com/Topic-Nancy_Pelosi.html">Nancy Pelosi</a>  | 
+<a href="http://www.examiner.com/Topic-NFL.html">NFL</a>  | 
+<a href="http://www.examiner.com/Topic-North_Korea.html">North Korea</a>  | 
+<a href="http://www.examiner.com/Topic-Paris_Hilton.html">Paris Hilton</a>  | 
+<a href="http://www.examiner.com/Topic-Playstation_3.html">Playstation 3</a>  | 
+<a href="http://www.examiner.com/Topic-President_Bush.html">President Bush</a>  | 
+<a href="http://www.examiner.com/Topic-War_on_Terror.html">War on Terror</a> 
+</div>
+</div>
+</div>
+<script language="JavaScript">
+document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/examiner.Washington_DC/Home;pos=3;tile=7;sz=300x250;ord=\' + ord + \'?\'" ><\/SCRIPT>');
+</script>
+<script>
+if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0)
+{
+document.write('<A HREF="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;pos=3;tile=7;sz=300x250;ord=\' + ord + \'?\'" TARGET="_blank">');
+document.write('<IMG SRC="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;pos=3;tile=7;sz=300x250;ord=\' + ord + \'?\'" WIDTH="300" HEIGHT="250" BORDER="0" ALT=""></A>');
+}
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;pos=3;tile=7;sz=300x250;ord=123456789" target="_blank">
+<img src="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;pos=3;tile=7;sz=300x250;ord=123456789" width="300" height="250" border="0" alt=""></a>
+</noscript>
+</div>
+<div class="apanel_divider" style="margin-top: 8px;">
+<div id="header_red" class="header_red_bg"><a href="http://www.examiner.com/Washington_DC-Strange.html">Strange</a></div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h2">
+<a href="http://www.examiner.com/a-454192~Man_Pulls_7_Foot_Python_From_Toilet.html">Man Pulls 7-Foot Python From Toilet</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<div id="panel_leadstory">
+<span class="panel_timestamp">
+9 hrs ago, SYDNEY, Australia
+</span>
+<br/>
+An Australian wildlife worker pulled a 7-foot python out of a septic tank Wednesday after a plumber found it hiding in a woman's toilet, officials said. 
+</div>
+</td>
+</tr>
+</table>
+<a href="http://www.examiner.com/Washington_DC-Strange.html"><strong>More Strange</strong></a> 
+<div>
+<div id="panel_TopNews">
+<ul>
+      	        	<li><a href="http://www.examiner.com/a-454790~Wisconsin_Hunter_Bags_Deer_With_7_Legs.html">Wisconsin Hunter Bags Deer With 7 Legs</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454200~Store_Manager_Assaulted_With_Potatoes.html">Store Manager Assaulted With Potatoes</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-455034~Hornet_Sting_Forces_Malaysian_Off_Road.html">Hornet Sting Forces Malaysian Off Road</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="apanel_divider" style="margin-top: 8px;">
+<div id="header_red" class="header_red_bg"><a href="http://www.examiner.com/Washington_DC-Politics.html">Politics</a></div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h2">
+<a href="http://www.examiner.com/a-454646~Bush__Iraq_Enemy_Far_From_Being_Defeated.html">Bush: Iraq Enemy Far From Being Defeated</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<a href="http://www.examiner.com/a-454646~Bush__Iraq_Enemy_Far_From_Being_Defeated.html"><img src="http://www.examiner.com/images/ap/thumb/thumb_daf87535-6612-445a-9947-1d1f8990409f.jpg" alt="President Bush, right, accompanied by Vice President Dick Cheney, left, and Joint Chiefs Chairman, Gen. Peter Pace  speaks with reporters at the Pentagon, Wednesday, Dec. 13, 2006, following a meeting with military leaders to discuss Iraq. (AP Photo/Pablo Martinez Monsivais)" border="0" align="left" class="img_left" width="128" height="96.5"></a>
+<div id="panel_leadstory">
+<span class="panel_timestamp">
+6 hrs ago, WASHINGTON
+</span>
+<br/>
+President Bush on Wednesday said the enemy in Iraq is "far from being defeated," but he vowed not to be rushed into adjusting his strategy and gave little indication that he intends to veer sharply from the direction his war policies have taken. 
+</div>
+</td>
+</tr>
+</table>
+<a href="http://www.examiner.com/Washington_DC-Politics.html"><strong>More Politics</strong></a> 
+<div>
+<div id="panel_TopNews">
+<ul>
+      	        	<li><a href="http://www.examiner.com/a-455324~S_D__Sen__Tim_Johnson_Undergoing_Surgery.html">S.D. Sen. Tim Johnson Undergoing Surgery</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-455051~Romney_OKs_Detention_of_Illegal_Aliens.html">Romney OKs Detention of Illegal Aliens</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454431~Texas_Win_Caps_Democrats__Roll.html">Texas Win Caps Democrats' Roll</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="apanel_divider" style="margin-top: 8px;">
+<div id="header_red" class="header_red_bg"><a href="http://www.examiner.com/Washington_DC-Sports.html">Sports</a></div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h2">
+<a href="http://www.examiner.com/a-455160~Matsuzaka__Boston_Reach_Preliminary_Pact.html">Matsuzaka, Boston Reach Preliminary Pact</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<a href="http://www.examiner.com/a-455160~Matsuzaka__Boston_Reach_Preliminary_Pact.html"><img src="http://www.examiner.com/images/ap/thumb/thumb_MACS10312132301C.jpg" alt="Daisuke Matsuzaka waves to the media from car window, after he arrived at Hanscom Airport in Bedford, Mass. Wednesday, Dec. 13, 2006. Matsuzaka headed to Boston on Wednesday with Red Sox officials, a sign the team had reached a preliminary agreement with the star pitcher. Matsuaka's agent Scott Boras is at right. (AP Photo/Chitose Suzuki)" border="0" align="left" class="img_left" width="128" height="95"></a>
+<div id="panel_leadstory">
+<span class="panel_timestamp">
+2 hrs ago, BOSTON
+</span>
+<br/>
+Bridging the economic gap in the most expensive cultural exchange in baseball history, the Red Sox reached a preliminary agreement Wednesday with Daisuke Matsuzaka on a $52 million, six-year contract. 
+</div>
+</td>
+</tr>
+</table>
+<a href="http://www.examiner.com/Washington_DC-Sports.html"><strong>More Sports</strong></a> 
+<div>
+<div id="panel_TopNews">
+<ul>
+      	        	<li><a href="http://www.examiner.com/a-455304~Kansas_City_Chiefs_Owner_Lamar_Hunt_Dies.html">Kansas City Chiefs Owner Lamar Hunt Dies</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454908~Suns_Scorch_Heat_for_12th_Straight_Win.html">Suns Scorch Heat for 12th Straight Win</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-455047~Ducks_Establish_Best_Road_Start_Ever.html">Ducks Establish Best Road Start Ever</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="apanel_divider" style="margin-top: 8px;">
+<div id="header_red" class="header_red_bg"><a href="http://www.examiner.com/Washington_DC-Entertainment.html">Entertainment</a></div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h2">
+<a href="http://www.examiner.com/a-454438~_Raymond__Dad_Peter_Boyle_Dies_in_NYC.html">'Raymond' Dad Peter Boyle Dies in NYC</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<a href="http://www.examiner.com/a-454438~_Raymond__Dad_Peter_Boyle_Dies_in_NYC.html"><img src="http://www.examiner.com/images/ap/thumb/thumb_NYET15612131710.jpg" alt="Peter Boyle and Doris Roberts from the series 'Everybody Loves Raymond,' arrive at CBS's 75th anniversary celebration on Nov. 2, 2003, in New York.  Boyle, the actor known for playing everything from a tap-dancing monster in 'Young Frankenstein' to the curmudgeonly father in this long-running TV sitcom died Tuesday evening, Dec. 12, 2006 in a New York hospital. He was 71.  (AP Photo/Louis Lanzano)" border="0" align="left" class="img_left" width="80.25" height="128"></a>
+<div id="panel_leadstory">
+<span class="panel_timestamp">
+7 hrs ago, NEW YORK
+</span>
+<br/>
+Peter Boyle, the actor who played the hilariously grouchy father on "Everybody Loves Raymond" as the final note of a distinguished career that also included a memorable role in Mel Brooks' "Young Frankenstein," has died. He was 71. 
+</div>
+</td>
+</tr>
+</table>
+<a href="http://www.examiner.com/Washington_DC-Entertainment.html"><strong>More Entertainment</strong></a> 
+<div>
+<div id="panel_TopNews">
+<ul>
+      	        	<li><a href="http://www.examiner.com/a-455093~Ono_s_Driver_Held_on_Extortion_Suspicion.html">Ono's Driver Held on Extortion Suspicion</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454343~Jolie_Says_She___Pitt_Are_Proud_Parents.html">Jolie Says She &amp; Pitt Are Proud Parents</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454399~Big_Fine_for_Underage__Girls_Gone_Wild_.html">Big Fine for Underage 'Girls Gone Wild'</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="apanel_divider" style="margin-top: 8px;">
+<div id="header_red" class="header_red_bg"><a href="http://www.examiner.com/Washington_DC-Business.html">Business</a></div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h2">
+<a href="http://www.examiner.com/a-455175~Qantas_Accepts__8_64B_Takeover_Offer.html">Qantas Accepts $8.64B Takeover Offer</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<a href="http://www.examiner.com/a-455175~Qantas_Accepts__8_64B_Takeover_Offer.html"><img src="http://www.examiner.com/images/ap/thumb/thumb_SYD10412130225.jpg" alt="A Qantas Airways passenger plane takes off from Sydney Airport, Wednesday, Dec. 13, 2006. Qantas, Australia's flagship carrier, has rejected a 10.9 billion Australian dollar (US$8.58 billion, euro6.46 billion) takeover bid led by the country's largest investment bank and two North American private-equity firms. (AP Photo/Paul Miller)" border="0" align="left" class="img_left" width="128" height="83.75"></a>
+<div id="panel_leadstory">
+<span class="panel_timestamp">
+1 hr 56 mins ago, SYDNEY, Australia
+</span>
+<br/>
+Qantas Airways said Thursday it had accepted an 11.1 billion Australian dollar ($8.64 billion) takeover offer from a private equity consortium including Australia's Macquarie Bank and the Texas Pacific Group - one of the biggest corporate buyouts in Australian history. 
+</div>
+</td>
+</tr>
+</table>
+<a href="http://www.examiner.com/Washington_DC-Business.html"><strong>More Business</strong></a> 
+<div>
+<div id="panel_TopNews">
+<ul>
+      	        	<li><a href="http://www.examiner.com/a-455251~Airline_Mergers_Could_Raise_Fares_in__07.html">Airline Mergers Could Raise Fares in '07</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-455257~Taco_Bell_Sales_Hit_by_E__Coli_Outbreak.html">Taco Bell Sales Hit by E. Coli Outbreak</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454566~Hurd_Asked_to_Explain_Cashout_of_Options.html">Hurd Asked to Explain Cashout of Options</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="apanel_divider" style="margin-top: 8px;">
+<div id="header_red" class="header_red_bg"><a href="http://www.examiner.com/Washington_DC-Health.html">Health</a></div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h2">
+<a href="http://www.examiner.com/a-455229~Group_Wants_FDA_to_Review_More_Drug_Ads.html">Group Wants FDA to Review More Drug Ads</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<div id="panel_leadstory">
+<span class="panel_timestamp">
+1 hr 17 mins ago, WASHINGTON
+</span>
+<br/>
+Regulators are issuing fewer citations to drug companies for false and misleading advertisements and are taking longer to do it, a congressional report says. 
+</div>
+</td>
+</tr>
+</table>
+<a href="http://www.examiner.com/Washington_DC-Health.html"><strong>More Health</strong></a> 
+<div>
+<div id="panel_TopNews">
+<ul>
+      	        	<li><a href="http://www.examiner.com/a-454244~Study__Fast_Colonoscopies_Miss_Growths.html">Study: Fast Colonoscopies Miss Growths</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454316~Circumcision_May_Cut_Risk_of_HIV.html">Circumcision May Cut Risk of HIV</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454475~FDA_May_Expand_Antidepressant_Warning.html">FDA May Expand Antidepressant Warning</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="apanel_divider" style="margin-top: 8px;">
+<div id="header_red" class="header_red_bg"><a href="http://www.examiner.com/Washington_DC-Technology.html">Technology</a></div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h2">
+<a href="http://www.examiner.com/a-454024~Gartner__Blogging_to_Peak_in_2007.html">Gartner: Blogging to Peak in 2007</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<div id="panel_leadstory">
+<span class="panel_timestamp">
+10 hrs ago, BOSTON
+</span>
+<br/>
+Could blogging be near the peak of its popularity? The technology gurus at Gartner Inc. believe so. 
+</div>
+</td>
+</tr>
+</table>
+<a href="http://www.examiner.com/Washington_DC-Technology.html"><strong>More Technology</strong></a> 
+<div>
+<div id="panel_TopNews">
+<ul>
+      	        	<li><a href="http://www.examiner.com/a-455152~Personal_Data_Hacked_at_Texas_College.html">Personal Data Hacked at Texas College</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-455209~Consumers_Seeking_Backup_Options_Online.html">Consumers Seeking Backup Options Online</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454287~Man_Gets_8_Years_for_Computer_Sabotage.html">Man Gets 8 Years for Computer Sabotage</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div style="margin-top: 8px;">
+<div id="header_red" class="header_red_bg"><a href="http://www.examiner.com/Washington_DC-Science.html">Science</a></div>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<div class="panel_h2">
+<a href="http://www.examiner.com/a-455330~Space_Station_Solar_Wing_Half_Retracted.html">Space Station Solar Wing Half-Retracted</a>
+</div>
+</td>
+</tr>
+<tr valign="top">
+<td>
+<a href="http://www.examiner.com/a-455330~Space_Station_Solar_Wing_Half_Retracted.html"><img src="http://www.examiner.com/images/ap/thumb/thumb_NY13312140114.jpg" alt="In this photo provided by NASA, space shuttle Discovery astronaut Robert L. Curbeam, Jr. participates in the mission's first of three planned sessions of extravehicular activity (EVA) as construction resumes on the international space station, Tuesday Dec. 12, 2006. A power tool, attached to Curbeam's spacesuit, floats at left. (AP Photo/NASA)" border="0" align="left" class="img_left" width="128" height="84.5"></a>
+<div id="panel_leadstory">
+<span class="panel_timestamp">
+3 mins ago, CAPE CANAVERAL, Fla.
+</span>
+<br/>
+After almost 50 start-and-stop commands, dozens of engineering huddles and seven hours of working on the task, NASA decided on Wednesday to leave a 115-foot solar wing on the international space station halfway retracted. 
+</div>
+</td>
+</tr>
+</table>
+<a href="http://www.examiner.com/Washington_DC-Science.html"><strong>More Science</strong></a> 
+<div>
+<div id="panel_TopNews">
+<ul>
+      	        	<li><a href="http://www.examiner.com/a-455186~Judge__Gov_t_Broke_Law_in_Grizzly_Case.html">Judge: Gov't Broke Law in Grizzly Case</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-453845~Rare_White_Dolphin_Declared_As_Extinct.html">Rare White Dolphin Declared As Extinct</a>
+</li>
+      	        	<li><a href="http://www.examiner.com/a-454186~Mammals_May_Have_Flown_Before_Birds.html">Mammals May Have Flown Before Birds</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<div class="travidiaAd">
+<center>
+<script src="http://shopdc.examiner.com/ROP/JAdTiles.aspx?n=1&amp;ringtype=3&amp;imagewidth=300&amp;imageheight=1000&amp;singleadv=true"></script>
+<a href="http://shopdc.examiner.com/">View More Local Offers</a>
+</center>
+</div>
+<img src="http://www.examiner.com/img/blank.gif" height="4"><br/>
+</div>
+</td>
+</tr>
+</table>
+<!--google_ad_section_end(weight=ignore)-->
+</td>
+
+
+<td class="gutter">&nbsp;</td>
+<td valign="top">
+	<table width="160" cellpadding="0" cellspacing="0">
+	<tr><td>
+		
+	<div style="padding-top: 5px;">
+	
+	</div>
+
+
+				
+		
+		
+		
+			
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+			<script language="JavaScript">
+			document.write('<SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/examiner.Washington_DC/Home;tile=8;dcopt=ist;sz=160x600;ord=\'+ord+\'?" ><\/SCRIPT>');
+			</script>
+			<script>
+			if ((!document.images && navigator.userAgent.indexOf("Mozilla/2.") >= 0)  || navigator.userAgent.indexOf("WebTV")>= 0) {
+			document.write('<A HREF="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;tile=8;dcopt=ist;sz=160x600;" TARGET="_blank">');
+			document.write('<IMG SRC="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;tile=8;dcopt=ist;sz=160x600;" WIDTH="160" HEIGHT="600" BORDER="0" ALT=""></A>');
+			}
+			</script>
+			<noscript>
+			<a href="http://ad.doubleclick.net/jump/examiner.Washington_DC/Home;tile=8;dcopt=ist;sz=160x600;" target="_blank">
+			<img src="http://ad.doubleclick.net/ad/examiner.Washington_DC/Home;tile=8;dcopt=ist;sz=160x600;" width="160" height="600" border="0" alt=""></a>
+			</noscript>	
+		
+		
+
+	
+	<div style="padding-top: 5px;">
+	
+	</div>
+
+		
+	</td></tr>
+	</table>
+</td>
+
+</tr>
+
+<tr id="footer">
+		<td align="center" valign="top" colspan="3">
+		<hr>
+			<p>
+				<a href="http://www.examiner.com/rss/news_headlines.html">Add News to Your Website</a> | <a href="http://www.examiner.com/rss/">RSS</a> | <a href="http://www.examiner.com/Washington_DC-Topics.html">News by Topic</a> | <a href="http://www.examiner.com/Contact_Us.html">Contact Us</a> | <a href="http://www.examiner.com/join_examiner.html">Join Examiner</a>  | <a href="http://www.examiner.com/Copyright.html">Copyright</a> | <a href="http://www.examiner.com/Terms_of_Use.html">Terms of Use</a> | <a href="http://www.examiner.com/Privacy_Policy.html">Privacy Policy</a>
+				<br/>
+				<strong style="color: #134a9e;">Advertise with Examiner: </strong><a href="http://www.examiner.com/advertise/mediakit">In Print</a> | <a href="http://www.examiner.com/advertise">Online</a>
+			</p>
+			<p>
+			<!-- Search Google -->
+<center>
+<form method="get" action="http://www.google.com/custom" target="_new">
+<table bgcolor="#ffffff">
+<tr><td nowrap="nowrap" valign="top" align="left" height="32">
+<a href="http://www.google.com/">
+<img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google" align="middle"></img></a>
+<input type="text" name="q" size="31" maxlength="255" value=""></input>
+<input type="submit" name="sa" value="Search"></input>
+<input type="hidden" name="client" value="pub-7479725245717969"></input>
+<input type="hidden" name="forid" value="1"></input>
+<input type="hidden" name="ie" value="ISO-8859-1"></input>
+<input type="hidden" name="oe" value="ISO-8859-1"></input>
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;LH:0;LW:0;L:http://www.examiner.com/img/logo_examiner.gif;S:http://www.examiner.com;FORID:1;"></input>
+<input type="hidden" name="hl" value="en"></input>
+</td></tr></table>
+</form>
+</center>
+<!-- Search Google -->
+			</p>
+		</td>
+	</tr>
+</table>
+ 
+<div id="dropmenu1" class="dropmenudiv">
+<table border="0" width="100%">
+	<tr>
+		<td valign="top">
+		 <strong><a href="http://www.examiner.com/National-Home.html?setEdition=National" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','National Set Edition Link');">National</a></strong>
+		 <a href="http://www.examiner.com/Atlanta-Home.html?setEdition=Atlanta" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Atlanta Set Edition Link');">Atlanta</a>
+		 <a href="http://www.examiner.com/Baltimore-Home.html?setEdition=Baltimore" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Baltimore Set Edition Link');">Baltimore</a>
+			<a href="http://www.examiner.com/Boston-Home.html?setEdition=Boston" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Boston Set Edition Link');">Boston</a>
+			<a href="http://www.examiner.com/Chicago-Home.html?setEdition=Chicago" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Chicago Set Edition Link');">Chicago</a>
+			<a href="http://www.examiner.com/Cleveland-Home.html?setEdition=Cleveland" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Cleveland Set Edition Link');">Cleveland</a>
+			<a href="http://www.examiner.com/Dallas-Home.html?setEdition=Dallas" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Dallas Set Edition Link');">Dallas</a>
+			<a href="http://www.examiner.com/Denver-Home.html?setEdition=Denver" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Denver Set Edition Link');">Denver</a>
+			<a href="http://www.examiner.com/Detroit-Home.html?setEdition=Detroit" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Detroit Set Edition Link');">Detroit</a>
+			<a href="http://www.examiner.com/Houston-Home.html?setEdition=Houston" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Houston Set Edition Link');">Houston</a>
+			<a href="http://www.examiner.com/Indianapolis-Home.html?setEdition=Indianapolis" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Indianapolis Set Edition Link');">Indianapolis</a>
+			<a href="http://www.examiner.com/Los_Angeles-Home.html?setEdition=Los_Angeles" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Los Angeles Set Edition Link');">Los Angeles</a>
+			<a href="http://www.examiner.com/Miami-Home.html?setEdition=Miami" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Miami Set Edition Link');">Miami</a>
+		</td>
+		<td valign="top">
+			<a href="http://www.examiner.com/Minneapolis_|_St._Paul-Home.html?setEdition=Minneapolis_|_St._Paul" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Minneapolis St. Paul Set Edition Link');">Minneapolis - St. Paul</a>
+			<a href="http://www.examiner.com/New_York-Home.html?setEdition=New_York" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','New York Set Edition Link');">New York</a>
+			<a href="http://www.examiner.com/Philadelphia-Home.html?setEdition=Philadelphia" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Philadelphia Set Edition Link');">Philadelphia</a>
+			<a href="http://www.examiner.com/Phoenix-Home.html?setEdition=Phoenix" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Phoenix Set Edition Link');">Phoenix</a>
+			<a href="http://www.examiner.com/Pittsburgh-Home.html?setEdition=Pittsburgh" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Pittsburgh Set Edition Link');">Pittsburgh</a>
+			<a href="http://www.examiner.com/Portland-Home.html?setEdition=Portland" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Portland Set Edition Link');">Portland</a>
+			<a href="http://www.examiner.com/San_Diego-Home.html?setEdition=San_Diego" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','San Diego Set Edition Link');">San Diego</a>
+			<a href="http://www.examiner.com/San_Francisco-Home.html?setEdition=San_Francisco" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','San Francisco Set Edition Link');">San Francisco</a>
+			<a href="http://www.examiner.com/San_Jose-Home.html?setEdition=San_Jose" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','San Jose Set Edition Link');">San Jose</a>
+			<a href="http://www.examiner.com/Seattle-Home.html?setEdition=Seattle" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Seattle Set Edition Link');">Seattle</a>
+			<a href="http://www.examiner.com/St._Louis-Home.html?setEdition=St._Louis" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','St. Louis Set Edition Link');">St. Louis</a>
+			<a href="http://www.examiner.com/Washington_DC-Home.html?setEdition=Washington_DC" onclick="var s=s_gi('examinercom'); s.linkTrackVars='events'; s.linkTrackEvents='event7'; s.events='event7'; s.tl(this,'o','Washington DC Set Edition Link');">Washington DC</a>	 
+
+		</td>
+	</tr>
+</table>
+</div>
+
+<!--google_ad_section_end(weight=ignore)-->
+
+
+
+
+ 
+<!-- SiteCatalyst code version: H.4.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+
+	
+
+<script language="JavaScript">
+
+
+s.pageName="Home";
+s.server="1140";
+s.channel="Home";
+s.pageType="";
+s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+s.prop6="";
+s.prop7="";
+s.prop8="";
+s.prop9="";
+s.prop10="Washington_DC";
+
+s.campaign="";
+s.state="";
+s.zip="";
+s.events="";
+s.products="";
+s.purchaseID="";
+s.eVar1="";
+s.eVar2="";
+s.eVar3="";
+s.eVar4="";
+s.eVar5="Washington_DC";
+s.eVar6="Washington DC";
+
+s.hier1="Home";
+
+
+
+
+var s_code=s.t();if(s_code)document.write(s_code);</script>
+<script language="JavaScript">
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
+</script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.4. -->
+
+ 
+</body>
+</html>
+ <!--
+     FILE ARCHIVED ON 06:54:49 Dec 14, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:14:40 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 97.175 (3)
+  esindex: 0.01
+  captures_list: 153.266
+  CDXLines.iter: 13.718 (3)
+  PetaboxLoader3.datanode: 101.281 (4)
+  exclusion.robots: 0.166
+  exclusion.robots.policy: 0.157
+  RedisCDXSource: 37.986
+  PetaboxLoader3.resolve: 53.128
+  load_resource: 100.343
+-->

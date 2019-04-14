@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>JournalStar.com - Lincoln, Nebraska  - Local</title>
+</head>
+
+
+<body>
+<script type="text/javascript" src="http://www.journalstar.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('journalstar.com'); TNTracker.setTracker('http://www.journalstar.com/shared-content/stats/common/tracker.gif', 'https://secure.townnews.com/shared-content/stats/common/tracker.gif'); TNTracker.trackPageView(); }
+// -->
+</script>
+<div class="main">
+  
+<div id="flag">
+     <div class="front-logo">
+     <a href="http://journalstar.com/search/" title="JournalStar.com"><img src="http://www.journalstar.com/art/section/archives.gif"></a>  <!-- <h4>Lincoln, Nebraska's News and Information Source</h4> -->
+  </div>
+    
+<div class="wx">
+  <div class="wx-curr"><span class="wx-label">Now</span><br/><img src="http://www.journalstar.com/resources/images/wx/nskc.jpg" alt="Fair" height="25" width="25"><br/>53&deg;</div>
+  <div class="wx-ad">
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"/></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1136268000) && (nAdsysTime <= 1230789599)) {
+aAd = new Array('+weather', '37043-1222705595', 'swf');
+aAd[3] = '120';
+aAd[4] = '60';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Flibertyfirstcu.com';
+aAd[6] = '%2Bweather';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1209618000) && (nAdsysTime <= 1241153999)) {
+aAd = new Array('+weather', '126549-1209589472', 'swf');
+aAd[3] = '120';
+aAd[4] = '60';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.myfurnacebroke.com%2F';
+aAd[6] = '%2Bweather';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1215838800) && (nAdsysTime <= 1231739999)) {
+aAd = new Array('+weather', '137306-1215811720', 'swf');
+aAd[3] = '120';
+aAd[4] = '60';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.cune.edu%2F';
+aAd[6] = '%2Bweather';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1216702800) && (nAdsysTime <= 1251781199)) {
+aAd = new Array('+weather', '138809-1218126804', 'js');
+aAd[7] = 150;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1222923600) && (nAdsysTime <= 1226815199)) {
+aAd = new Array('+weather', '151641-1222986887', 'swf');
+aAd[3] = '120';
+aAd[4] = '60';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.nelottery.com%2Farticle.xsp%3Faid%3D1545';
+aAd[6] = '%2Bweather';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+  <div class="wx-fc"><div class="wx-label">High</div>62&deg;</div>
+<div class="wx-fc"><div class="wx-label">Low</div>43&deg;</div>
+  <div class="wx-tright"><a href="http://www.journalstar.com/weather/" title="Full Forecast" onclick="s_objectID='wx-forecast'">Full Forecast<img src="http://www.journalstar.com/resources/images/wx-arrow.png" height="8" width="6"></a></div>
+</div>
+
+
+  <div class="flag-right">
+    <div id="search">
+  <form name="search_compact" action="http://journalstar.com/resources/scripts/search_mapping.php" method="POST">
+    Search: 
+    <select name="search">
+      <option value="news">News</option>
+      <option value="classifieds">Classifieds</option>
+      <option value="adventure">Today's Ads</option>
+      <option value="calendar">Calendar</option>
+      <option value="media">Media</option>
+      <option value="gallery">Gallery</option>
+      <option value="web">Web</option>
+    </select>
+    for:
+    <input type="text" name="keyword" value="" size="20">
+    <input type="submit" value="Go">
+  </form>
+  <div style="float: right; margin: 0 28px 0 0; font-family: Verdana; font-size: 9px;">Web Search powered by <span style="color: #F03;">YAHOO!</span> <span style="color: #545454;">SEARCH</span> | <a href="http://journalstar.com/search/" title="Advanced Search" style="font-size: 9px; font-weight: bold;">(Advanced Search)</a></div>
+</div>
+      
+          </div>
+<!--    <div class="todayon">
+     <span style="font-weight: bold;">Today on JournalStar.com</span><br />
+     [newswatch:4]   </div>
+   <div class="leaderboard" style="float: left;">
+		<script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/leaderboard/static.js"></script>
+	  </div>  -->
+   <div></div>
+   <div class="mid-verts">
+<div class="circle"><a href="http://journalstar.com/jobs/"><img src="http://www.journalstar.com/resources/images/icons/circles/jobs.gif" target="_blank"><br/>Jobs</a></div>
+<div class="circle"><a href="http://lincoln.wheelsforyou.com/"><img src="http://www.journalstar.com/resources/images/icons/circles/cars.gif" target="_blank"><br/>Cars</a></div>
+<div class="circle"><a href="http://lincolnhomesandrealestate.com/"><img src="http://www.journalstar.com/resources/images/icons/circles/homes.gif" target="_blank"><br/>Homes</a></div>
+<div class="circle"><a href="http://apartmentsforyou.com/"><img src="http://www.journalstar.com/resources/images/icons/circles/rentals.gif" target="_blank"><br/>Rentals</a></div>
+<div class="circle"><a href="http://journalstar.com/services/alerts/" target="_blank"><img src="http://www.journalstar.com/resources/images/icons/circles/alerts.gif"><br/>Alerts</a></div>
+<div class="circle"><a href="http://journalstar.com/services/circulation/" target="_blank"><img src="http://www.journalstar.com/resources/images/icons/circles/subscribe.gif"><br/>Subscribe</a></div>
+</div>
+<div></div>
+  <div id="nav">
+  <div id="date"><!-- start date.inc - JavaScript Datestamp -->
+<script language="JavaScript" type="text/javascript"><!--
+var now = new Date();
+var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+var monNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+document.write(dayNames[now.getDay()] + ", " + monNames[now.getMonth()] + " " + now.getDate() + ", " + now.getFullYear());
+//--></script>
+<noscript>Tuesday, October 7, 2008</noscript>
+<!-- end date.inc --></div>
+  <a id="home" href="http://journalstar.com/" onclick="s_objectID='nav-home'" title="Home">Home</a>
+  <a id="news" href="http://journalstar.com/news/" onclick="s_objectID='nav-news'" title="News">News</a>
+  <a id="sports" href="http://journalstar.com/sports/" onclick="s_objectID='nav-sports'" title="Sports">Sports</a>
+  <a id="entertainment" href="http://journalstar.com/living/gz/" onclick="s_objectID='nav-entertainment'" title="Entertainment">Entertainment</a>
+  <a id="opinion" href="http://journalstar.com/opinion/" onclick="s_objectID='nav-opinion'" title="Opinion">Blogs &amp; Opinion</a>
+  <a id="media" href="http://media.journalstar.com/" onclick="s_objectID='nav-media'" title="Media">Media</a>
+  <a id="classifieds" href="http://journalstar.com/classifieds/" onclick="s_objectID='nav-classifieds'" title="Classifieds">Classifieds</a>
+  <a id="services" href="http://journalstar.com/services/contact/" onclick="s_objectID='nav-contact'" title="Contact Us">Help</a>
+  <a id="obits" href="http://www.legacy.com/journalstar/" onclick="s_objetID='nav-obits'" title="Obituaries">Obituaries</a>
+</div>
+<div id="subnav">
+  <div id="home-menu">
+  <!-- <span style="color: #000;">Quick Start:</span>&nbsp;&nbsp;&nbsp; -->
+    <a href="http://journalstar.com/services" title="Subscribe" onclick="s_objectID='subnav-subscribe'">Subscribe</a>
+	<a href="https://secure.townnews.com/journalstar.com/secure/services_forms/circulation/recycle/" title="Recycle" onclick="s_objectID='subnav-recycle'">Recycle</a>
+	<a href="http://www.starcitydiningcard.com/" title="Star City Dining Card" onclick="s_objectID='subnav-scd'">Dining Card</a>
+	<a href="http://journalstar.mycapture.com/mycapture/index.asp" title="Photos &amp; More Store" onclick="s_objectID='subnav-photos_more'">Photos &amp; More</a>
+	<a href="http://www.402411.com/" title="Newsletters" onclick="s_objectID='subnav-newsletters'">Newsletters</a>
+	<a href="http://journalstar.com/business_achievements" title="Business Achievements" onclick="s_objectID='subnav-bizachieves'">Biz Achievements</a>
+	<a href="http://journalstar.com/celebrate" title="Celebrate!" onclick="s_objectID='subnav-celebrate'">Celebrate!</a>
+	<a href="http://journalstar.com/promotions" title="Contests &amp; Promotions" onclick="s_objectID='subnav-contests'">Contests</a>
+	<a href="http://ultimatehomedelivery.com/" title="Ultimate Home Delivery" onclick="s_objectID='subnav-uhd'">Ultimate Home Delivery</a>
+	<a href="http://402411.com/" title="Subscribe" onclick="s_objectID='subnav-402411'">402411</a>
+	<a class="last" href="https://secure.townnews.com/journalstar.com/secure/promo/path_to_pelini/" title="Pelini Book" onclick="s_objectID='subnav-pelini'">Path to Pelini</a>
+  </div>
+  <div id="news-menu">
+    <a href="http://journalstar.com/news/local/" title="Local" onclick="s_objectID='subnav-local'">Local</a> 
+    <a href="http://journalstar.com/news/nebraska/" title="Nebraska" onclick="s_objectID='subnav-nebraska'">Nebraska</a> 
+    <a href="http://journalstar.com/news/world/" title="Nation &amp; World" onclick="s_objectID='subnav-nation'">Nation &amp; World</a> 
+    <a href="http://journalstar.com/news/business" title="Business &amp; Markets" onclick="s_objectID='subnav-business'">Business &amp; Markets</a> 
+    <a href="http://journalstar.com/news/politics/" title="Politics &amp; Government" onclick="s_objectID='subnav-politics'">Politics &amp; Government</a>
+    <a href="http://journalstar.com/special_reports/" title="Special Reports" onclick="s_objectID='subnav-specialreports'">Special Reports</a> 
+    <a href="http://www.legacy.com/journalstar/" title="Obituaries" onclick="s_objectID='subnav-newsobits'">Obituaries</a>
+	<a class="last" href="http://journalstar.com/archives/" title="Browse Archives" onclick="s_objectID='subnav-archives'">Archives</a>
+  </div>
+  <div id="sports-menu"> 
+    <a href="http://www.huskerextra.com/" title="HuskerExtra.com" onclick="s_objectID='subnav-sportshuskerextra'">HuskerExtra</a>
+    <a href="http://journalstar.com/sports/prep_extra/" title="Prep Extra" onclick="s_objectID='subnav-prepextra'">Prep Extra</a> 
+	<a class="last" href="http://journalstar.com/ap/sports/" title="Sports Wire" onclick="s_objectID='subnav-sportswire'">Sports Wire</a>
+    
+  </div>
+  <div id="entertainment-menu">
+    <a href="http://www.journalstar.com/living/gz/">Ground Zero</a>
+    <a href="http://www.journalstar.com/living/gz/movies/">Movies</a>
+	<a href="http://journalstar.com/living/402/" title="The 402" onclick="s_objectID='subnav-402'">The (402)</a>
+    <a href="http://www.journalstar.com/calendar/">Calendar</a>
+    <a href="http://journalstar.com/living/family/" title="Family" onclick="s_objectID='subnav-family'">Family</a> 
+    <a href="http://journalstar.com/living/food/" title="Food" onclick="s_objectID='subnav-food'">Food</a> 
+    <a href="http://journalstar.com/living/home_and_garden/" title="Home &amp; Garden" onclick="s_objectID='subnav-homeandgarden'">Home &amp; Garden</a> 
+	<a href="http://journalstar.com/living/home_and_garden/go_green/" title="Go Green" onclick="s_objectID='subnav-gogreen'">Go Green</a>
+	<a href="http://journalstar.com/bridal/" title="Star City Bridal" onclick="s_objectID='subnav-bridal'">Bridal</a>
+    <a class="last" href="http://journalstar.com/living/religion/" title="Religion" onclick="s_objectID='subnav-religion'">Religion</a> 
+  </div>
+  <div id="opinion-menu">
+    <a href="http://journalstar.com/opinion/editorial/" title="Editorial" onclick="s_objectID='subnav-editorials'">Editorials</a>    
+    <a href="http://journalstar.com/opinion/letters/" title="Letters" onclick="s_objectID='subnav-letters'">Letters</a>
+    <a href="http://journalstar.com/opinion/columns/" title="Columnists" onclick="s_objectID='subnav-columnists'">Columnists</a>
+    <a href="http://journalstar.com/blog/soundoff.php" title="Sound Off" onclick="s_objectID='subnav-soundoff'">Sound Off</a>
+    <a class="last" href="http://journalstar.com/blogs/" title="Blogs" onclick="s_objectID='subnav-opinionblogs'">Blogs</a> 
+  </div>
+  <div id="media-menu">
+    <a href="http://media.journalstar.com/podcast/" title="Podcasts" onclick="s_objectID='subnav-podcasts'">Podcasts</a> 
+    <a href="http://journalstar.com/shared-content/gallery/" title="Galleries" onclick="s_objectID='subnav-galleries'">Galleries</a>
+    <a href="http://media.journalstar.com/videos/" title="Videos" onclick="s_objectID='subnav-videos'">Videos</a>
+    <a class="last" href="http://media.journalstar.com/interactive/" title="Interactive Graphics" onclick="s_objectID='subnav-graphics'">Interactive Graphics</a>
+  </div>
+  <div id="classifieds-menu">
+    <a href="http://journalstar.com/adventure" title="AdVenture" onclick="s_objectID='subnav-adventure'">AdVenture</a>
+    <a href="http://www.apartmentsforyou.com/" title="Apartments For You" target="_blank" onclick="s_objectID='subnav-apartments'">Apartments For You</a>
+    <a href="http://journalstar.com/classifieds/" title="Classified Ads" onclick="s_objectID='subnav-classifieds'">Classified Ads</a>
+    <a href="http://lincoln.wheelsforyou.com/" title="Wheels For You" target="_blank" onclick="s_objectID='subnav-wheels'">Wheels For You</a>
+    <a href="http://www.workforyounebraska.com/" title="Work For You" target="_blank" onclick="s_objectID='subnav-workforyou'">Work For You</a>
+	<a href="http://lincolnhomesandrealestate.com/" title="Lincoln Homes &amp; Real Estate" s_objectid="subnav-homes" ">Homes and Real Estate</a>
+	<a href="http://classifiedtv.journalstar.com/" title="ClassifiedTV" s_objectid="subnav-classifiedTV" ">ClassifiedTV</a>
+    <a href="http://www.journalstar.com/classifieds/lincoln/ne/FCP/" onclick="s_objectID='subnav-ForeClose'">Search Foreclosure</a> 
+    <a class="last" href="http://journalstar.com/services/advertising/classified/" onclick="s_objectID='subnav-placead'">Place An Ad</a> 
+    </div>
+  <div id="services-menu">
+    <a href="http://journalstar.com/services/info/" title="Other Information" onclick="s_objectID='subnav-otherinfo'">About LJS</a>
+    <a href="http://journalstar.com/services/contact/" title="Contact LJS" onclick="s_ojectID='subnav-contactus'">Contact Us</a>
+    <a href="http://www.journalstar.com/services/library/">FAQ's</a>
+	<a href="http://journalstar.com/rss/" onclick="s_objectID='subnav-rss'">RSS</a>
+    <a href="http://journalstar.com/services/circulation/" title="Subscription &amp; Delivery" onclick="s_objectID='subnav-subscription'">Subscription &amp; Delivery</a> 
+    <a href="http://journalstar.com/services/library" title="Library" onclick="s_objectID='subnav-library'">LJS Library</a>    
+    <a href="http://journalstar.com/services/employment/" title="Employment" onclick="s_objectID='subnav-employment'">Employment</a> 
+    <a href="http://journalstar.com/search/" title="Search LJS" onclick="s_objectID='subnav-helpsearch'">Search JournalStar.com</a>
+    <a class="last" href="http://journalstar.com/help/sitemap/" title="Site Map" onclick="s_objectID='subnav-sitemap'">Site Map</a>
+  </div>
+</div>
+<!-- Horizontal Navigation Using JQuery, Version 0.9.1 -->
+<script type="text/javascript" language="JavaScript"><!--
+function in_array(haystack, needle) {
+  for(var i = 0; i < haystack.length; i++) { if(needle == haystack[i]) { return true; } }
+  return false;
+}
+var hover_time = null;
+var menus = new Array("home", "news", "sports", "commnunity", "living", "opinion", "media", "classifieds", "services", "search");
+var menuitems = location.pathname.substr(1).split("/");
+$(document).ready( function() {     
+  $("#nav a").each( function(i) {
+    $(this).mouseover( function() {
+      if(!$(this).is(".selected")) {
+        var current = this;
+        hover_time = setTimeout( function () {
+          $("#nav a.selected").removeClass("selected");
+          $("#subnav div.showing").removeClass("showing").hide();
+          $(current).addClass("selected");
+          $($("#subnav div").get(i)).addClass("showing").show();
+        }, 225);
+      }
+    });
+    $(this).mouseout( function() { clearTimeout(hover_time); } );
+  });
+  var menu = (menuitems[0] == "articles") ? menuitems[4] : menuitems[0];
+  if(menu == "archives") { menu = "search"; }
+  if(menu == "" || !in_array(menus, menu)) { menu = "home"; }
+  $("#" + menu).addClass("selected");
+  $("#" + menu + "-menu").addClass("showing").show();
+});
+//--></script>
+<!-- end Horizontal Navigation Using JQuery, Version 0.9.1 -->
+</div>
+
+  <div class="extraNav"><div class="breadcrumbs"><a href="http://www.journalstar.com/">Home</a> &gt; 
+
+<a href="http://www.journalstar.com/local/">Local</a></div><div class="bookmark"><a href="javascript:void(0);" onclick="javascript:createBookmark();">Bookmark Us</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href="javascript:void(0);" onclick="javascript:createHomepage();">Make Us Your Homepage</a></div></div>
+  <div id="maincontent">
+  <div class="middle-leaderboard">
+    <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/leaderboard/static.js"></script>
+  </div>
+  <div class="leftcol">
+
+   <div class="content" style="font-size: 12px;">
+ <h1>Immigration critics vent their displeasure</h1>
+<script language="JavaScript">
+<!--
+function show_share() {
+  jQuery("#share").toggle();
+}
+-->
+</script>
+<div class="tools">
+  <div class="tool-items">
+    <img src="http://www.journalstar.com/resources/images/comments.gif" alt="Comments">&nbsp;<a href="#blogcomments">4 comment(s)</a>&nbsp;&nbsp;<br/>
+    <img src="http://www.journalstar.com/resources/images/mail-grey.gif" alt="E-mail Story">&nbsp;<a href="javascript:void(0)" onclick="window.open('/articles/2006/05/06/local/doc445d36b12acf3654514468.eml', 'email', 'scrollbars=1,width=500,height=600')" title="E-mail Story">E-mail Story</a><br/>
+    <img src="http://www.journalstar.com/resources/images/printer.gif" alt="Print Story">&nbsp;<a href="http://www.journalstar.com/articles/2006/05/06/local/doc445d36b12acf3654514468.prt" target="printable">Print Story</a><br/>
+    <img src="http://www.journalstar.com/resources/images/share.gif" alt="Share">&nbsp; <a href="javascript:void(0);" onclick="show_share();">Share</a><br/>
+    <div id="share" style="display: none;">
+       	<a href="http://digg.com/submit?url=www.journalstar.com//local/doc445d36b12acf3654514468.txt&amp;title=Immigration critics vent their displeasure&amp;bodytext=&amp;media=news&amp;topic="><img src="http://digg.com/img/badges/16x16-digg-guy.gif" width="16" height="16" alt="Digg!"/>&nbsp;digg it!</a><br/>
+         <a href="http://www.facebook.com/sharer.php?u=www.journalstar.com//local/doc445d36b12acf3654514468.txt&amp;t=JournalStar.com - Immigration critics vent their displeasure"><img src="http://www.journalstar.com/resources/images/share/facebook.gif">&nbsp;Facebook</a><br/>
+         <a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent('Immigration critics vent their displeasure'), 'delicious','toolbar=no,width=700,height=400'); return false;"><img src="http://www.journalstar.com/resources/images/share/delicious.small.gif">&nbsp;del.icio.us</a><br/>
+         <a href="javascript:void(0)" onclick="window.open('http://www.newsvine.com/_wine/save?popoff=1&amp;u=www.journalstar.com//local/doc445d36b12acf3654514468.txt','newsvine','toolbar=no,width=590,height=600,resizable=yes,scrollbars=yes')"><img src="http://www.newsvine.com/_vine/images/identity/button_seednewsvine.gif" alt="" border="0" width="16" height="16"/> Seed Newsvine</a><br/>
+         <a href="http://cgi.fark.com/cgi/fark/farkit.pl?u=www.journalstar.com//local/doc445d36b12acf3654514468.txt&amp;h=Immigration critics vent their displeasure"><img src="http://www.journalstar.com/resources/images/share/fark.gif"> Fark It</a><br/>
+         <a href="http://reddit.com/submit?url=www.journalstar.com//local/doc445d36b12acf3654514468.txt&amp;title=Immigration critics vent their displeasure"><img src="http://static.reddit.com/blog_head.png"> Reddit</a>
+    </div>
+  </div>
+  <div style="clear: both; float: left;">Text Size:&nbsp;</div>
+  <a href="javascript:void(0);" onclick="resize_content(00);"><img src="http://www.journalstar.com/resources/images/story/font-size-small.png" style="float: left;"></a>
+  <a href="javascript:void(0);" onclick="resize_content(25);"><img src="http://www.journalstar.com/resources/images/story/font-size-med.png" style="float: left;"></a>
+  <a href="javascript:void(0);" onclick="resize_content(50);"><img src="http://www.journalstar.com/resources/images/story/font-size-large.png" style="float: left;"></a>
+  <!-- <div class="slider"><div id="sliderText"><div id="indicatorText"></div></div></div>-->
+  <div style="clear: both; font-size: 10px; width: 100%; text-align: center;">Tools Sponsor</div>
+  <div class="story_tools_ad"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1208235600) && (nAdsysTime <= 1523854799)) {
+aAd = new Array('+story_tools', '123899-1208355131', 'jpg');
+aAd[3] = 'https://secure.townnews.com/journalstar.com/secure/services_forms/circulation/recycle/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+</div>
+     <h4>By ART HOVEY / Lincoln Journal Star</h4>
+<div class="datestamp" style="margin-left: 2px;">Saturday, May 06, 2006 - 07:03:58 pm CDT</div>
+
+<p>About 50 people gathered in Lincoln&rsquo;s Antelope Park Saturday for a rally organized by a fledgling group called Nebraskans Fed Up with Illegal Immigration.<br/><br/>Lincoln resident Stan Sipple, who identified himself earlier in the week as the group&rsquo;s state coordinator, presided over an hourlong program that began with the Pledge of Allegiance and ended with &ldquo;God Bless America.&rdquo;<br/><br/>In between, Sipple and several other speakers spoke out against illegal immigration, lax enforcement of immigration laws, and other factors that have contributed to a recent surge in attention toward an estimated 12 million undocumented workers in the United States.</p>
+
+
+<div class="modSm">
+<div style="width: 98%; text-align: right;"><a href="#image" title="Enlarge" class="image" style="font-size: 10px; color: #333;">[+]Enlarge</a></div>
+<div class="story-image"><a href="#image" title="Enlarge" class="image" style="font-size: 10px; color: #333;"><img src="http://www.journalstar.com/content/articles/2006/05/06/local/doc445d36b12acf3654514468.jpg" alt="Story Photo"></a></div>
+<div class="content">Kent Byers and Scott Kelley, veterans of the U.S. Army and Navy respectively, discuss border control issues before the Nebraskans Fed Up With Illegal Immigration Rally at Antelope Park, Saturday, May 6, 2006. (Teresa Prince) </div>
+</div>
+
+<div id="imagebox" style="display: none; cursor: default">
+<a href="#cancel" title="Close" class="cancel" style="display: block; text-align: right; background-color: #eee; padding: 5px; font-weight: bold;"><img src="http://www.journalstar.com/resources/images/story/close.png" style="padding: 0; border: 0;"></a>
+    <img src="http://www.journalstar.com/content/articles/2006/05/06/local/doc445d36b12acf3654514468.jpg" alt="Story Photo">
+    <div class="content">Kent Byers and Scott Kelley, veterans of the U.S. Army and Navy respectively, discuss border control issues before the Nebraskans Fed Up With Illegal Immigration Rally at Antelope Park, Saturday, May 6, 2006. (Teresa Prince) </div>
+    
+</div>
+
+
+
+
+
+<p>&ldquo;What we&rsquo;re here to do today is to honor the silent majority who don&rsquo;t want illegal immigration anymore,&rdquo; Sipple said.<br/><br/>Although the audience seated in front of the park&rsquo;s band shell was small, enthusiasm ran high. Applause was frequent and a mostly middle-aged group responded on cue when Sipple and others gave them a chance.<br/><br/>&ldquo;Do you think they&rsquo;re just doing jobs that we don&rsquo;t want to do?&rdquo; Sipple asked at one point.<br/><br/>&ldquo;No way,&rdquo; responded his listeners.<br/><br/>Saturday&rsquo;s rally is the latest Lincoln development in several weeks of heightened political activism on the immigration front.<br/><br/>It has taken shape as Congress debates both tougher and more lenient immigration policies.<br/><br/>April 10 rallies in support of more lenient options attracted thousands of marchers to Lincoln and Omaha.<br/><br/>A candlelight vigil in Lincoln and more marches in Omaha and other cities marked a national observance of &ldquo;A Day without Immigrants&rdquo; this past Monday.<br/><br/>Its organizers called on Hispanic workers to skip work for the day and to boycott non-Hispanic stores as a demonstration of economic power.<br/><br/>Highly visible events that included Spanish chants and the waving of the Mexican and other foreign flags obviously did not mesh with the attitudes of those who came to Antelope Park Saturday.<br/><br/>Sought out beforehand, 68-year-old Morris Sullivan of Grand Island said it was time for Americans to stand up for America.<br/><br/>&ldquo;I would like to see a lot of support by concerned people like myself that we&rsquo;ve had enough,&rdquo; Sullivan said. &ldquo;Let&rsquo;s make our legislators understand that we want to see some strict laws with teeth in them.&rdquo;<br/><br/>Justin Dobesh, 28, and wife Jessica, 27, of Omaha made similar points.<br/><br/>&ldquo;Illegal means illegal,&rdquo; said Jessica Dobesh, who later took her turn at the microphone. &ldquo;They&rsquo;re breaking the law. They shouldn&rsquo;t be rewarded for that.&rdquo;<br/><br/>She said her father lives in California, where he&rsquo;s a witness to what she described as children of illegal immigrants overwhelming the public education system. &ldquo;It&rsquo;s just ridiculous down there.&rdquo;<br/><br/>Justin Dobesh said racial origins were not a factor in his thinking. &ldquo;This could be Canadians coming down and I&rsquo;d feel the same way,&rdquo; he said.<br/><br/>Margrit Payne, 66, of Lincoln carried the flags of her native Germany and of the United States when she came forward to speak during the program. As a U.S. citizen, &ldquo;I will never, never wave this flag here,&rdquo; she said of the German flag.<br/><br/>&ldquo;This is the flag I wave,&rdquo; she said as she hoisted the red, white and blue.<br/><br/>Scott Kelley of Elkhorn, who identified himself as a Vietnam War veteran and as a former California resident, said he left that state in 1993 after living there for more than 30 years.<br/><br/>&ldquo;I had to leave California to re-enter the United States,&rdquo; he said.<br/><br/>Although Sipple also portrayed the park event as &ldquo;not against any ethnic groups or nationalities,&rdquo; Kelley at one point referred to &ldquo;invaders who assault our young girls.&rdquo;<br/><br/>Sipple said afterwards that he did not see that as a racist remark but rather as a reference to the way women are mistreated by new arrivals from other cultures. &ldquo;That&rsquo;s a huge issue in western Europe right now,&rdquo; he said.<br/><br/>Leaflets circulated during the Lincoln event called attention to another immigration protest outside the Mexican Consulate in Omaha May 20.<br/><br/>Sipple said there were no organizational developments with his group afterwards. &ldquo;We didn&rsquo;t really discuss leadership, organization, things like that. Another person took down names to create a mailing list later.&rdquo;<br/><br/>He called the turnout &ldquo;a great start.&rdquo;<br/><br/>Reach Art Hovey at 523-4949 or at <a href="mailto:ahovey@alltel.net">ahovey@alltel.net</a>.</p>
+<br><!--<a href="javascript:void(0);" onclick="window.open('https://secure.townnews.com/journalstar.com/secure/2weeks/', 'TryLJSFree', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=yes, width=600, height=675')" title="Subscribe Today"><img src="/resources/images/tryus.jpg" alt="Try Us Free For 2 weeks."></a>-->
+<a href="https://secure.townnews.com/journalstar.com/secure/services_forms/circulation/subscription_promotion/promo.php?offer=1;sw1;bottomofstory" title="Subscribe Today"><img src="http://www.journalstar.com/resources/images/tryus_sunday.jpg" alt="$1 Sunday Delivery - Subscribe Today!"></a>
+<div style="background-color: #ddd; border: 1px solid #ccc; margin: 10px 0 10px 0; padding: 5px; width: 97%;"><a href="http://www.journalstar.com/local/">Local</a> &gt; <a href="#" title="Back to top">Back to Top of Story</a></div>
+</div>
+<br/>
+<div class="comments">
+<div class="content">
+<div class="box-top-right" style="width: 580px;"><div class="box-links"><div class="sublabel" style="border-top: 0;"><h1>Post Your Comment</h1><a style="color: #036; font-size: 10px; font-weight: normal; background: none; padding: 0; float: right;" href="javascript:void(0)" onclick="javascript:window.open('/help/standards_and_rules/', 'standards', 'scrollbars=1,resizeable=0,width=600,height=600')">Standards and Rules</a></div></div>
+</div>
+<div class="box-left">
+<div class="box-right" style="width: 572px;">
+ <div class="notice">All posts to JournalStar.com are subject to our <a href="javascript:void(0)" onclick="javascript:window.open('/help/terms_of_use/', 'terms', 'scrollbars=1,resizeable=0,,width=600,height=600')">Terms</a> and <a href="javascript:void(0)" onclick="javascript:window.open('/help/standards_and_rules/', 'standards', 'scrollbars=1,resizeable=0,,width=600,height=600')">Standards</a>.<br>Your posted comment will appear after it has been approved.<br><a href="javascript:void(0)" onclick="javascript:window.open('/help/story_commenting_faq/', 'terms', 'scrollbars=1,resizeable=0,,width=600,height=600')">Frequently asked questions</a> about story commenting.</div>
+  <div id="comment-form"><a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.journalstar.com/articles/2006/05/06/local/doc445d36b12acf3654514468.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label> <input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-email-block"><label for="personemail" class="simpleblog-form-label">Email:</label> <span class="simpleblog-email-field">(optional)</span> <input type="text" id="personemail" name="personemail" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: </label><img id="simpleblog-captcha" width="125" height="50" src="http://www.journalstar.com/shared-content/newsys/common/generatecaptcha.php?1223431896"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/><input type="SUBMIT" value="Post Comment"/></div></form></div></div>
+</div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right" style="width: 561px;"></div>
+
+
+<div class="tools">
+  <div class="tool-items">
+    <span id="sbct-hide" style="float: left;"><img src="http://www.journalstar.com/resources/images/delete.gif" alt="Hide Comments">&nbsp;<a href="javascript:void(0)" onclick="javascript:toggleComments()" title="Hide Comments">Hide Comments</a>&nbsp;&nbsp;</span>
+    <span id="sbct-show" style="float: left; display: none;"><img src="http://www.journalstar.com/resources/images/add.gif" alt="Show Comments">&nbsp;<a href="javascript:void(0)" onclick="javascript:toggleComments()" title="Show Comments">Show Comments</a>&nbsp;&nbsp;</span>
+    <span id="sbct-desc" style="float: right;"><img src="http://www.journalstar.com/resources/images/arrow_down.gif" alt="Newest First">&nbsp;<a href="javascript:void(0)" onclick="javascript:orderById('desc');" title="Newest First">Newest First</a>&nbsp;&nbsp;</span>
+    <span id="sbct-asc" style="float: right; display: none;"><img src="http://www.journalstar.com/resources/images/arrow_up.gif" alt="Oldest First">&nbsp;<a href="javascript:void(0)" onclick="javascript:orderById('asc');" title="Oldest First">Oldest First</a>&nbsp;&nbsp;</span>
+  </div>
+</div>
+
+<div class="modLg" style="background: none;">
+  <div id="comment-results"><a id="blogcomments"></a><div class="simpleblog-results"><a id="e47a77e9cfbfe3b71d66ccfebddd150a"></a><span class="comment-sort"><span class="simpleblog-name">jerry</span> wrote on <span class="simpleblog-date">May 6, 2006 7:21 pm:</span><div class="simpleblog-response">&quot; maybe a web site online would get sign ups to send to the senators and congressmen. Everyone not in favor of illegal immigration should start making the message clear.  I for one am not looking forward to illegals moving by the hords into my area. I have seen what they do to the schools in your state. &quot;</div><br/></span>
+<a id="9d7262ae0b2aeea5116e4d455897e347"></a><span class="comment-sort"><span class="simpleblog-name">Judy Cantrell</span> wrote on <span class="simpleblog-date">May 6, 2006 8:15 pm:</span><div class="simpleblog-response">&quot; I wonder when these protestors will picket the meat packing plants. Build them and they will come! By the way, the Czech flag is flown in Wilber, NE. &quot;</div><br/></span>
+<a id="aecd82143cc46af36a41625659f180e0"></a><span class="comment-sort"><span class="simpleblog-name">Liz</span> wrote on <span class="simpleblog-date">May 6, 2006 8:45 pm:</span><div class="simpleblog-response">&quot; What a fearful group of people. They should take a long hard look at themselves in the mirror. I'm glad they had such a pathetic turnout.  &quot;</div><br/></span>
+<a id="85a848f8fd3b97944de3c14fef57313b"></a><span class="comment-sort"><span class="simpleblog-name">Ryan</span> wrote on <span class="simpleblog-date">May 6, 2006 9:57 pm:</span><div class="simpleblog-response">&quot; The United States is the land of the free.  Why can't Mexicans that came to America be free just like everybody else in this country whose ancestors came from other countrys.  Why are Mexicans different than our anscestors.  I think there might be a little racism involved.  They are just people trying to make a living and feed their families just like us white people do.  They have families and children to take care of just like we do.  Who cares how they got here,  the fact is that they are here so they are Americans and from what I have seen firsthand very productive Americans!!  It is nearly impossible to come to this country legally these days and I know this from personal experience and friends that have tried and know the system.  A human being is a human being no matter where they came from or what the color of their skin is. &quot;</div><br/></span>
+</div></div>
+</div>
+
+</div>
+</div>
+<div class="story-ad"> 
+<!-- Yahoo Content Match Category = news -->
+
+                <style type="text/css">
+                        @import url('http://www.journalstar.com/shared-content/newsys-yahoo-search/css/content_match_styles.css');
+                </style>
+                <div class="yahoo_content_match"><h1><a class="side_ads" href="http://searchmarketing.yahoo.com/" rel="nofollow">Ads by Yahoo!</a></h1>
+
+<div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AAv5jU4L6EByxtY8MBmLn4W0b11mskz3ntCVYI1SBpIPJ5rNRZ_Y2-4Kut1aSOKAfM_gY1ACWG1WGbez2LT7U1zr8kBV9pL_z8uBIE5r2QX4BTtelVF2lINvJ6db4duRqBaPAb7_Y87X4_rMfwDIyt7yKjm7Kkk-1yIgwEbyb5qiQfVTLU4ihW5lq-WIU3PZST81VzUkDexd0g8SmyxoUeMrvSf2mOKNy2NnLPJ5Qy1bRQES9u7Yix_FTHFZlC6ztX0z4gsGVFNOys78xlM7xT0" rel="nofollow">Lincoln Nebraska New Dealer</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AAv5jU4L6EByxtY8MBmLn4W0b11mskz3ntCVYI1SBpIPJ5rNRZ_Y2-4Kut1aSOKAfM_gY1ACWG1WGbez2LT7U1zr8kBV9pL_z8uBIE5r2QX4BTtelVF2lINvJ6db4duRqBaPAb7_Y87X4_rMfwDIyt7yKjm7Kkk-1yIgwEbyb5qiQfVTLU4ihW5lq-WIU3PZST81VzUkDexd0g8SmyxoUeMrvSf2mOKNy2NnLPJ5Qy1bRQES9u7Yix_FTHFZlC6ztX0z4gsGVFNOys78xlM7xT0" rel="nofollow">Save on a new Lincoln with fast local car dealer quotes.<br/>
+
+<em>Lincoln.SmartAutoSavings.com</em></a></p></div><div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ANJsThhQIBAaE9enoD17zFm8RmyLBH-aBruofZxYbwhkSdbqE0OywrHu3_i4BY_TV_PEypcQowUh96-Ob4EmapcD8q9U6GXiH9Yf-EVv8E0z6bMHXfeCdBIa7lILUQywhSbGdyv6KXCK5fegZWFQXJV2t8q5LrTaoZflkdfTLXN_68jxu8GXuOg3Lyugfio5cTsF2s7sFVjNaepNga7BHj3ECwOVa9UTNAX1DaM6etadNaKtruBNdBDQ6MNSzTM4rUSQ0JZKLBEWjsgS9o3wtpc" rel="nofollow">acuvue advance rebate</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ANJsThhQIBAaE9enoD17zFm8RmyLBH-aBruofZxYbwhkSdbqE0OywrHu3_i4BY_TV_PEypcQowUh96-Ob4EmapcD8q9U6GXiH9Yf-EVv8E0z6bMHXfeCdBIa7lILUQywhSbGdyv6KXCK5fegZWFQXJV2t8q5LrTaoZflkdfTLXN_68jxu8GXuOg3Lyugfio5cTsF2s7sFVjNaepNga7BHj3ECwOVa9UTNAX1DaM6etadNaKtruBNdBDQ6MNSzTM4rUSQ0JZKLBEWjsgS9o3wtpc" rel="nofollow">Get a free trial pair of ACUVUE® ADVANCE™ contacts with HYDRACLEAR™.<br/>
+
+<em>www.acuvue.com</em></a></p></div><div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ABi3z7rJxqHX8zB4iYGEpYvFO3nrpu0Psf3qxsR2ZWULRLzvm14GvwEPcutQuh8srmP4wUaj8j4w1oXTVVev_PQVFe5fG80NRNYyg42aQD-n-Jgj0CKzwagJUs42a7O_Adm_hSAHflkh3WBkwCSwwoZ1UbMlc9DVHbrbjZvH5EezUOVga5_n8PP-Kov-fJUyhRmzxnjKontkQ1UGs01e8-qorcyat0XsVLqnEGeDJANCpE2nWwNzrgEsgv88RUPttQ" rel="nofollow">Aspen Builders Inc. - Lincoln NE</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ABi3z7rJxqHX8zB4iYGEpYvFO3nrpu0Psf3qxsR2ZWULRLzvm14GvwEPcutQuh8srmP4wUaj8j4w1oXTVVev_PQVFe5fG80NRNYyg42aQD-n-Jgj0CKzwagJUs42a7O_Adm_hSAHflkh3WBkwCSwwoZ1UbMlc9DVHbrbjZvH5EezUOVga5_n8PP-Kov-fJUyhRmzxnjKontkQ1UGs01e8-qorcyat0XsVLqnEGeDJANCpE2nWwNzrgEsgv88RUPttQ" rel="nofollow">See our current homes for sale. Top quality homes at competitive prices. We build Custom Homes in Lincoln, NE and have a large selection of homes for sale that you can see right now.<br/>
+
+<em>www.aspenbuildersinc.com</em></a></p></div></div></div>
+
+
+</div>
+  <div class="middlecol">
+
+
+ <div id="stories-box">
+<div class="box-top-right" style="width: 347px;"><div class="box-links"><div class="sublabel" style="border-top: 0; float: left;"><h1 class="last-link"><a href="http://www.journalstar.com/local" style="font-size: 12px;">More Stories In Local</a></h1></div></div></div>
+<div class="box-left">
+<div class="box-right">
+ <div class="section-stories">
+	<ul>
+  </ul>
+ 
+ </div>
+</div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right"></div>
+</div>
+
+<div class="story-ad"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1213333200) && (nAdsysTime <= 1528952399)) {
+aAd = new Array('+in_story', '132773-1213384942', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+ <div id="most-box">
+<div class="box-top-right" style="width: 347px;"><div class="box-links"><div class="sublabel" style="border-top: 0; float: left;"><h1><a href="javascript:void(0);" onclick="section_switch('recent-updates', 'most-box');" id="recent-updates-link" style="font-size: 12px;">Recent Updates</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('most-commented', 'most-box');" id="most-commented-link" style="font-size: 12px;">Most Commented</a></h1><h1 class="last-link"><a href="javascript:void(0);" onclick="section_switch('most-read', 'most-box');" id="most-read-link" style="font-size: 12px;">Most Read</a></h1></div></div></div>
+<div class="box-left">
+<div class="box-right">
+ <div class="recent-updates" style="display: none;">
+     <div id="newswatch"><ul style="line-height: 12px;"><li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc48ebe43501b8c571480792.txt"><span style="color: #f00;">Updated:</span> Standoff in Syracuse ends; no violence</a><br/><span class="datestamp">10-7-2008 9:01 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/nebraska/doc48ec0b77b7b69542419956.txt">Iowa girl abandoned at Omaha hospital</a><br/><span class="datestamp">10-7-2008 8:25 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc48ebf17041478991577553.txt">Company to decide about pursuing arena</a><br/><span class="datestamp">10-7-2008 6:41 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc48ebf0cc21cba723056953.txt">Woman says war veteran assaulted her</a><br/><span class="datestamp">10-7-2008 6:40 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc48ebef27ce016516178093.txt">Power shut-offs soar during tough times</a><br/><span class="datestamp">10-7-2008 6:08 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc48ebe8781bebb720584440.txt">UNL faculty host aff. action debate</a><br/><span class="datestamp">10-7-2008 6:02 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc48ebe16590735254427076.txt">Man pleads no contest in Premo case</a><br/><span class="datestamp">10-7-2008 5:32 PM</span></li>
+</ul></div>
+ </div>
+ <div class="most-read">
+ <h3>Most Read Stories</h3>
+   <a href="http://www.journalstar.com/articles/2008/10/07/news/local/doc48eb5c810f353909343514.txt">Police look for man who assaulted girl <span class="popular-count">(3661)</span></a><br/><a href="http://www.journalstar.com/articles/2008/10/07/news/local/doc48eb5579c785e045674459.txt">Police look for men from rollover <span class="popular-count">(3338)</span></a><br/><a href="http://www.journalstar.com/articles/2008/10/07/news/local/doc48eb8658e2681583364934.txt">Harris Overpass to reopen Friday <span class="popular-count">(1649)</span></a><br/><a href="http://www.journalstar.com/articles/2008/10/07/news/local/doc48eb87771e6ee933913659.txt">Casady: Mom reconsiders leaving daughter at 'safe haven' <span class="popular-count">(1548)</span></a><br/><a href="http://www.journalstar.com/articles/2008/10/07/news/local/doc48ead72705be4039235504.txt">Fire chief could be Austin-bound <span class="popular-count">(1542)</span></a><br/>
+ </div>
+  <div class="most-commented" style="display: none;">
+    <h3>Most Commented local</h3>
+   <ul class="topblogs-list"><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2008/10/06/news/local/doc48e952fbd3d48701483137.txt">'Life Chain' lines up against abortion</a> <span class="topblogs-count">(82)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2008/10/07/news/local/doc48ea28bda070b348854382.txt">Boy, 12, is latest safe-haven dropoff</a> <span class="topblogs-count">(54)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2008/10/07/news/local/doc48ead72705be4039235504.txt">Fire chief could be Austin-bound</a> <span class="topblogs-count">(23)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2008/10/07/news/local/doc48eb5c810f353909343514.txt">Police look for man who assaulted girl</a> <span class="topblogs-count">(21)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2008/10/07/news/local/doc48eb87771e6ee933913659.txt">Casady: Mom reconsiders leaving daughter at 'safe haven'</a> <span class="topblogs-count">(19)</span></li></ul> </div>
+ </div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right"></div>
+</div>
+
+<div style="width: 100%; float: left; text-align: center; margin: 5px 0 5px 0; position: relative;"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if (((nAdsysTime >= 1223355600) && (nAdsysTime <= 1223441940) || (nAdsysTime >= 1223442000 && nAdsysTime <= 1223528340))) {
+aAd = new Array('+right_tower', '132775-1213384741', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+
+<!-- no subnav for local -->
+
+
+<div style="margin: 5px 0 5px 0; clear: both; float: left;">
+
+<script language="JavaScript">
+<!--
+      var oc = new ObjectControl();
+		oc.set_object_attribute('classid','clsid:d27cdb6e-ae6d-11cf-96b8-444553540000');
+		oc.set_object_attribute('codebase','http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0');
+		oc.set_object_attribute('width','345');
+		oc.set_object_attribute('height','177');
+		oc.set_object_attribute('id','carousel');
+      oc.set_object_param('wmode','transparent');  
+      oc.set_embed_attribute('wmode','transparent');
+		oc.set_object_param('allowScriptAccess','sameDomain');
+      oc.set_object_param('movie','/resources/flash/carousel/flipper.swf');
+      oc.set_object_param('quality','best');
+//oc.set_object_param('FlashVars','');
+      oc.set_embed_attribute('src','/resources/flash/carousel/flipper.swf');
+      oc.set_embed_attribute('quality','best');
+		oc.set_embed_attribute('width','345');
+		oc.set_embed_attribute('height','177');
+		oc.set_embed_attribute('name','carousel-embed');
+		oc.set_embed_attribute('id', 'carousel-embed');
+		oc.set_embed_attribute('allowScriptAccess','sameDomain');
+//oc.set_embed_attribute('FlashVars','');
+		oc.set_embed_attribute('type','application/x-shockwave-flash');
+		oc.set_embed_attribute('pluginspage','http://www.macromedia.com/go/getflashplayer');
+
+		oc.write_object();
+      -->
+</script>
+</div>
+
+<div id="topads-box">
+<div class="box-top-right"> <div class="box-links"><div class="sublabel" style="border-top: 0;"><h1><a href="javascript:void(0);" onclick="section_switch('jobs', 'topads-box');" id="jobs-link" class="sub-link">Jobs</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('homes', 'topads-box');" id="homes-link" class="sub-link">Homes</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('rentals', 'topads-box');" id="rentals-link" class="sub-link">Rentals</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('wheels', 'topads-box');" id="wheels-link">Wheels</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('pets', 'topads-box');" id="pets-link" class="sub-link">Pets</a></h1><h1 class="last-link"><a href="javascript:void(0);" onclick="section_switch('stuff', 'topads-box');" id="stuff-link" class="sub-link">Stuff</a></h1></div></div></div>
+<div class="box-left">
+<div class="box-right">
+  <div class="jobs" style="display: none;">
+      <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/topjobs/static.js"></script>
+  </div>
+  <div class="homes" style="display: none;">
+      <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/tophomes/static.js"></script>
+  </div>
+   <div class="rentals" style="display: none;">
+      <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/toprentals/static.js"></script>
+  </div>
+  <div class="wheels">
+       <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/tophorizontal/static.js"></script>
+  </div>
+  <div class="pets" style="display: none;">
+    <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/top_pets/static.js"></script>
+  </div>
+  <div class="stuff" style="display: none;">
+    <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/topstuff/static.js"></script>
+  </div>
+    <div class="morelink">More Top <a href="http://www.journalstar.com/topads/jobs/more/">Jobs</a> | <a href="http://www.journalstar.com/topads/homes/more/">Homes</a> | <a href="http://www.journalstar.com/topads/rentals/more/">Rentals</a> | <a href="http://www.journalstar.com/topads/wheels/more/">Wheels</a> | <a href="http://www.journalstar.com/topads/pets/more/">Pets</a> | <a href="http://www.journalstar.com/topads/stuff/more/">Stuff</a></div>
+  </div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right"></div>
+</div>
+
+</div>
+  </div>
+
+</div>
+<div id="footer">
+  <div class="content">
+    <div class="message">
+      Copyright &copy; 2002-2008, Lincoln Journal Star. All rights reserved.&nbsp;|&nbsp;
+      <a href="javascript:void(0)" onclick="javascript:window.open('http://journalstar.com/help/privacy_policy/', 'privacy', 'width=600,height=600,scrollbars=1,resizeable=0')" title="Privacy Policy">Privacy Policy</a>&nbsp;|&nbsp;
+      <a href="http://journalstar.com/services/contact/" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;
+      <a href="http://journalstar.com/help/sitemap/" title="Site Map">Site Map</a>
+    </div>
+      <div class="search" style="text-align: right; width: 410px;"><a href="http://us.rd.yahoo.com/my/atm/Lincoln%20Journal%20Star/JournalStar.com%20News/*http://add.my.yahoo.com/rss?url=http%3A//journalstar.com/rss/%3Fcat%3Dlocal" target="_blank"><img src="http://www.journalstar.com/resources/images/icons/yahoo_icon_story.gif" alt="Add to My Yahoo!"></a>
+<a href="http://journalstar.com/rss/?cat=local" style="margin-left: 10px;"><img src="http://www.journalstar.com/resources/images/icons/rss-footer.gif"></a>
+</div></div>
+  </div>
+</div>
+
+<!-- <div id="textalert-box" style="display: none; cursor: default"> 
+  <div style="border: 15px solid #000;">
+    <div style="border: 3px solid #900; background: #fff; padding: 15px 10px 20px 10px;">
+	<a style="float: right" href="javascript:void(0);" onclick="javascript:jQuery.unblockUI();" title="Close">[X]&nbsp;Close</a>
+      <h1>Win tickets to see Nebraska play Western Michigan at Memorial Stadium on August 30th!</h1><br>
+      <a href="http://402411.com/promos/huskerTickets.php" target="_self" title="Enter Now"><img src="http://402411.com/resources/images/HuskerAlerts.jpg" alt="Enter Now"></a>
+	  <div style="clear: both;"><h1><a href="http://402411.com/promos/huskerTickets.php" target="_self" title="Enter Now">Sign up for Husker Extra text alerts today!</a></h1></div><br>
+      
+    </div>
+  </div>
+</div>  -->
+
+<div style="position: absolute; top: 0; left: 0; ">
+  <!-- journalstar omniture extension v1.0.0 -->
+<!-- SiteCatalyst code version: H.7. Copyright 1997-2006 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="http://journalstar.com/resources/omniture/s_code.js"></script>
+<script language="JavaScript"><!--
+/* Omniture Params to record. */
+s.server='Lincoln Journal Star';
+s.channel='journalstar.com';
+s.pageName='Archived Article: local: Immigration critics vent their displeasure';
+s.prop6='Lincoln Journal Star';
+s.prop7='Immigration critics vent their displeasure';
+s.prop8='By ART HOVEY / Lincoln Journal Star';
+s.prop15='Tuesday';
+s.hier1='Lee Enterprises,Lincoln Journal Star,journalstar.com,,,,,';
+s.hier2='Lee Enterprises,,Lincoln Journal Star,journalstar.com,,,,';
+
+var d = new Date();
+s.prop14 = d.getHours() + ':00';
+
+var rss = parseInt(s.getQueryParam('orss'));
+switch(rss) {
+case 1:
+  s.prop21 = 'RSS Article: ' + s.prop7;
+  break;
+case 2:
+  s.prop21 = 'RSS Gallery Photo: ' + s.prop16 + ', ' + s.prop17;
+  break;
+}
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. --></div>
+
+</body>
+</html>
+
+
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 19:11:38 Oct 07, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:57:22 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 121.833 (3)
+  esindex: 0.008
+  captures_list: 216.082
+  CDXLines.iter: 17.447 (3)
+  PetaboxLoader3.datanode: 95.278 (4)
+  exclusion.robots: 0.18
+  exclusion.robots.policy: 0.167
+  RedisCDXSource: 18.362
+  PetaboxLoader3.resolve: 49.658 (2)
+  load_resource: 64.677
+-->

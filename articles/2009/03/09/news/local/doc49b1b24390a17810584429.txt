@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>JournalStar.com - Lincoln, Nebraska  - News - Local</title>
+</head>
+
+
+<body>
+<script type="text/javascript" src="http://stats.townnews.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('journalstar.com'); TNTracker.setTrackerDomain('stats.townnews.com'); TNTracker.trackPageView(); }
+// -->
+</script>
+<div class="main">
+  
+<div id="flag">
+     <div class="front-logo">
+     <a href="http://journalstar.com/search/" title="JournalStar.com"><img src="http://www.journalstar.com/art/section/archives.gif"></a>  <!-- <h4>Lincoln, Nebraska's News and Information Source</h4> -->
+  </div>
+    
+<div class="wx">
+  <div class="wx-curr"><span class="wx-label">Now</span><br/><img src="http://www.journalstar.com/resources/images/wx/nskc.jpg" alt="Fair" height="25" width="25"><br/>14&deg;</div>
+  <div class="wx-ad">
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"/></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1216702800) && (nAdsysTime <= 1251781199)) {
+aAd = new Array('+weather', '138809-1226938145', 'js');
+aAd[7] = 150;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1233468000) && (nAdsysTime <= 1249102799)) {
+aAd = new Array('+weather', '168957-1233095509', 'swf');
+aAd[3] = '120';
+aAd[4] = '60';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fenrichinghappiness.com%2F';
+aAd[6] = '%2Bweather';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1235887200) && (nAdsysTime <= 1243832399)) {
+aAd = new Array('+weather', '173732-1235662384', 'swf');
+aAd[3] = '120';
+aAd[4] = '60';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fbeaconhills.com%2F';
+aAd[6] = '%2Bweather';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1236492000) && (nAdsysTime <= 1262325599)) {
+aAd = new Array('+weather', '175452-1236287158', 'jpg');
+aAd[3] = 'http://www.letstalkliberty.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+  <div class="wx-fc"><div class="wx-label">High</div>24&deg;</div>
+<div class="wx-fc"><div class="wx-label">Low</div>7&deg;</div>
+  <div class="wx-tright"><a href="http://www.journalstar.com/weather/" title="Full Forecast" onclick="s_objectID='wx-forecast'">Full Forecast<img src="http://www.journalstar.com/resources/images/wx-arrow.png" height="8" width="6"></a></div>
+</div>
+
+
+  <div class="flag-right">
+    <div id="search">
+  <form name="search_compact" action="http://journalstar.com/resources/scripts/search_mapping.php" method="POST">
+    Search: 
+    <select name="search">
+      <option value="news">News</option>
+      <option value="classifieds">Classifieds</option>
+      <option value="adventure">Today's Ads</option>
+      <option value="calendar">Calendar</option>
+      <option value="media">Media</option>
+      <option value="gallery">Gallery</option>
+      <option value="web">Web</option>
+    </select>
+    for:
+    <input type="text" name="keyword" value="" size="20">
+    <input type="submit" value="Go">
+  </form>
+  <div style="float: right; margin: 0 28px 0 0; font-family: Verdana; font-size: 9px;">Web Search powered by <span style="color: #F03;">YAHOO!</span> <span style="color: #545454;">SEARCH</span> | <a href="http://journalstar.com/search/" title="Advanced Search" style="font-size: 9px; font-weight: bold;">(Advanced Search)</a></div>
+</div>
+      
+          </div>
+<!--    <div class="todayon">
+     <span style="font-weight: bold;">Today on JournalStar.com</span><br />
+     [newswatch:4]   </div>
+   <div class="leaderboard" style="float: left;">
+		<script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/leaderboard/static.js"></script>
+	  </div>  -->
+   <div></div>
+   <div class="mid-verts">
+<div class="circle"><a href="http://journalstar.com/jobs/"><img src="http://www.journalstar.com/resources/images/icons/circles/jobs.gif" target="_blank"><br/>Jobs</a></div>
+<div class="circle"><a href="http://lincoln.wheelsforyou.com/"><img src="http://www.journalstar.com/resources/images/icons/circles/cars.gif" target="_blank"><br/>Cars</a></div>
+<div class="circle"><a href="http://lincolnhomesandrealestate.com/"><img src="http://www.journalstar.com/resources/images/icons/circles/homes.gif" target="_blank"><br/>Homes</a></div>
+<div class="circle"><a href="http://apartmentsforyou.com/"><img src="http://www.journalstar.com/resources/images/icons/circles/rentals.gif" target="_blank"><br/>Rentals</a></div>
+<div class="circle"><a href="http://journalstar.com/services/alerts/" target="_blank"><img src="http://www.journalstar.com/resources/images/icons/circles/alerts.gif"><br/>Alerts</a></div>
+<div class="circle"><a href="http://journalstar.com/services/circulation/" target="_blank"><img src="http://www.journalstar.com/resources/images/icons/circles/subscribe.gif"><br/>Subscribe</a></div>
+</div>
+<div></div>
+  <div id="nav">
+  <a id="home" href="http://journalstar.com/" onclick="s_objectID='nav-home'" title="Home">Home</a>
+  <a id="news" href="http://journalstar.com/news/" onclick="s_objectID='nav-news'" title="News">News</a>
+  <a id="sports" href="http://journalstar.com/sports/" onclick="s_objectID='nav-sports'" title="Sports">Sports</a>
+  <a id="entertainment" href="http://journalstar.com/living/gz/" onclick="s_objectID='nav-entertainment'" title="Entertainment">Entertainment</a>
+  <a id="opinion" href="http://journalstar.com/opinion/" onclick="s_objectID='nav-opinion'" title="Opinion">Blogs &amp; Opinion</a>
+  <a id="media" href="http://media.journalstar.com/" onclick="s_objectID='nav-media'" title="Media">Media</a>
+  <a id="classifieds" href="http://journalstar.com/classifieds/" onclick="s_objectID='nav-classifieds'" title="Classifieds">Classifieds</a>
+  <a id="services" href="http://journalstar.com/services/contact/" onclick="s_objectID='nav-contact'" title="Contact Us">Help</a>
+  <a id="shopping" href="http://starcitydeals.com/" onclick="s_objectID='nav-shopping'" title="Shopping">Shopping</a>
+  <a id="weather" href="http://journalstar.com/weather/" onclick="s_objectID='nav-weather'" title="Weather">Weather</a>
+  <a id="store" href="http://www.journalstar.com/store" onclick="s_objetID='nav-store'" title="Store">JS Store</a>
+  <a id="obits" href="http://www.legacy.com/journalstar/" onclick="s_objetID='nav-obits'" title="Obituaries">Obituaries</a>
+  
+</div>
+<div id="subnav">
+  <div id="home-menu">
+  <!-- <span style="color: #000;">Quick Start:</span>&nbsp;&nbsp;&nbsp; -->
+    <a href="http://journalstar.com/services" title="Subscribe" onclick="s_objectID='subnav-subscribe'">Subscribe</a>
+	<a href="https://secure.townnews.com/journalstar.com/secure/services_forms/circulation/recycle/" title="Recycle" onclick="s_objectID='subnav-recycle'">Recycle</a>
+	<a href="http://www.starcitydiningcard.com/" title="Star City Dining Card" onclick="s_objectID='subnav-scd'">Dining Card</a>
+	<a href="http://www.402411.com/" title="Newsletters" onclick="s_objectID='subnav-newsletters'">Newsletters</a>
+	<a href="http://journalstar.com/business_achievements" title="Business Achievements" onclick="s_objectID='subnav-bizachieves'">Biz Achievements</a>
+	<a href="http://journalstar.com/celebrate" title="Celebrate!" onclick="s_objectID='subnav-celebrate'">Celebrate!</a>
+	<a href="http://journalstar.com/promotions" title="Contests &amp; Promotions" onclick="s_objectID='subnav-contests'">Promotions</a>
+	<!--<a href="http://ultimatehomedelivery.com" title="Ultimate Home Delivery" onclick="s_objectID='subnav-uhd'">Ultimate Home Delivery</a>-->
+	<a href="http://402411.com/" title="Subscribe" onclick="s_objectID='subnav-402411'">402411</a>
+	<a class="last" href="http://journalstar.com/store" title="Buy Photos &amp; More" onclick="s_objectID='subnav-photos_more'">Buy Photos &amp; More</a>
+	
+  </div>
+  <div id="news-menu">
+    <a href="http://journalstar.com/news/local/" title="Local" onclick="s_objectID='subnav-local'">Local</a> 
+    <a href="http://journalstar.com/news/nebraska/" title="Nebraska" onclick="s_objectID='subnav-nebraska'">Nebraska</a> 
+	<a href="http://journalstar.com/news/politics/" title="Politics" onclick="s_objectID='subnav-politics'">Politics</a>
+    <a href="http://journalstar.com/news/world/" title="Nation &amp; World" onclick="s_objectID='subnav-nation'">Nation &amp; World</a> 
+    <a href="http://journalstar.com/news/business" title="Business" onclick="s_objectID='subnav-business'">Business</a> 
+      <a href="http://journalstar.com/special_reports/" title="Special Reports" onclick="s_objectID='subnav-specialreports'">Special Reports</a> 
+    <a href="http://www.legacy.com/journalstar/" title="Obituaries" onclick="s_objectID='subnav-newsobits'">Obituaries</a>
+	<a href="http://www.journalstar.com/weather/closings/" title="Weather Closings" onclick="s_objectID='subnav-weatherclosings'">Weather Closings</a>
+	<a href="http://journalstar.com/archives/" title="Browse Archives" onclick="s_objectID='subnav-archives'">Archives</a>
+	<a class="last" href="http://www.neighborhoodextra.com/" title="Neighborhood Extra" onclick="s_objectID='subnav-Nextra'">Neighborhood Extra</a>
+
+  </div>
+  <div id="sports-menu"> 
+    <a href="http://www.huskerextra.com/" title="HuskerExtra.com" onclick="s_objectID='subnav-sportshuskerextra'">HuskerExtra</a>
+    <a href="http://journalstar.com/sports/prep_extra/" title="Prep Extra" onclick="s_objectID='subnav-prepextra'">Prep Extra</a> 
+    <a href="http://www.mystarcitysports.com/" title="mystarcitysports.com" onclick="s_objectID='subnav-prepextra'">Youth Sports</a>
+    <a class="last" href="http://journalstar.com/ap/sports/" title="Sports Wire" onclick="s_objectID='subnav-sportswire'">Sports Wire</a>
+    
+  </div>
+  <div id="entertainment-menu">
+    <a href="http://www.journalstar.com/living/gz/">Ground Zero</a>
+    <a href="http://www.journalstar.com/living/gz/movies/">Movies</a>
+	<a href="http://journalstar.com/living/402/" title="The (402)411" onclick="s_objectID='subnav-402'">The (402)411</a>
+	<a href="http://www.journalstar.com/celebrate/" title="Celebrate Nebraska" onclick="s_objectID='subnav-celebrate'">Celebrate</a> 
+	<a href="http://www.starcitybridal.com/" title="Star City Bridal" onclick="s_objectID='subnav-bridal'">Bridal</a>
+	<a href="http://www.journalstar.com/living/home_and_garden/go_green/" title="Go Green" onclick="s_objectID='subnav-gogreen'">Go Green</a>
+    <a class="last" href="http://www.journalstar.com/calendar/">Calendar</a>
+      
+	  
+  </div>
+  <div id="opinion-menu">
+    <a href="http://journalstar.com/opinion/editorial/" title="Editorial" onclick="s_objectID='subnav-editorials'">Editorials</a>    
+    <a href="http://journalstar.com/opinion/letters/" title="Letters" onclick="s_objectID='subnav-letters'">Letters</a>
+    <a href="http://journalstar.com/opinion/columns/" title="Columnists" onclick="s_objectID='subnav-columnists'">Columnists</a>
+    <a href="http://journalstar.com/blog/soundoff.php" title="Sound Off" onclick="s_objectID='subnav-soundoff'">Sound Off</a>
+    <a class="last" href="http://journalstar.com/blogs/" title="Blogs" onclick="s_objectID='subnav-opinionblogs'">Blogs</a> 
+  </div>
+  <div id="media-menu">
+    <a href="http://media.journalstar.com/podcast/" title="Podcasts" onclick="s_objectID='subnav-podcasts'">Podcasts</a> 
+    <a href="http://journalstar.com/shared-content/gallery/" title="Galleries" onclick="s_objectID='subnav-galleries'">Galleries</a>
+    <a href="http://media.journalstar.com/videos/" title="Videos" onclick="s_objectID='subnav-videos'">Videos</a>
+    <a class="last" href="http://media.journalstar.com/interactive/" title="Interactive Graphics" onclick="s_objectID='subnav-graphics'">Interactive Graphics</a>
+  </div>
+  <div id="classifieds-menu">
+   
+    <a href="http://www.apartmentsforyou.com/" title="Apartments For You" target="_blank" onclick="s_objectID='subnav-apartments'">Apartments For You</a>
+    <a href="http://journalstar.com/classifieds/" title="Classified Ads" onclick="s_objectID='subnav-classifieds'">Classified Ads</a>
+    <a href="http://lincoln.wheelsforyou.com/" title="Wheels For You" target="_blank" onclick="s_objectID='subnav-wheels'">Wheels For You</a>
+    <a href="http://www.workforyounebraska.com/" title="Work For You" target="_blank" onclick="s_objectID='subnav-workforyou'">Work For You</a>
+	<a href="http://lincolnhomesandrealestate.com/" title="Lincoln Homes &amp; Real Estate" s_objectid="subnav-homes" ">Homes and Real Estate</a>
+	<a href="http://classifiedtv.journalstar.com/" title="ClassifiedTV" s_objectid="subnav-classifiedTV" ">ClassifiedTV</a>
+    <a href="http://www.journalstar.com/classifieds/lincoln/ne/FCP/FCMap.php" onclick="s_objectID='subnav-ForeClose'">Search Foreclosures</a> 
+    <a href="http://journalstar.com/services/advertising/classified/" onclick="s_objectID='subnav-placead'">Place An Ad</a> 
+	 <a class="last" href="http://journalstar.com/adventure/splash/" title="AdVenture" onclick="s_objectID='subnav-adventure'">Today's Ads</a>
+    </div>
+  <div id="services-menu">
+    <a href="http://journalstar.com/services/info/" title="Other Information" onclick="s_objectID='subnav-otherinfo'">About LJS</a>
+    <a href="http://journalstar.com/services/contact/" title="Contact LJS" onclick="s_ojectID='subnav-contactus'">Contact Us</a>
+    <a href="http://www.journalstar.com/services/library/">FAQ's</a>
+	<a href="http://journalstar.com/rss/" onclick="s_objectID='subnav-rss'">RSS</a>
+    <a href="http://journalstar.com/services/circulation/" title="Subscription &amp; Delivery" onclick="s_objectID='subnav-subscription'">Subscription &amp; Delivery</a> 
+    <a href="http://journalstar.com/services/library" title="Library" onclick="s_objectID='subnav-library'">LJS Library</a>    
+    <a href="http://journalstar.com/services/employment/" title="Employment" onclick="s_objectID='subnav-employment'">Employment</a> 
+    <a href="http://journalstar.com/search/" title="Search LJS" onclick="s_objectID='subnav-helpsearch'">Search JournalStar.com</a>
+    <a class="last" href="http://journalstar.com/help/sitemap/" title="Site Map" onclick="s_objectID='subnav-sitemap'">Site Map</a>
+  </div>
+  <div id="shopping-menu">
+    <a href="http://journalstar.com/adventure/" title="Today's Online Ads" onclick="s_objectID='subnav-adventure'">Today's Online Ads</a>
+    <a href="http://activepaper.olivesoftware.com/adl/AdLauncher.asp?skin=LJSADL" title="Today's Print Ads" onclick="s_ojectID='subnav-printads'">Today's Print Ads</a>
+	<a href="http://www.starcitydeals.com/" onclick="s_objectID='subnav-starcitydeals'">Star City Deals</a>
+    <a href="http://activepaper.olivesoftware.com/Daily/client.asp?skin=LJSDG" onclick="s_objectID='subnav-diningguide'">Dining Guide</a>
+    <a href="http://www.journalstar.com/other/shopping/giftfinder/" onclick="s_objectID='subnav-Gfind'">Gift Finder</a>
+	<a href="http://www.journalstar.com/store/" onclick="s_objectID='subnav-ljstore'">Journal Star Store</a>
+    <a class="last" href="http://www.huskervideo.com/store/pc/viewcategories.asp?idaffiliate=9" title="Husker Extra Store" onclick="s_objectID='subnav-huskerextrastore'">Husker Extra Store</a>
+  </div>
+  <div id="weather-menu">
+    <a href="http://journalstar.com/weather/" title="weather" onclick="s_objectID='subnav-weather'">Weather</a>
+    <a href="http://journalstar.com/weather/closings/" title="Weather Closings" onclick="s_ojectID='subnav-weatherclosings'">Weather Closings</a>
+	<a href="http://402411.com/signup.php?newsletter=1" title="Email Alerts" onclick="s_ojectID='subnav-weatherclosingsemail'">Email Alerts</a>
+	<a class="last" href="http://402411.com/signup.php?textalerts=1" onclick="s_objectID='subnav-weatherclosingalerts'">Text Alerts</a>
+  </div>
+</div>
+<!-- Horizontal Navigation Using JQuery, Version 0.9.1 -->
+<script type="text/javascript" language="JavaScript"><!--
+function in_array(haystack, needle) {
+  for(var i = 0; i < haystack.length; i++) { if(needle == haystack[i]) { return true; } }
+  return false;
+}
+var hover_time = null;
+var menus = new Array("home", "news", "sports", "commnunity", "living", "opinion", "media", "classifieds", "services", "search");
+var menuitems = location.pathname.substr(1).split("/");
+$(document).ready( function() {     
+  $("#nav a").each( function(i) {
+    $(this).mouseover( function() {
+      if(!$(this).is(".selected")) {
+        var current = this;
+        hover_time = setTimeout( function () {
+          $("#nav a.selected").removeClass("selected");
+          $("#subnav div.showing").removeClass("showing").hide();
+          $(current).addClass("selected");
+          $($("#subnav div").get(i)).addClass("showing").show();
+        }, 225);
+      }
+    });
+    $(this).mouseout( function() { clearTimeout(hover_time); } );
+  });
+  var menu = (menuitems[0] == "articles") ? menuitems[4] : menuitems[0];
+  if(menu == "archives") { menu = "search"; }
+  if(menu == "" || !in_array(menus, menu)) { menu = "home"; }
+  $("#" + menu).addClass("selected");
+  $("#" + menu + "-menu").addClass("showing").show();
+});
+//--></script>
+<!-- end Horizontal Navigation Using JQuery, Version 0.9.1 -->
+</div>
+
+  <div class="extraNav"><div class="breadcrumbs"><a href="http://www.journalstar.com/">Home</a> &gt; 
+
+<a href="http://www.journalstar.com/news/">News</a>&nbsp;&gt;&nbsp;<a href="http://www.journalstar.com/news/local/">Local</a></div><div class="bookmark"><a href="javascript:void(0);" onclick="javascript:createBookmark();">Bookmark Us</a> &nbsp;&nbsp;&bull;&nbsp;&nbsp; <a href="javascript:void(0);" onclick="javascript:createHomepage();">Make Us Your Homepage</a></div></div>
+  <div id="maincontent">
+  <div class="middle-leaderboard">
+    <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/leaderboard/static.js"></script>
+  </div>
+  <div class="leftcol">
+
+   <div class="content" style="font-size: 12px;">
+ <h1>Parent objects to 'second' national anthem</h1>
+<script language="JavaScript">
+<!--
+function show_share() {
+  jQuery("#share").toggle();
+}
+-->
+</script>
+<div class="tools">
+  <div class="tool-items">
+    <img src="http://www.journalstar.com/resources/images/comments.gif" alt="Comments">&nbsp;<a href="#blogcomments">75 comment(s)</a>&nbsp;&nbsp;<br/>
+    <img src="http://www.journalstar.com/resources/images/mail-grey.gif" alt="E-mail Story">&nbsp;<a href="javascript:void(0)" onclick="window.open('/articles/2009/03/09/news/local/doc49b1b24390a17810584429.eml', 'email', 'scrollbars=1,width=500,height=600')" title="E-mail Story">E-mail Story</a><br/>
+    <img src="http://www.journalstar.com/resources/images/printer.gif" alt="Print Story">&nbsp;<a href="http://www.journalstar.com/articles/2009/03/09/news/local/doc49b1b24390a17810584429.prt" target="printable">Print Story</a><br/>
+    <img src="http://www.journalstar.com/resources/images/share.gif" alt="Share">&nbsp; <a href="javascript:void(0);" onclick="show_share();">Share</a><br/>
+    <div id="share" style="display: none;">
+       	<a href="http://digg.com/submit?url=www.journalstar.com//news/local/doc49b1b24390a17810584429.txt&amp;title=Parent objects to 'second' national anthem&amp;bodytext=&amp;media=news&amp;topic="><img src="http://digg.com/img/badges/16x16-digg-guy.gif" width="16" height="16" alt="Digg!"/>&nbsp;digg it!</a><br/>
+         <a href="http://www.facebook.com/sharer.php?u=www.journalstar.com//news/local/doc49b1b24390a17810584429.txt&amp;t=JournalStar.com - Parent objects to 'second' national anthem"><img src="http://www.journalstar.com/resources/images/share/facebook.gif">&nbsp;Facebook</a><br/>
+         <a href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent('Parent objects to 'second' national anthem'), 'delicious','toolbar=no,width=700,height=400'); return false;"><img src="http://www.journalstar.com/resources/images/share/delicious.small.gif">&nbsp;del.icio.us</a><br/>
+         <a href="javascript:void(0)" onclick="window.open('http://www.newsvine.com/_wine/save?popoff=1&amp;u=www.journalstar.com//news/local/doc49b1b24390a17810584429.txt','newsvine','toolbar=no,width=590,height=600,resizable=yes,scrollbars=yes')"><img src="http://www.newsvine.com/_vine/images/identity/button_seednewsvine.gif" alt="" border="0" width="16" height="16"/> Seed Newsvine</a><br/>
+         <a href="http://cgi.fark.com/cgi/fark/farkit.pl?u=www.journalstar.com//news/local/doc49b1b24390a17810584429.txt&amp;h=Parent objects to 'second' national anthem"><img src="http://www.journalstar.com/resources/images/share/fark.gif"> Fark It</a><br/>
+         <a href="http://reddit.com/submit?url=www.journalstar.com//news/local/doc49b1b24390a17810584429.txt&amp;title=Parent objects to 'second' national anthem"><img src="http://static.reddit.com/blog_head.png"> Reddit</a>
+    </div>
+  </div>
+  <div style="clear: both; float: left;">Text Size:&nbsp;</div>
+  <a href="javascript:void(0);" onclick="resize_content(00);"><img src="http://www.journalstar.com/resources/images/story/font-size-small.png" style="float: left;"></a>
+  <a href="javascript:void(0);" onclick="resize_content(25);"><img src="http://www.journalstar.com/resources/images/story/font-size-med.png" style="float: left;"></a>
+  <a href="javascript:void(0);" onclick="resize_content(50);"><img src="http://www.journalstar.com/resources/images/story/font-size-large.png" style="float: left;"></a>
+  <!-- <div class="slider"><div id="sliderText"><div id="indicatorText"></div></div></div>-->
+  <div style="clear: both; font-size: 10px; width: 100%; text-align: center;">Tools Sponsor</div>
+  <div class="story_tools_ad"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1225083600) && (nAdsysTime <= 1540702799)) {
+aAd = new Array('+story_tools', '156292-1225142276', 'jpg');
+aAd[3] = 'http://tickets.journalstar.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+</div>
+     <h4>By MARGARET REIST / Lincoln Journal Star</h4>
+<div class="datestamp" style="margin-left: 2px;">Monday, Mar 09, 2009 - 12:15:46 am CDT</div>
+
+<p>A Lakeview Elementary parent is upset the audience of a school program on Martin Luther King Jr. was asked to stand for a song known as the black national anthem.<br/><br/>Two teachers performed the song, &ldquo;Lift Ev&rsquo;ry Voice and Sing&rdquo; &mdash; known to some as the &ldquo;Black National Anthem&rdquo; &mdash; as part of a 15-minute program during Black History Month.<br/><br/>Russ Roberts, who has a first-grade daughter and fourth-grade son at Lakeview, said he was shocked when the audience was asked to stand for the song after it was identified as the &ldquo;Black National Anthem.&rdquo;</p>
+
+
+<div class="modSm">
+<div style="width: 98%; text-align: right;"><a href="#image" title="Enlarge" class="image" style="font-size: 10px; color: #333;">[+]Enlarge</a></div>
+<div class="story-image"><a href="#image" title="Enlarge" class="image" style="font-size: 10px; color: #333;"><img src="http://www.journalstar.com/content/articles/2009/03/09/news/local/doc49b1b24390a17810584429.jpg" alt="Story Photo"></a></div>
+<div class="content"></div>
+</div>
+
+<div id="imagebox" style="display: none; cursor: default">
+<a href="#cancel" title="Close" class="cancel" style="display: block; text-align: right; background-color: #eee; padding: 5px; font-weight: bold;"><img src="http://www.journalstar.com/resources/images/story/close.png" style="padding: 0; border: 0;"></a>
+    <img src="http://www.journalstar.com/content/articles/2009/03/09/news/local/doc49b1b24390a17810584429.jpg" alt="Story Photo">
+    <div class="content"></div>
+    
+</div>
+
+
+<div class="modSm">
+<div class="spc">
+  <!-- <div class="top"><h3>Headline</h3></div> -->
+  <div class="content">
+    <b>"Lift Every Voice and Sing" on Youtube</b><br/><br/><br/><br/><br/><br/><object width="225" height="344"><param name="movie" value="http://www.youtube.com/v/nGWsqR6UbGk&amp;hl=en&amp;fs=1"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/nGWsqR6UbGk&amp;hl=en&amp;fs=1" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="225" height="344"></embed></object>
+  </div>
+</div>
+</div>
+
+
+<p>He said he doesn&rsquo;t object to the song, but the way it was presented gave the mistaken impression to students that there are two national anthems.<br/><br/>&ldquo;I don&rsquo;t like how it was presented to parents and students,&rdquo; he said.<br/><br/>&ldquo;I looked all over the map of the world and couldn&rsquo;t find a country called black.&rdquo;<br/><br/>King stood for desegregation, and having the audience stand for a &ldquo;Black National Anthem&rdquo; promotes segregation and leads to polarization and bias,&nbsp; he said. And it confused his children, he said.<br/><br/>In a letter responding to his concerns, Principal Sudie Bock said the teachers intended to show respect for the historical journey and contributions of African Americans in United States history.<br/><br/>&ldquo;It was never intended to suggest or replace our country&rsquo;s national anthem,&rdquo; she wrote.<br/><br/>&ldquo;The Star-Spangled Banner&rdquo; is taught to students as part of the fourth-grade curriculum, Bock said.<br/><br/>She also said she would make sure teachers clarify to students that it is the only national anthem, and to clarify the historical purpose of &ldquo;Lift Ev&rsquo;ry Voice and Sing.&rdquo;<br/><br/>Roberts said he enjoyed the rest of the program but worries that trying to explain to students about the song will further confuse them.<br/><br/>The song was originally a poem written by James Weldon Johnson and first performed as part of a celebration of Abraham Lincoln&rsquo;s birthday in 1900.<br/><br/>Johnson&rsquo;s brother set it to music in 1905 and the NAACP adopted it as the Negro National Anthem in 1919. It has remained an expression of the black American experience.<br/><br/>The song sparked controversy last summer, when a singer asked to perform the national anthem before the Denver mayor&rsquo;s state of the city address replaced the lyrics of &ldquo;The Star-Spangled Banner&rdquo; with &ldquo;Lift Ev&rsquo;ry Voice and Sing.&rdquo;<br/><br/>The song is sung in many settings, including at churches and the city&rsquo;s annual Martin Luther King Jr. breakfast.<br/><br/>The Rev. Joseph Lowery quoted from the song during the closing prayer at President Barack Obama&rsquo;s swearing-in ceremony, as did the Rev. Sharon Watkins when she preached at the National Prayer Service the day after his inauguration.<br/><br/>Thomas Christie, LPS multicultural school/community administrator, said if Roberts&rsquo; children were confused, he has a valid point, which teachers are addressing.<br/><br/>The teachers&rsquo;&nbsp; intentions were good, Christie said, and the song&rsquo;s historical context is important.&nbsp;<br/><br/>&ldquo;The benefit is that it&rsquo;s part of history, it&rsquo;s part of kids knowing that at one time things were separate in this country and they&rsquo;re not now.&rdquo;<br/><br/>Bess Scott, LPS director of elementary education, said Lakeview teachers were trying to help students understand that struggle, which is admirable.<br/><br/>The program was the culmination of learning more about African Americans who have contributed to society, culture and the strength of the nation, she said.<br/><br/>&ldquo;We do that every day in our curriculum,&rdquo; she said. &ldquo;We want our kids to see themselves and how we work together.&rdquo;<br/><br/><em>Reach Margaret Reist at 473-7226 or </em><a href="mailto:mreist@journalstar.com"><em>mreist@journalstar.com</em></a><em>.</em></p>
+<br><!--<a href="javascript:void(0);" onclick="window.open('https://secure.townnews.com/journalstar.com/secure/2weeks/', 'TryLJSFree', 'toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=yes, width=600, height=675')" title="Subscribe Today"><img src="/resources/images/tryus.jpg" alt="Try Us Free For 2 weeks."></a>-->
+<a href="https://secure.townnews.com/journalstar.com/secure/services_forms/circulation/subscription_promotion/promo.php?offer=1;sw1;bottomofstory" title="Subscribe Today"><img src="http://www.journalstar.com/resources/images/tryus_sunday.jpg" alt="$1 Sunday Delivery - Subscribe Today!"></a>
+<div style="background-color: #ddd; border: 1px solid #ccc; margin: 10px 0 10px 0; padding: 5px; width: 97%;"><a href="http://www.journalstar.com/news/local/">Local</a> &gt; <a href="#" title="Back to top">Back to Top of Story</a></div>
+</div>
+<br/>
+<div class="comments">
+<div class="content">
+<div class="box-top-right" style="width: 580px;"><div class="box-links"><div class="sublabel" style="border-top: 0;"><h1>Post Your Comment</h1><a style="color: #036; font-size: 10px; font-weight: normal; background: none; padding: 0; float: right;" href="javascript:void(0)" onclick="javascript:window.open('/help/standards_and_rules/', 'standards', 'scrollbars=1,resizeable=0,width=600,height=600')">Standards and Rules</a></div></div>
+</div>
+<div class="box-left">
+<div class="box-right" style="width: 572px;">
+ <div class="notice">All posts to JournalStar.com are subject to our <a href="javascript:void(0)" onclick="javascript:window.open('/help/terms_of_use/', 'terms', 'scrollbars=1,resizeable=0,,width=600,height=600')">Terms</a> and <a href="javascript:void(0)" onclick="javascript:window.open('/help/standards_and_rules/', 'standards', 'scrollbars=1,resizeable=0,,width=600,height=600')">Standards</a>.<br>Your posted comment will appear after it has been approved.<br><a href="javascript:void(0)" onclick="javascript:window.open('/help/story_commenting_faq/', 'terms', 'scrollbars=1,resizeable=0,,width=600,height=600')">Frequently asked questions</a> about story commenting.</div>
+  <div id="comment-form"><a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.journalstar.com/articles/2009/03/09/news/local/doc49b1b24390a17810584429.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label> <input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-email-block"><label for="personemail" class="simpleblog-form-label">Email:</label> <span class="simpleblog-email-field">(optional)</span> <input type="text" id="personemail" name="personemail" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: <span style="\&quot;font-size:xx-small\&quot;">(Case sensitive)</span></label><img id="simpleblog-captcha" width="125" height="50" src="http://www.journalstar.com/shared-content/townnews/captcha/render.php?id=49"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/><input type="hidden" id="usernumber_id" name="usernumber_id" value="49"/><input type="SUBMIT" value="Post Comment"/></div></form></div></div>
+</div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right" style="width: 561px;"></div>
+
+
+<div class="tools">
+  <div class="tool-items">
+    <span id="sbct-hide" style="float: left;"><img src="http://www.journalstar.com/resources/images/delete.gif" alt="Hide Comments">&nbsp;<a href="javascript:void(0)" onclick="javascript:toggleComments()" title="Hide Comments">Hide Comments</a>&nbsp;&nbsp;</span>
+    <span id="sbct-show" style="float: left; display: none;"><img src="http://www.journalstar.com/resources/images/add.gif" alt="Show Comments">&nbsp;<a href="javascript:void(0)" onclick="javascript:toggleComments()" title="Show Comments">Show Comments</a>&nbsp;&nbsp;</span>
+    <span id="sbct-desc" style="float: right;"><img src="http://www.journalstar.com/resources/images/arrow_down.gif" alt="Newest First">&nbsp;<a href="javascript:void(0)" onclick="javascript:orderById('desc');" title="Newest First">Newest First</a>&nbsp;&nbsp;</span>
+    <span id="sbct-asc" style="float: right; display: none;"><img src="http://www.journalstar.com/resources/images/arrow_up.gif" alt="Oldest First">&nbsp;<a href="javascript:void(0)" onclick="javascript:orderById('asc');" title="Oldest First">Oldest First</a>&nbsp;&nbsp;</span>
+  </div>
+</div>
+
+<div class="modLg" style="background: none;">
+  <div id="comment-results"><a id="blogcomments"></a><div class="simpleblog-results"><div class="simpleblog-comment-1">
+<a id="824db0a230d8665074f17a83a20cde1e"></a><span class="comment-sort"><span class="simpleblog-name">Oh no...</span> wrote on <span class="simpleblog-date">March 9, 2009 3:01 am:</span><div class="simpleblog-response">&quot; Oh goodness, I can only imagine that comments that are going to come out of this.  These teachers were trying to teach a lesson and create a little unity amongst their students, let's step back and think of their good intentions before the people posting here predictably rip them apart without pausing to give them the benefit of the doubt.  Trust me, Lincoln is divided enough as it is, we don't need to inflame some of those feelings by going crazy over a simple story like this. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="7775cfd61d444de0560f5287270b0c89"></a><span class="comment-sort"><span class="simpleblog-name">Galen</span> wrote on <span class="simpleblog-date">March 9, 2009 4:12 am:</span><div class="simpleblog-response">&quot; I am SO glad I don't have kids attending LPS. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="e9008b6e1af879cac6f1e89121c1c025"></a><span class="comment-sort"><span class="simpleblog-name">It is definetely going to change our lives</span> wrote on <span class="simpleblog-date">March 9, 2009 5:26 am:</span><div class="simpleblog-response">&quot; When the schools took out the religious holiday songs because of the claim was too much focus on religion, such as the Christmas songs etc. that was the beginning of the problem.  This is only an extension of that same type of thing. Soon students will be so confused that they may not even sing the National Anthem, as they may not believe it is the right one. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="cf2bdf4eee19e04f865a88f53c5fa23d"></a><span class="comment-sort"><span class="simpleblog-name">Brian Cox</span> wrote on <span class="simpleblog-date">March 9, 2009 7:11 am:</span><div class="simpleblog-response">&quot; It is a shame that we continue as a society to look at Americans as groups of people instead of Americans in great melting pot of cultures.  We have one national anthem only for all Americans. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="79b480f8e2762ec33299b9e2047a030f"></a><span class="comment-sort"><span class="simpleblog-name">Scotious</span> wrote on <span class="simpleblog-date">March 9, 2009 8:19 am:</span><div class="simpleblog-response">&quot; I disagree, taking religious songs out of school is avoiding teaching our children to be superstitious. However, having a &quot;black national anthem&quot; only further emphasizes a seperation. We're all Americans, how about we just promote that? &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="dcac2c2ffe0c79f4d19ec59b6908e898"></a><span class="comment-sort"><span class="simpleblog-name">IhrtLincoln</span> wrote on <span class="simpleblog-date">March 9, 2009 8:31 am:</span><div class="simpleblog-response">&quot; This article states, &quot;the NAACP adopted it as the Negro National Anthem in 1919&quot; It was sung at a school program about Martin Luther King, Jr.  I'm confused by the knee-jerk reactions.  To insinuate that LPS doesn't teach children about the National Anthem or that they are misleading children about the National Anthem is simply ridiculous and infers that the LPS has a subversive agenda.    This was simply a group of teachers attempting to teach about a piece of history relevant to Black History Month during Black History Month.  Thanks LPS for doing what you were chartered to do . . . teach! &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="c7b9c358c84a9048b6fd52007438b26b"></a><span class="comment-sort"><span class="simpleblog-name">DRC</span> wrote on <span class="simpleblog-date">March 9, 2009 8:39 am:</span><div class="simpleblog-response">&quot; Black National Anthem?...I didnt know we had a Black National Anthem..i agree with this father &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="c5b4da0ca5c94f9816b4634c6878d8ca"></a><span class="comment-sort"><span class="simpleblog-name">Linda</span> wrote on <span class="simpleblog-date">March 9, 2009 8:42 am:</span><div class="simpleblog-response">&quot; You can bet if it had been the &quot;White National Anthem&quot; it would have never made it so far as a school program.  The principal, teachers, and school board would have made sure it was banned so as not to upset a minority.<br/>My thoughts are that there should not be a black history month or any other ethnic designation.  A person should be classified as an American, period. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="cd91cee911dbc65b3205b677ce23f48a"></a><span class="comment-sort"><span class="simpleblog-name">Chip</span> wrote on <span class="simpleblog-date">March 9, 2009 8:51 am:</span><div class="simpleblog-response">&quot; I want to know how the Lincoln Journal Star found out about this.<br/><br/>Kids are not as dumb as this parent pretends they are. Most kids will understand the context after it has been explained to them. It's not a big deal. The only &quot;issue&quot; I have is having people stand while this song is sung. What SHOULD have happened is that people should have been sitting and the music teacher should have explained the context (historically it IS accurately referred to as the African American national anthem by some) and then it should have been sung.<br/><br/>Standing is the issue. It is standard etiquette to stand during the national anthem. In fact, I would say it is good etiquette to stand during any country's national anthem (e.g. at the olympics, at an international sporting event). It is just a sign of respect for our friends in other countries.<br/><br/>This song is not a true national anthem and therefore the rules of etiquette do not apply to it in the same manner. However, kids should know the song, the history of the song and it's importance in the African American community. The words of the song are stirring and knowing them has value for all kids. It is about respect and understanding. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="eaf3da317e1cb518c6d78fd22368aba6"></a><span class="comment-sort"><span class="simpleblog-name">tom</span> wrote on <span class="simpleblog-date">March 9, 2009 8:55 am:</span><div class="simpleblog-response">&quot; “We want our kids to see themselves and how we work together.”  Having a national anthem for whites and another for blacks in an effort to show how we &quot;work together&quot; is about the same as having whites and blacks drinking fountains to show how we all drink together.  Is this really the way we &quot;want our kids to see themselves&quot;? &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="539ea57f2482a763d960c27c84016469"></a><span class="comment-sort"><span class="simpleblog-name">mark</span> wrote on <span class="simpleblog-date">March 9, 2009 9:14 am:</span><div class="simpleblog-response">&quot; 'think of their good intentions' <br/>You know, pretty much everybody thinks that THEY have good intentions. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="2e76f95b00bb3dd544c7749ccb37d1dd"></a><span class="comment-sort"><span class="simpleblog-name">connie</span> wrote on <span class="simpleblog-date">March 9, 2009 9:15 am:</span><div class="simpleblog-response">&quot; Having  'black' national anthem isn't unifying, it's divisive. We have one country. Citizens of all races reside here, and we have one anthem for all. I'm sure the teachers meant well, but they simply did not think it through. It was an extremely bad idea. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="d4614e922fd301dfa7da0186228ff834"></a><span class="comment-sort"><span class="simpleblog-name">Ignignokt</span> wrote on <span class="simpleblog-date">March 9, 2009 9:19 am:</span><div class="simpleblog-response">&quot; 'Oh no'...explain to me how teaching a 'Black National Anthem' aside from the one true 'National Anthem' teaches unity.  As far as I can tell, Mr. Roberts is correct...as long as this country promotes such things as 'Black History Month' and the 'Black National Anthem', we send a message that says we're all part of different groups...'you have your national anthem, and I have mine'.  I hardly think this was part of Rev. MLK's 'dream'. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="9db4ddfa63ef8ac7db73ef399f14c1da"></a><span class="comment-sort"><span class="simpleblog-name">K</span> wrote on <span class="simpleblog-date">March 9, 2009 9:21 am:</span><div class="simpleblog-response">&quot; I completely support this parent's complaint.  I embrace diversity, and while I have enjoyed the relative ease that comes with being a person of &quot;majority&quot; in our country, I recognize the struggles that traditionally minority cultures have endured, and continue to endure.  That being said, so far, as far as I know, our country has only one recognized national anthem.  There are honored songs from our history that are revered, and should be: &quot;My Country Tis of Thee&quot;, &quot;God Bless America&quot;, &quot;Lift Ev'ry Voice and Sing&quot;, etc.  We should teach them ALL to our children, but not as the sanctioned National Anthem for a subset of the population.  We are all Americans.  We have a terrible and painful history of racism and segregation that we must acknowledge and teach.  But to teach children that there is another national anthem for African Americans smacks of the &quot;separate but equal&quot; flavor of racist ideology that dominated the last century.  Let's not go back there. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="f7a84e8780de04c8eafcb37f91f632ee"></a><span class="comment-sort"><span class="simpleblog-name">America the Beautiful</span> wrote on <span class="simpleblog-date">March 9, 2009 9:26 am:</span><div class="simpleblog-response">&quot; I personally think our national anthem stinks. I like &quot;America The Beautiful&quot; is so much better. That said...As a Black American I recall when we as a people were not allowed to stand to or sing along with the &quot;Star Spangled Banner&quot;. That is another reason that &quot;Lift Every Voice&quot; was embraced as our National anthem. Just a piece of trivia for some who aren't aware. I am not voicing my opinion one way or the other on this issue. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="1f7a6916fb8a004e708e2850869d9a3f"></a><span class="comment-sort"><span class="simpleblog-name">No Confusion</span> wrote on <span class="simpleblog-date">March 9, 2009 9:29 am:</span><div class="simpleblog-response">&quot; I am a Black American...I know both songs. I've never been confused as to which song was the &quot;national anthem&quot; as &quot;It is definetely going to change our lives&quot; feels will ultimately ensue. It won't. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="a4aba0efb3b9263a8d40b4ff264237ae"></a><span class="comment-sort"><span class="simpleblog-name">Als</span> wrote on <span class="simpleblog-date">March 9, 2009 9:30 am:</span><div class="simpleblog-response">&quot; Please take this into consideration...A lot of adults do not even know the words to the National Anthem. How do you expect kids to even know the differenece between the National Anthem and the Black National Anthem. It is the sad truth! &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="b4bf632796d5911cc5227271ffac8904"></a><span class="comment-sort"><span class="simpleblog-name">bad idea</span> wrote on <span class="simpleblog-date">March 9, 2009 9:33 am:</span><div class="simpleblog-response">&quot; That was a horrible idea. The teachers should be let go. I wouldn't want a teacher(s) with this much lack of common sense teaching my children. This whole idea of black history month is a bad idea if you ask me. Where's white history month? Where's German history month? Where's Latin history month? Time to stop coddling to certain groups. We're all Americans. Period. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="2a2b0f31d2aca2a9e9ba3c2d94b6b5e3"></a><span class="comment-sort"><span class="simpleblog-name">D Cent</span> wrote on <span class="simpleblog-date">March 9, 2009 9:37 am:</span><div class="simpleblog-response">&quot; Political Correctness gone amuck! Good job LPS. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="af9e1e36176f76aa08a8f2a680454455"></a><span class="comment-sort"><span class="simpleblog-name">German-American</span> wrote on <span class="simpleblog-date">March 9, 2009 9:40 am:</span><div class="simpleblog-response">&quot; I would hope we could also include the German national anthem as well since that is my child's ancestory and home country. thanks. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="1a19b83037ee13a60a5cc83f8694c61f"></a><span class="comment-sort"><span class="simpleblog-name">Tim</span> wrote on <span class="simpleblog-date">March 9, 2009 9:42 am:</span><div class="simpleblog-response">&quot; Hopefully, this was just someone's confusion about how this song is an &quot;anthem&quot; for Black people, and it got twisted into &quot;the Black National Anthem&quot;.  We don't need to further divide the country by providing a separate Anthem for every race and creed. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="5af78938d55d2d70f2acd752abaa17f9"></a><span class="comment-sort"><span class="simpleblog-name">Alex</span> wrote on <span class="simpleblog-date">March 9, 2009 9:57 am:</span><div class="simpleblog-response">&quot; You're worried about segregation... from a song?<br/><br/>The fact is we're a highly segregated society still.  School segregation is at it's highest at any point since Brown v. Board of Education.  Discriminatory housing and lending practices have had and continue to have a great impact on urban neighborhoods, encouraging the separation of cities into ghettos like North Omaha or T-town and the Near South in Lincoln.  Let's discuss the substantive aspects causing segregation in our society before launching into crusades against great songs in our public schools.<br/><br/>The song's revival came out of the civil rights movement Mr Roberts wraps himself up in.  Dr. King would have and probably did enjoy the black national anthem as he supported other encouragements of black pride.  We can deduce this historically from the opinions of other civil rights movement leaders he was involved with, for example Jesse Jackson and Julian Bond.<br/><br/>The fact that so many people are commenting supportive of Mr. Roberts is embarrassing and utterly indefensible.  It makes me ashamed to call this state home.  You know nothing about the song, its history, the history of the black freedom movement, Dr. King, or common sense.  Your outrage is transparently facetious. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="951f5bf6dea24bb5b5cb2c673bf06bcc"></a><span class="comment-sort"><span class="simpleblog-name">Chip</span> wrote on <span class="simpleblog-date">March 9, 2009 10:00 am:</span><div class="simpleblog-response">&quot; The metaphor of the &quot;melting pot&quot; is no longer accurate. A &quot;salad bowl&quot; is a more representative view of the attitudes and beliefs in our country. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="727b8f68944a6e29395c50ba2f4d71db"></a><span class="comment-sort"><span class="simpleblog-name">Chad</span> wrote on <span class="simpleblog-date">March 9, 2009 10:24 am:</span><div class="simpleblog-response">&quot; I am glad that the two I have going to Lakeview are smart enough to understand what is going on.  I belive this was sung last year also and no one complained.  I also know that if you ask your child what the national anthem is and they don't know what it is, then Mom and Dad you have some work to do also.  If you disect everything LPS now you will find a lot of offensive things to certain people..that is part of the hard life lesson kids have to learn, we don't all get along and we are all different.  I am just glad my children understand things and if they have a concern or are confused they ask me or their Mother and we as parents explain it to them so they aren't confused and in turn they can engage in a good discussion with their teachers and fellow students about the topic at hand. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="f0011ce83955cdd39b5568581fb13cb5"></a><span class="comment-sort"><span class="simpleblog-name">hmmmm</span> wrote on <span class="simpleblog-date">March 9, 2009 10:39 am:</span><div class="simpleblog-response">&quot; Go google those lyrics that's a pretty 'religious' song for a public school.  The youtube video is very good the poem is beautiful, the 'melody' not so much. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="d01fa8cd7fa4320d43164040a126489c"></a><span class="comment-sort"><span class="simpleblog-name">Johann</span> wrote on <span class="simpleblog-date">March 9, 2009 10:56 am:</span><div class="simpleblog-response">&quot; Even the German's don't sing their own national anthem. It is an absolutely beautiful melody, but the quickest way to ruin a concert in Germany is to play their national anthem. They are still carrying some baggage from the last century. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="62e3e9d1b8c8209176e2e6f5c7dbe204"></a><span class="comment-sort"><span class="simpleblog-name">Imagine That</span> wrote on <span class="simpleblog-date">March 9, 2009 11:04 am:</span><div class="simpleblog-response">&quot; Get the facts before you shout.<br/><br/>&quot;Lift Every Voice and Sing&quot; (now also known as &quot;Lift Ev'ry Voice and Sing&quot;) was publicly performed first as a poem as part of a celebration of Lincoln's Birthday on February 12, 1900 by 500 schoolchildren at the segregated Stanton School. Its principal, James Weldon Johnson, wrote the words to introduce its honored guest Booker T. Washington.<br/><br/>The poem was later set to music by Mr. Johnson's brother, John, in 1905. Singing this song quickly became a way for African Americans to demonstrate their patriotism and hope for the future. In calling for earth and heaven to &quot;ring with the harmonies of Liberty,&quot; they could speak out subtly against racism and Jim Crow laws—and especially the huge number of lynchings accompanying the rise of the Ku Klux Klan at the turn of the century. In 1919, the NAACP adopted the song as &quot;The Negro National Anthem.&quot; By the 1920s, copies of &quot;Lift Every Voice and Sing&quot; could be found in black churches across the country, often pasted into the hymnals.<br/><br/>In 1939, Augusta Savage received a commission from the World's Fair and created a 16 foot tall plaster sculpture called Lift Ev'ry Voice and Sing. Savage did not have any funds for a bronze cast, or even to move and store it, and it was destroyed by bulldozers at the close of the fair.[1]<br/><br/>During and after the American Civil Rights Movement, the song experienced a rebirth, and by the 1970s was often sung immediately after &quot;The Star Spangled Banner&quot; at public events and performances across the United States where the event had a significant African-American population.[citation needed]<br/><br/>In Maya Angelou's 1969 autobiography, I Know Why the Caged Bird Sings, the song is sung by the audience and students at Maya's eighth grade graduation, after a white school official dashes the educational aspirations of her class.[2]<br/><br/>In 1990, singer Melba Moore released a modern rendition of the song, which she recorded along with others including R&amp;B artists Anita Baker, Stephanie Mills, Dionne Warwick, Bobby Brown, Stevie Wonder, Jeffrey Osborne, and Howard Hewett; and gospel artists BeBe &amp; CeCe Winans, Take 6, and The Clark Sisters. Partly because of the success of this recording, &quot;Lift Ev'ry Voice and Sing&quot; was entered into the Congressional Record by Del. Walter Fauntroy (D-DC),[3] as the official African American National Hymn. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="9ed298fcdf05468752fe08395265a835"></a><span class="comment-sort"><span class="simpleblog-name">TRJ</span> wrote on <span class="simpleblog-date">March 9, 2009 11:17 am:</span><div class="simpleblog-response">&quot; OH NO. this is terrible.  this parent should NOT have to take extra time to contextualize or explain ANYTHING to his children.  nor should he be expected to have any modicum of respect or understanding of history himself.  <br/><br/>shame on the schools for making parents exert themselves so very much. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="ca3d5162dd56a5bc1ec42678f723ab10"></a><span class="comment-sort"><span class="simpleblog-name">thisIsIt</span> wrote on <span class="simpleblog-date">March 9, 2009 11:23 am:</span><div class="simpleblog-response">&quot; it's not that the song was presented as part of a black history month program - it's that the audience was asked to stand during its play. . .by the way, why do we need a black history month? &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="e9c4f8798b420d8cda7b2f9a8d4da613"></a><span class="comment-sort"><span class="simpleblog-name">Mr. Snrub</span> wrote on <span class="simpleblog-date">March 9, 2009 12:01 pm:</span><div class="simpleblog-response">&quot; Really?  This is done once, and you are concerned that children are going to mistake this as the &quot;other&quot; National Anthem?  I think that in context this was shown as part of history, so I don't understand the problem with how it was presented.  This is just another case of over reaction to something simple being taught!  Although I did just learn that there is not a country called &quot;Black&quot;, so I am that much smarter than I was before for reading this article.  Thanks Russ! &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="f30eb18247e3a92397759cb940c66a26"></a><span class="comment-sort"><span class="simpleblog-name">go google</span> wrote on <span class="simpleblog-date">March 9, 2009 12:03 pm:</span><div class="simpleblog-response">&quot; &quot;America the Beautiful&quot; verse 4, &quot;America&quot; verses 2-5, or &quot;The Star Spangled Banner.&quot; ALL OF THEM have religious content. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="7f7f0a6507559c9307fe7778d6de876b"></a><span class="comment-sort"><span class="simpleblog-name">PROUD AMERICAN</span> wrote on <span class="simpleblog-date">March 9, 2009 12:06 pm:</span><div class="simpleblog-response">&quot; I remember the day, when school started and all students stood and put their hands over their heart and all said the Pledge of Alleigence, and then the National Anthem was sung. I remember the day when my children (now grown), when school started and all students stood and put their hands over their heart and said the Pledge of Alleigence. No National Anthem was sung. I now know the day when students are NOT allowed to do either the Anthem nor the Pledge. I now hear of the day when students and audience is asked to stand for the Black National Anthem!!. I do wonder what tomorrow will bring....perhaps Islamic prayer time? We are past the civil war era, all people white and black have the same privileges, but as far as I know we have only one Anthem and one Pledge. We dont have a &quot;white&quot; month, we dont have a &quot;hispanic&quot; month, nor a german, italian, cuban, philapino, or russian. But we CANT pray in school or refer to GOD in any way shape or form. We CAN allow illegals use our tax dollars, go to school, use our health care system for free, take our jobs. I support this father for his concerns as they are the same as mine. In my heart and my mind, we are a nation of one (and legal), and we have ONE National Anthem and Pledge and only one. NOT two. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="8ede0a69129a5c4791d0bc5070b8120c"></a><span class="comment-sort"><span class="simpleblog-name">give me a break</span> wrote on <span class="simpleblog-date">March 9, 2009 12:08 pm:</span><div class="simpleblog-response">&quot; Why don't they do the national anthums of the countries that many children in LPS are originally from?  Isn't that racist or divisive to not include them?  It is long past time when we as a nation should be putting people into groups based on race, religion, sex, sexual orientation, etc.  I see everyone here as an American, not as black, white, brown, whatever.  The nannies that run the public schools can never get enough of this kind of garbage.  There should not be a &quot;month&quot; or a particular group of people, we are all humans, and we are all Americans.  Try teaching some math or teach children to read, they seem to be falling farther behind the rest of the world every year.  STOP. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="0f32678ac4b3e0ac72e0766113f1cf59"></a><span class="comment-sort"><span class="simpleblog-name">spend more time getting facts correct than being politicaly correct.</span> wrote on <span class="simpleblog-date">March 9, 2009 12:10 pm:</span><div class="simpleblog-response">&quot; The song was presented (introduced) as &quot;the Black National Anthem” I think LPS needs to spend more time getting facts correct than being politicaly correct. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="2fc29ce0ea29ba1209ae85d282353605"></a><span class="comment-sort"><span class="simpleblog-name">To scotious</span> wrote on <span class="simpleblog-date">March 9, 2009 12:11 pm:</span><div class="simpleblog-response">&quot; What does it mean to be an &quot;American?&quot; Is it simply that we live in this country? Well, that's not exactly true, because there are Americans who live in different countries. When we say we're &quot;Americans,&quot; one needs to be able to define that. <br/><br/>With regard to religion, I am glad that I can practice my religion fully, publicly and without restriction. I'm glad you can practice your religion or lack of religion fully, publicly and without restriction. Separation means two fundamental things: 1. The government doesn't force all Americans to practice one religion or no religion. 2. The government can't create laws that prohibit my rights to practice my religion fully, publicly and without restriction. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="ce03745db6e8532104ccc4ad26649ed6"></a><span class="comment-sort"><span class="simpleblog-name">GMP</span> wrote on <span class="simpleblog-date">March 9, 2009 12:26 pm:</span><div class="simpleblog-response">&quot; Lincoln (and the rest of the nation) will remain divided, as long as we keep dividing ouselves into colors and groups and nations of origin.  We are all AMERICANS.  Doesn't matter what color, what nation of origin.  You are right Oh no, we are divided.  We need to stop dividing ourselves, and be ONE NATION, under God, with liberty and justice FOR ALL (not those from this group, or this color, or this national origin, or this sexual orientation, or gender, etc.  FOR ALL. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="606f7a0b850aec1ae6c93eb5384213d2"></a><span class="comment-sort"><span class="simpleblog-name">Amy</span> wrote on <span class="simpleblog-date">March 9, 2009 12:44 pm:</span><div class="simpleblog-response">&quot; Keep it in the church but get it the heck out of school! All you're doing is separating the kids once again and pointing out the difference between blacks and whites. We don't need separate anthems! &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="5cfc80814bd965940c734a3fbf4f6628"></a><span class="comment-sort"><span class="simpleblog-name">Hmm</span> wrote on <span class="simpleblog-date">March 9, 2009 12:50 pm:</span><div class="simpleblog-response">&quot; I don't think anyone objects to students learning the song or performing it and particularly learning about the history of the song. I think what's objectionable is that people were told to stand while they sang it and its presentation as some sort of national anthem, when clearly it's not. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="2e4b39eaf05d602f0f39ac0be20226bc"></a><span class="comment-sort"><span class="simpleblog-name">Get with it Nebraska</span> wrote on <span class="simpleblog-date">March 9, 2009 12:55 pm:</span><div class="simpleblog-response">&quot; All of this uproar over a perfectly valid expression of a minority group's feelings and pride shows how backward and ignorant Nebraskans really are.  As a white person, I support multiculturalism, diversity and acceptance of others who may be different to the max.  What's so special or sacred about &quot;The Star Spangled Banner,&quot; anyway? It was written at a time in history when America was lily-white, and hence does not reflect  the multicultural reality of the present. All minorities that have suffered for so long under the white-only culture deserve, and most certainly should have, their own versions of a national anthem. Not only African Americans, but Native Americans, Latinos, Asians, Muslims, and other disenfranchised and neglected groups should have their traditions, music, culture, etc., recognized and applauded in the public schools.  After all, what is the mandate for &quot;public&quot; schools if it is not for diversity, inclusion, acceptance and the self-esteem of all children? &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="d5176acf78d2badfa05c2944c0d711ed"></a><span class="comment-sort"><span class="simpleblog-name">ithoughtso</span> wrote on <span class="simpleblog-date">March 9, 2009 1:07 pm:</span><div class="simpleblog-response">&quot; Bias in the interview process<br/>Indeed, there may be something to their suspicions. <br/><br/>Eden King, assistant professor of psychology at George Mason University, recently completed research that shows individuals are less inclined to hire women or minorities during tough economic times. <br/><br/>A recent study she conducted with co-researchers found that both white men and white women favored a white male candidate over female and minority candidates when told the economy may be on the decline &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="8490f6e59ebef73dcf182ec410c4857d"></a><span class="comment-sort"><span class="simpleblog-name">to bad idea  others</span> wrote on <span class="simpleblog-date">March 9, 2009 1:12 pm:</span><div class="simpleblog-response">&quot; C'mon now, every month is white history month. Read any of those history text books and I'm sure all you are going to get is European &amp; American histroy as though thats all that was going on. The only time other cultures are referenced is when they come into contact with &quot;white culture&quot;. Its one thing to be completely ethno-centric, its entirely another level to be blind about it. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="c621a03595f6be908c7f056891689c3d"></a><span class="comment-sort"><span class="simpleblog-name">tcan</span> wrote on <span class="simpleblog-date">March 9, 2009 1:20 pm:</span><div class="simpleblog-response">&quot; To one commenter: Actually, there is a Latin History Month.<br/><br/>Additionally, I believe that White History month takes place each year beginning in March and lasting through January of the following year.  Rest assured that during these times, your children are being &quot;indoctrinated&quot; with the predominant culture's songs, dance, Holidays and celebrations, clothing, language and history. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="ccfe310df6010d6b16c5a2486da7247b"></a><span class="comment-sort"><span class="simpleblog-name">Frustrated</span> wrote on <span class="simpleblog-date">March 9, 2009 1:56 pm:</span><div class="simpleblog-response">&quot; Have any of you complaining about the religious connotations actually read the extra verses of songs like &quot;America the Beautiful&quot;, &quot;America&quot; or &quot;The Star Spangled Banner?&quot; (that's our national anthem)<br/><br/>All of these songs as well as &quot;Lift Every Voice and Sing&quot; should be taught, because they are part of our culture. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="409ec679397d7d7f1edbda6d8344bdc3"></a><span class="comment-sort"><span class="simpleblog-name">If you read the article...</span> wrote on <span class="simpleblog-date">March 9, 2009 2:41 pm:</span><div class="simpleblog-response">&quot; The issue here does not seem to be whether or not the song is religious or not, nor that the song,(Lift Ev'ry Heart and Sing), should be taught in school or not.  Or that it is a historically significant song.  It is about the fact that it was presented as, possibly, an alternative to the National Anthem. It seems pretty clear that this was the issue at the heart of the story. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="2163db9f3ffa36ea86ad25d9805c22cf"></a><span class="comment-sort"><span class="simpleblog-name">herb</span> wrote on <span class="simpleblog-date">March 9, 2009 2:46 pm:</span><div class="simpleblog-response">&quot; first of all, you are either an American or something else. If your primary loyalty is to Afica, Asia, Mexico, the middle east or god knows where else and you hyphonate your loyalty, then you are NOT American! In America we have ONE national anthem and it applies to every American regardless of skin color. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="c838fa18f3f7f2185f9abf4d2af669c7"></a><span class="comment-sort"><span class="simpleblog-name">Mr. Snrub</span> wrote on <span class="simpleblog-date">March 9, 2009 3:37 pm:</span><div class="simpleblog-response">&quot; Just to clear one thing up for PROUD AMERICAN...prayer is allowed in school.  The administration cannot stop a student from praying, however an organized prayer led by a member of the faculty is not allowed.  But one question I have for you is why on one hand do you complain that prayer is not allowed in school, however on the other you worry what will be next &quot;perhaps Islamic prayer time&quot;?  I'm confused?  Are you for or against prayer in school?  Or is it only WASP prayers that should be allowed since they are probably the only ones that get heard anyway? &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="27edc3e2f4f546fb34d3de865312de91"></a><span class="comment-sort"><span class="simpleblog-name">KansasGirl</span> wrote on <span class="simpleblog-date">March 9, 2009 3:41 pm:</span><div class="simpleblog-response">&quot; I for one am getting tired of &quot;good intentions.&quot; These children don't have any choice, it is being forced on them. The teachers unions need to be investigated. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="e92f4d585c2b5afd5dc79eeab831eba8"></a><span class="comment-sort"><span class="simpleblog-name">CS</span> wrote on <span class="simpleblog-date">March 9, 2009 3:49 pm:</span><div class="simpleblog-response">&quot; Proud American-my two children in school (3rd and Kindergarten) both know the Pledge of Allegiance and the Star Spangled banner. They learned the Pledge in school, too. I made sure to teach them that there are two versions of the Pledge, and I taught them the first verse of the National Anthem. I don't know where your kids go to school in Lincoln where they didn't learn to recite the PoA, but it wasn't Calvert. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="37655e536319be37e504517a0cef47d2"></a><span class="comment-sort"><span class="simpleblog-name">verlene</span> wrote on <span class="simpleblog-date">March 9, 2009 4:03 pm:</span><div class="simpleblog-response">&quot; my boyfried is black he sings this song and says obama will enforce it as the new national antem.  i like the words to the song they are pretty.  im white and ok with it as the new national antem for all americans and my pastor says  we all evolved out of africa and will return to black at end of our days so whats the big deal? &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="59f6363a1777513762d73e43c43b5426"></a><span class="comment-sort"><span class="simpleblog-name">get real</span> wrote on <span class="simpleblog-date">March 9, 2009 4:20 pm:</span><div class="simpleblog-response">&quot; White history month is not March through January. Get real. Do you really think if a group decided that 1 month was to be dedicated only to white history, everyone would be ok with that?!? I don't think so. I agree with the others-Black history month is ridiculous to begin with. I'm glad my kids go to private school. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="31bcc8dd8ed548e9859b8ea82263e176"></a><span class="comment-sort"><span class="simpleblog-name">Hop</span> wrote on <span class="simpleblog-date">March 9, 2009 5:00 pm:</span><div class="simpleblog-response">&quot; To ‘Get with it Nebraska’: You ask: ‘What’s so special or sacred about “The Star Spangled Banner”?’ <br/>It is the United States of America’s National Anthem. That makes it special to me. <br/>Our National Anthem doesn’t single out to any racial group, nevertheless one that is “lily white”. It represents America, and thus ALL races, cultures and creeds in America. <br/>Your suggestion that, ‘All minorities that have suffered for so long under the white-only culture deserve, and most certainly should have, their own versions of a national anthem.’ is absurd. That is in effect taking our ONE unifying anthem and turning it into dozens of divisive anthems. <br/>It is one thing to recognize the beauty of other cultures. It is another to deny the beauty of our own. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="ba411af7b4b0723b5d5f0e183b8bf827"></a><span class="comment-sort"><span class="simpleblog-name">JoBeth</span> wrote on <span class="simpleblog-date">March 9, 2009 5:26 pm:</span><div class="simpleblog-response">&quot; No this was handled WRONG.  It could have been read to the students as the works of a black writer, but NOT the National Anthem.  This is the UNITED STATES OF AMERICAN. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="2952f74910027a14376d934b8df0157e"></a><span class="comment-sort"><span class="simpleblog-name">Nina</span> wrote on <span class="simpleblog-date">March 9, 2009 6:03 pm:</span><div class="simpleblog-response">&quot; It became known as the Black National Anthem, after it was sung in the south, only as a school song designed to give black students at segregated schools something to aim toward, feel proud of, etc. (study the lyrics in all its verses and you'll see).  However, the whites in power in those states did not want the students to have their song of encouragement, and so outlawed their singing of it.  That's when it became known as the Black National Anthem.  We in our family honor our National Anthem (love it when the trumpets hit that high F, although other songs' lyrics would fit our country's aims and prides better).  When we've been at international concerts, we stand for the band's playing of its own national anthem, and their citizens stand for ours, also.  It's a matter of respect and consideration.  When my young grandson attended a performance of Native American drumming and singing, he stood without question for the Lakota National Anthem (was the only white member of the audience to do so) and was praised for his manners and respect by the Lakota chief on stage.  It's interesting to study the melodies and lyrics of each country's national anthem, so see what each stands for.  For instance, Germany's national anthem is known as a hymn &quot;Glorious things of thee are spoken, Zion, city of our God.&quot;  Interesting subject for a term paper, I found, and nothing to criticize others about.  It's just like the pledge - the same people pledge allegiance to the flag, and perhaps to the Boy Scouts, 4-H, etc., and it's all good. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="bafe5d1575cc4585b14b64ad897680bd"></a><span class="comment-sort"><span class="simpleblog-name">Nina</span> wrote on <span class="simpleblog-date">March 9, 2009 6:14 pm:</span><div class="simpleblog-response">&quot; And the rest of the story...&quot;Lift Every Voice and Sing&quot; is in many American hymnals.  Look how this song has evolved, from its roots of being the only national anthem some kids were allowed to sing, to today being an appreciated part of our American sacred music.  And for those of you who think sacred music isn't allowed in the public schools, attend one of the district high school music contests that abound in April in Nebraska, and you'll hear bands performing sacred music, soloists and choirs singing it, all over.  If you can't do that, ask your local public school music department for copies of past performances' programs, listing selections performed.  You're in for a surprise.  I know because I've accompanied high school music selections for years, and have a son who is a public school music teacher. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="7a02fe863534c13df4c07600b88fb308"></a><span class="comment-sort"><span class="simpleblog-name">Lux Mom.</span> wrote on <span class="simpleblog-date">March 9, 2009 6:16 pm:</span><div class="simpleblog-response">&quot; I hope his kids are able to find a lot of new friends at there new school, because the teachers will make sure they pay for his speaking out. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="cc66eecfd19549a98d70d45b827ef251"></a><span class="comment-sort"><span class="simpleblog-name">Why Black History Month</span> wrote on <span class="simpleblog-date">March 9, 2009 7:02 pm:</span><div class="simpleblog-response">&quot; It never ceases to amaze me why White Americans question the need for a Black History Month. If Black Americans contributions to our country were recognized in history texts there would be no need for the special month. To compensate for that lack of textual material that should be taught year round Black history is crammed into one month. <br/>I would venture to say that most White Americans know little if any Black history makers. When all Americans can recall the following history items we will no longer need a Black History month. <br/>Who was the first man to set foot on the North Pole?<br/>Matthew Henson - a black man<br/><br/>Who was the founder of blood plasma and the director of the Red Cross blood bank?<br/>Dr. Charles Drew - a black man<br/><br/>Who invented the world's first stop light and the gas mask?<br/>Garrett Morgan - a black man<br/><br/>Who was the man who helped design the nation's capitol, made the first clock to give time in America and wrote the first almanac?<br/>Benjamin Banneker - a black man<br/><br/>Who was the founder of the city of Chicago in 1772?<br/>Jean Baptiste - a black man<br/><br/>Who was the woman who led countless slaves to freedom on the underground rairoad?<br/>Harriet Tubman - a black woman (I'll give credit because most white Americans know that..maybe)<br/><br/>The list can go on and on... &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="b16c35469b56724aabc069dda4b77c9b"></a><span class="comment-sort"><span class="simpleblog-name">hmmmm</span> wrote on <span class="simpleblog-date">March 9, 2009 8:21 pm:</span><div class="simpleblog-response">&quot; Uh...I know those other songs have religious lyrics.  That's my point.  Poor lps trying to be so pc and failing. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="5dd4038bc1d068767cfd3293fca6d124"></a><span class="comment-sort"><span class="simpleblog-name">Comment</span> wrote on <span class="simpleblog-date">March 9, 2009 9:26 pm:</span><div class="simpleblog-response">&quot; I think that this was all a big misunderstanding and that the song was just meant for the program and not to teach racism or anything like that.Also, if it is racist then LPS should take out all clubs because they also seperate us. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="029687dee70419259e2ba3168420bb2c"></a><span class="comment-sort"><span class="simpleblog-name">tvsmith</span> wrote on <span class="simpleblog-date">March 9, 2009 9:43 pm:</span><div class="simpleblog-response">&quot; Hats off to this father for speaking out!  Too many of us just sit back and let these things take their course.  My ancestors came from Europe and they worked hard at trying to be a part of America...not to be recognized by the country of their origin. It's time for us to speak out...look what's happened to Christmas and the mention of &quot;GOD&quot; in the schools!  We are ONE nation under God with ONE national anthem! &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="3955b7e8c787503a7819937fe193a494"></a><span class="comment-sort"><span class="simpleblog-name">2 Why Black History Month</span> wrote on <span class="simpleblog-date">March 9, 2009 9:47 pm:</span><div class="simpleblog-response">&quot; That is an impressive list of accomplishments of Blacks in early America. Now look up accomplishments of Latinos, Asians, Native Americans, etc. in early America and then tell us all why none of those groups have a &quot;(Insert group here) History Month&quot;. <br/>Heck you could even look up accomplishments of Caucasians if you get bored. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="5359acabd0bb8ea764dea6d720c032c2"></a><span class="comment-sort"><span class="simpleblog-name">Reality Hurts</span> wrote on <span class="simpleblog-date">March 9, 2009 10:08 pm:</span><div class="simpleblog-response">&quot; I am amazed by the limited understanding by most of the negative postings. Have you ever attended a NHL hockey game? Yes you have to stand for both the US and Canadian anthems. What about attending baseball game in Mexico? Yes you will hear/stand for both Mexican and US anthems. It is sad that the neighbors on our international borders understand inclusion of others but we have people mentally stuck on one anthem and miss the opportunity learn more through inclusion of other cultures.<br/><br/>I see a lot of fear and misunderstanding based on the denial of reality. We have St. Pat's day and celebrations in schools and nobody is upset. We have Halloween and celebrations and I still see nobody upset. What about Easter, which is pagan originated event? The last US census shows the ethnic make up of the US changing to the point that the white majority will soon be the minority based off current population and birth rates. So at what point are you going to expose a kid to the fundamental need to knowing about other cultures as a reference point of respect and communication? This path of &quot;only one&quot; has negative historical data points from Nazis to the Talibaum today. We need to know more about others to exist and grow in peace. Canadian and Mexican nationals understand that point at what point will some of you understand peace comes though understanding and inclusion (by exposure to other cultures)? &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="e6636c73cbdf171afd6601221fccbe41"></a><span class="comment-sort"><span class="simpleblog-name">Pre-Service Teacher</span> wrote on <span class="simpleblog-date">March 9, 2009 10:50 pm:</span><div class="simpleblog-response">&quot; A lot of you are right, who needs Black History Month or Women's History. These groups aren't important to know about! Hell the Decloration was written by privliged Christian white guys and we should continue on this thread forever. Forget the other groups that have changed and contributed to the American experience and American history! <br/><br/>When we focus on events, groups, people, etc that have been a part of history we are simpling teaching ANOTER viewpoint. Did you know that there is one way to view the signing of the Decloration of Independence? Look at a Canadian or British text book...I suggest that everyone needs to read Lowan's &quot;Lies My Teacher Told Me.&quot; Not only will you get a history lesson, you will be more inclined to look at history and how we celebrate and learn about it today in an entirely DIFFERENT view. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="823650d95f3f96957bea22c39e2b6a34"></a><span class="comment-sort"><span class="simpleblog-name">Jer�nimo Fagundes de Souza</span> wrote on <span class="simpleblog-date">March 10, 2009 7:57 am:</span><div class="simpleblog-response">&quot; This is ridiculous! &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="c11cc2ed035c16aeb7b9abb5730cb90b"></a><span class="comment-sort"><span class="simpleblog-name">IhrtLincoln</span> wrote on <span class="simpleblog-date">March 10, 2009 8:08 am:</span><div class="simpleblog-response">&quot; I'd never really given the history &quot;months&quot; much thought until this thread, but I think it is a great way to learn about the history of our nation just like the Czech (that's me 100%) and German festivals that are prominent in Nebraska.  I'm not Irish, but I'm making Shamrock throws with my children that depict the holy trinity.  Take advantage of the different opportunities we Nebraskans get to experience a comprehensive view of American history.  The civil rights movement was a significant point in American History and those of you who had a problem &quot;standing&quot; squandered your opportunity to be a part of a uniquely American experience.  Acknowledging others' experiences that built this great nation brings us closer as Americans, not further apart. I grew up in Lincoln with proud people of German decent making fun of me because I was a &quot;bohunk.&quot;  That's bigotry, just like denying the experience of black southerners who used a song to maintain their dignity in an era where they didn't have rights as full citizens. The U.S. isn't known as the land of opportunity because people stand for the National Anthem.  We are a nation apart from all others because our citizens have equal rights under law.  &quot;Lift Every Voice&quot; is a part of what makes us great today.  Imagine where we'd be if no had stood up for votes for blacks and women. I don't anyone would want to live in a nation like that. . . even white men and fat Nebraskans. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="2acc09bcc1e3f542e003da25cfcdd0dc"></a><span class="comment-sort"><span class="simpleblog-name">Ignignokt</span> wrote on <span class="simpleblog-date">March 10, 2009 8:56 am:</span><div class="simpleblog-response">&quot; Well...since so many people think we need a second 'National Anthem'...why don't we just throw together a second 'Pledge of Allegiance' that is even more diverse and all-inclusive than the 'Black National Anthem'?!<br/><br/>I pledge allegiance to the flag of the United States of America and every other country where I might have had an ancestor; and to the republic, oligarchy, monarchy, patriarchy, matriarchy, or dictatorship for which those flags stand; many nations, under God/Allah/Yahweh/Shiva/Thor/Zeus/Muzha/Buddha/Flying-Spaghetti-Monster, indivisible except along lines of race, gender, religion, sexuality, and politics...with liberty and justice for all who don't offend someone else. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="e9c6de13f0d48ed6cad44bbafc37095c"></a><span class="comment-sort"><span class="simpleblog-name">Brooke</span> wrote on <span class="simpleblog-date">March 10, 2009 12:18 pm:</span><div class="simpleblog-response">&quot; Sing the song, you have the right, HOWEVER it's not the U.S. National Anthem.  Don't call it a national anthem and don't ask people to stand up for it.  It was no mistake, they are the ones who called it the &quot;second national anthem&quot;, which it is not.  They are the ones who asked everyone to stand for it.  I would be irate if my kids went to this school.  There's nothing wrong with studying/celebrating black history month, Martin Luther King Jr. Day, etc.  I wonder if they've sung this every year or just now because we have an African American President?  The African American soldiers, specifically those who fought to preserve this nation during the Civil War, would be offended and disgusted by anyone trying to take away from the National Anthem they were defending and dying to uphold!  Chew on that. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="078eb376e08c773c8718252cb9d48ed2"></a><span class="comment-sort"><span class="simpleblog-name">Rylie</span> wrote on <span class="simpleblog-date">March 10, 2009 12:32 pm:</span><div class="simpleblog-response">&quot; Why can't all people who are born in the US just call themselves Americans?  Maybe if all would do that then prejudices and racism would stop.  I think most of the problem comes from people saying they are african american, japanese american, german american.  Who the crap cares where your ancestors came from.  You are an American if you are born here.  Leave it at that.  There is on national anthem for all Americans.  If the teachers want to sing a song during black history month, let them.  But don't say it is a national anthem.  You are making the problem worse by telling kids there is a difference between me and a kid with dark skin.  We are all humans and we are all Americans. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="14219b91e516f5dea7d4c39d057902cf"></a><span class="comment-sort"><span class="simpleblog-name">Celia</span> wrote on <span class="simpleblog-date">March 10, 2009 1:56 pm:</span><div class="simpleblog-response">&quot; I can't believe how biased against LPS this article is. The teachers were trying to expose their students to different ideas and cultures, which is one of the main purposes of education. It sounds to me as if this parent is afraid of his kids being introduced to different ways of thinking than his own. Lakeview is a very diverse school and making all students feel included and part of the cultural makeup not only of their educational setting but also of this country is important for their well being and understanding of themselves and their classmates. That is why we have Black History month and Martin Luther King Jr. Day. It's not some conspiracy as many people commenting here seem to think it is. All the coments here are tinged with simmering racism and hatred poorly covered up by &quot;concern&quot; for children. This parent is concerned for himself and his way of life, not the true education of students, which is what the teacher's are truly focused on. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="989c308f98a7843a51c0d8e06595351b"></a><span class="comment-sort"><span class="simpleblog-name">Sad</span> wrote on <span class="simpleblog-date">March 10, 2009 3:09 pm:</span><div class="simpleblog-response">&quot; I am so sad to see this is even an issue, I am very happy to be leaving this state for good! &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="ce26fad92c1cdb9922f61f342f5145e5"></a><span class="comment-sort"><span class="simpleblog-name">Discrimination</span> wrote on <span class="simpleblog-date">March 10, 2009 7:34 pm:</span><div class="simpleblog-response">&quot; So how can it be alright that AOL has a Black Channel, there is a Black University and a Black Magazine and that's not considered discrimination? If we had a White University, a White Channel on AOL and a White Magazine I'm sure we'd never hear the end of it. Call it reverse discrimination. It's not right! &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="21aa91662ed9f419d8f3304a712b6d95"></a><span class="comment-sort"><span class="simpleblog-name">nemo</span> wrote on <span class="simpleblog-date">March 10, 2009 8:04 pm:</span><div class="simpleblog-response">&quot; You all know what?  This is America you don't have to stand for anyone's anthem if you don't want to, not even our own Star Spangled Banner it's just respectful. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="1f84bbd52fccb629021e0e231652fdf8"></a><span class="comment-sort"><span class="simpleblog-name">Reality</span> wrote on <span class="simpleblog-date">March 10, 2009 10:35 pm:</span><div class="simpleblog-response">&quot; News flash!  Your kids are not going to see the world the way you do.  If you weren't so threatened by change maybe you could learn something from your children. &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="97437d67c4988f41c5ec648325c6a924"></a><span class="comment-sort"><span class="simpleblog-name">Treia</span> wrote on <span class="simpleblog-date">March 10, 2009 10:45 pm:</span><div class="simpleblog-response">&quot; I think those who disagree with this act are showing how racist and close minded Lincoln can be. It is people like you who bring negative attention to something so positive that confuse the minds of our youth. You should be thanking these teachers who care to open the minds of your children. Taking the time to present such a informative, memorable program. For those that automatically assumed that when the teachers introduced this song as the black national anthem, that it was some sort of segregation thus concludes how segregated your mind is already thinking. It was the title of a song. If you disagreed with it you didn’t have to stand. Children are smart, they learn what they are taught, it is your responsibility as a parent to explain things to them if you needed to. You can’t rely on anyone else but yourself, so were you confused our was your child? &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-2">
+<a id="bd42436eb842ebe2ccadd53135c53ff0"></a><span class="comment-sort"><span class="simpleblog-name">SERIOUSLY</span> wrote on <span class="simpleblog-date">March 10, 2009 11:03 pm:</span><div class="simpleblog-response">&quot; Those of you asking for white history month have got to be joking.  WHITE history is taught EVERY day.  Especially when you get to High School.  The African-American students are forced to take Western Civilization, but African-American History is an ELECTIVE and only available at certain schools.  My only question is why did they get the shortest month? &quot;</div><br/></span>
+</div>
+<div class="simpleblog-comment-1">
+<a id="1f062bc71ea08e33165ff7ad9f788453"></a><span class="comment-sort"><span class="simpleblog-name">Now what</span> wrote on <span class="simpleblog-date">March 11, 2009 9:36 am:</span><div class="simpleblog-response">&quot; Where is the ACLU at now? This school violated the rights of asian, white, indian, german,itilan, greek,irish and other americans. Why isn't there more celebration given to the Native American month, Asian American month, and the various other heritage months? One for all and all for one right? &quot;</div><br/></span>
+</div>
+</div></div>
+</div>
+
+</div>
+</div>
+<div class="story-ad"> 
+<!-- Yahoo Content Match Category = news -->
+
+                <style type="text/css">
+                        @import url('http://www.journalstar.com/shared-content/newsys-yahoo-search/css/content_match_styles.css');
+                </style>
+                <div class="yahoo_content_match"><h1><a class="side_ads" href="http://searchmarketing.yahoo.com/" rel="nofollow">Ads by Yahoo!</a></h1>
+
+<div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AHqU-kNeFTIvJ21R-wguzLpGArnplqHHUiCis66QK-X8C7pktpyQI6KiXHwWUL4GYTELBwV1Bz3wM0obzH41gLTky_yM8L93iqP_PYGEEcdpEbdPTIa8e3Ky6r5NQpIeuBN6rJVXpH28hiTSjRNyOtkrp9z4Jl8BA9hxymct5rVinnzpylxbY4z-FKsx-J5jWhz4gqu0ZhdxdbT0eujAhOw4C0zjwZFwiGdNPHlblclyrCY0hYDwt_w.00000000d1819972" rel="nofollow">Lincoln Shoe Polish</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AHqU-kNeFTIvJ21R-wguzLpGArnplqHHUiCis66QK-X8C7pktpyQI6KiXHwWUL4GYTELBwV1Bz3wM0obzH41gLTky_yM8L93iqP_PYGEEcdpEbdPTIa8e3Ky6r5NQpIeuBN6rJVXpH28hiTSjRNyOtkrp9z4Jl8BA9hxymct5rVinnzpylxbY4z-FKsx-J5jWhz4gqu0ZhdxdbT0eujAhOw4C0zjwZFwiGdNPHlblclyrCY0hYDwt_w.00000000d1819972" rel="nofollow">We carry the complete line of Lincoln Shoe Polish.<br/>
+
+<em>www.shoecaresupplies.com</em></a></p></div><div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ABWu04flIZ8z66yr5Dx6YW2spU2V7man4s_3G3V7mJCDrEr8vUUQT9b_EQr6KGQXfpW8TquLEXPna69no2wSU2XCJFn1aBstwm2yjOBvr53_Dd01FkCDzdVFR1yE1pl1uGW2drIkLSGWUJHCfIsXuJq58v1csIdtbmxzLQQIXbdkFqb-vhRULnpnRl3vj0FpB3FgiPmefA_9m6oSPcOEWf3lkiM3qehpvadSKkaet6A0GnAN7N7-BzY.00000000d1819972" rel="nofollow">2008 Lincoln Blowouts</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ABWu04flIZ8z66yr5Dx6YW2spU2V7man4s_3G3V7mJCDrEr8vUUQT9b_EQr6KGQXfpW8TquLEXPna69no2wSU2XCJFn1aBstwm2yjOBvr53_Dd01FkCDzdVFR1yE1pl1uGW2drIkLSGWUJHCfIsXuJq58v1csIdtbmxzLQQIXbdkFqb-vhRULnpnRl3vj0FpB3FgiPmefA_9m6oSPcOEWf3lkiM3qehpvadSKkaet6A0GnAN7N7-BzY.00000000d1819972" rel="nofollow">Lincoln Dealer Clearance Prices. All Lincoln Models Must Sell.<br/>
+
+<em>Lincoln.CarClub.com</em></a></p></div><div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AHqU-kNeFTIvWiruia2K4O4aZ1N1NPA5KkVOnSoBtb2cmCjVC-fVkOJ6ThBqRL_XVMHkL4kZ6ezljR__GXgyrLq0sXXBFx8iZsM-HQwvu0ZTVuNTBNf_IIhGPqx2hnijIVUTBJkl68z0z80IwU2Ei62NJ2_DqJC5g_A1V0ANLj2Ei_nHnyCOuNPGeAUJ3dFtKViQ13IJpZrS5PONIAY_S_gyupXmpCaUe8pbqZNyM6LYGoj2oTov3Oo.00000000d1819972" rel="nofollow">Union College Lincoln Nebraska</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AHqU-kNeFTIvWiruia2K4O4aZ1N1NPA5KkVOnSoBtb2cmCjVC-fVkOJ6ThBqRL_XVMHkL4kZ6ezljR__GXgyrLq0sXXBFx8iZsM-HQwvu0ZTVuNTBNf_IIhGPqx2hnijIVUTBJkl68z0z80IwU2Ei62NJ2_DqJC5g_A1V0ANLj2Ei_nHnyCOuNPGeAUJ3dFtKViQ13IJpZrS5PONIAY_S_gyupXmpCaUe8pbqZNyM6LYGoj2oTov3Oo.00000000d1819972" rel="nofollow">Guide To Free Education &amp; 1900 US Colleges Get Your Free Copy Now.<br/>
+
+<em>FreeEducationGuide.com</em></a></p></div></div></div>
+
+
+</div>
+  <div class="middlecol">
+
+
+ <div id="stories-box">
+<div class="box-top-right" style="width: 347px;"><div class="box-links"><div class="sublabel" style="border-top: 0; float: left;"><h1 class="last-link"><a href="http://www.journalstar.com/news/local" style="font-size: 12px;">More Stories In Local</a></h1></div></div></div>
+<div class="box-left">
+<div class="box-right">
+ <div class="section-stories">
+	<ul><li><a href="http://www.journalstar.com/articles/2009/03/11/news/local/doc49b85a17b5718490080335.txt?orss=1">Keno comes to one-bar town, just as bar closes</a></li><li><a href="http://www.journalstar.com/articles/2009/03/11/news/local/doc49b84177644ce708131837.txt?orss=1">Barber: Mission doesnt turn families away</a></li>
+  </ul>
+ 
+ </div>
+</div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right"></div>
+</div>
+
+<div class="story-ad"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1213333200) && (nAdsysTime <= 1528952399)) {
+aAd = new Array('news+in_story', '132773-1213384942', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1216702800) && (nAdsysTime <= 1251781199)) {
+aAd = new Array('news+in_story', '138814-1216750726', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1220936400) && (nAdsysTime <= 1252558799) && !adsys_hasReachedFreqCap(147079, 3)) {
+aAd = new Array('news+in_story', '147079-1220989059', 'js');
+aAd[7] = 15;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 3;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1235887200) && (nAdsysTime <= 1246424399)) {
+aAd = new Array('news+in_story', '174366-1235771485', 'js');
+aAd[7] = 20;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1236747600) && (nAdsysTime <= 1237352399)) {
+aAd = new Array('news+in_story', '176125-1236704674', 'swf');
+aAd[3] = '300';
+aAd[4] = '250';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.russmarket.com%2Fshop_stores%2Fspecial_savings%2Fweekly_specials.html%3Ffpac%3DRM-Lincoln';
+aAd[5][1] = 'http%3A%2F%2Fwww.russmarket.com%2Fonline_coupons%2F';
+aAd[6] = 'news%2Bin_story';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+ <div id="most-box">
+<div class="box-top-right" style="width: 347px;"><div class="box-links"><div class="sublabel" style="border-top: 0; float: left;"><h1><a href="javascript:void(0);" onclick="section_switch('recent-updates', 'most-box');" id="recent-updates-link" style="font-size: 12px;">Recent Updates</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('most-commented', 'most-box');" id="most-commented-link" style="font-size: 12px;">Most Commented</a></h1><h1 class="last-link"><a href="javascript:void(0);" onclick="section_switch('most-read', 'most-box');" id="most-read-link" style="font-size: 12px;">Most Read</a></h1></div></div></div>
+<div class="box-left">
+<div class="box-right">
+ <div class="recent-updates" style="display: none;">
+     <div id="newswatch"><ul style="line-height: 12px;"><li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc49b8440a402f6735733314.txt">Deputy arrested on DWI suspicion</a><br/><span class="datestamp">3-11-2009 9:53 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc49b85a17b5718490080335.txt">1-bar town gets Keno just as bar closes</a><br/><span class="datestamp">3-11-2009 7:51 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/nebraska/doc49b7db883debc414182196.txt">W. Neb. auto exec to turn himself in</a><br/><span class="datestamp">3-11-2009 7:49 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/politics/doc49b8505790b77626537024.txt">Critics: Bill increases secrecy at NU</a><br/><span class="datestamp">3-11-2009 7:01 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/nebraska/doc49b7d955225db456895103.txt"><span style="color: #f00;">Updated:</span> State gets 'D' in mental-health report</a><br/><span class="datestamp">3-11-2009 5:35 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/business/doc49b7e7d96eed9225238677.txt"><span style="color: #f00;">Updated:</span> Local unemployment rate leaps in January</a><br/><span class="datestamp">3-11-2009 3:56 PM</span></li>
+<li style="margin-bottom: 2px;"><a href="http://www.journalstar.com/news/local/doc49b7fbcd2c712811724445.txt">Arrest after drugs found in stolen safe</a><br/><span class="datestamp">3-11-2009 1:02 PM</span></li>
+</ul></div>
+ </div>
+ <div class="most-read">
+ <h3>Most Read Stories</h3>
+   <a href="http://www.journalstar.com/articles/2009/03/11/news/local/doc49b6ee89d1cc7863693422.txt">&#036;893k street light bill for Harris Overpass <span class="popular-count">(4181)</span></a><br/><a href="http://www.journalstar.com/articles/2009/03/11/news/local/doc49b7de6f95b1f796537491.txt">Man arrested for assaulting woman he picked up <span class="popular-count">(3493)</span></a><br/><a href="http://www.journalstar.com/articles/2009/03/11/news/local/doc49b7fbcd2c712811724445.txt">Robbery victim arrested for drugs found in stolen safe <span class="popular-count">(2586)</span></a><br/><a href="http://www.journalstar.com/articles/2009/03/11/news/local/doc49b8066da5cae561411967.txt">3 arrested for having meth ingredients <span class="popular-count">(2221)</span></a><br/><a href="http://www.journalstar.com/articles/2009/03/11/news/local/doc49b6f64e6cb47713142715.txt">UNL: Larry the Cable Guy show not confirmed <span class="popular-count">(1880)</span></a><br/>
+ </div>
+  <div class="most-commented" style="display: none;">
+    <h3>Most Commented news</h3>
+   <ul class="topblogs-list"><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2009/03/11/news/politics/doc49b7a9aa8bc99151352667.txt">Drivers could be nabbed by cameras</a> <span class="topblogs-count">(75)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2009/03/10/news/local/doc49b5aba8588b1694576893.txt">Perlman: Hard choices coming for UNL</a> <span class="topblogs-count">(54)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2009/03/10/news/local/doc49b658a23e24e903612184.txt">Duncan Aviation gives details of workforce reduction</a> <span class="topblogs-count">(53)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2009/03/11/news/local/doc49b6ee89d1cc7863693422.txt">&#036;893k street light bill for Harris Overpass</a> <span class="topblogs-count">(39)</span></li><li class="topblogs-entry"><a href="http://www.journalstar.com/articles/2009/03/10/news/politics/doc49b5b2fc1c325118822320.txt">Legislative committee takes up regulation of sex shops</a> <span class="topblogs-count">(38)</span></li></ul> </div>
+ </div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right"></div>
+</div>
+
+<div style="width: 100%; float: left; text-align: center; margin: 5px 0 5px 0; position: relative;"><script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[477] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1196834400) && (nAdsysTime <= 1259647199)) {
+aAd = new Array('news+right_tower', '106843-1219956576', 'swf');
+aAd[3] = '160';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.tabitha.org%2F';
+aAd[6] = 'news%2Bright_tower';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if (((nAdsysTime >= 1236747600) && (nAdsysTime <= 1236833940) || (nAdsysTime >= 1236834000 && nAdsysTime <= 1236920340))) {
+aAd = new Array('news+right_tower', '132775-1213384741', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if (((nAdsysTime >= 1236747600) && (nAdsysTime <= 1236833940) || (nAdsysTime >= 1236834000 && nAdsysTime <= 1236920340))) {
+aAd = new Array('news+right_tower', '138810-1216750145', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1218171600) && (nAdsysTime <= 1251781199)) {
+aAd = new Array('news+right_tower', '141897-1218209187', 'js');
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1218776400) && (nAdsysTime <= 1249102799)) {
+aAd = new Array('news+right_tower', '142955-1236806142', 'swf');
+aAd[3] = '160';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fwww.liedcenter.org%2Fnews%2Farticle.php%3Fnid%3D10';
+aAd[6] = 'news%2Bright_tower';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1231999200) && (nAdsysTime <= 1240981199)) {
+aAd = new Array('news+right_tower', '145748-1236375735', 'jpg');
+aAd[3] = 'http://enthompson.unl.edu/#dworkin';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1220936400) && (nAdsysTime <= 1252558799) && !adsys_hasReachedFreqCap(147062, 3)) {
+aAd = new Array('news+right_tower', '147062-1220988267', 'js');
+aAd[7] = 8;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 3;
+aAd[11] = 1440;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1231912800) && (nAdsysTime <= 1237093199)) {
+aAd = new Array('news+right_tower', '166957-1234465276', 'swf');
+aAd[3] = '160';
+aAd[4] = '600';
+aAd[5] = new Array();
+aAd[5][0] = 'http%3A%2F%2Fsecurity1stbank.com%2Fgreenfreechecking%2F';
+aAd[6] = 'news%2Bright_tower';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1235023200) && (nAdsysTime <= 1237525199)) {
+aAd = new Array('news+right_tower', '172518-1236183707', 'gif');
+aAd[3] = 'http://www.timewarnercable.com/';
+aAd[4] = '1';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+if ((nAdsysTime >= 1235887200) && (nAdsysTime <= 1246424399)) {
+aAd = new Array('news+right_tower', '174359-1235771281', 'js');
+aAd[7] = 20;
+aAd[8] = 0;
+aAd[9] = 477;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'journalstar.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+
+<div id="alsoin-box">
+<div class="box-top-right"><div class="box-links"><div class="sublabel" style="border-top: 0; width: 315px;"><h1>Also in Local</h1>
+</div>
+</div>
+</div>
+<div class="box-left">
+<div class="box-right">   
+ <div class="feed">
+   <ul>
+     <li><a href="http://www.legacy.com/journalstar/DeathNotices.asp">Obituaries</a></li>
+     <li><a href="http://www.journalstar.com/blog/lincolnlife.php" title="Lincoln Life Blog">Lincoln Life Blog</a></li>
+     <li><a href="http://ims.lincoln.ne.gov/CrimeViewCommunity/wizard.asp" target="_blank" title="Lincoln Crime Maps">Lincoln Crime Maps</a></li>
+     <li><a href="http://www.journalstar.com/library/" title="Library">Library</a></li>
+     <li><a href="http://www.journalstar.com/news/local/records/" title="Records">Records</a></li>
+     <li><a href="http://www.journalstar.com/business_achievements/" title="Business Achievements">Business Achievements</a></li>
+	 <li><a href="http://www.journalstar.com/news/local/maps/restaurant_inspections/" title="Restaurant Inspections">Restaurant Inspection Database Map</a></li>
+     <li><a href="http://www.journalstar.com/news/politics/elections/2008/november" title="Elections">Elections</a></li>
+     <li><a href="http://www.journalstar.com/blog/business.php" title="Biz Buzz">Biz Buzz</a></li>
+   </ul>
+   </div>
+ </div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right"></div>
+
+
+</div>
+
+<div style="margin: 5px 0 5px 0; clear: both; float: left;">
+
+<script language="JavaScript">
+<!--
+      var oc = new ObjectControl();
+		oc.set_object_attribute('classid','clsid:d27cdb6e-ae6d-11cf-96b8-444553540000');
+		oc.set_object_attribute('codebase','http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0');
+		oc.set_object_attribute('width','345');
+		oc.set_object_attribute('height','177');
+		oc.set_object_attribute('id','carousel');
+      oc.set_object_param('wmode','transparent');  
+      oc.set_embed_attribute('wmode','transparent');
+		oc.set_object_param('allowScriptAccess','sameDomain');
+      oc.set_object_param('movie','/resources/flash/carousel/flipper.swf');
+      oc.set_object_param('quality','best');
+//oc.set_object_param('FlashVars','');
+      oc.set_embed_attribute('src','/resources/flash/carousel/flipper.swf');
+      oc.set_embed_attribute('quality','best');
+		oc.set_embed_attribute('width','345');
+		oc.set_embed_attribute('height','177');
+		oc.set_embed_attribute('name','carousel-embed');
+		oc.set_embed_attribute('id', 'carousel-embed');
+		oc.set_embed_attribute('allowScriptAccess','sameDomain');
+//oc.set_embed_attribute('FlashVars','');
+		oc.set_embed_attribute('type','application/x-shockwave-flash');
+		oc.set_embed_attribute('pluginspage','http://www.macromedia.com/go/getflashplayer');
+
+		oc.write_object();
+      -->
+</script>
+</div>
+
+<div id="topads-box">
+<div class="box-top-right"> <div class="box-links"><div class="sublabel" style="border-top: 0;"><h1><a href="javascript:void(0);" onclick="section_switch('jobs', 'topads-box');" id="jobs-link" class="sub-link">Jobs</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('homes', 'topads-box');" id="homes-link" class="sub-link">Homes</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('rentals', 'topads-box');" id="rentals-link" class="sub-link">Rentals</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('wheels', 'topads-box');" id="wheels-link" class="sub-link">Wheels</a></h1><h1><a href="javascript:void(0);" onclick="section_switch('pets', 'topads-box');" id="pets-link" class="sub-link">Pets</a></h1><h1 class="last-link"><a href="javascript:void(0);" onclick="section_switch('stuff', 'topads-box');" id="stuff-link">Stuff</a></h1></div></div></div>
+<div class="box-left">
+<div class="box-right">
+  <div class="jobs" style="display: none;">
+      <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/topjobs/static.js"></script>
+  </div>
+  <div class="homes" style="display: none;">
+      <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/tophomes/static.js"></script>
+  </div>
+   <div class="rentals" style="display: none;">
+      <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/toprentals/static.js"></script>
+  </div>
+  <div class="wheels" style="display: none;">
+       <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/tophorizontal/static.js"></script>
+  </div>
+  <div class="pets" style="display: none;">
+    <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/top_pets/static.js"></script>
+  </div>
+  <div class="stuff">
+    <script type="text/javascript" src="http://adsys.townnews.com/creative/journalstar.com/topstuff/static.js"></script>
+  </div>
+    <div class="morelink">More Top <a href="http://www.journalstar.com/topads/jobs/more/">Jobs</a> | <a href="http://www.journalstar.com/topads/homes/more/">Homes</a> | <a href="http://www.journalstar.com/topads/rentals/more/">Rentals</a> | <a href="http://www.journalstar.com/topads/wheels/more/">Wheels</a> | <a href="http://www.journalstar.com/topads/pets/more/">Pets</a> | <a href="http://www.journalstar.com/topads/stuff/more/">Stuff</a></div>
+  </div>
+</div>
+<div class="box-bot-left"></div>
+<div class="box-bot-right"></div>
+</div>
+
+</div>
+  </div>
+
+</div>
+<div id="footer">
+  <div class="content">
+    <div class="message">
+      Copyright &copy; 2002-2009, Lincoln Journal Star. All rights reserved.&nbsp;|&nbsp;
+      <a href="javascript:void(0)" onclick="javascript:window.open('http://journalstar.com/help/privacy_policy/', 'privacy', 'width=600,height=600,scrollbars=1,resizeable=0')" title="Privacy Policy">Privacy Policy</a>&nbsp;|&nbsp;
+      <a href="http://journalstar.com/services/contact/" title="Contact Us">Contact Us</a>&nbsp;|&nbsp;
+      <a href="http://journalstar.com/help/sitemap/" title="Site Map">Site Map</a>
+    </div>
+      <div class="search" style="text-align: right; width: 410px;"><a href="http://us.rd.yahoo.com/my/atm/Lincoln%20Journal%20Star/JournalStar.com%20News/*http://add.my.yahoo.com/rss?url=http%3A//journalstar.com/rss/%3Fcat%3Dnews%26sub%3Dlocal" target="_blank"><img src="http://www.journalstar.com/resources/images/icons/yahoo_icon_story.gif" alt="Add to My Yahoo!"></a>
+<a href="http://journalstar.com/rss/?cat=news&amp;sub=local" style="margin-left: 10px;"><img src="http://www.journalstar.com/resources/images/icons/rss-footer.gif"></a>
+</div></div>
+  </div>
+</div>
+
+<!-- <div id="textalert-box" style="display: none; cursor: default"> 
+  <div style="border: 15px solid #000;">
+    <div style="border: 3px solid #900; background: #fff; padding: 15px 10px 20px 10px;">
+	<a style="float: right" href="javascript:void(0);" onclick="javascript:jQuery.unblockUI();" title="Close">[X]&nbsp;Close</a>
+      <h1>Win tickets to see Nebraska play Western Michigan at Memorial Stadium on August 30th!</h1><br>
+      <a href="http://402411.com/promos/huskerTickets.php" target="_self" title="Enter Now"><img src="http://402411.com/resources/images/HuskerAlerts.jpg" alt="Enter Now"></a>
+	  <div style="clear: both;"><h1><a href="http://402411.com/promos/huskerTickets.php" target="_self" title="Enter Now">Sign up for Husker Extra text alerts today!</a></h1></div><br>
+      
+    </div>
+  </div>
+</div>  -->
+
+<div style="position: absolute; top: 0; left: 0; ">
+  <!-- journalstar omniture extension v1.0.0 -->
+<!-- SiteCatalyst code version: H.7. Copyright 1997-2006 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" src="http://journalstar.com/resources/omniture/s_code.js"></script>
+<script language="JavaScript"><!--
+/* Omniture Params to record. */
+s.server='Lincoln Journal Star';
+s.channel='journalstar.com';
+s.pageName='Archived Article: news/local: Parent objects to \'second\' national anthem';
+s.prop1='news';
+s.prop2='local';
+s.prop6='Lincoln Journal Star';
+s.prop7='Parent objects to \'second\' national anthem';
+s.prop8='By MARGARET REIST / Lincoln Journal Star';
+s.prop15='Wednesday';
+s.hier1='Lee Enterprises,Lincoln Journal Star,journalstar.com,news,local,,,';
+s.hier2='Lee Enterprises,news,Lincoln Journal Star,journalstar.com,local,,,';
+
+var d = new Date();
+s.prop14 = d.getHours() + ':00';
+
+var rss = parseInt(s.getQueryParam('orss'));
+switch(rss) {
+case 1:
+  s.prop21 = 'RSS Article: ' + s.prop7;
+  break;
+case 2:
+  s.prop21 = 'RSS Gallery Photo: ' + s.prop16 + ', ' + s.prop17;
+  break;
+}
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. --></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl./" : "http://www./");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-6839786-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body>
+</html>
+
+
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 03:28:43 Mar 12, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 06:03:28 Mar 28, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 96.41 (3)
+  esindex: 0.01
+  captures_list: 125.411
+  CDXLines.iter: 14.2 (3)
+  PetaboxLoader3.datanode: 79.047 (4)
+  exclusion.robots: 0.222
+  exclusion.robots.policy: 0.207
+  RedisCDXSource: 11.213
+  PetaboxLoader3.resolve: 145.153
+  load_resource: 191.873
+-->

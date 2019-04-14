@@ -1,0 +1,1235 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>REGION: Minutemen look to expand free speech lawsuit : North County Times - Californian </title>
+</head>
+
+<body>
+<script type="text/javascript" src="http://www.nctimes.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('nctimes.com'); TNTracker.setTracker('http://www.nctimes.com/shared-content/stats/common/tracker.gif', 'https://secure.townnews.com/shared-content/stats/common/tracker.gif'); TNTracker.trackPageView(); }
+// -->
+</script>
+<!-- HEADER -->
+<div id="header_wrap">
+
+<!-- HEADER -->
+   <div id="header">
+                
+        <!-- *************************************************************************************************************************** --> 
+              <div id="headerlogo_ad">
+    
+                    <a href="http://www.nctimes.com/"><img id="nctheaderlogo" class="clear" src="http://images.townnews.com/nctimes.com/zimages/08/logo-nct.png" alt="NCTimes.com" width="235" height="89"/></a> 
+                    
+                    <div class="bannerad">
+                        <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/biz_leaderboard/static.js"></script>
+                    </div> 
+                       
+            </div>        <!-- *************************************************************************************************************************** --> 
+                
+        <!-- *************************************************************************************************************************** --> 
+               <div id="midlink" class="clear">
+				
+			<ul id="main_menu" class="lava">
+                <li id="mNews"><a href="http://www.nctimes.com/news/">News</a></li>
+				<li id="mOpinion"><a href="http://www.nctimes.com/opinion/">Opinion</a></li>
+                <li id="mSports"><a href="http://www.nctimes.com/sports/">Sports</a></li>
+				<li id="mEntertainment"><a href="http://www.nctimes.com/entertainment/">Entertainment</a></li>
+                <li id="mFeatures"><a href="http://www.nctimes.com/features/">Features</a></li>   
+                <li id="mMarket" class="ads_menu"><a href="http://www.nctimes.com/admarket/">Marketplace</a></li>             
+                <li id="mCars" class="ads_menu"><a href="http://wheels.nctimes.com/">Cars</a></li>
+                <li id="mHomes" class="ads_menu"><a href="http://homes.nctimes.com/">Homes</a></li>
+                <li id="mJobs" class="ads_menu"><a href="http://www.nctimes.com/jobs/">Jobs</a></li>
+   			</ul>
+           
+		</div>
+        
+        <div id="botlink">
+			<ul>
+			  	<li><a href="http://www.nctimes.com/" title="Home">HOME</a></li>
+				<li><a href="http://www.nctimes.com/contact_us/" title="Contact Us">CONTACT US</a></li>
+                <li><a href="http://www.nctimes.com/advertising/" title="Advertise">ADVERTISE</a></li>
+                <li><a href="http://www.nctimes.com/web_services/" title="Subscriber Services">SUBSCRIBER SERVICES</a></li>
+            <!--<li><a href="/" title="Site Map">SITE MAP</a></li>-->
+            </ul>
+		</div> <!-- end of botlink -->
+        <!-- *************************************************************************************************************************** --> 
+        
+        <!-- *************************************************************************************************************************** --> 
+              <div id="header-search">
+	<script language="javascript" type="text/javascript">
+	jQuery(document).ready(function() {
+		var search_value = $('input[@name=query]').val();
+		jQuery('#yahooSearchBox').val(search_value);
+	});
+	</script>
+		 <img class="floatleft margin15top" alt="yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+				    
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+			<input class="searchfield" type="text" name="search" size="15" value="Search..." id="yahooSearchBox"/> 
+			<label>in </label>
+			<select name="searchType" id="searchType">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="videos">Videos</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+				<option value="web">Web</option>
+			</select>
+			
+			<input class="submitbutton" name="submitsearch" type="submit" value="Go"/>
+		</form>
+</div> <!-- end of search -->        <!-- *************************************************************************************************************************** --> 		
+                
+        </div><!-- end of header -->
+	
+</div>
+
+<!-- BODY -->
+<div id="content_wrap">
+ 	  <div id="maincontent">
+<!-- *************************************************************************************************************************** --> 
+        <div style="position:relative; z-index:999;">
+
+<!-- NEWS/LOCAL -->
+
+	<div id="submNews" class="subnav-group">
+
+        <div class="subs lead">
+		  <h1><a href="http://www.nctimes.com/news">News Home Page</a></h1>
+          <ul class="lead">
+		    <li><a href="http://www.nctimes.com/news/top_stories">Top Stories</a></li>
+		    <li><a href="http://www.nctimes.com/news/coastal">Coastal</a></li>
+		    <li><a href="http://www.nctimes.com/news/inland">Inland</a></li>
+		    <li><a href="http://www.nctimes.com/news/californian">The Californian</a></li>
+            <li><a href="http://www.nctimes.com/news/sandiego">Region</a></li> 
+			<li><a href="http://www.nctimes.com/news/state">State</a> | <a href="http://www.nctimes.com/news/nation">National</a></li> 
+			<li><a href="http://www.nctimes.com/ap">Today's AP Headlines</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/rss">RSS Feeds</a></li>
+          </ul>
+        </div>
+      
+        <div class="subs">
+          <h1>City News</h1>
+          <ul>
+          	<li><a href="http://www.nctimes.com/news/coastal/carlsbad">Carlsbad</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/del_mar">Del Mar</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/encinitas">Encinitas</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/escondido">Escondido</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/fallbrook">Fallbrook</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/lake_elsinore">Lake Elsinore</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/menifee">Menifee</a></li> 
+            <li><a href="http://www.nctimes.com/news/californian/murrieta">Murrieta</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/oceanside">Oceanside</a></li>
+          </ul>
+        </div>
+        
+        <div class="subs">
+          <ul>
+			<li><a href="http://www.nctimes.com/news/inland/poway">Poway</a></li>
+          	<li><a href="http://www.nctimes.com/news/inland/ramona">Ramona</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/rb">Rancho Bernardo</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/riverside">Riverside County</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/san_marcos">San Marcos</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/sb">Solana Beach</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/temecula">Temecula</a></li>
+            <li><a href="http://www.nctimes.com/news/inland//vc">Valley Center</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/vista">Vista</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/wildomar">Wildomar</a></li>
+          </ul>
+        </div>
+        
+        <div class="subs">
+			<h1><a href="http://www.nctimes.com/business">Business Home Page</a></h1>
+			<ul>
+          		<li><a href="http://www.nctimes.com/blogs/minding_your_business/">Business Blog</a></li>
+          		<li><a href="http://www.nctimes.com/columnists/business/">Business Columnists</a></li>
+          		<li><a href="http://www.nctimes.com/gas_prices">Gas Gauge</a></li>
+		  		<li><a href="http://www.nctimes.com/business/stocks">Stocks</a> | <a href="http://hosted.ap.org/dynamic/external/ibd.morningstar.com/AP/StockMover2.html?local=CAESC&amp;CN=AP707&amp;SITE=CAESC&amp;SECTION=MONEY_COMPLETE">Local List</a></li>
+          		
+                <li class="h1-subhead">Other News</li>
+          		<li><a href="http://www.nctimes.com/military">Military</a></li> 
+		  		<li><a href="http://www.nctimes.com/elections2008">Elections</a></li> 
+		  		<li><a href="http://www.nctimes.com/corrections">Corrections</a></li>
+		  		<li><a href="http://www.nctimes.com/backpage">Backpage</a></li>
+		  <!--<li><a href="/business/chamberlin">George Chamberlin</a></li>
+		  <li><a href="/business/bahr">Candace Bahr</a></li>
+		  <li><a href="/business/vanderspek">Jim VanderSpek</a></li>
+		  <li><a href="/business/knight">Gary Knight</a></li>-->
+			</ul> 
+   		</div>
+		  
+          <div class="subs"> 
+          	<h1><a href="http://www.nctimes.com/columnists/local/">Local Columnists</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/news/columnists/baier/">Paul Baier</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/jeff_frank">Jeff Frank</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/betty_johnston/">Betty Johnston</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/john_hunneman/">John Hunneman</a></li>
+                <li><a href="http://www.nctimes.com/news/columnists/tom_morrow/">Tom Morrow</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/observer/">John Van Doorn</a></li>
+				<li><a href="http://www.nctimes.com/columnists/local/">More Local Columnists</a></li>
+                <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+           	</ul>
+		 </div> 
+          
+		  <div class="subs"> 
+          	<ul>
+				<li><a href="http://www.nctimes.com/weather">Weather</a></li>
+				<li><a href="http://www.nctimes.com/traffic">Traffic</a></li>
+		  		<li><a href="http://www.nctimes.com/earthquake">Earthquake Reports</a></li>
+		  		<li><a href="http://videos.nctimes.com/">Videos</a></li>
+            	<li><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+                <li><a href="http://www.nctimes.com/archives/">Archives</a></li>
+                <li class="h1-subhead">News Extras</li>
+          		<li><a href="http://www.nctimes.com/maillist/index.php">Daily Headline Alerts</a></li> 
+				<li><a href="http://www.nctimes.com/pdfs">View Front Pages</a></li> 
+           </ul>
+		 </div> 
+	</div>
+	
+<!-- OPINION -->
+	<div id="submOpinion" class="subnav-group">
+	<div class="subs lead"> 
+          <h1><a href="http://www.nctimes.com/opinion/">Opinion Home Page</a></h1>
+          <ul>
+				<!-- <li><a href="/blog">Blogs</a></li> -->
+                <li><a href="http://www.nctimes.com/blogs/editorscorner">Editor's Corner Blog</a></li>
+				<li><a href="http://www.nctimes.com/opinion/editorials">Editorials</a></li>
+				<li><a href="http://www.nctimes.com/opinion/cartoon">Editorial Cartoons</a></li>
+				<li><a href="http://www.nctimes.com/opinion/commentary">Community Forums</a></li>
+				<li><a href="http://www.nctimes.com/perspective/">Perspective</a></li>
+                <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+          </ul>
+		 </div> 
+         
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/columnists/opinion">Opinion Columnists</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/opinion/brett/">Brigid Brett</a></li>
+				<li><a href="http://www.nctimes.com/opinion/chatfield/">Gail Chatfield</a></li>
+                <li><a href="http://www.nctimes.com/opinion/clausen/">Dennis Clausen</a></li>
+                <li><a href="http://www.nctimes.com/opinion/davy">Kent Davy</a></li>
+				<li><a href="http://www.nctimes.com/opinion/jacobs/">Paul Jacobs</a></li>
+				<li><a href="http://www.nctimes.com/opinion/kirk/">Richard Kirk</a></li>
+				<li><a href="http://www.nctimes.com/opinion/rider/">Richard Rider</a></li>
+				<li><a href="http://www.nctimes.com/opinion/riehl/">Richard Riehl</a></li>
+                
+           	</ul>
+          </div>     
+                
+         <div class="subs">
+         	<ul>
+            	<li><a href="http://www.nctimes.com/opinion/scharf/">Greg Scharf</a></li>
+				<li><a href="http://www.nctimes.com/opinion/strickland/">Phil Strickland</a></li>
+                <li><a href="http://www.nctimes.com/opinion/trageser/">Jim Trageser</a></li>
+                <li><a href="http://www.nctimes.com/columnists/opinion">More Columnists</a></li>
+          	</ul>
+		 </div> 
+         
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/columnists/opinion">National Columnists</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/opinion/goodman/">Ellen Goodman</a></li>
+                <li><a href="http://www.nctimes.com/opinion/north/">Oliver North</a></li>
+				<li><a href="http://www.nctimes.com/opinion/will">George Will</a></li>
+                <li><a href="http://www.nctimes.com/opinion/cohen/">Richard Cohen</a></li>
+                <li><a href="http://www.nctimes.com/opinion/cocco/">Marie Cocco</a></li>
+                <li><a href="http://www.nctimes.com/opinion/parker/">Kathleen Parker</a></li>
+          </ul>
+		 </div>
+         
+		 <div class="subs"> 
+         <h1>Letters</h1>
+		 <ul>
+				<li><a href="http://www.nctimes.com/opinion/letters">Letters to the editor</a></li>
+				<li><a href="http://www.nctimes.com/faith/letters">Faith &amp; Values Letters</a></li>
+          </ul>
+		 </div>
+     </div>
+	 
+<!-- SPORTS -->
+
+	<div style="display: none;" id="submSports" class="subnav-group">
+	   	<div class="subs lead">
+
+        	<h1><a href="http://www.nctimes.com/sports/">Sports Main Page</a></h1>
+            <ul>
+                <li><a href="http://www.nctimes.com/sports/chargers">Chargers</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/teams/083/team.aspx?id=083">Stats</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=3">Blog</a></li>
+                <li><a href="http://www.nctimes.com/sports/padres">Padres</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/teams/010/team.aspx?id=010">Stats</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=4">Blog</a></li>
+                <li><a href="http://www.nctimes.com/sports/angels/">Angels</a></li>
+		    	<li><a href="http://www.nctimes.com/sports/action">Action Sports</a></li>
+                <li><a href="http://www.nctimes.com/sports/communitysports">Community Sports</a></li>
+				<li><a href="http://www.nctimes.com/sports/golf">Golf</a></li>
+                <li><a href="http://www.nctimes.com/sports/horseracing">Horse Racing</a></li>	
+                <li><a href="http://www.nctimes.com/sports/motorsports">Motorsports</a></li>
+				<li><a href="http://www.nctimes.com/sports/outdoors">Outdoors</a></li>
+          </ul>
+   	    </div>
+
+        <div class="subs">
+	   	  <h1><a href="http://www.nctimes.com/columnists/sports">Columnists</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/sports/nelson">Loren Nelson</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=20">Blog</a></li>
+		    <li><a href="http://www.nctimes.com/sports/paris">Jay Paris</a></li>
+		    <li><a href="http://www.nctimes.com/sports/maffei">John Maffei</a></li>
+			<li class="h1-subhead">Sunday Slant</li>
+		    <li><a href="http://www.nctimes.com/sports/sides">Choosing Sides</a></li>
+		    <li><a href="http://www.nctimes.com/sports/net">Nothin' But Net</a></li>
+            <li><a href="http://www.nctimes.com/sports/take5">Take 5</a></li>
+            <li><a href="http://www.nctimes.com/sports/letters">Letters</a></li>
+		  </ul>
+   	    </div>
+        
+	   	<div class="subs">
+          <h1>Colleges</h1>
+          <ul>  
+          	<li><a href="http://www.nctimes.com/sports/aztecs">San Diego State</a></li>
+			<li><a href="http://www.nctimes.com/sports/collegesports">Local Colleges</a></li>
+		    <li><a href="http://www.nctimes.com/sports/ncaabasketball">NCAA Basketball</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cbask/news/index.aspx?sport=AE">Stats</a></li>
+		  	<li><a href="http://www.nctimes.com/sports/ncaafootball">NCAA Football</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cfoot/news/index.aspx?sport=AF">Stats</a></li>
+			<li class="h1-subhead">High Schools</li>
+		    <li><a href="http://www.nctvarsity.com/">NCTVarsity</a> | <a href="http://www.nctimes.com/sports/highschool">Stats</a></li>
+		    <li><a href="http://www.calvarsity.com/">CALVarsity</a> | <a href="http://www.nctimes.com/sports/highschool/calhighschool">Stats</a></li>
+          </ul>
+   	    </div>
+		
+		<div class="subs">
+	   	  <h1>More Sports</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/sports/nba">NBA</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nba/news/index.aspx?sport=AC">Stats</a></li>		    		<li><a href="http://www.nctimes.com/sports/nfl">NFL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/news/index.aspx?sport=AB">Stats</a></li>		    		<li><a href="http://www.nctimes.com/sports/nhl">NHL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nhl/news/index.aspx?sport=AD">Stats</a></li>            <li><a href="http://www.nctimes.com/sports/mlb">MLB</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/news/index.aspx?sport=AA">Stats</a></li>
+            <li><a href="http://www.nctimes.com/sports/storm">Storm</a></li>
+		    <li><a href="http://www.nctimes.com/sports/tennis">Tennis</a></li>
+            <li><a href="http://www.nctimes.com/sports/olympics">Olympics</a></li>
+			<li><a href="http://www.nctimes.com/sports/boxing">Boxing</a></li>
+		  </ul>
+   	    </div>
+		
+		 <div class="subs">
+	   	  <h1><a href="http://www.nctimes.com/special_reports">Special Reports</a></h1>
+		  <ul>
+			<li><a href="http://www.nctimes.com/specials/football2008/">NCT Prep Football - 2008</a></li>
+		    <li><a href="http://www.nctimes.com/specials/football2008cal/">CAL Prep Football - 2008</a></li>
+            <li><a href="http://www.nctimes.com/special_reports/football2007/">NCT Prep Football - 2007</a></li>
+		    <li><a href="http://www.nctimes.com/special_reports/football2007/">CAL Prep Football - 2007</a></li>
+            <li><a href="http://www.nctimes.com/special_reports/gwynn/">Tribute to Tony Gywnn</a></li>
+            <li><a href="http://www.nctimes.com/articles/2008/05/06/sports/highschool/023d5a64e94bd0998825744000582c05.txt">Star Power: Big-name athletes turned coaches</a></li>
+	      	<li><a href="http://www.nctimes.com/usopen2008/">US Open 2008</a></li>
+            	<li class="h1-subhead"><a href="http://www.nctimes.com/blogs/sports_insider">Sports Main Blog Page</a></li>
+          </ul>
+   	    </div>
+  
+	</div>
+
+
+<!--5 ENTERTAINMENT DROP DOWNS -->
+
+	<div id="submEntertainment" class="subnav-group">
+	    
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/entertainment">Entertainment Home Page</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/entertainment/television">T.V.</a> | <a href="http://www.nctimes.com/entertainment/television/listings/">Listings</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/movies">Movies</a> | <a href="http://www.nctimes.com/cinema-source/movies/">Listings</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/art">Art</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/theater">Theater</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/music">Music</a></li>
+	        <li><a href="http://www.nctimes.com/books">Books</a></li>
+		    <li><a href="http://www.nctimes.com/comics">Comics</a></li>
+		    <li><a href="http://www.nctimes.com/go">Go!</a></li>
+	      </ul>
+        </div>
+        
+		 <div class="subs">
+          <h1><a href="http://www.nctimes.com/entertainment/calendar">Local Events</a></h1>
+          	<ul>
+            <li><a href="http://www.nctimes.com/entertainment/local_events/">North County</a></li>	
+		    <li><a href="http://www.nctimes.com/entertainment/localcal_events/">Southwest Riverside County</a></li>
+			
+			<li class="h1-subhead"><a href="http://www.nctimes.com/calendar/events/">Calendar</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/contests">Contests</a></li>
+		    </ul>
+        </div>         
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/food">Food &amp; Drink</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/food/wischkaemper">Let's Dish</a></li>
+		    <li><a href="http://www.nctimes.com/food/groch">Bites &amp; Pieces</a></li>
+            <li><a href="http://www.nctimes.com/dining/">Dining Guide</a></li>
+			<li><a href="http://www.nctimes.com/admarket/print_ads/restaurants/">Local Restaurant Ads</a></li>
+		  </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/columnists/entertainment">Entertainment Columnists</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/entertainment/television">TV: Ann Zivotsky</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/radio/">Radio: Randy Dotinga</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/backstage">Theater: Pam Kragen</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/sorocco">Music: Erika Sorocco</a></li>
+            <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+            <li class="h1-subhead"><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/games/">Games</a></li>
+		    </ul>
+        </div>
+	</div>
+	
+<!--5 FEATURES DROP DOWNS -->   
+
+	<div id="submFeatures" class="subnav-group">
+	    
+        <div class="subs lead">
+          		<h1><a href="http://www.nctimes.com/features">Features Home Page</a></h1>
+          <ul class="lead">
+				<li><a href="http://www.nctimes.com/books">Books</a></li>
+				<li><a href="http://www.nctimes.com/comics">Comics</a></li>
+				<li><a href="http://www.nctimes.com/faith">Faith &amp; Values</a></li>
+		  		<li><a href="http://www.nctimes.com/food">Food</a></li>
+				<li><a href="http://www.nctimes.com/homes">Homes</a></li>
+          		<li><a href="http://www.nctimes.com/health">Health</a></li>
+          		<li><a href="http://www.nctimes.com/lifeandtimes">Life</a></li>
+				<li><a href="http://www.nctimes.com/science">Science &amp; Technology</a></li>
+				<li><a href="http://www.nctimes.com/travel">Travel</a></li>	
+	      </ul>
+        </div>
+        
+		  <div class="subs"> 
+          	<h1><a href="http://www.nctimes.com/community">Community</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/community">Community News</a></li>
+                <li><a href="http://www.nctimes.com/community/schools/">School News</a></li>
+				<li><a href="http://www.nctimes.com/socialscene">Social Scene</a></li>
+				<li><a href="http://www.nctimes.com/community/charities_fund">Charities Fund</a></li>
+				<li><a href="http://www.nctimes.com/obituaries">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Births</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Celebrations</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/calendar/events/">Calendar</a></li>
+           </ul>
+		 </div>
+         
+      	<div class="subs">
+        	<h1><a href="http://www.nctimes.com/special_reports">Special Reports</a></h1>
+         	<ul>
+				<li><a href="http://www.nctimes.com/gogreen">Go Green</a></li>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>
+				<li><a href="http://www.nctimes.com/pop/">The Power of Parenting</a></li>
+                <li><a href="http://www.nctimes.com/special/meth/">The Power of Parenting - Part 2</a></li>
+                <li><a href="http://www.nctimes.com/special_reports">More Special Reports</a></li>
+            	<li class="h1-subhead"><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/contests">Contests</a></li>
+				<li class="h1-subhead"><a href="http://www.nctimes.com/games/">Games</a></li>
+            </ul>
+      	</div>
+
+		<div class="subs">
+          	<h1><a href="http://www.nctimes.com/columnists/features">Features Columnists</a></h1>
+			<ul>
+				<li><a href="http://www.nctimes.com/news/columnists/erdos/">Irv Erdos</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/deneve">Cyndie C. de Neve</a></li>
+				<li><a href="http://www.nctimes.com/homes/crawford">Rose Crawford</a></li>
+                <li><a href="http://www.nctimes.com/food/groch">Laura Groch</a></li>
+            	<li><a href="http://www.nctimes.com/homes/wilders">Tineke Wilders</a></li>
+                <li><a href="http://www.nctimes.com/news/columnists/petperspective">Pet Perspective</a></li>
+            	<li><a href="http://www.nctimes.com/features">More Features</a></li>
+			</ul>
+        </div>    
+	</div>
+
+<!--5 COMMUNITY DROP DOWNS 
+
+	<div id="submCommunity" class="subnav-group">
+	    
+	</div> -->
+
+<!-- SHOPPING-->
+	
+	<div id="submMarket" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/admarket/">Buy Stuff</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/admarket/">Classifieds</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/furniture_furnishings/">Furniture</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/appliances/">Appliances</a></li>
+			<li><a href="http://www.nctimes.com/admarket/print_ads/">Browse Print Ads</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/garage_sales/">Garage Sales</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/give_aways/">Give Aways</a></li>
+			<li><a href="http://www.nctimes.com/admarket/stuff/misc_wanted/">Wanted</a></li>
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">Sell Stuff</a></h1>
+          <ul>
+           <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Animals</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34363">Boats &amp; Marine</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34354">Garage and Yard Sales</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34319">General Merchandise</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Real Estate</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">More...</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/admarket/stuff/pets/">Pets</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/admarket/stuff/pets/dogs/">Dogs</a></li>
+				<li><a href="http://www.nctimes.com/admarket/stuff/pets/cats/">Cats</a></li>
+				<li><a href="http://www.nctimes.com/admarket/stuff/pets/birds/">Birds</a></li>
+				<li><a href="http://www.nctimes.com/admarket/stuff/pets/">Browse All Pet Ads</a></li>
+				<li><a href="http://www.nctimes.com/admarket/of_note/announcements/lost_found/">Lost and Found</a></li>
+			  <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Place An Ad</a></li>
+		    </ul>
+        </div>
+        	  <div class="subs">
+		  <h1>Directories</h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/medical/">Medical</a></li>
+				<li><a href="http://www.nctimes.com/cars/directory/">Auto Dealers</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Real Estate Experts</a></li>
+				<li><a href="http://www.nctimes.com/dining/">Dining Guide</a></li>
+				<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_marketplace_button/static.js"></script></li>
+				
+		    </ul>
+        </div> 
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/admarket/services/">Services</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>	
+            </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Announcements</h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/admarket/of_note/public_legal_notices/">Legals</a></li>
+				<li><a href="http://www.legacy.com/NCTimes/Obituaries.asp">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/admarket/of_note/celebrations/">Engagements, Weddings, Celebrations</a></li>
+				<li><a href="http://www.nctimes.com/admarket/of_note/announcements/lost_found/">Lost and Found</a></li>
+               </ul>
+
+        </div>
+         
+
+		
+        </div> 	
+    
+ <!-- CARS -->  
+    <div id="submCars" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://wheels.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+			<li><a href="http://wheels.nctimes.com/">Wheels For You</a></li>
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/?ad_type=display">Auto Print Ads</a></li>
+			<li><a href="http://wheels.nctimes.com/results.php?eqdealerid=202095">Classified Ads</a></li>
+			<li><a href="http://nctimes.outdoormotors.com/">Outdoor Motors</a></li>
+			<li><a href="http://www.nctimes.com/cars/directory/">Local Dealer Directory</a></li>		
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/wheels/specialty_antiques/">Specialty &amp; Antiques</a></li>	
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Sell</h1>
+          <ul>
+			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34358">Place an Ad</a></li>	
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/wheels/wanted_to_buy/">Wanted to Buy</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1>Research and Tools</h1>
+          <ul>
+			<li><a href="http://wheels.nctimes.com/research.php">Research and Advice</a></li>		
+			<li><a href="http://wheels.nctimes.com/tools.php">Payment Calculator</a></li>
+		    </ul>
+        </div>
+          <div class="subs">
+          <h1>Parts &amp; Service</h1>
+          <ul>		
+			<li><a href="http://www.nctimes.com/admarket/wheels_outdoor_motors/wheels/auto_parts/">Auto Parts</a></li>
+			<li><a href="http://www.nctimes.com/admarket/services/auto_motorcycle_svc_repair/">Service &amp; Repair</a></li>
+<!--			<li class="h1-subhead">Quick Searches</li>
+			<li><a href="/admarket/?=&amp;change_path&#61;%2F&amp;query&#61;auto+repair&amp;sort&#61;featured+desc+start_date+desc&amp;limit&#61;25">Auto Repair</a></li>
+			<li><a href="/admarket/?=&amp;change_path&#61;%2F&amp;query&#61;oil+change&amp;sort&#61;featured+desc+start_date+desc&amp;limit&#61;25">Oil Change</a></li>-->
+		    </ul>
+        </div>      
+        <div class="subs">
+          	<ul>		
+         	 <li><a href="http://wheels.nctimes.com/"><img src="http://wheels.nctimes.com/art/nctimes-wheels-logo.jpg" alt="wheels.nctimes.com" border="0"/></a></li>
+			 <li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_cars_button/static.js"></script></li>
+		 	</ul>
+		</div>
+	</div>
+    
+ <!-- HOMES -->  
+    <div id="submHomes" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://homes.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+		  		<li><a href="http://homes.nctimes.com/">Search Local MLS</a></li>
+            	<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=11%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=6&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C16%2C14%2C15&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=S&amp;WebSearches=Y">Classifieds</a></li>
+				<li><a href="http://www.nctimes.com/homes/tophomes/">Top Homes</a></li>
+				<li><a href="http://www.nctimes.com/tourofhomes/">Open House Map</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+				<li><a href="http://www.nctimes.com/homes/">Homes News</a></li>
+		    </ul>
+        </div>
+		  <div class="subs">
+          <h1>Quick Searches</h1>
+          <ul>	
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=0&amp;HPrice=400000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Under $400,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=400000&amp;HPrice=500000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$400,000-$500,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=500000&amp;HPrice=600000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$500,000-$600,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=600000&amp;HPrice=700000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$600,000-$700,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=700000&amp;HPrice=800000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$700,000-$800,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=800000&amp;HPrice=900000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$800,000-$900,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=900000&amp;HPrice=1000000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$900,000-$1,000,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=1000000&amp;HPrice=&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Over $1,000,000</a></li>
+				</ul>
+        </div>
+        
+        
+        <div class="subs">
+         <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Sell</a></h1>
+		  	<ul>
+				<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Place an Ad</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+          </ul>
+		  </div>
+         
+		 <div class="subs">
+         	<h1><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchIndex.asp">Rent</a></h1>
+	  	   	<ul>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Classified Ads</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=8&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=A&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Apartments</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=4&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=A&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Houses</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=32&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=A&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Condos</a></li>
+		   		<li><a href="http://www.nctimes.com/homes/toprentals/">Top Rentals</a></li>
+	  			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34283">Place an Ad</a></li>
+		    </ul>
+        </div>
+
+        
+        <div class="subs">
+          <h1>Homes Columns</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/news/columnists/cal_gardens">Tineke Wilders - California Gardens</a></li>
+			<li><a href="http://www.nctimes.com/news/columnists/crawford/">Rose Crawford - Ask Rose</a></li>
+			<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_homes_button/static.js"></script></li>
+		   </ul>
+        </div>
+        
+     
+	</div>
+ 
+  <!-- JOBS -->  
+    <div id="submJobs" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1>Find a Job</h1>
+          <ul class="lead">
+		  	<li><a href="http://www.nctimes.com/jobs">Job Search</a></li>
+            <li><a href="http://www.nctimes.com/jobs">Log In</a></li> 
+			<li><a href="http://nctimes.com/hotjobs_topads">View Top Jobs</a></li>
+			<li><a href="http://hotjobs.yahoo.com/create-resume?partner=oceansideescondido">Post Resume</a></li>
+			<li><a href="http://help.yahoo.com/l/us/yahoo/hotjobs/?partner=oceansideescondido">Jobs FAQ and Help</a></li>
+			<li class="h1-subhead"><a href="http://hotjobs.yahoo.com/careertools?partner=oceansideescondido">Research Tools</a></li>       
+			<li><a href="http://hotjobs.yahoo.com/career-articles?partner=oceansideescondido">Career Articles</a></li>
+			<li><a href="http://hotjobs.yahoo.com/salary?partner=oceansideescondido">Salary Info</a></li>
+			<li><a href="http://hotjobs.yahoo.com/interview?partner=oceansideescondido">Interviewing Tips</a></li>
+			</ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Quick Search</h1>
+          <ul>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Accounting_Finance-t-anytime-g-578132?partner=oceansideescondido">Accounting &amp; Finance</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Construction_Facilities-t-anytime-g-578132?partner=oceansideescondido">Construction</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Education_Training-t-anytime-g-578132?partner=oceansideescondido">Education</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Healthcare-t-anytime-g-578132?partner=oceansideescondido">Healthcare</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Manufacturing_Operations-t-anytime-g-578132?partner=oceansideescondido">Manufacturing</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Sales-t-anytime-g-578132?partner=oceansideescondido">Sales</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Government_Military-t-anytime-g-578132?partner=oceansideescondido">Government &amp; Military</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido&amp;keywords_all=part+time&amp;type=main&amp;metro_area=1">Part Time</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido">Browse All</a></li>
+		    </ul>
+        </div>
+        
+		<div class="subs">
+          <h1>For Employers</h1>
+          <ul>	
+        	<li><a href="http://www.nctimes.com/jobs/packages/">Place an Ad</a></li>
+			<li><a href="http://selfcare.hotjobs.yahoo.com/hjss/hjss_partners.php?P=oceansideescondido">Sign In</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/workhere">Jobs at NCT</a></li> 
+		  </ul>
+		</div>
+		
+     	<div class="subs">
+			<h1>Yahoo! HotJobs Local Search</h1>
+			<script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_jobs_button/static.js"></script>
+		</div>
+     
+	</div>
+    
+
+</div><!-- *************************************************************************************************************************** -->      
+
+ 	    <!-- COL 1,2 -->  
+ 	    <div id="twocols" class="c980 floatleft">
+ 	      
+ 	      <!-- COLUMN 1 - STORY CONTENT -->	  
+ 	      <div id="col1_story" class="c640 floatleft rborder">
+ 	        
+ 	        <div class="groupItem">
+ 	          <h1 id="sHeadline">REGION: Minutemen look to expand free speech lawsuit</h1>
+               <h2></h2>
+		      <p class="by">By CRAIG TENBROECK - Staff Writer |<span class="published"> <span class="timestamp">Friday, September 19, 2008 11:48 AM PDT</span></span> <a href="https://secure.townnews.com/nctimes.com/forms/link/linkform.php?des=
+REGION: Minutemen look to expand free speech lawsuit" target="_blank"> &infin;</a></p>
+				      
+              <div class="tool_options"> 				     
+                   <ul id="storytools">
+                      <li class="comment"><a href="#nctcomments"><span id="tp_hostNumComments">Loading&hellip;</span></a></li>
+                        <li class="fontup"><a href="javascript:IncreaseFontSize(2)" title="Enlarge article font size.">Increase Font</a></li>
+                        <li class="fontdown"><a href="javascript:DecreaseFontSize(2)" title="decrease font size.">Decrease Font </a></li>
+                        <li class="email">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2008/09/19/news/sandiego/zfc76246767fc5751882574c8000aede3.eml" target="emailafriend">email this story</a>                         </li>  
+                        <li class="print">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2008/09/19/news/sandiego/zfc76246767fc5751882574c8000aede3.prt" target="printable">print this story</a>                        </li>
+                </ul>
+                            
+                    <div class="clearleft"></div>
+              </div>
+                      
+                  
+          	     <div class="instory-content clearboth"> 
+              	
+              </div>
+         
+              <div class="instory-content clearboth">
+                <img border="0" src="http://images.townnews.com/nctimes.com/content/articles/2008/09/19/news/sandiego/zfc76246767fc5751882574c8000aede3.jpg">
+                The Minuteman Adopt-A-Highway sign on the shoulder of northbound Interstate 5, north of Oceanside and just south of the Border Patrol checkpoint Wednesday. (Photo by Bill Wechter - Staff Photographer)              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+			  <p>An anti-illegal immigration group, the San Diego Minutemen, is trying to pull two Latino lawmakers into its legal clash with the California Department of Transportation.<br/><br/>Attorneys for the group have asked a federal judge for permission to expand their free speech lawsuit against the state agency. They want to add Assemblyman Joe Coto (D-San Jose) and state Sen. Gilbert Cedillo (D-Los Angeles) to the defendant list. They also want to ask for punitive damages, court documents show.<br/><br/>Minutemen attorney Howard Kaloogian, a former state assemblyman, accused the lawmakers Thursday of urging Caltrans to ban the group from participating in the state's Adopt-a-Highway program.<br/><br/>The Minutemen sued Caltrans in February after the agency revoked the group's permit to pick up trash along a stretch of Interstate 5, near the Border Patrol checkpoint. Caltrans also removed a courtesy sign with the group's name.<br/><br/>Kaloogian filed the request to amend the suit Monday in U.S. District Court.<br/><br/>&quot;We have uncovered an active conspiracy to obviously deny our clients their constitutional rights,&quot; he said. &quot;This deserves to be punished.&quot;<br/><br/>Coto and Cedillo, leaders of the state Latino Legislative Caucus, could not be reached for comment Thursday afternoon.<br/><br/>It will be up to Judge William Q. Hayes whether the Minutemen can file an amended complaint. A hearing is scheduled for Oct. 27.<br/><br/>When Caltrans revoked the permit, officials said the activists' presence along the busy highway could lead to vandalism or confrontations. The Minutemen accused the agency of bowing to political pressure.<br/><br/>In June, Hayes ordered Caltrans to replace the sign while the lawsuit was pending. There was &quot;little, if any, evidence&quot; it would endanger the public, the judge said.<br/><br/>If Hayes determines that the Minutemen can amend their complaint, the activists would claim damages &quot;in excess of &#036;50,000,&quot; court documents show.<br/><br/>The group also plans to allege that Coto and Cedillo worked with Caltrans to &quot;silence the Minutemen's message and remove the Minutemen's presence from public view,&quot; court documents show.<br/><br/>The Minutemen point to a letter that the two lawmakers wrote to Caltrans director, Will Kempton, in January that said &quot;the most prudent approach in avoiding any future violence and discrimination&quot; would be revoking the Minutemen's permit and removing their sign.<br/><br/>Minutemen founder Jeff Schwilk has repeatedly denied that his group advocates violence or discrimination.<br/><br/>Caltrans attorney Jeffrey Benowitz did not return a call seeking comment Thursday.<br/><br/>Contact staff writer Craig TenBroeck at (760) 901-4062 or <a href="mailto:ctenbroeck@nctimes.com">ctenbroeck@nctimes.com</a>.</p>
+              
+              <div id="slideshow" class="clearboth">
+                             
+              </div>
+		     
+            <!-- *************************************************************************************************************************** --> 
+                    <div class="margin20top">
+            	 	<span class="floatright">
+</span>
+             		<a href="http://www.nctimes.com/articles/2008/09/19/news/sandiego/zfc2a21f369978cd9882574c7005de60a.txt"><img src="http://images.townnews.com/nctimes.com/zimages/08/previous_story.gif" border="0" alt="Previous"></a>
+                    <div class="clearboth"></div>
+  </div>            <!-- *************************************************************************************************************************** -->      
+             
+	        </div>
+            
+            <div class="groupItem8-8-8-8">
+                    
+                    <!-- *************************************************************************************************************************** --> 
+                    					<div class="boxed floatleft" style="width:300px;">
+                            <h2 class="bottomdottedborder textcenter">More Stories</h2>
+                               <ul class="secondary clearleft">
+                                     
+                                     <li><a href="http://www.nctimes.com/articles/2008/09/19/news/sandiego/zd0d9a43a28b35672882574c900632a8b.txt">REGION: Locals relieved and worried by budget deal</a></li><li><a href="http://www.nctimes.com/articles/2008/09/19/news/sandiego/zfc2a21f369978cd9882574c7005de60a.txt">REGION: Hearing on controversial toll road set for Monday</a></li><li><a href="http://www.nctimes.com/articles/2008/09/19/news/sandiego/zfc76246767fc5751882574c8000aede3.txt">REGION: Minutemen look to expand free speech lawsuit</a></li>
+                               </ul>
+                    </div>
+                    <!-- *************************************************************************************************************************** -->      
+                    
+                    
+                    <div class="boxed floatright" style="width:290px;">
+                    <!-- *************************************************************************************************************************** --> 
+                    <!--	 <p class="tags margin10bottom"><span>More Stories:</span> <a href="/pages/?q=[component:byline]&byline=1">[component:byline]</a></p>
+-->                   
+                   <p class="tags"><span>Tags: </span> <a href="http://www.nctimes.com/pages/?q=top">top</a> <a href="http://www.nctimes.com/pages/?q=nct">NCT</a> <a href="http://www.nctimes.com/pages/?q=news">News</a> <a href="http://www.nctimes.com/pages/?q=local">Local</a> <a href="http://www.nctimes.com/pages/?q=regional">Regional</a> </p>                                  <!-- *************************************************************************************************************************** -->      
+                    </div>
+                    
+                  <div class="clearboth"></div>
+            </div>
+            
+			            
+            <div id="socialbookmarking" class=" groupItem tool_options">
+ 	            
+ 	            <div class="clearboth"></div>
+                
+            </div>
+            
+            <div class="groupItem">
+            	<!-- ******************[yahoo_content_match]************************************************************************************ --> 
+        		 
+<!-- Yahoo Content Match Category = news -->
+
+                <style type="text/css">
+                        @import url('http://www.nctimes.com/shared-content/newsys-yahoo-search/css/content_match_styles.css');
+                </style>
+                <div class="yahoo_content_match"><h1><a class="side_ads" href="http://searchmarketing.yahoo.com/" rel="nofollow">Ads by Yahoo!</a></h1>
+
+<div><h2><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20ADnLzZVtGA1U_JiMCdxdCX00ck9EdQtjdo9EP9U0HXWA7bXGF1jjYnSwKYaa44xXUgvkSQ5LmyWRSavgMUq61PjKvELR0KGBXIczTJfHTZ3pL0aXEm_0pzc-vgC-sfT7j5xgviwcklK_kCNHN8EUz7-zOJ_MR3pjzcs6s_n23aRGhYyPSrXeiQpO8qJdIts_ZuWOoBEi_rBQtsbRQXkCYWqiJLgNOyCYtCLeGXL5qlbK3jv8SckBmMs.00000000d1819972" rel="nofollow">Local Immigration Attorney</a></h2>
+
+<p><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20ADnLzZVtGA1U_JiMCdxdCX00ck9EdQtjdo9EP9U0HXWA7bXGF1jjYnSwKYaa44xXUgvkSQ5LmyWRSavgMUq61PjKvELR0KGBXIczTJfHTZ3pL0aXEm_0pzc-vgC-sfT7j5xgviwcklK_kCNHN8EUz7-zOJ_MR3pjzcs6s_n23aRGhYyPSrXeiQpO8qJdIts_ZuWOoBEi_rBQtsbRQXkCYWqiJLgNOyCYtCLeGXL5qlbK3jv8SckBmMs.00000000d1819972" rel="nofollow">Deportation/Appeals/Green Cards. Call us at Toll-Free 866-495-0554.<br/>
+
+<em>www.eimmigration.org</em></a></p></div><div><h2><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20AKmiht-Zry4bZgWLRf54T1fEp1Kms0LeSZx9GsHY253aend-gTSXzv_FnjDygSCEgJ0W5nzevZBZE5D8DZVo27jow7GZ3ugPNjC4s5hCfb2SgfwU-ilgdEbl6Sx2AmXMwUWufCVOwkOMlPPqNiaL3L1rkTX67PqJ3oFxNDCyQbMkIgMdYEj0B9w-pGngMhhrjDNcDsA0XzUVofzlu2njy8THcKFOW5yHb8-KIzTg0euw8Ag1g0J54keWANyNu5F73urK-aPJizlGp4cRsQnNnTMY7gtojcvfkIZRgg_phjpw.00000000d1819972" rel="nofollow">Immigration Lawyer in Orange County, CA</a></h2>
+
+<p><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20AKmiht-Zry4bZgWLRf54T1fEp1Kms0LeSZx9GsHY253aend-gTSXzv_FnjDygSCEgJ0W5nzevZBZE5D8DZVo27jow7GZ3ugPNjC4s5hCfb2SgfwU-ilgdEbl6Sx2AmXMwUWufCVOwkOMlPPqNiaL3L1rkTX67PqJ3oFxNDCyQbMkIgMdYEj0B9w-pGngMhhrjDNcDsA0XzUVofzlu2njy8THcKFOW5yHb8-KIzTg0euw8Ag1g0J54keWANyNu5F73urK-aPJizlGp4cRsQnNnTMY7gtojcvfkIZRgg_phjpw.00000000d1819972" rel="nofollow">Call now for a Immigration Lawyer in Orange County, with an Immigration Attorney.<br/>
+
+<em>www.immigrantattorneys.com</em></a></p></div><div><h2><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20ACifK0fVZYBWWWOPjtDWcdoonE1xGlb9HOdFBWrDYiq4Yezhug8FOojjeHH_zjqeqFnWf8azkATvDC5H3Q0mYkg-dh-2zEDfdCh77RT9X73cucZrYzQUNtBcsC5ZfTE6z_9Vld3Sl-YfG1bWiy8N-4oD3rdSAaXxCPJenVLyW90qvnKaud6jApQV4elvPJ1oMgPjIR9ROwg6CONHFXQk_3f-5eOnnSojG3Z_rDMRlD07RDfmzjxDtt_R5NN3Lp-flnTdOzpHLhnlIQbKqPDqRcACoEosLJQ5DQ.00000000d1819972" rel="nofollow">preowned 2008 honda car at Yahoo!</a></h2>
+
+<p><a href="http://rc.us-west.srv.overture.com/d/sr/?xargs=20ACifK0fVZYBWWWOPjtDWcdoonE1xGlb9HOdFBWrDYiq4Yezhug8FOojjeHH_zjqeqFnWf8azkATvDC5H3Q0mYkg-dh-2zEDfdCh77RT9X73cucZrYzQUNtBcsC5ZfTE6z_9Vld3Sl-YfG1bWiy8N-4oD3rdSAaXxCPJenVLyW90qvnKaud6jApQV4elvPJ1oMgPjIR9ROwg6CONHFXQk_3f-5eOnnSojG3Z_rDMRlD07RDfmzjxDtt_R5NN3Lp-flnTdOzpHLhnlIQbKqPDqRcACoEosLJQ5DQ.00000000d1819972" rel="nofollow">Find Los Angeles area Used Honda car dealers and get a Free Quote.<br/>
+
+<em>www.promotions.yahoo.com/honda</em></a></p></div></div>				<!-- *************************************************************************************************************************** -->   
+            </div>
+
+
+<!-- ROS ad -->
+		    <div class="ros_ad margin8left">
+              	<p class="adv">Advertisement</p>  
+               	<script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/comment_banner/static.js"></script>
+            </div>
+<!-- comments -->
+ 	        <!--pre reg comments -->     
+ 	        <div id="nctcommentsPRE" class="groupItem clearboth">
+                 
+
+ 	          <div class="itemHeader">Pre-Registration Comments<a href="#" class="closeEl plus-minus">[-]</a><span class="more-section"><a href="#">Go to Top</a></span></div>
+					    
+				<div class="itemContent">
+					  
+                      
+                      
+                      
+					<a id="blogcomments"></a><div class="simpleblog-results"><a id="af9129545e7252b8c0f522c4142f139e"></a><p><span class="simpleblog-name">Latino Caucus</span> wrote on <span class="simpleblog-date">Sep 18, 2008 10:30 PM:</span><span class="simpleblog-response">Wow, I saw the letter that Cedillo and other members of the Latino Caucus sent to the Caltrans director in January on the SanDiegoMinutemen website. Can't wait to see how Cedillo and Coto try to weasal out of this one. Seems they were caught red handed abusing their power on behalf of Enrique Morones and the Mexican Government!</span></p>
+<a id="5b878333331edd4475648b995fa412c3"></a><p><span class="simpleblog-name">Angel</span> wrote on <span class="simpleblog-date">Sep 18, 2008 10:44 PM:</span><span class="simpleblog-response">These public officials should be ashamed of themselves!! Their plotting to squelch the MM's message of &quot;a closed border with only legal immigration&quot; was blatant!<br/><br/>This is the U.S. Mr Cedillo.  We have laws that pertain to ALL  including government officials!! You guys blew this one big time!<br/><br/>I hope the MM prevail here! Wrong is wrong!  Silencing (at all costs) people's free speech might be allowed in Mexico, but not here!</span></p>
+<a id="759b7a0e09674fa3bb1c8d79bd220a9b"></a><p><span class="simpleblog-name">Mercedes</span> wrote on <span class="simpleblog-date">Sep 18, 2008 11:11 PM:</span><span class="simpleblog-response">This US born citizen of Hispanic descent loves the sign!! I am very sad to hear about all of the political pressure put on Caltrans by the open borders people!!</span></p>
+<a id="f62e8aaf716d0e1fb3c8dfa872cfd6c2"></a><p><span class="simpleblog-name">One bill Gil drivers licenses for illegals</span> wrote on <span class="simpleblog-date">Sep 18, 2008 11:14 PM:</span><span class="simpleblog-response">Mr. Cedillo and Coto- When you play with fire you are bound to get burned!! I think your role in this whole fiasco is going to cause you some embarrassment!!</span></p>
+<a id="b18316a089640841bc8ea79f80c68aa1"></a><p><span class="simpleblog-name">Viva Free Speech</span> wrote on <span class="simpleblog-date">Sep 18, 2008 11:15 PM:</span><span class="simpleblog-response">I saw the San Diego Minutemen picking up litter on Saturday morning. The sign looks great right before the Border Patrol station. The side of the freeway was spotless unlike other sites on I-5 which look like they haven't been cleaned in 6 months. What a great American story. The Minutemen sued the state of California because the Latino Caucus and Caltrans disciminated against them and they WON! God Bless the U.S. Constitution and the men and women brave enough to fight for it!</span></p>
+<a id="d3857f61686ab4f26acc812985b40f40"></a><p><span class="simpleblog-name">Clea</span> wrote on <span class="simpleblog-date">Sep 19, 2008 12:37 AM:</span><span class="simpleblog-response">Viva Howard Kaloogian and viva the Minutemen.  It is about time ... politicians are held accountable for their [alleged] abuse of power.  Starting here in California is good.  Maybe after a few of these crooks get caught and punished for their actions, some of the rest of the people who pretend to represent the citizens of the US will get the message that they cannot use thier office to further their corrupt and disruptive agendas.  Sacramento needs to get cleaned out to be followed by Washington DC.  It's as simple as just vote for someone besides the incumbant in November.  That will be a good start to getting our state and country back on track.</span></p>
+<a id="c1f13341c1a20ed7aa4253d5d2cef348"></a><p><span class="simpleblog-name">Marco</span> wrote on <span class="simpleblog-date">Sep 19, 2008 12:45 AM:</span><span class="simpleblog-response">It's about time some of these politicians have to pay for their [alleged] abuse of power and for not representing the citizens who pay their salary.  ANYONE who has ever been to ANY gathering of minutemen whether it is at the border or at any of their other peaceful and law abiding activities knows that they are neither violent nor discriminatory.  These two politicians deserve to be brought to court to account for their [alleged] abuse of their office.</span></p>
+<a id="25f4b8f1ebef841dedc9b144f77101c0"></a><p><span class="simpleblog-name">Ray</span> wrote on <span class="simpleblog-date">Sep 19, 2008 2:46 AM:</span><span class="simpleblog-response">I am surprised that Saldana and Morones were not included in this lawsuit. I am sure Jeff will get around to them soon enough.</span></p>
+<a id="b1f663b231b822e230aa79204f90a61f"></a><p><span class="simpleblog-name">David</span> wrote on <span class="simpleblog-date">Sep 19, 2008 5:06 AM:</span><span class="simpleblog-response">The Minutemen got what they deserve,now, let Cedillo along with his co-conspirators get what they deserve!! I think it's GREAT that the Courts finaly saw the right way(only way) to go with this-side with the Minutemen!!</span></p>
+<a id="7a489ff9246937f74db1017b13a21294"></a><p><span class="simpleblog-name">Cherie</span> wrote on <span class="simpleblog-date">Sep 19, 2008 6:15 AM:</span><span class="simpleblog-response">Yes!  The Hispanic Caucus in California has stopped us too many times from protecting our state!<br/>I tell you all Californians should watch out at there local elections!<br/>Mayor Torres of Pomona has been sitting for two years and Neil Soto has been keeping her seat waiting to groom her to get her ready for the assembly seat!<br/>There are so many un educated people that ARE NOT EVEN BORN IN AMERICAN running and in office it is scary.<br/>Please watch out!  make sure you know who to vote for and who to get out of office if we are going to leave our children anything</span></p>
+<a id="598cd80176a611c7d2af933ecdf0a883"></a><p><span class="simpleblog-name">Discrimination</span> wrote on <span class="simpleblog-date">Sep 19, 2008 6:53 AM:</span><span class="simpleblog-response">All I see in the paper is Hispanic rights, College funds expanded for latinos, Latino Round tables, Latino Night, Day of the Dead celebration.<br/><br/>Come on people, don't you see it?  Our communities are being held hostage to the pandering of Latino's and Hispanic's.<br/><br/>Now it has gone all the way to the state level!  You can't have a latino caucus, it clearly is representation of only a chosen few.<br/><br/>Clearly the Latino and Hispanic communities are discriminating to anyone who isn't latino or Mexican.<br/><br/>We are all American's here.  No Divisions.  Divided we FALL!  Cedillo better start representing the PEOPLE not the Mexican communities.  He is outside of his scope to represent all of the people by his continued attack on the Minutemen.</span></p>
+<a id="1968558716750ea7f0111a6647379e55"></a><p><span class="simpleblog-name">Might I point</span> wrote on <span class="simpleblog-date">Sep 19, 2008 6:59 AM:</span><span class="simpleblog-response">out, these so called law makers are Democrats, is this what the democrats want for America?</span></p>
+<a id="1d7aaf37b5fe79c0a7fe5e6e8920fa40"></a><p><span class="simpleblog-name">Cant Wait for Trial</span> wrote on <span class="simpleblog-date">Sep 19, 2008 7:31 AM:</span><span class="simpleblog-response">I've been following this story since January and its turning into a Hollywood thriller, or more like a horror movie. It seems the Mexican Government through their consulate, activists like Morones, and the Mexican Caucus in Sacramento overstepped their bounds big time in pressuring the state to violate the U.S. Constitution and the free speech rights of the Minutemen. I hope this case sets a landmark example to those who would side with commerce and political pressure to violate the LAW! Can't wait to see Gil Cedillo and Lori Saldana on the stand during the trial! All their dirty secrets might just come spilling out!</span></p>
+<a id="087fcb7ec6383da5d00a879bbc21613d"></a><p><span class="simpleblog-name">Chuck</span> wrote on <span class="simpleblog-date">Sep 19, 2008 7:37 AM:</span><span class="simpleblog-response">I find it more than nauseating the ACLU will defend all sorts of derelicts and lawbreakers, but there is complete silence from this group, while the Minutemen are denied what any other group would be offered.<br/>The fact that an abuse of power to eliminate them shouls have the ACLU salavating to nail Cedillo and his cohorts.<br/>ACLU...if you believe what you preach...get busy defending the Minutemen as you would some sex defender.</span></p>
+<a id="055ae9262dd3f0be08d13d263bce202d"></a><p><span class="simpleblog-name">suzanne</span> wrote on <span class="simpleblog-date">Sep 19, 2008 8:17 AM:</span><span class="simpleblog-response">Congrats to the Minutemen for not giving up &amp; for going after these legislators &amp; Cal Trans. Cedillo, Coto &amp; the Latino Caucus continuously support &amp; pander to the agenda of illegal aliens AGAINST AMERICAN CITIZENS who bear the brunt of all their decisions. What an outrage that Cal Trans uses taxpayers' money to fund the case against the Minutemen. What gall!</span></p>
+<a id="cda95470eda1561ccd687d13659cdf6e"></a><p><span class="simpleblog-name">joesixpack31</span> wrote on <span class="simpleblog-date">Sep 19, 2008 8:34 AM:</span><span class="simpleblog-response">Why must Jeff Schwilk &quot;repeatedly deny&quot; that the San Diego Minutemen do not advocate violence and/or discrimination?  <br/><br/>Has the news media asked La Raza if their group advocates violence and/or discrimination?<br/><br/>Has the news media asked our &quot;honorable&quot; state lawmakers, Joe Coto (D-San Jose) and Gilbert Cedillo (D-Los Angeles) if they advocate violence and/or discrimination?  Have any investigative journalists examined the numbers Coto, Cedillo, La Raza followers resident in the CA penal system and compared the numbers with those of the San Diego and/or California Minutemen?  I doubt it.  <br/><br/>The media is in the hip pocket of the criminal illegals and the name of the game is &quot;demonize&quot; the Minutemen.</span></p>
+<a id="d57fb85224d036a523576612205926b1"></a><p><span class="simpleblog-name">I believe in the</span> wrote on <span class="simpleblog-date">Sep 19, 2008 8:45 AM:</span><span class="simpleblog-response">we are going to see citizens filing suit against the ACLU for friviously lawsuits wasting tax payer money.</span></p>
+<a id="98dd4f878ddc59b1b5e42ceddab4f0c9"></a><p><span class="simpleblog-name">esteban</span> wrote on <span class="simpleblog-date">Sep 19, 2008 8:55 AM:</span><span class="simpleblog-response">I wonder what our fine Libertarian bloggers think of these lowly Dems messing with our Constitution?</span></p>
+<a id="7ca70954a8a1e10b95cbcd2c5f105c8d"></a><p><span class="simpleblog-name">John Q. Public</span> wrote on <span class="simpleblog-date">Sep 19, 2008 9:06 AM:</span><span class="simpleblog-response">Whether or not someone likes the Minutemen is purley political and that is no reason to deny a Constitutional right. I know that they do not advocate violence or discrimination because they are truly a multi-racial, multi-ethnic, law-abiding, immigration law enforcement advocacy group. They simply stand for exactly the same thing that ICE and Border Patrol stand for. The Latino caucus would try to ban immigration maw enforcement altogether if they could. They would claim that DHS advocates violence and discrimination.</span></p>
+<a id="bb7b57ce98d66f74c8f8487c79a860d7"></a><p><span class="simpleblog-name">Viva la  Minutemen</span> wrote on <span class="simpleblog-date">Sep 19, 2008 9:27 AM:</span><span class="simpleblog-response">Thank you to all the Minutemen and women who are out there fighting the fight to protect our country from people who don't seem to respect our borders or laws!!<br/><br/>Viva la Minutemen!!!</span></p>
+<a id="f2874895a7182c170f42cc81ac36fc1e"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 19, 2008 9:47 AM:</span><span class="simpleblog-response">Well, &quot;esteban&quot; at 8:55AM,<br/>the sdmm disgust me, their tactica nad antics disgust me, they inspire me to vomit.<br/>BUT<br/>They deserve the same rights and the same freedom from having their rights be violated as everyone else.<br/>I bet that you didn't expect that last sentence, did you?<br/>Regards, Alf.</span></p>
+<a id="dcd3410c0783fab70e84e12779d467c0"></a><p><span class="simpleblog-name">George</span> wrote on <span class="simpleblog-date">Sep 19, 2008 10:03 AM:</span><span class="simpleblog-response">Ok I get it your all(minutemen) for the constitution when your the ones being descriminated but then you also like to descriminate others and see them have no rights I wonder then why do we celebrate THANKSGIVING FOR RIGHT</span></p>
+<a id="78e2bfee0050950edb0ba2ca9c7e3607"></a><p><span class="simpleblog-name">Peacekeeper for change</span> wrote on <span class="simpleblog-date">Sep 19, 2008 10:23 AM:</span><span class="simpleblog-response">&quot;officials said the activists' presence along the busy highway could lead to vandalism or confrontations&quot; well heck, lets all become activists against the high gas prices, excess taxation, and allowing criminal aliens to easily cross the border. Maybe we can better our state if the law abiding citizens become less law abiding. Intimidation is the only thing to inspire change in california.</span></p>
+<a id="0a0b392ee8763820f3603077107cd8bb"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 19, 2008 10:32 AM:</span><span class="simpleblog-response">Well, &quot;George&quot; at 10:03AM,<br/>did you mean to write it like this?<br/>&quot;Ok, I get it. You're all (the minutemen) for the Constitution when you're the ones being discriminated against, but then you also like to discriminate against others and see them have no rights. I wonder then, why do we celebrate THANKSGIVING (FOR RIGHT??)?&quot;<br/>Is that closer to what you meant?<br/>I just want to make sure that what I think you meant is what you actually meant.<br/>Regards, Alf.</span></p>
+<a id="8e77d7bc4c00239f656e2812242439a3"></a><p><span class="simpleblog-name">I take it Cal Trans</span> wrote on <span class="simpleblog-date">Sep 19, 2008 11:24 AM:</span><span class="simpleblog-response">wasted the tax payers money again on fighting and losing to the minute men. Now they are whinning because people are driving less then now need more money! TIME TO THROW THESE BUMS OUT!!!</span></p>
+<a id="e71648e8038a83a65662fa5dd6e853c4"></a><p><span class="simpleblog-name">Alf Disgusts</span> wrote on <span class="simpleblog-date">Sep 19, 2008 11:45 AM:</span><span class="simpleblog-response">Alf is the one that everyone finds disgusting because he supports lawlessness, anarchy, and open borders - a truly un-American point of view. The Minutemen are heroes and apparently that is what Alf and his alien-loving ilk can't stand! Go back in your hole, Alfie. We all know how much you hate America.</span></p>
+<a id="f1bde601d071fed7aee0c682d7458550"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 19, 2008 12:03 PM:</span><span class="simpleblog-response">Wrong, &quot;Alf Disgusts&quot; at 11:45AM.<br/>I have never said I am in favor of illegal aliens, not once.<br/>I am disgusted by the sdmm and their Schwilk and his ilk.<br/>That was the subject of this article.<br/>I am also disgusted by the likes of La Raza, which was NOT the subject of this article.<br/>The founder of the Minuteman Project has distanced himself from sdmm precisely because of their behaviors as evidenced on many videos.<br/>I approve of the Minuteman Project AS ITS FOUNDER HAS KEPT IT, it is the sdmm with their publicity-seeking (any press is good press), the &quot;alleged&quot; vandalizing, the racist lunatic fringe that shows up for their &quot;peaceful&quot; demonstations that are out of line that &quot;distinguish&quot; the thugs from the patriots and Schwilks group belongs to the former, not the latter.<br/>Heroes?<br/>They are nothing even close.<br/>Patriots?<br/>BALDERDASH!<br/>Regards, Alf.</span></p>
+<a id="860ef7d64b3e8fc0f384437a4d9878cf"></a><p><span class="simpleblog-name">ToPeacekeeper</span> wrote on <span class="simpleblog-date">Sep 19, 2008 12:05 PM:</span><span class="simpleblog-response">Right with ya, we need to get rid of the scum leaders screwing with the immigration laws.</span></p>
+<a id="4554c55f627ac177082cc49cf974c7f7"></a><p><span class="simpleblog-name">But Alf Disgusts</span> wrote on <span class="simpleblog-date">Sep 19, 2008 12:22 PM:</span><span class="simpleblog-response">I've been reading these blogs for some time now and I know Alf does not like Jeff Schwilk or the SDMM. Saying that he hates America just because he doesn't like the SDMM is foolishness, pure and simple.</span></p>
+<a id="6149b2fea827840344191b2c1b032481"></a><p><span class="simpleblog-name">Karl</span> wrote on <span class="simpleblog-date">Sep 19, 2008 12:29 PM:</span><span class="simpleblog-response">Whoa now &quot;Alf Disgusts&quot;. First of all Alf does not &quot;support lawlessness, anarchy, and open borders&quot;. Are you new here? Just because he has a problem with the MM does not mean he is for open borders. He has stated this numerous times on this blog. While I disagree with Alf on many things, he at least brings civility to this blog which is sadly needed big time.<br/><br/>While I support the efforts of the MM and closing our porous borders, you weaken all our arguements by your mindless and fabricated rant.<br/><br/>Check the facts next time before you go off. Even if Alf was pro open borders as you claim, your rant disgusts me and you are lowering yourself to the level of the open border types. You are giving the pro-illegal alien crowd ammunition and I am ashamed to be aligned with someone of your predisposition for physco babble.<br/><br/>Peace</span></p>
+<a id="c52619772b258469abaf14eeb915c24a"></a><p><span class="simpleblog-name">Observer</span> wrote on <span class="simpleblog-date">Sep 19, 2008 12:32 PM:</span><span class="simpleblog-response">This is 3rd world corruption at its finest, and it no doubt only gets bigger and bolder from here.  Is there a doubt in anyone's mind that officials and activists like the Latino Caucus and Enrique Morones (who also heaily pressured Caltrans on the issue)put loyalties to their Latinio origins ahead of loyalties to the United States?</span></p>
+<a id="d2928dad200b01c0086ba651d2d33bad"></a><p><span class="simpleblog-name">Alf is clueless</span> wrote on <span class="simpleblog-date">Sep 19, 2008 12:36 PM:</span><span class="simpleblog-response">He keeps &quot;claiming&quot; that he has had negative first hand experience with the SDMM, and that is a lie. The SDMM, as well as all other MM groups distanced themselves FROM Gilchrist, due to his a) unilateral support of Huckabee, b) his (alleged) extortion of donations to his organization for prsonal use c) frivolous lawsuits filed against other members of his group, ALL of which he lost. But yeah, typically, HE is whom Alf supports.</span></p>
+<a id="c60fbbeffaca575860a362b6de43182b"></a><p><span class="simpleblog-name">USfritobandito</span> wrote on <span class="simpleblog-date">Sep 19, 2008 12:37 PM:</span><span class="simpleblog-response">I laugh every time I see that sign.Zealot MM keeping America clean.It's a good way to keep them busy by having them pick up the trash.Menial work for menial minds.</span></p>
+<a id="ef4f81306ef7d76dbd68701ab1a6708e"></a><p><span class="simpleblog-name">Lies will be exposed</span> wrote on <span class="simpleblog-date">Sep 19, 2008 12:38 PM:</span><span class="simpleblog-response">NCT: &quot;Minutemen founder Jeff Schwilk has repeatedly denied that his group advocates violence or discrimination&quot;<br/><br/>The only Violence SDMM advocates is the make believe, delusional and down right lies that are conspired by groups like Enrique Morones &quot; Border Angels, Claudia Smith &quot; California Rural Legal Assistance Foundation&quot;, Christian Ramirez, Lori Saldenas, assembly woman, just to name a few.<br/><br/>These groups and people have been feeding propoganda to the media for some time now, but as you can see these lies are starting to surface and be exposed.  When it is all over , said and done, you will see who the real axis of evil are.</span></p>
+<a id="2e42724d16c620c1b8492c68f548e2ea"></a><p><span class="simpleblog-name">Daphne</span> wrote on <span class="simpleblog-date">Sep 19, 2008 12:50 PM:</span><span class="simpleblog-response">&quot;Minutemen founder Jeff Schwilk has repeatedly denied that his group advocates violence or discrimination.&quot; Really Jeff I watched a very violent video of you that was recorded by your former spokeswoman Christie Czjowksi. Your group not only advocates violence but obviously you participate in violence. It appears that the SDMM will do anything to see get back in the news.  Seems news of them is sparce so I am not surprised that they are trying to get some publicity and some money too.</span></p>
+<a id="185b9e6b23e4d011394738e27099b09f"></a><p><span class="simpleblog-name">Mercedes</span> wrote on <span class="simpleblog-date">Sep 19, 2008 1:02 PM:</span><span class="simpleblog-response">NCT what is the problem here? Oh I get it, it must be a slow news day.</span></p>
+<a id="5d4c768e4b972ca84ad55ad7f6b6d450"></a><p><span class="simpleblog-name">I dont care about Jeff</span> wrote on <span class="simpleblog-date">Sep 19, 2008 1:11 PM:</span><span class="simpleblog-response">as an American I want our laws enforced, period!</span></p>
+<a id="e137f284c391971618def76d0932608d"></a><p><span class="simpleblog-name">To I take it Cal Trans</span> wrote on <span class="simpleblog-date">Sep 19, 2008 1:14 PM:</span><span class="simpleblog-response">These guys have been whining since that big layoff years ago. Remember when that new shovel came out that could stand up on its own?</span></p>
+<a id="0347c588ac235d7d73ab9dcfe86a04df"></a><p><span class="simpleblog-name">Ron</span> wrote on <span class="simpleblog-date">Sep 19, 2008 1:17 PM:</span><span class="simpleblog-response">I wonder the North County Times does not make the stabbing which occurred at the Transit center yesterday breaking news.  Apparently the young man who did the stabbing and killing of one young girl put another in the hospital did so because he was being bullied and taunted.  Now that is truly a violation of free speech.  What this group is whining about has nothing to do with free speech.</span></p>
+<a id="f7cacd2795999571f30887bef5c8dfbc"></a><p><span class="simpleblog-name">Carol from Cali</span> wrote on <span class="simpleblog-date">Sep 19, 2008 1:47 PM:</span><span class="simpleblog-response">Well at least Jeff has guts enough to get out there an fight for what is right.<br/><br/>And his volunteer clean up crew should be thanked for keeping America beautiful and clean.<br/><br/>Most people just whine and complain about all the troubles in this country.<br/><br/>And sit on their butts and do nothing.<br/><br/>Then when someone does have the courage to get out there and do something, all these same people put their two cents in and complain about this too.<br/><br/>SDMM doing the job the illegals and government won't do.</span></p>
+<a id="f3003f426a7e83406c4c49f70161daee"></a><p><span class="simpleblog-name">Go Get Em</span> wrote on <span class="simpleblog-date">Sep 19, 2008 1:59 PM:</span><span class="simpleblog-response">Minutemen! About time we start holding politicians personally accountable for their actions. Don't let them hide behind taxpayer dollars. What they did was wrong. I guess they think they are governing like they do in Mexico with intimadation. Of course the Caltrans Director, Will Kempton could have had the guts to stand up and tell them where to go but what can you expect from a public servent.</span></p>
+<a id="a14e1c0ba845adadd60afef226a912b8"></a><p><span class="simpleblog-name">Most importantly...</span> wrote on <span class="simpleblog-date">Sep 19, 2008 2:00 PM:</span><span class="simpleblog-response">Is someone picking up the highways?</span></p>
+<a id="bec0955dd3f8d33763a76eee39ec7475"></a><p><span class="simpleblog-name">Only in CA</span> wrote on <span class="simpleblog-date">Sep 19, 2008 2:01 PM:</span><span class="simpleblog-response">I am proud to NOT be from this state; what a joke! I would suggest building a fence around CA so you can't get into the rest of the nation, but I think there is enough &quot;experience&quot; to teach you how to get through that fence! I'm praying for an earthquake....</span></p>
+<a id="2f85fa7d6d23f2a2d694ab66de6d00b2"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 19, 2008 2:04 PM:</span><span class="simpleblog-response">Well, &quot;Alf is clueless&quot; at 12:36PM,<br/>you can repeat YOUR LIE that I have not seen the sdmm in action all you want -<br/>it is still YOUR LIE, not the truth.<br/>As to who distanced themself from who,<br/>you can add YOUR SPIN all you want -<br/>it is still YOUR SPIN, not the truth.<br/>Regards, Alf.</span></p>
+<a id="410a1eb422d934f248ef04bfaf147b82"></a><p><span class="simpleblog-name">One Question</span> wrote on <span class="simpleblog-date">Sep 19, 2008 2:30 PM:</span><span class="simpleblog-response">How do you know when a Minuteman is lying?<br/><br/>When his lips are moving.<br/><br/>Shut up Jeff Schwilk!!! We we are tired of hearing about these vigilantes.</span></p>
+<a id="6ffc6742c93200dc4e4c256f76d82854"></a><p><span class="simpleblog-name">RG</span> wrote on <span class="simpleblog-date">Sep 19, 2008 2:34 PM:</span><span class="simpleblog-response">THANK YOU JEFF and your MINUTEMEN! You have done a great job of bringing the absurdity of unchecked illegal immigration to the forefront. And I hope your lawsuit helps bring down some of these &quot;Latino activists&quot; who seem determined to destroy this country. Good luck to you.</span></p>
+<a id="57f9c0fd9b49c9f6ab37cc924ccb5ecf"></a><p><span class="simpleblog-name">Laurene</span> wrote on <span class="simpleblog-date">Sep 19, 2008 3:18 PM:</span><span class="simpleblog-response">Yes, Thank you Minutemen for clogging our courts with your frivolous lawsuits and trying to swindle our tax dollars for your so called punitive damage.  What is the damage? Why do you deserve any money for someone questioning your motives? Ridiculous!!</span></p>
+<a id="dca3ba21ec6b93ffe7503602c1737e28"></a><p><span class="simpleblog-name">Brn77</span> wrote on <span class="simpleblog-date">Sep 19, 2008 4:11 PM:</span><span class="simpleblog-response">I think the MinuteMen should form a THIRD PARTY!<br/>Then we could elect enough of them to Government<br/>and get something done about our open borders!<br/><br/>I am so tired of being bombarded by TV, advertising, and<br/>business being Mexican. I have many good LEGAL Mexican<br/>friends and even they feel like they are back in the &quot;Old <br/>Country&quot;.</span></p>
+<a id="8c9e5ace8f32f99e4bdfc0f28d28ef24"></a><p><span class="simpleblog-name">Umm Laurene</span> wrote on <span class="simpleblog-date">Sep 19, 2008 5:53 PM:</span><span class="simpleblog-response">The judge ruled in FAVOR of SDMM in May by granting an injunction to Caltrans' illegal actions in January. Caltrans is the one clogging the courts by fighting the citizens over the Constitution and they are losing badly. Educate yourself. Ignorance doesn't look good on you. Violation of our Constituional rights should concern every American, even you!</span></p>
+<a id="a40aa49a50256f96f9b908e12d418360"></a><p><span class="simpleblog-name">Roberto1</span> wrote on <span class="simpleblog-date">Sep 19, 2008 8:56 PM:</span><span class="simpleblog-response">LOL!....the minute boys are damaged because their racist and xenophobic methods were questioned. That is really going to look like a strong case. these attention maniacs need to get a life.</span></p>
+<a id="be7203a1729f8f861b24ada51de0d881"></a><p><span class="simpleblog-name">Sally</span> wrote on <span class="simpleblog-date">Sep 19, 2008 9:09 PM:</span><span class="simpleblog-response">What a shame that we have so many Hispantic politicians that are using our taxpayer money to promote their raciest agenda's.  CalTrans should be ashame of theirselves for bending to these &quot;criminals&quot; who would deny an American their right to &quot;Free Speech.&quot; and because they are of Hispantic heritage,they turn their backs on our country and lie for those who would destroy us as a Nation. I Thank God that there are Americans that are willing to stand against these agents of mexico.  Thank you Jeff and all the Minutemen and women who love this country enough to stand for its values.</span></p>
+<a id="d70b6dc2add179a5450b67fd1af2f14b"></a><p><span class="simpleblog-name">Bill</span> wrote on <span class="simpleblog-date">Sep 19, 2008 11:48 PM:</span><span class="simpleblog-response">Discovery should reveal some real interesting developments.<br/><br/>I must stay tuned to this.</span></p>
+<a id="85a3345854212913fa4d05bee4a15ec9"></a><p><span class="simpleblog-name">To Robert</span> wrote on <span class="simpleblog-date">Sep 20, 2008 1:08 AM:</span><span class="simpleblog-response">Roberto, here in this country (yes we are still a sovereign nation), we have this little piece of paper called the Constitution. You should read it sometime. It just happens to be the law of the land and when you violate it, especially under the color of law, bad things happen to you as Senors Cedillo and Coto are about to find out!</span></p>
+<a id="77f8d7c8eb2af32400983ec2f8c502b2"></a><p><span class="simpleblog-name">ALF  Laureen</span> wrote on <span class="simpleblog-date">Sep 20, 2008 7:45 AM:</span><span class="simpleblog-response">I agree with Alf and Laureen on this 100% !  The SDMM only use patriotism and even religion to disguise their hate for people of a certain color.The MM calling a priest &quot;father satan&quot; is not what good people do.<br/>The SDMM should be out picking fruits and vegetables,mowing lawns,laying asphalt or cleaning toilets ! That way they can replace the illegals and actually do some real work for a change!</span></p>
+<a id="e527a9f99e8a08af20770378c0f7184c"></a><p><span class="simpleblog-name">ACLU type</span> wrote on <span class="simpleblog-date">Sep 20, 2008 9:05 AM:</span><span class="simpleblog-response">Sorry.  I am a liberal.  I've contributed to the ACLU for many years.  I despise the minutemen for the worst that they do.  But I totally defend their right to express their opinions in all the legal forms.  Shutting anyone up is against my principles.  It's only because groups like the MM and the Nazi party can express themselves that others can gain more clarity about what's wrong with them.  Censoring them is wrong and tends to give them more political power.  Let them speak.</span></p>
+<a id="2e60dbed99ccea9659f137a9317d8021"></a><p><span class="simpleblog-name">I support the MM on this one</span> wrote on <span class="simpleblog-date">Sep 20, 2008 10:24 AM:</span><span class="simpleblog-response">I think the MM are spot on on this one!  Allowing government officials to manipulate things to disrupt our constitutional right  just can't be tolerated!! Thank you MM for fighting for all of us!!</span></p>
+<a id="b653ea819a00335f80e07ff77c76e622"></a><p><span class="simpleblog-name">Buzzm1</span> wrote on <span class="simpleblog-date">Sep 20, 2008 10:52 AM:</span><span class="simpleblog-response">THERE WILL BE NO AMNESTY!!!<br/><br/>OUR ACCEPTABLE IMMIGRATION REFORM <br/><br/>#1. Secure the Border!!!<br/>#2. Mandate E-Verify for ALL Employees!!! <br/>#3. Mandate E-Verify for ANY Benefit!!!<br/>#4. Stop the Underground Economy!!!<br/>#5. End Birthright Citizenship for Illegals!!!<br/>......and make it retroactive!!!<br/>#6. End Chain Migration!!!<br/>#7. Make English our Official Language!!!<br/>#8. Cut Off Federal Funds to Sanctuary Cities!!<br/><br/>NOTHING MORE!!! NOTHING LESS!!!</span></p>
+<a id="109c64ef950e65baac2c61a30cb26603"></a><p><span class="simpleblog-name">American woman</span> wrote on <span class="simpleblog-date">Sep 20, 2008 10:52 AM:</span><span class="simpleblog-response">Alf, of apparent fourth-grade education,<br/>derives exactly what he/she is looking for through blogs like this...<br/>ATTENTION.  Someone should tell him/her that in order to make a valid point, one must actually have one to make.  As for the good American citizens who comprise the Sand Diego Minutemen, it is precisely their non-violent, steadfast and pragmatic approach to our country's  critical issues of illegal immigration and open borders that tweak the tiny brains of all Alfs. This by-product of the efforts exerted by folks like the SDMM means nothing when compared to their dedication to purpose!</span></p>
+<a id="6b5233c25dfa5d75d374c8be3e85c592"></a><p><span class="simpleblog-name">Buzzm1</span> wrote on <span class="simpleblog-date">Sep 20, 2008 10:54 AM:</span><span class="simpleblog-response">Southwest Border Patrol Sector Apprehensions<br/>Fiscal Year-------------2005---------2006---------2007-------2008 (ends 9/30)<br/>San Diego------------126,879-----142,104---- 152,460--- 149,418<br/>El Centro--------------55,725-------61,465----- 55,883----- 38,012<br/>Yuma-----------------138,492-----118,549----- 37,992------ 7,966 *<br/>Tucson --------------439,053-----392,074---- 378,239--- 299,635<br/>El Paso---------------122,624-----122,256----- 75,464----- 28,716<br/>Marfa ------------------10,532--------7,520------- 5,536------ 5,113<br/>Del Rio -----------------68,547------42,636----- 22,920----- 19,612<br/>Laredo -----------------75,268------74,840----- 56,714------41,160<br/>Rio Grande Valley --134,136----110,528------ 73,430----- 70,656<br/>Apprehensions----1,189,108--1,071,972-----858,638----660,288(08/31)</span></p>
+<a id="3dbc85bd7f5f24090121e24a09d51871"></a><p><span class="simpleblog-name">American woman</span> wrote on <span class="simpleblog-date">Sep 20, 2008 11:11 AM:</span><span class="simpleblog-response">To Alf Lareen...Ah!  Good one. glad you brought it up! Now we must, in all sincerity call into question, not just the referenced priest, but the meddling of the Catholic Church and it's &quot;policies,&quot; re: open borders and in general, illegal immigration into this sovereign nation.  Their &quot;plates&quot; overfloweth with tythes scraped from the bottoms of pockets of the lawbreakers they encourage!  Why not take the church's concern and financial wealth directly to the interlopers' offending countries?  Inviting illegal aliens into church &quot;sanctuaries&quot; only exacerbates the problem for the [legal]American taxpayer.</span></p>
+<a id="a14aed0250c2753ea3bb58ad9c096ee0"></a><p><span class="simpleblog-name">American woman</span> wrote on <span class="simpleblog-date">Sep 20, 2008 11:15 AM:</span><span class="simpleblog-response">You shouldn't apologize for being a lib!  It makes you seem weak. Oh, that's right!  You ARE!!!</span></p>
+<a id="be64058a92a479440d085d02fb15e1e4"></a><p><span class="simpleblog-name">Asteroid to Alf</span> wrote on <span class="simpleblog-date">Sep 20, 2008 11:31 AM:</span><span class="simpleblog-response">First I’d like to say, unlike most liberals, whom I distain, I respect Alf. He is naïve beyond the limits of the law and usually as silly as a school girl, but his heart is in the right place. He loves and has served his country, has achieved success in life and begrudges no one theirs. But in as much as Alf never passes up an opportunity to express his distain for Jeff Shwilk and the SDMM he also recently admitted to me he’s “never seen the other side in action”. Alf is a typical liberal in the respect that he’s doing liberal deeds to get into liberal heaven (nirvana). He knows the more he misuses and abuses the words “racist” and “bigot” the better his chances of attaining liberal nirvana. Alf, I assure you, you are on your way, but enough already. I ask you this because unlike most of the libs at the letters blog, I believe you have an open mind. The next time there’s a local advertised Minuteman event, go to it, put your camera down, open both eyes wide and watch and see who’s abusive. Then come back with your “objective” opinion. Regards M.A.</span></p>
+<a id="4c9456157db809ddadf959a5b8e35aca"></a><p><span class="simpleblog-name">So Cal Native</span> wrote on <span class="simpleblog-date">Sep 20, 2008 11:46 AM:</span><span class="simpleblog-response">Looks like the SDMM missed some trash under their sign. Only a matter of time before it the sign gets ripped down...</span></p>
+<a id="5e581c2e7f36d514ca63b9a23c310d90"></a><p><span class="simpleblog-name">Bobby</span> wrote on <span class="simpleblog-date">Sep 20, 2008 11:53 AM:</span><span class="simpleblog-response">I agree with the Minutemen/women completely. In fact, every single politician whether they are latino or not, why should it matter, should have class action suits brought against them because they simply will not do their sworn duty to uphold and abide by the existing immigration laws of the United States, right, McCain and Obama?</span></p>
+<a id="13707707edfc5a8d6db5986697ecd5da"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 20, 2008 12:03 PM:</span><span class="simpleblog-response">Sorry, &quot;American woman&quot; at 10:52AM,<br/>I was 595th out of 600 in my 7th grade class.<br/>Actually, I have a little more education than that.<br/>I do wonder how trespassing and vandalism qualifies as &quot;non-violent, steadfast and pragmatic&quot;.<br/>Videos of their exploits show a rather infantile glee at destroying the property of others.<br/>Regards, Alf.</span></p>
+<a id="ded814adffe3b94be4c65f3a517558ff"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 20, 2008 12:10 PM:</span><span class="simpleblog-response">Now, &quot;Asteroid to Alf&quot; at 11:31AM,<br/>don't go spoiling things with a lie.<br/>A few years ago I was at the Encinitas Home Depot and saw, firsthand, their assaultive behavior for myself while Mrs. Alf went to the garden department.<br/>Sheriffs were there to the south of the entrance and sdmm to the north on El Camino Real.<br/>I have never backed down from someone lying about that which I saw and heard and I'm not about to start now.<br/>You can repeat your lie from now until doomsday and<br/>it will still be a lie.<br/>Nice try.<br/>Regards, Alf.</span></p>
+<a id="e4b132f0be5ec54a057c0b7ecd7d66d7"></a><p><span class="simpleblog-name">To American woman</span> wrote on <span class="simpleblog-date">Sep 20, 2008 12:12 PM:</span><span class="simpleblog-response">You should join the MM in the clean up effort. Get a job instead of just blabbing and complaining.Is that all you anti immigrants are good for? Do something productive if you really want to make an impact on illegal immigration. People like you only use all these political points and patriotism to increase hatred toward the Latino population. That's you're real motive.</span></p>
+<a id="a7a9e2e5e6272234e488318f5d0e308c"></a><p><span class="simpleblog-name">ToALf</span> wrote on <span class="simpleblog-date">Sep 20, 2008 12:18 PM:</span><span class="simpleblog-response">I see Alf, this vandalism you talk about wasn't that on private property where the illegal’s were squatting?<br/>Oh by the way do something about your  regurgitation problem, that acid will cause cancer in your esophagus.</span></p>
+<a id="aa60e6a16a2e312d3a73991b16a139a0"></a><p><span class="simpleblog-name">Asteroid to Alf</span> wrote on <span class="simpleblog-date">Sep 20, 2008 12:21 PM:</span><span class="simpleblog-response">As I said, YOU HAVEN&quot;T SEEN THE OTHER SIDE! The criminals, open border anarchists, hate America first crowd, and just plain fools, who come to support people who are here illegally.</span></p>
+<a id="872bae1a33a1b4fa3bd57aef44172c5b"></a><p><span class="simpleblog-name">earl</span> wrote on <span class="simpleblog-date">Sep 20, 2008 12:33 PM:</span><span class="simpleblog-response">The sdmm are modern day nazis. THEY should jump into their own trash bags.</span></p>
+<a id="9f3ef3120062764b4faa65fe6e5b4be1"></a><p><span class="simpleblog-name">Bobby</span> wrote on <span class="simpleblog-date">Sep 20, 2008 12:33 PM:</span><span class="simpleblog-response">I'd like to make a correction to the post of the blogger who is advising American woman.Sep.20,2008 12:12PM.<br/><br/>You made a slight error, that I know you didn't mean to but you said anti &quot;immigrants&quot;, instead of the term used in immigration law, &quot;illegal aliens&quot;. Being an intelligent person that everyone knows you are, we didn't assume that you meant to do this on purpose. We know you really meant &quot;illegal aliens&quot;, but you were probably preoccupied with whether McCain or Obama would give &quot;immigrants&quot; amnesty. Well, no ones perfect.</span></p>
+<a id="45c4a7869df948587af53b085b346c0d"></a><p><span class="simpleblog-name">Van</span> wrote on <span class="simpleblog-date">Sep 20, 2008 12:43 PM:</span><span class="simpleblog-response">Hello Mexifornia...You liberal idiots had plenty of opportunities to stop the invasion..what did you do? You recalled Pete Wilson, you continuously vote for Anti American, open border democrats like Diane Feinstein, Barbara Boxer, and now Hussein Obama...you reap what you sow...Habla Espanol??  ARRIBA ARRIBA!!</span></p>
+<a id="2adb87469a0ddec06bf15de5dfc8c729"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 20, 2008 1:33 PM:</span><span class="simpleblog-response">Well, &quot;ToALf&quot; at 12:18PM,<br/>to the best of my knowledge, if the property is private property, the sdmm had to trespass in order to get to the encampment unless they had the owner's permisssion to enter.<br/>That's 2 &quot;alleged&quot; crimes by the sdmm - trespass and vandalism.<br/>What goes on on MY property is MY business, ANY trespassers will be dealt with by ME or law enforcement -<br/>NOT by vigilante vandals. <br/>With our combined 2.7 acres (wife and sister-in-law), I've dealt with more than a few trespassers over the years, from vandals to thieves of our fruit to just plain nut-cases (one such nut-case was laying down on the ground in the weeds &quot;discharging my negative energy&quot; according to her).<br/>Regards, Alf.</span></p>
+<a id="41f64ed756081ecb7462f452bd61d921"></a><p><span class="simpleblog-name">CaliforniaUSA</span> wrote on <span class="simpleblog-date">Sep 20, 2008 1:50 PM:</span><span class="simpleblog-response">We need to get reconquistas cedillo and villaraigosa out of office. Legislators should at least ensure a citizens right to a fair election.</span></p>
+<a id="15987c2af191a52893c4d2a526e53331"></a><p><span class="simpleblog-name">lance</span> wrote on <span class="simpleblog-date">Sep 20, 2008 4:41 PM:</span><span class="simpleblog-response">Alf:<br/><br/>Glad you are one of those on the left who supports civil liberties.<br/><br/>A lot of leftists would like to see the US become a Police State.</span></p>
+<a id="6b85d1d61186fe855ce728f8c1094090"></a><p><span class="simpleblog-name">lance</span> wrote on <span class="simpleblog-date">Sep 20, 2008 4:47 PM:</span><span class="simpleblog-response">Earl, the last refuge of someone trying to defend a morally and intellectually bankrupt policy like you are trying to do is to call those on the other side names.<br/><br/>It doesn't disgrace the SDMM for you to call them names, it disgraces YOU.<br/><br/><br/>Enforcement advocates have been advocating for years that we have a fair and civil debate in this country about immigration policy.<br/><br/>Unfortunately, some, like Earl, recognize that they cannot win a fair and civil argument, and therefore they resort to the last refuge, spewing hate.<br/><br/>Sorry, Earl, hate speech like yours has lost its power to intimidate.</span></p>
+<a id="f2eb9fe5f53db9e81ebfac832d8bfeba"></a><p><span class="simpleblog-name">lance</span> wrote on <span class="simpleblog-date">Sep 20, 2008 4:58 PM:</span><span class="simpleblog-response">I should point out that there are hatemongers on both sides of this issue.<br/><br/>However, there is one important distinction.<br/><br/>Those who preach hate on the anti-illegal immigration side are a very small group of neo-nazi types and other repugnant extremists.<br/><br/>Those who preach hate on the pro-illegal immigration side include people like Cardinal Mahoney, columnists like Linda Chavez, Morton Kondracke, politicians like Fabian Nunez.<br/><br/><br/>The anti-illegal immigration movement decries the small fringe of hatemongers who share their views on immigration.<br/><br/>The pro-illegal immigration movement EMBRACES the hatemongers among them.<br/><br/>How often have you seen pro-amnesty politicians condemn members of the open-borders lobby when they engage in hate speech?<br/><br/><br/>How many prominent open-borders advocates have condemned people like Cardinal Mahony when he writes hate speech in the LA Times?<br/><br/>For that matter, how many neo-nazi hatemongers get op-ed columns published in the LA Times?<br/><br/>I'm glad they don't, mind you, but why do the leftist hatemongers get to freely spew their hate in the media?<br/><br/>The answer is: The establishment in this country has a culture of tolerance for open-borders hatemongers. <br/><br/>I agree we should tolerate their right to express hate.  But when their fellow open-borders are silent in the face of the hate speech, that seems to me to be akin to those who were silent when Hitler was whipping up hate in Germany.</span></p>
+<a id="6014725aaf59c95679d89587c449a587"></a><p><span class="simpleblog-name">lance</span> wrote on <span class="simpleblog-date">Sep 20, 2008 5:05 PM:</span><span class="simpleblog-response">Although I am a staunch believer in enforcing the immigration laws, one thing I haven't seen any discussion on here:<br/><br/>It is hard to me to see exactly what the legal grounds are to go after Cedillo or his ilk.  If he attempts to persuade a government agency to deprive someone of their civil rights, I would be surprised if he has violated any law.<br/><br/>Especially if he were to argue that in his view he was attempting to persuade the department to do something that he thought was constitutional.<br/><br/>I just have a hard time seeing that there is any legal case here.<br/><br/>I'm surprised that the open-borders advocates on this thread don't seem to have focused on that point.  I believe they are dead wrong on the policy issue, but on the specific legal issue raised in this article, that politicians who tried to lobby the dept. against the SDMM, I would be really surprised if the SDMM have a case on that particular matter.</span></p>
+<a id="cbd89411a766586e7f2df2f2f49d0f03"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 20, 2008 6:19 PM:</span><span class="simpleblog-response">Well, &quot;lance&quot; at 4:41PM,<br/>why people keep calling me, a Libertarian, either &quot;on the left&quot; or &quot;a liberal&quot; is beyond me.<br/>The term &quot;liberal&quot; is often used as an insult, referring to and supposedly denigrating anyone who does not espouse a far-right view.<br/>While the sdmm should have and does have every right to have a their legal sign where it was, <br/>what purpose does it serve other than to be an annoyance?<br/>I don't believe that there is even 1 adult person who knows how to read that is unaware that we have a big problem with illegal aliens,<br/>but at this point we have far more immediately urgent problems; the war, the economy, Presidential and Vice Presidential candidates who want to keep doing what GWB has been doing (if not, worse), securing our borders, tossing every politician out of office who has let the illegal immigration problem slide or dragged their feet securing our borders. <br/>The sdmm is going about this the wrong way, in my not so humble opinion.<br/>The right way would be to coordinate with ICE and have them present when they have their protests.<br/>You and I and sdmm and ICE and just about everyone knows exactly where day laborers hang out and wait to be picked up, if ICE won't do their job or can't make raids on these places for some reason -<br/>following the chain of command and rattling THEIR cages would be far more productive than sdmm's protests and lawsuits and opinion columns and letters and insults, etc..<br/>Regards, Alf.</span></p>
+<a id="6149683274fd66e617d40acada78500d"></a><p><span class="simpleblog-name">HARRY</span> wrote on <span class="simpleblog-date">Sep 20, 2008 7:31 PM:</span><span class="simpleblog-response">To Alf,well your priorities are yours,mine are securing the borders.I leave the WAR and economy to the president.Whom i think is doing a great job.</span></p>
+<a id="2441a5ca345570184bad9ffb4f6c08a6"></a><p><span class="simpleblog-name">to bobby</span> wrote on <span class="simpleblog-date">Sep 20, 2008 8:32 PM:</span><span class="simpleblog-response">You made a mistake too. Most of those people coming from south of the border are not alien to this continent. They are Native Americans which have  been here for thousands of years. As Nick told us himself, there is 30% of Mexico's 100 million people which are full blooded Native American.You, my European chap, are the alien in this continent.But people like you aren't perfect. You only use the word &quot;alien&quot; to dehumanize the &quot;immigrants&quot; due to your bigotry.</span></p>
+<a id="06b968b52eca80249e38c8b52cd33d61"></a><p><span class="simpleblog-name">Tobobby</span> wrote on <span class="simpleblog-date">Sep 20, 2008 10:26 PM:</span><span class="simpleblog-response">Someone needs to wake you complacent people up to the fact this country is being overrun buy people who have no wish to assimilate into our culture.<br/>Look at the fact that some self centered politicians want Spanish to be America’s second language.<br/>If you want more confusion in government, confusion in the work place, a segregated society then by all means let this unchecked immigration continue.<br/>The efficiency of this country will go in the toilet.<br/>On top of that some of these illegals think California belongs to Mexico and will soon be part of Mexico.<br/>Witness the fact Mexican flags were flown over an upside down American flag in our own public high schools, if that doesn’t show you where these illegal’s allegiance lies then nothing will.<br/>It's time we shake this country awake and make it see where it is headed.<br/>We can recall these idiot judges along with the politicians who are selling out this country.<br/>Yes the judges can be recalled in California like any state official.<br/> To recall California officials Google&quot;<br/>procedure for recalling elected officials in California&quot;</span></p>
+<a id="1987c4084cecb86ea00af8c465037514"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 21, 2008 6:13 AM:</span><span class="simpleblog-response">Well, &quot;Tobobby&quot; at 10:26PM and &quot;to bobby&quot; at 8:32PM,<br/>the message was received and understood several years ago and it is still understood.<br/>WE GOT IT THEN AND<br/>WE GET IT NOW!<br/>Your nagging will not change anything except generate hostility toward the people who nag, especially if they nag the wrong people.<br/>Nag ICE!<br/>Nag the other city, county, state and federal authorities who ARE RESPONSIBLE!<br/>As to priorities,<br/>if GWB and McGWB/Palin keep up this crock of a war and/or add another front ot two, illegal immigration will be the least of your worries.<br/>Thing Great Depression,<br/>Think dollars not worth a penny,<br/>Think no Constitution and no Constitutional Rights.<br/>Right now China is basically funding Iraq, but China is having their own financial problems.<br/>Take off your self-imposed blinders and get some perspective.<br/>Illegal aliens are not causing people to lose their houses.<br/>Illegal aliens are not responsible for us being in Iraq.<br/>Illegal aliens are not causing our water shortage.<br/>Illegal aliens are not obstructing the desal plant.<br/>Illegal aliens are causing a drain on our economy, BUT<br/>compared to GWB's $700 BILLION SO FAR folly in Iraq and the current $500 BILLION to $1.5 TRILLION financial bailout - <br/>they are a drop in the bucket.<br/>The illegal aliens ARE a problem, but you need to step back and get some perspective. <br/>Regards, Alf.</span></p>
+<a id="9591971758c5a391a1c05f34a1afffb3"></a><p><span class="simpleblog-name">To Tobobby</span> wrote on <span class="simpleblog-date">Sep 21, 2008 6:51 AM:</span><span class="simpleblog-response">Assimilate? Do you know people have a natural right to maintain their identity which consists of their culture? Who are you to demand that another person be like you? Waving Mexican flags? Just freedom of expression there. Or are you some kind of dictator/tyrant who denies people tgeir freedoms?Confusion comes from people like you who refuse to grow and expand their minds. Learning another language and learning to tolerate other people is an indication of higher inteligence.Humanity will not become extint if the good ole U.S.A. was to fall. I think our allegiance to humanity is more important than allegiance to a country. Too bad there are so many xenophobes in this world.</span></p>
+<a id="8eed75bc22eab4f5c432a5963c65516d"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 21, 2008 8:24 AM:</span><span class="simpleblog-response">Well, &quot;To Tobobby&quot; at 6:51AM,<br/>it is a statement of disrespect for and of the U.S. to fly the flag upside down.<br/>It's one thing to retain one's culture and heritage and be proud of it, <br/>it's quite another to insult the country in which you reside.<br/>I doubt very seriously that such conduct would be tolerated in Mexico.<br/>Regards, Alf.</span></p>
+<a id="1f1a4f31cf62e6677db51fca40c486d3"></a><p><span class="simpleblog-name">Bobby</span> wrote on <span class="simpleblog-date">Sep 21, 2008 10:54 AM:</span><span class="simpleblog-response">to bobby,,,yeah, yeah, yeah, we've heard it all before. We know that illegal aliens, from Mexico own California, and that European scum,(who built the roads ,aqueducts, buildings, sewage systems, made the laws,etc etc.) have no right to any of it, and claiming that they have any rights here is just plain bigotry against Mexicans, for example. Does that sound right? Do you like that explaination. Is it O.K. if the predjudiced &quot;gringo&quot; can live among you? I know that Gringo and White scum on the posters of the hundreds of thousands of marchers in Los Angeles a while back, doesn't really mean Mexicans are as prejudiced as Europeans, I just thought they had a moral slip for a few days during those marches, otherwise everyone knows illegal aliens from Mexico can do no wrong. Is that another good explanation that fits your model of reality?</span></p>
+<a id="71b4219b2be05ca59154b89253d38844"></a><p><span class="simpleblog-name">to Alf</span> wrote on <span class="simpleblog-date">Sep 21, 2008 10:56 AM:</span><span class="simpleblog-response">Flying a flag upside down is protected by the constitution. There are no laws against it. Statement of disrespect to some, freedom of exression to others.Learn to tolerate it.</span></p>
+<a id="65830223f8e596b9284ac08e7c6b3378"></a><p><span class="simpleblog-name">Bobby</span> wrote on <span class="simpleblog-date">Sep 21, 2008 10:58 AM:</span><span class="simpleblog-response">Thanks Alf, but lets not offend the native population with these ideas too much, we might be removed from their land. I wonder which highway they built, will be used to drive us to the airport for deportation to Europe and other places? We'll have to get the inside scoop on our fate from the representatives of the native population,on this post, I suppose. I'm waiting with baited breath as I write this for an answer.</span></p>
+<a id="f9fa4f22817b6668080096d50e4fda9d"></a><p><span class="simpleblog-name">Bobby</span> wrote on <span class="simpleblog-date">Sep 21, 2008 11:00 AM:</span><span class="simpleblog-response">to bobby, at 6:51AM,<br/>I want to thank you for your sage advice, but I already know two languages, which wouldn't impress you of course, because Spanish isn't one of them. Does that sound about right?</span></p>
+<a id="d0f785e84a26ed51180cc38892698cde"></a><p><span class="simpleblog-name">Bobby</span> wrote on <span class="simpleblog-date">Sep 21, 2008 11:05 AM:</span><span class="simpleblog-response">By the way this Bobby didn't write the message at 10:26 PM. It's probably being written by the reconquista on this blog, in my name, so he can answer the questions he makes up and make it seem that there coming from the Americans, I mean, bigots, he hates.</span></p>
+<a id="5fc518d064b3f89af8bebc8ab42fc160"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 21, 2008 3:00 PM:</span><span class="simpleblog-response">Well, &quot;to Alf&quot; at 10:56AM,<br/>you're right that &quot;Flying a flag upside down is protected by the constitution. There are no laws against it. Statement of disrespect to some, freedom of exression [sic] to others.&quot;.<br/>It's a great way to show gratitude for the freedoms we and they have, isn't it?<br/>Regards, Alf.</span></p>
+<a id="311660ccedc9ab2f20855d6f4a02e10a"></a><p><span class="simpleblog-name">To Bobby</span> wrote on <span class="simpleblog-date">Sep 21, 2008 4:20 PM:</span><span class="simpleblog-response">What an ignorant fool you are to say &quot;europeans&quot; built this or that. What an insult to the black  slaves that died working hard. What about the Chinese and Mexicans that worked on the railroads and other hard labor? Along with all the acoplishments the &quot;europeans&quot; made, thanks for bringing AIDS, small pox, the threat of nuclear disasters,extinction of animals, and pollution. Also the  countless wars upon colored people from countries like Korea, Vietnam, and Iraq.thanks for making the world so much better.</span></p>
+<a id="5bed33b41b09e54f497632abea4e6a35"></a><p><span class="simpleblog-name">Alf</span> wrote on <span class="simpleblog-date">Sep 21, 2008 5:05 PM:</span><span class="simpleblog-response">Well, &quot;Asteroid to Alf&quot; at 11:31AM on the 20th,<br/>I must correct my post at 12:10PM on the 20th,<br/>YOU ARE RIGHT AND<br/>I WAS WRONG.<br/>I must apologize.<br/>I misread your post and assumed (you know where that get's you, in this case me) that you said that I had not seen the sdmm in action. I have been accused several times of lying about seeing them and am still touchy.<br/>I am truly sorry for accusing you of lying ON THIS MATTER.<br/>I have NOT seen &quot;the other side&quot; in action and you were correct in stating that.<br/>Regards and apologies, Alf.</span></p>
+<a id="417b72b12421f986cd237348a55d61cd"></a><p><span class="simpleblog-name">Bobby</span> wrote on <span class="simpleblog-date">Sep 21, 2008 6:39 PM:</span><span class="simpleblog-response">To Bobby 4:20PM, Yep, Europeans built the U.S. The U.S. was and still is an extension of Europe. That is what I learned in school along with millions of other Americans, before PC, BS. Just look in any text book written thirty or so years ago, before the project to rewrite the true history of the U.S. was started by leftist marxists. I'm sorry you are so deluded. You are the one that has been lied to. It is you who are in a state of ignorance. You are the ignorant fool. Go preach this B.S. to someone who is as ignorant as you are. You've been talking too many ethnic studies classes from LA RAZA, and MECHA ... that have infiltrated our schools and Colleges.</span></p>
+<a id="0394b9913dd6008ab7089beabb4f3876"></a><p><span class="simpleblog-name">Yep Bobby</span> wrote on <span class="simpleblog-date">Sep 22, 2008 7:20 PM:</span><span class="simpleblog-response">The hate America crowd is out in force.  They all have one thing in common however, THEY wouldn't dare live anywhere else.  The entire world wants to come to America, WHY?  Because America is the greatest, freest most tolerant, most gracious, most giving country on Earth. Have you ever seem millions trying to break in to Mexico, Korea, China or ANY other country? I just wish these hypocrites would get out and just try and bash America from any other soil.</span></p>
+</div>
+                      
+                      
+                     
+
+                      
+				    
+                    			   
+                </div>
+           
+           
+            
+                
+	        </div>
+			 
+            <!-- port comments -->   
+ 			<div id="nctcomments" class="groupItem clearboth">    
+               	<div class="itemHeader">Registered Comments<a href="#" class="closeEl plus-minus">[-]</a><span class="more-section"><a href="#">Go to Top</a></span></div>
+
+                <div id="tp_CommentsDiv" class="itemContent"> </div>
+                                            	<script src="http://my.nctimes.com/apis/scripts/remoteMgr.ashx?type=comments&amp;excludecss=true&amp;useprototypemod=true&amp;clear=1228428683"></script>
+<script type="text/javascript">
+				var tp_remoteMgr = new tp_remoteManager.Comments();
+				tp_remoteMgr.setProxy('/zscripts/08/theport/portProxy.php?url=%url%'); 
+
+				// set vars for port
+				var commDocId = "zfc76246767fc5751882574c8000aede3";
+				var commHeadline = document.getElementById("sHeadline").innerHTML;
+				var commUri = "http://www.nctimes.com/articles/2008/09/19/news/sandiego/zfc76246767fc5751882574c8000aede3.txt";
+				var commGroup = "news";
+				var commDiv = "tp_CommentsDiv";
+								
+				// port request do something
+				tp_remoteMgr.postLoadItemNumCommmentsHTML="(%num%) Comments";
+				tp_remoteMgr.postLoadZeroCommmentsHTML="Enter first comment.";
+				//tp_remoteMgr.debug=true;
+<!-- port xsl params -->
+tp_remoteMgr.useXSL=true;
+
+<!-- end port xsl params -->
+tp_remoteMgr.requestOnLoad(commDocId,commHeadline,commUri,commGroup,commDiv);
+			</script>
+            	</div>
+            
+             <!-- *********************************** LETTER TO EDITOR INCLUDE ******************************************************* --> 
+        		<div id="letterToEditor" class="groupItem clearboth">
+			
+
+					    
+				<div class="itemContent">
+					  
+				    <h1><a href="http://www.nctimes.com/forms/letters/editor.php">Click to submit LETTER TO THE EDITOR</a></h1>
+					
+				</div>
+</div>			<!-- *************************************************************************************************************************** --> 
+
+          </div>
+                
+<!-- COLUMN 2 -->		  
+ 	      <div id="col2_story" class="c339 floatright lborder margin-1left">
+ 	        <!-- TABS -->	  				
+ 	        
+ 	        <!-- *************************************************************************************************************************** --> 
+        	<div id="most-tabs" class="groupItem8-4-4-4 clearboth">
+ 	          <ul>
+ 	            <li><a href="#tab-1"><span>Most Comments</span></a></li>
+                <li><a href="#tab-2"><span>Popular News</span></a></li>
+                <li><a href="#tab-3"><span>Breaking News</span></a></li>
+              </ul>
+                   
+                <div id="tab-1" class="ui-tabs-hide">  
+                    <p>Today's Stories</p>
+                    <ul class="secondary clearleft">
+                        <ul class="topblogs-list"><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/12/03/opinion/letters/zf9ae07da57f5a01888257513007deef0.txt">LETTERS: NCT, Dec. 3, 2008</a></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/12/03/opinion/editorials/z87fdc6be7b00a138882575140001d891.txt">EDITOR'S NOTE: E-mail signup for Web comments to speed posts</a></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/12/03/opinion/commentary/z1b1187b28882ccc28825750f006f150e.txt">FORUM: Now time to redefine Oceanside</a></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/12/03/opinion/letters/ze36ebc7f7404da99882575130019980a.txt">LETTERS: The Californian, Dec. 3, 2008</a></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/12/02/news/coastal/encinitas/ze76bb3d14bc0882b8825751300713f67.txt">ENCINITAS: Environmental awareness event planned</a></li></ul>
+                    </ul>
+                </div>
+                  
+                <div id="tab-2" class="ui-tabs-hide">           
+                     <ul class="secondary clearleft">
+                        
+                        <li><a href="http://www.nctimes.com/articles/2008/11/30/sports/chargers/z91a40720f4500bc288257512000262ab.txt">CHARGERS: Turn(er) for the worse <span class="popular-count">(2685)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/11/30/news/sandiego/zcdd2b27a4f1146248825750800671b7e.txt">REGION: Earthquake drill fizzled out in county <span class="popular-count">(2091)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/12/01/news/sandiego/z5e2007fbcfe1ba7f88257512007af6f5.txt">REGION: OPD officer sues Carlsbad after arrest <span class="popular-count">(1889)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/12/01/opinion/letters/za12ae2c199f6c4a78825750f007e8664.txt">LETTERS: NCT, Dec. 1, 2008 <span class="popular-count">(1854)</span></a></li>
+                    </ul>
+                </div>
+                  
+                <div id="tab-3" class="ui-tabs-hide">
+                   
+                       <ul class="secondary clearleft">
+                       		
+                           
+                       </ul>
+                          
+                </div>
+	        </div>			<!-- *************************************************************************************************************************** -->      
+   
+<!-- AD -->				
+ 	        <div class="story_ad groupItem floatright display-inline-ie">
+ 	          <p class="adv">Advertisement</p>
+	  		    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/biz_bigad/static.js"></script>
+            </div>       
+    
+<!-- VIDEOS -->
+ 	        <div id="videos" class="groupItem floatright display-inline-ie">
+ 	          
+ 	          <h1 class="heading">Videos </h1>
+                        
+                <div class="itemContent" style="text-align:center">
+                	<!-- *************************************************************************************************************************** --> 
+                	
+<!-- News -->
+<script type="text/javascript" language="javascript" src="http://api.vmixcore.com/widgets/video_list_player.js.php?token=9a0ed32259503ae76b8adc4cfc5e86df"></script>
+<script type="text/javascript" language="javascript">
+var wid = new VideoListPlayerWidget();
+wid.play_url = 'http://videos.nctimes.com/p/video?id=';
+wid.pre_roll = 'default'; 
+wid.ad_url = 'http://green.vmixcore.com/getad';
+wid.genre_name='News';
+wid.show_featured=1;
+wid.hide_post=1;
+wid.width = 320;
+wid.height = 515;
+wid.script1 = 'http://www.nctimes.com/s_code.js'; 
+wid.script2 = 'http://www.nctimes.com/zincludes/08/omniture/vmix_code.js';
+wid.drawWidget();
+</script>                 	<!-- *************************************************************************************************************************** -->      
+                </div>
+		    </div>
+                
+                
+<!-- TopAds -->                
+            <!-- *************************************************************************************************************************** --> 
+        	<div id="topads335" class="c335 clearboth">
+                <div class="margin4left clearboth floatleft display-inline-ie">
+                    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_jobs_new/static.js"></script>
+                </div>
+                
+                <div class="margin8right floatright display-inline-ie">
+                    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_ads_new/static.js"></script>
+                </div>
+</div>			<!-- *************************************************************************************************************************** -->      
+
+ 	        <div class="clearer"></div> 
+	      </div>             
+    	</div>
+    
+    <div class="clearer"></div>
+   </div>
+</div>
+  <!-- end of maincontent -->
+
+<!-- FOOTER -->
+<div id="footer_wrap">
+ 	    <div id="footer">
+<!-- *************************************************************************************************************************** --> 
+      <!--       		<div id="pageInfo" class="crumlinks">		
+					<a href="/">HOME</a>&nbsp;&rarr;&nbsp;[section_name:4:1:&nbsp;&rarr;&nbsp;]
+				</div>
+-->
+            
+            <div id="address">
+                <div class="groupItem8-8-8-8 clearboth floatleft">
+                    <p class="office">Escondido</p>
+                    <p>(760) 745-6611</p>
+                    <p>207 East Penn. Ave.</p>
+                    <p>Escondido, CA 92025</p>
+                </div>
+                 <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office">Oceanside</p>          
+                    <p>(760) 433-7333</p>
+                    <p>1722 South Coast Highway</p>
+                    <p>Oceanside, CA 92054</p>
+                </div>
+                <div class="groupItem8-8-8-8 floatleft">
+                    <p class="office">The Californian</p>         
+                    <p>(951) 676-4315</p>
+                    <p>28765 Single Oak Drive, Suite 100</p>
+                    <p>Temecula, CA 92590</p>
+                </div>
+                <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office"> Fallbrook</p>       
+                    <p>(760) 728-6116</p>
+                    <p>1112 S. Main Ave.</p>
+                    <p>Fallbrook, CA 92028</p>
+                </div>
+             </div>
+       
+       <!-- search -->
+        <div id="footer-search">
+        <img alt="powered by yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+        
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+         	
+			<input class="searchfield" type="text" name="search" size="15" value="Search..."/>
+			<label>in </label>
+			<select name="searchType" id="searchTypeFoot">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+		<!--	<option value="web">Web</option>-->
+			</select>
+			
+			<input class="submitbutton" id="submitsearchFoot" name="submitsearchFoot" type="submit" value="Go"/>
+       
+		</form>
+		</div> <!-- end of search -->
+		
+ 	   <!-- *************************************************************************************************************************** --> 
+     </div>
+</div><!-- end of footer -->
+
+<!-- Omniture  -->                    
+		<!-- *************************************************************************************************************************** --> 
+      	<!-- SiteCatalyst code version: H.7.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="http://www.nctimes.com/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server="escondido"
+s.channel="nctimes.com"
+s.pageType=""
+s.prop1="news"
+s.prop2="zfc76246767fc5751882574c8000aede3.txt"
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+s.prop9=""
+s.prop10=""
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14=""
+s.prop15=""
+s.prop16=""
+s.prop17=""
+s.prop18=""
+s.prop19=""
+s.prop20=""
+s.prop21=""
+s.prop22=""
+s.prop23=""
+
+
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/* Hierarchy Variables */
+s.hier1="Lee Enterprises," + s.server + "," + s.channel + "," + s.prop1 + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
+s.hier2="Lee Enterprises," + s.prop1 + "," + s.server + "," + s.channel + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->
+
+
+<!-- Begin Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl./" : "http://www./");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5512081-1");
+pageTracker._trackPageview();
+</script>
+<!-- End Google Analytics -->		<!-- *************************************************************************************************************************** --> 
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 14:11:24 Dec 04, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 11:54:47 Mar 28, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 88.305 (3)
+  esindex: 0.015
+  captures_list: 161.524
+  CDXLines.iter: 28.967 (3)
+  PetaboxLoader3.datanode: 133.347 (4)
+  exclusion.robots: 0.336
+  exclusion.robots.policy: 0.313
+  RedisCDXSource: 10.883
+  PetaboxLoader3.resolve: 106.029
+  load_resource: 207.691
+-->

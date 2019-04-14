@@ -1,0 +1,411 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>TheTandD.com | Mall manager fired after race reference in Santa flier</title>
+</head>
+
+<body>
+<div id="head">
+<div id="top_nav">
+<ul>
+  <li><strong><a href="https://secure.townnews.com/thetandd.com/subscriber_services/">Subscriber Services</a></strong></li>
+  <li><a href="http://thetandd.com/shared-content/search/index.php?search=advanced">Advanced Search</a></li> 
+  <li><a href="http://www.timesanddemocrat.com/other/about">About Us</a></li>
+  <li><a href="http://www.timesanddemocrat.com/other/contact">Contact Us</a></li>
+</ul>
+</div>
+
+<div id="logo"><a href="http://www.thetandd.com/">The Times and Democrat</a></div>
+
+<div id="home_banner">
+	<script type="text/javascript" src="http://adsys.townnews.com/creative/thetandd.com/weather/static.js"></script>
+</div>
+
+<div class="clear"></div>
+
+<div id="navigation">
+<ul id="nav">
+<li><a href="http://www.timesanddemocrat.com/news">News</a><ul>
+  <li><a href="http://www.timesanddemocrat.com/news">Local / Top News</a></li>
+  <li><a href="http://www.timesanddemocrat.com/news/ap">National</a></li>
+  <li><a href="http://www.timesanddemocrat.com/ap-state-sc">State</a></li>
+  <li><a href="http://www.timesanddemocrat.com/calendar">Calendar</a></li>
+  <li><a href="http://www.timesanddemocrat.com/crime">Crime</a></li>
+  <li><a href="http://www.timesanddemocrat.com/announce">Announcements</a></li>
+  <li><a href="http://www.timesanddemocrat.com/business">Business</a></li> 
+  <li><a href="http://www.timesanddemocrat.com/weather/http://www.thetandd.com/weather/#traffic">Traffic</a></li>
+ <li><a href="http://www.timesanddemocrat.com/outdoors">Outdoors</a></li>
+<li><a href="http://www.timesanddemocrat.com/schoolnews">School News</a></li>
+ <li><a href="http://www.timesanddemocrat.com/weather">Weather</a></li>
+  <li><a href="http://www.timesanddemocrat.com/vgallery"><span class="new">Multimedia Gallery</span></a></li>
+  <li><a href="http://www.thetandd.com/news_interactive/"><span class="new">Interactive</span></a></li>
+ <li><a href="http://pictopia.com/perl/gal?provider_id=507"><span class="new">Photo Galleries / Store</span></a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/opinion">Opinion</a><ul>
+  <li><a href="http://www.timesanddemocrat.com/columns">Columns</a></li>
+  <li><a href="http://www.timesanddemocrat.com/blogs">Blogs</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/sports">Sports</a><ul>
+  <li><a href="http://www.timesanddemocrat.com/sports/prep">Prep Sports</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/scsu">SCSU</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/claflin">Claflin</a></li>  
+  <li><a href="http://www.timesanddemocrat.com/sports/usc">S. Carolina</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/clemson">Clemson</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/college">Other Colleges</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/local">Other Local</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports/wire">Sports<em>Wire</em></a></li>
+ <li><a href="http://www.timesanddemocrat.com/outdoors">Outdoors</a></li>
+  <li><a href="http://www.timesanddemocrat.com/vgallery"><span class="new">Multimedia Gallery</span></a></li>
+  <li><a href="http://pictopia.com/perl/gal?provider_id=507"><span class="new">Photo Galleries / Store</span></a></li>
+  <li><a href="http://www.timesanddemocrat.com/blogs">Blogs</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/features">Features</a><ul>
+  <li><a href="http://www.timesanddemocrat.com/features/health">Health</a></li>
+  <li><a href="http://thetandd.ctwfeatures.com/health/"><span class="new">Body &amp; More</span></a>
+  <li><a href="http://www.timesanddemocrat.com/bridal">Bridal</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features/food">Food</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features/leisure">Leisure</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features/religion">Religion</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features/fries">Orangeburgers and Fries</a></li>
+  <li><a href="http://thetandd.ctwfeatures.com/home/"><span class="new">Home &amp; Garden</span></a>
+  <li><a href="http://www.timesanddemocrat.com/features/sunday">Sunday Magazine</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features/lifestyles">Lifestyles</a></li>
+ <li><a href="http://www.timesanddemocrat.com/outdoors">Outdoors</a></li>
+  <li><a href="http://www.timesanddemocrat.com/vgallery"><span class="new">Multimedia Gallery</span></a></li>
+  <li><a href="http://pictopia.com/perl/gal?provider_id=507"><span class="new">Photo Galleries / Store</span></a></li>
+  <li><a href="http://www.timesanddemocrat.com/blogs">Blogs</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/ap/entertainment">Entertainment</a><ul>
+<!--<li><a href="/entertainment">Local / Top News</a></li>-->
+  <li><a href="http://www.timesanddemocrat.com/ticket">The Ticket</a></li>
+  <li><a href="http://www.timesanddemocrat.com/ap/entertainment/movies">Movies</a></li>
+  <li><a href="http://www.timesanddemocrat.com/ap/entertainment/music">Music</a></li>
+  <li><a href="http://www.timesanddemocrat.com/ap/entertainment/tv">TV</a></li>
+  <li><a href="http://www.timesanddemocrat.com/specialsections/tvguide/index.html" target="_blank">TV Schedule</a></li>
+<!--<li><a href="/games">Games</a></li>-->
+  <li><a href="http://www.timesanddemocrat.com/vgallery"><span class="new">Multimedia Gallery</span></a></li>
+  <li><a href="http://pictopia.com/perl/gal?provider_id=507"><span class="new">Photo Galleries / Store</span></a></li>
+  <li><a href="http://www.timesanddemocrat.com/blogs">Blogs</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/obits">Obituaries</a></li>
+<li><a href="http://www.timesanddemocrat.com/admarket">Classified</a><ul>
+<!--<li><a href="">Place an Ad</a></li>-->
+  <li><a href="http://www.timesanddemocrat.com/admarket/announcements">Announcements</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/financial">Financial</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/help_wanted">Help Wanted</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/merchandise">Merchandise</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/pets_supplies">Pets &amp; Supplies</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/real_estate_for_sale">Real Estate For Sale</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/recreation">Recreation</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/rentals">Rentals</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/service_directory">Service Directory</a></li>
+<li><a href="http://www.timesanddemocrat.com/admarket/services_repairs">Services &amp; Repairs</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/jobs">Jobs</a><ul>
+    <li><a href="http://www.timesanddemocrat.com/workhere/index.html">Work With Us</a></li>
+<li><a href="http://www.timesanddemocrat.com/jobs">Local Job Search</a></li>
+</ul></li>
+<li><a href="http://www.timesanddemocrat.com/admarket/transportation">Cars</a></li>
+  <li><a href="http://www.timesanddemocrat.com/admarket/real_estate_for_sale">Homes</a></li>
+ <li><a href="http://www.timesanddemocrat.com/sections/">Special</a><ul>
+  <li><a href="http://www.timesanddemocrat.com/sections/">Sections</a></li>
+  <li><a href="http://www.timesanddemocrat.com/contest/">Contests</a></li>
+</ul></li>
+</ul></li>
+</ul>
+
+  <div id="search">
+	<form action="http://www.thetandd.com/shared-content/search/index.php" method="get">
+		<input type="hidden" name="search" value="go">
+		<input type="hidden" name="l" value="25">
+		<input class="searchtxt" type="text" name="q" value="Enter Keyword(s)" onfocus="if (this.value == 'Enter Keyword(s)') this.value= '';">
+		<input class="search" type="submit" value="Search">
+	</form>
+   </div>
+</div>
+
+<div id="date"><a href="http://www.timesanddemocrat.com/ap/today-in-history"><script><!--
+showCurrentDate(1);//--></script><noscript></noscript></a><span class="logTools">You are not logged in. | <a href="javascript:void(0);" onclick="javascript:toggleLogin('show');">Login</a> | <a href="http://www.timesanddemocrat.com/signup/">Register</a></span></div>
+
+<div id="weather"><p>Current weather conditions: <a href="http://www.timesanddemocrat.com/weather">			Mostly Cloudy and 73&#176; F </a></p></div>
+
+<div class="clear"></div>
+<div id="log_box">
+<h4>Log in to TheTandD.com</h4>
+<form action="http://thetandd.com/articles/2005/11/11/news/doc43757d505533a137944691.txt" method="POST"><script language="JavaScript"><!--
+function registrationCheckCookie(checkbox) {var str = new String(this.document.cookie);if ( ! str.match("has_cookies") && checkbox.checked ) {var result = confirm("Your browser does not support cookies.  Click OK to see information on how to enable cookie support in your browser.  Otherwise, click CANCEL.\n\nOnce cookies are enabled, reload this page before trying again."); checkbox.checked = false; if ( result ) {window.open("/shared-content/userhelp/cookies/index.html", "userhelp", "width=350,height=200,menubar=no,location=no,directories=no,toolbar=yes");}}}
+// --></script><table border="0"><input type="hidden" name="registration" value="login"/>
+<input type="hidden" name="remember_me_days" value="7"/>
+ <tr>
+  <th align="right" valign="top">*Member ID:</th>
+  <td>
+   <input type="text" name="member_id" size="20" value=""/>
+  </td>
+ </tr>
+<tr>  <th align="right">*Password:</th>  <td><input class="newsys-textbox" type="PASSWORD" name="password"></td></tr><tr><td>Remember login?<br><small>(<a href="http://www.timesanddemocrat.com/shared-content/userhelp/cookies/index.html" target="userhelp">requires cookies)</a></small></td><td><input type="checkbox" name="remember_me" onclick="registrationCheckCookie(this)" value="1"></td></tr><tr>  <td>&nbsp;</td>  <td><small><a href="#" onclick="return window.open(&quot;/?registration=forgot-password&quot;, &quot;&quot;, &quot;width=380,height=190,menubar=no,resizeable=no&quot;)">Forgot Your Password?</a></small></td></tr><tr>  <td>&nbsp;</td>  <td><input class="newsys-button" type="SUBMIT" value="Login"></td></tr></table></form>
+<div class="forgot"><a href="javascript:void(0);" onclick="javascript:toggleLogin('hide');">[x] Close</a></div>
+</div>
+</div>
+<div id="wrapper"> 
+<div id="main">
+<h2>Mall manager fired after race reference in Santa flier</h2>
+<span class="by">By <a href="mailto:gzaleski@timesanddemocrat.com">GENE ZALESKI</a>, T&D; Staff Writer<span class="published">Friday, November 11, 2005</span>
+<p><span class="leave_comment"><a href="#tdcomments"><span class="simpleblog-count">Leave a Comment</span></a></span> | <span class="default"><a href="#" title="Article default font size." onclick="setActiveStyleSheet('default'); return false;">Default</a></span> |
+<span class="large"><a href="#" title="Enlarge article font size." onclick="setActiveStyleSheet('large'); return false;">Large</a></span>
+</p></span>
+
+<div id="story_content">
+<p>The Prince of Orange Mall manager was terminated Thursday evening following the distribution of a controversial mall Santa search flier.<br/><br/>Sylvia Krajna was immediately removed from her position as mall manager following the distribution of the flier asking for &#8220;preferably Caucasian&#8221; individuals to apply for mall Santa, mall ownership confirmed Friday.<br/><br/>The flier noted the mall is &#8220;desperately looking for a good Santa this year (if we get two &#8217;good men&#8217; they can share the hours).&#8221;<br/><br/>It identified the basic qualifications as &#8220;hygienically clean; preferably Caucasian; jolly &#151; enjoys being with children; natural beard a plus, but not necessary; okay to carry a few extra pounds! We&#8217;ll even provide extra milk and cookies as a bonus!&#8221;<br/><br/>The flier raised the immediate ire of some mall tenants.<br/><br/>Travis Griffin, who has leased a cell phone kiosk at the mall for about a year, said the flier is a &#8220;slap in the face&#8221; for all African-Americans who both work and shop at the mall. &#8220;This has drawn the line,&#8221; he said.<br/><br/>The Augusta, Ga.-based mall owner Hull Storey Retail Group received the flier via fax Thursday evening and upon receipt terminated the manager immediately, said John Gibson, Hull Storey president and chief executive officer.<br/><br/>&#8220;We called the mall manager and she confirmed to us at that time that she in fact had written this,&#8221; Gibson said. &#8220;This is completely contrary to our policies, to my personal beliefs and, I would hope, the values of the people in our company.&#8221;<br/><br/>Krajna, reached by phone Friday afternoon, said &#8220;I really have no comment&#8221; on the situation.<br/><br/>She did say Hull Storey is a proactive company and, if the community works together with the company, Orangeburg will be strengthened.<br/><br/>&#8220;Hull Storey is a strong company, a fabulous company, and Orangeburg is very lucky to have it as the owner of the mall,&#8221; Krajna said.<br/><br/>Gibson said Krajna was hired by Hull Storey about four years ago. She worked locally for about two years before going to North Carolina. Krajna returned to Orangeburg about a year ago as mall manager.<br/><br/>&#8220;We are proud to be a part of Orangeburg,&#8221; Gibson said. &#8220;Frankly, this is a very embarrassing moment for us. We are very, very sorry this has happened. We apologize and it certainly will not happen again.&#8221;<br/><br/>Mall operations are being overseen by Hull Storey&#8217;s regional management until a new full-time manager is hired within a few weeks, Gibson said.<br/><br/><li> T&D; Staff Writer <a href="mailto:gzaleski@timesanddemocrat.com">Gene Zaleski</a> can be reached by e-mail at <a href="mailto:gzaleski@timesanddemocrat.com">gzaleski@timesanddemocrat.com</a> or by phone at 803-533-5551.</p>
+</div>
+
+<div class="clear"></div>
+
+<div class="tool_options">
+<div>
+<span class="email"><a href="http://thetandd.com/articles/2005/11/11/news/doc43757d505533a137944691.eml" target="emailafriend">E-mail this story</a></span> |
+<span class="print"><a href="http://thetandd.com/articles/2005/11/11/news/doc43757d505533a137944691.prt" target="printable">Print this story</a></span><!--|
+<span class="shar"><a href="/pages/share.php" onclick="window.open(this.href, 'child', 'scrollbars,width=480,height=440'); return false;">Share this story: </a></span>--></div>
+<!--<a href=""><img src="http://thetandd.com/images/digg.gif"></a><a href=""><img src="http://thetandd.com/images/newsvine.gif"></a><a href="">-->
+</div>
+
+<a id="tdcomments"></a>
+<script type="text/javascript" src="http://www.thetandd.com/scripts/show_comments.js"></script>
+
+<div id="comment_toggle"><div id="toggle_txt">&nbsp;</div><div id="comment_btn"><a class="hide_comments" href="javascript:void(0);" id="comm_link" onclick="javascript:show_comments();read_comments();">&nbsp;</a></div></div>
+<div class="toggle_count"><span class="simpleblog-count">Leave a Comment</span></div>
+<div id="comments_block">
+<div class="comments_disclaimer">The following comments are reader submitted. 
+	They do not represent the views of The T&amp;D or Lee 
+	Enterprises.</div>
+<div id="sb"><a id="blogcomments"></a><div class="simpleblog-results">
+	<br>
+    <a id="blogcomments"></a>
+    <br><br>
+</div></div>
+</div>
+<script language="javascript">read_comments();</script>
+
+<h5>&raquo; Post a comment <span class="small">Thanks for your comment! Once 
+approved, your comment will appear on the site.</span></h5>
+
+<div id="notlogged"><h2>You must be logged in to comment.</h2><a href="#top" onclick="javascript:toggleLogin('show');"><img src="http://www.timesanddemocrat.com/images/site/sign_in.gif" alt="Click Here To Sign in"/></a><br/><br/><a href="http://www.timesanddemocrat.com/signup/register/"><strong>Click here to get an account</strong></a><br/><strong><em>it's free and quick</em></strong></div>
+
+<div class="policy"><span class="policy_link">Please note:</span> The Times and 
+	Democrat provides our story commenting feature in order to solicit feedback, 
+	debate and discussion on topics of local interest. Please keep in mind that 
+	civility is a necessary component of productive conversation. All blatantly 
+	inflammatory or otherwise inappropriate comments (i.e. vulgarity, marketing, 
+	etc.) are subject to rejection and/or removal. Comments will appear if and 
+	when they are approved. Thanks for reading, and thanks for participating.</div>
+</div>
+
+<div id="side">
+	<div></div>
+	<div>
+<script language="javascript" src="http://adsys.townnews.com/global/capped.js"/></script>
+<script type="text/javascript">
+<!-- 
+aCampaigns = new Array();
+aCampaigns[293] = 100;
+aAds = new Array();
+nAdsysTime = new Date().getTime()/1000;
+document.usePlayer = 1;
+if ((nAdsysTime >= 1202083200) && (nAdsysTime <= 1517443199)) {
+aAd = new Array('news+in_story', '113098-1205867651', 'jpg');
+aAd[3] = 'http://www.fourmoons.com/';
+aAd[4] = '0';
+aAd[6] = '1';
+aAd[7] = 10;
+aAd[8] = 0;
+aAd[9] = 293;
+aAd[10] = 0;
+aAd[11] = 0;
+aAds[aAds.length] = aAd;
+}
+adsys_displayAd('http://adsys.townnews.com/', 'thetandd.com', aAds, aCampaigns);
+
+// -->
+</script></div>
+    <div> <!-- Yahoo Content Match Category = news -->
+
+		<style type="text/css">
+			@import url('http://www.qctimes.com/scripts/content_match_styles.css');
+		</style>
+		<div class="yahoo_content_match"><h1><a class="side_ads" href="http://searchmarketing.yahoo.com/srch/contentmatch.php" rel="nofollow">Ads by Yahoo!</a></h1>
+
+<div><h2><a href="http://ypn-100.overture.com/d/sr/?xargs=VlDJUojaJ2YVtZ7G0bobiRCXYzzDDU9Xq83RvfqCWfrkWt8u0AnHGNM0use0xeMrpBVJlXq2mZgzE17EljSITN_6bIW9WbEFoQM08zYzjazinI0n1HmYhdkMW28hhJVxRJHjuR4lYk7MlTzraVWvfBluhCc3L3eYXvbH8gkMnz0MW54i8e37Qi7GH1zgxBRok1aCoiytzXUSqpDJ9ojPVykWyw8Cy9ihrAy8A9pti-LCrD3SVMZHL3SLym0opl_XjsAG3OeMtaLBT3iA6hy6SAMXvBPe_8Cu1H02m1kOWS1fwAr3aItfBcFfxrSIS1YOG8zLVaThf7deWspcp5cJK03IUpyAnjqBguYAzLFrKDA" rel="nofollow">Refinance and Save $1,000S</a></h2>
+
+<p><a href="http://ypn-100.overture.com/d/sr/?xargs=VlDJUojaJ2YVtZ7G0bobiRCXYzzDDU9Xq83RvfqCWfrkWt8u0AnHGNM0use0xeMrpBVJlXq2mZgzE17EljSITN_6bIW9WbEFoQM08zYzjazinI0n1HmYhdkMW28hhJVxRJHjuR4lYk7MlTzraVWvfBluhCc3L3eYXvbH8gkMnz0MW54i8e37Qi7GH1zgxBRok1aCoiytzXUSqpDJ9ojPVykWyw8Cy9ihrAy8A9pti-LCrD3SVMZHL3SLym0opl_XjsAG3OeMtaLBT3iA6hy6SAMXvBPe_8Cu1H02m1kOWS1fwAr3aItfBcFfxrSIS1YOG8zLVaThf7deWspcp5cJK03IUpyAnjqBguYAzLFrKDA" rel="nofollow">$150,000 Mortgage for $483/month. Compare up to 4 free quotes.<br/>
+
+<em>www.pickamortgage.com</em></a></p></div><div><h2><a href="wBFS8C1BYJ-tq-wAoKPO3zMKVw6MUY6rVTRa4Kb61rdKQafUYo819Ygn4v07bWrcMlEnH8QSazNCtay2B2eXQuFBiun6AwqnJnkXhMfbmM15J_ff1MyHhHr0sXyThHERCCmLjNVBi7knJGgGw" rel="nofollow">Refinance $300,000 for Only $965/Month</a></h2>
+
+<p><a href="wBFS8C1BYJ-tq-wAoKPO3zMKVw6MUY6rVTRa4Kb61rdKQafUYo819Ygn4v07bWrcMlEnH8QSazNCtay2B2eXQuFBiun6AwqnJnkXhMfbmM15J_ff1MyHhHr0sXyThHERCCmLjNVBi7knJGgGw" rel="nofollow">$300,000 Mortgage for only $965/month. Save $1,000's - No obligation.<br/>
+
+<em>www.HomeLoanHelpLine.com</em></a></p></div><div><h2><a href="http://ypn-100.overture.com/d/sr/?xargs=sCY2IkrRZaFJ4I7p1GgebFde9VkCGslWe7tY3TOp0ss4jCpgKD6WwoFKj4prl1AWGYfllt0aI8hMnvuByfsasKX7vgBkO6M9J6XnvalghcA4GiOaWSr3ZjxYy0_Pq-Gl_E7PlwmFS0PocpGXokpXmWe6Vo_qapq6Z_IEpaRM1PtNC1myFXN8-YKFLSwGSHY2LJzvKs09XBmQenAuOWnXnkMZtu-rp8JuUNZB1dHt78b3tUYpQK3Ueq07uLKtY4br9kykZZBA6YML7GD-h2eXgZlY57icclR1LjrTDF-gS8R_yL_CkhUqinTgyahhFw0JDBI3S72rCo_2eBtokXJ2xa3AhaL7x7BT8lldUUkI7xg" rel="nofollow">Fed Cuts Interest Rates Again</a></h2>
+
+<p><a href="http://ypn-100.overture.com/d/sr/?xargs=sCY2IkrRZaFJ4I7p1GgebFde9VkCGslWe7tY3TOp0ss4jCpgKD6WwoFKj4prl1AWGYfllt0aI8hMnvuByfsasKX7vgBkO6M9J6XnvalghcA4GiOaWSr3ZjxYy0_Pq-Gl_E7PlwmFS0PocpGXokpXmWe6Vo_qapq6Z_IEpaRM1PtNC1myFXN8-YKFLSwGSHY2LJzvKs09XBmQenAuOWnXnkMZtu-rp8JuUNZB1dHt78b3tUYpQK3Ueq07uLKtY4br9kykZZBA6YML7GD-h2eXgZlY57icclR1LjrTDF-gS8R_yL_CkhUqinTgyahhFw0JDBI3S72rCo_2eBtokXJ2xa3AhaL7x7BT8lldUUkI7xg" rel="nofollow">Mortgage Rates Hit 26 Month Lows. Calculate Your New Mortgage Payment.<br/>
+
+<em>www.LowerMyBills.com</em></a></p></div></div></div>
+	
+	
+	<h4>More News</h4>
+	<div class="more_headlines">
+		<ul><a href="http://www.timesanddemocrat.com/articles/2005/11/11/news/doc431bd0cf371fa585273047.txt"><li>How you can help victims of Hurricane Katrina</li></a><a href="http://www.timesanddemocrat.com/articles/2005/11/11/news/doc43757c3e6ea38852350458.txt"><li>�A great day&#8217; &#151; 62 years late; Veteran awarded Purple Heart at Orangeburg ceremony</li></a><a href="http://www.timesanddemocrat.com/articles/2005/11/11/news/doc43757cbc1493f106023142.txt"><li>DID YOU HEAR? O-W receives special Veterans Day gift</li></a><a href="http://www.timesanddemocrat.com/articles/2005/11/11/news/doc43757d9d4284d335660850.txt"><li>Superintendents doing their homework after disappointing state report cards</li></a><a href="http://www.timesanddemocrat.com/articles/2005/11/11/news/doc43757d13a07b3575047014.txt"><li>Sexual assault suspect sought</li></a><a href="http://www.timesanddemocrat.com/articles/2005/11/11/news/doc43757d505533a137944691.txt"><li>Mall manager fired after race reference in Santa flier</li></a><a href="http://www.timesanddemocrat.com/articles/2005/11/11/news/doc43757df6867ed588369537.txt"><li>�True reform is the answer&#8217; -- Superintendent of education candidate advocates retooling system</li></a><a href="http://www.timesanddemocrat.com/articles/2005/11/11/news/doc43757e58b4b4d579440278.txt"><li>REMINISCING WITH RINEHART: Thanks for the memories</li></a></ul>
+	</div>
+	<div>	<script type="text/javascript" src="http://adsys.townnews.com/creative/thetandd.com/topads/static.js"></script>
+	<script type="text/javascript" src="http://adsys.townnews.com/creative/thetandd.com/topjobs/static.js"></script>
+	<script type="text/javascript" src="http://adsys.townnews.com/creative/thetandd.com/topautos2/static.js"></script>
+	<script type="text/javascript" src="http://adsys.townnews.com/creative/thetandd.com/tophomes2/static.js"></script><br>
+	
+</div>
+
+</div>
+
+</div>
+
+<div id="footer">
+	<ul id="ft_sections">
+  <li><h2>&raquo; Sections</h2></li>
+  <li><a href="http://www.timesanddemocrat.com/">Homepage</a></li>
+  <li><a href="http://www.timesanddemocrat.com/news">News</a></li>
+  <li><a href="http://www.timesanddemocrat.com/business">Business</a></li>
+  <li><a href="http://www.timesanddemocrat.com/weather">Weather</a></li>
+  <li><a href="http://www.timesanddemocrat.com/crime">Crime</a></li>      
+  <li><a href="http://www.timesanddemocrat.com/opinion">Opinion</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sports">Sports</a></li>
+  <li><a href="http://www.timesanddemocrat.com/features">Features</a></li>
+  <li><a href="http://www.timesanddemocrat.com/entertainment">Entertainment</a></li>
+  <li><a href="http://www.timesanddemocrat.com/obits">Obituaries</a></li>
+  <li><a href="http://www.timesanddemocrat.com/sections">Sections</a></li>
+  <li><a href="http://www.timesanddemocrat.com/contest">Contests</a></li>
+</ul>
+
+<ul id="ft_services">
+  <li><h2>&raquo; Services</h2></li>
+  <li><a href="http://www.timesanddemocrat.com/other/advertise">Advertise on Our Site</a></li>
+  <li><a href="http://www.timesanddemocrat.com/other/homepage">Make Us Your Homepage</a></li>
+  <li><a href="http://www.timesanddemocrat.com/other/contact">Contact Us </a></li>
+
+  <li><a href="http://www.timesanddemocrat.com/other/about">About Us</a></li>
+  <li><a href="http://pictopia.com/perl/gal?provider_id=507" target="_blank">Online Photo Store</a></li>
+  <li><div class="ft_br"></div></li>
+  <li class="ft_subscribe"><a href="https://secure.townnews.com/thetandd.com/subscriber_services/">Subscriber services</a></li>
+  <li class="ft_calendar"><a href="http://www.timesanddemocrat.com/calendar">Calendar</a></li>
+  <li class="ft_rss"><a href="http://www.timesanddemocrat.com/rss">RSS</a></li>
+</ul>
+
+<ul id="ft_publications">
+  <li><h2>&raquo; Classified</h2></li>
+  <li><a href="http://www.timesanddemocrat.com/classifieds">Homepage</a></li>
+  <li><a href="http://www.thetandd.com/classifieds/?loc=detail&amp;main=Help%20Wanted">Jobs</a></li>
+  <li><a href="http://www.thetandd.com/classifieds/?loc=detail&amp;main=Transportation">Cars</a></li>
+  <li><a href="http://www.thetandd.com/classifieds/?loc=detail&amp;main=Real%20Estate%20For%20Sale">Homes</a></li>
+</ul>
+
+<div id="ft_search">
+<h2>&raquo; Search</h2>
+	<form action="http://www.thetandd.com/shared-content/search/index.php" method="get">
+	<input class="searchtxt" type="text" name="q" value="Enter Keyword(s)" onfocus="if (this.value == 'Enter Keyword(s)') this.value= '';">
+	<input type="hidden" name="search" value="go">
+	<input type="hidden" name="l" value="25">
+	<input class="search" type="submit" value="Search" name="search">
+</form>
+
+<ul>
+  <li id="ft_lee"><a href="http://www.lee.net/" target="_blank">Lee Enterprises</a></li>
+  <li><a href="http://www.lee.net/" target="_blank">A Lee Enterprises subsidiary</a></li>
+  <li><a href="http://www.lee.net/newspapers" target="_blank">Other Lee Websites</a></li>
+</ul>
+</div>
+
+<div class="copyright"><span><a href="#top">Back to top</a></span>Copyright &copy; 2008, The Times and Democrat, Orangeburg, SC | <a href="http://www.timesanddemocrat.com/other/terms">Terms of Service</a> and <a href="http://www.timesanddemocrat.com/other/privacy">Privacy Policy</a></div>
+<div class="omniture">
+<script language="javaScript" type="text/javascript" src="http://www.thetandd.com/s_code.js"></script>
+
+<!-- omniturelee extension v1.0.0 -->
+<!-- SiteCatalyst code version: H.7.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server="The Times and Democrat"
+s.channel="thetandd.com"
+s.pageType=""
+s.prop1="news"
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7="Mall manager fired after race reference in Santa flier"
+s.prop8="<A href=\"mailto:gzaleski@timesanddemocrat.com\">GENE ZALESKI<"
+s.prop9=""
+s.prop10=""
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14="6"
+s.prop15="Monday"
+s.prop16=""
+s.prop17=""
+s.prop18=""
+s.prop19=""
+s.prop20=""
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/* Hierarchy Variables */
+s.hier1="Lee Enterprises,The Times and Democrat,thetandd.com,news,,,,"
+s.hier2="Lee Enterprises,news,The Times and Democrat,thetandd.com,,,,"
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->
+<script language="JavaScript" type="text/javascript">
+<!-- 
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//-->
+</script></div>    
+</div>
+
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 22:09:57 Apr 21, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:31:35 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 131.621 (3)
+  esindex: 0.005
+  captures_list: 164.854
+  CDXLines.iter: 18.065 (3)
+  PetaboxLoader3.datanode: 114.056 (4)
+  exclusion.robots: 0.239
+  exclusion.robots.policy: 0.221
+  RedisCDXSource: 10.521
+  PetaboxLoader3.resolve: 107.323
+  load_resource: 160.576
+-->

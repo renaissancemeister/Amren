@@ -1,0 +1,1208 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>Shooting outside Arizona club leaves 14 wounded</title>
+</head>
+        <body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="http://www.googletagmanager.com/ns.html?id=GTM-TLFP4R" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'http://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TLFP4R');</script>
+<!-- End Google Tag Manager -->
+<div id="DFM-adPos-inter"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-inter');});</script></div>
+    <div id="DFM-adPos-leader"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-leader');});</script></div>
+<header id="site-header" role="banner">
+    <div id="topbar" class="hide-for-phone zero-height">
+        <div class="container-fluid">
+            <div id="topbar-viewport">
+                <div id="topbar-wrapper">
+                    <div class="weather-bar zero-height">
+                        <div class="current-weather">
+                            <div class="current-temp">
+                                <a href="http://www.macombdaily.com/weather">
+                                    <span class="currImg"></span>
+                                    <hgroup>
+                                        <h6>Right now</h6>
+                                        <h5></h5>
+                                    </hgroup>
+                                </a>
+                            </div> <!-- .current-temp -->
+                            <div class="high-low">
+                                <div>
+                                    <p><small>Today's high</small></p>
+                                    <a href="http://www.macombdaily.com/weather"><p class="temp todayshigh"></p></a>
+                                </div>
+                                <div>
+                                    <p><small>Today's low</small></p>
+                                    <a href="http://www.macombdaily.com/weather"><p class="temp todayslow"></p></a>
+                              </div>
+                            </div> <!-- .high-low -->
+                            <div class="forecast">
+                                <ul>
+                                    <li>
+                                        <h6 class="day1Name"></h6>
+                                        <a href="http://www.macombdaily.com/weather">
+                                            <span class="day1Img"></span>
+                                            <p class="high-temp day1High"></p>
+                                            <p class="low-temp day1Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day2Name"></h6>
+                                        <a href="http://www.macombdaily.com/weather">
+                                            <span class="day2Img"></span>
+                                            <p class="high-temp day2High"></p>
+                                            <p class="low-temp day2Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day3Name"></h6>
+                                        <a href="http://www.macombdaily.com/weather">
+                                            <span class="day3Img"></span>
+                                            <p class="high-temp day3High"></p>
+                                            <p class="low-temp day3Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day4Name"></h6>
+                                        <a href="http://www.macombdaily.com/weather">
+                                            <span class="day4Img"></span>
+                                            <p class="high-temp day4High"></p>
+                                            <p class="low-temp day4Low"></p>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <h6 class="day5Name"></h6>
+                                        <a href="http://www.macombdaily.com/weather">
+                                            <span class="day5Img"></span>
+                                            <p class="high-temp day5High"></p>
+                                            <p class="low-temp day5Low"></p>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div> <!-- .forecast -->
+                        </div> <!-- .current-weather -->
+                        <div id="weather-ad">
+                           <h6><a href="http://www.macombdaily.com/weather">Full weather report</a></h6>
+                        </div>
+                    </div> <!-- .weather-bar -->
+                    <div class="traffic-bar zero-height">
+                        <div id="sigAlertClicker" onclick="window.location.assign('/traffic')"></div><iframe width="640" scrolling="auto" height="300" frameborder="0" name="saportal" style="border: 0px solid #000000;" allowtransparency="true" marginheight="0" marginwidth="0" src="http://www.sigalert.com/Portlet/Map.asp?partner=MacombDaily&amp;lat=42.51588&amp;lon=-82.95623&amp;z=2&amp;th=blue&amp;urqs=1&amp;url=/traffic"></iframe>
+                        <div class="traffic-ad">
+                            <h6><a href="http://www.macombdaily.com/traffic">Full traffic report</a></h6>
+                        </div>
+                    </div><!-- .traffic-bar -->
+                </div>  <!-- #topbar-wrapper -->
+            </div> <!-- #topbar-viewport -->
+        </div> <!-- .container-fluid -->
+    </div> <!-- #topbar -->
+    <section id="flag">
+        <div class="container-fluid">
+            <div class="branding">
+                    <a href="http://www.macombdaily.com/"><img class="property-logo small" src="http://local.macombdaily.com/assets/logo-large.png" title="The Macomb Daily" alt="The Macomb Daily"></a>
+                    <h1 class="page-title">
+                             <a href="http://www.macombdaily.com/news">
+                                News
+                             </a> 
+                    </h1>
+             </div> <!-- .branding -->
+                 <nav id="topbar-menu">
+                    <ul class="inline-list">
+                        <li><a class="weather-toggle">Weather</a></li>
+                        <li><a class="traffic-toggle">Traffic</a></li>
+                        <li><a class="newsletter-toggle" href="http://www.macombdaily.com/email_signup">Newsletters</a></li>
+                    </ul> <!-- .nav -->
+             </nav> <!-- #topbar -->
+             <div id="header-links">
+                    <a href=""></a>
+                </div>
+             <div id="site-search" class="search-bar">                
+                  <form action="http://www.macombdaily.com/search" class="form-search input-append">
+                        <input name="text" type="text" placeholder="Search"/>
+                        <button class="btn btn-primary" type="submit">Go</button>
+                        <input type="hidden" name="sort" value="modifiedtime desc"/>
+                        <input type="hidden" name="nocache" value="1"/>
+                  </form>
+                  <!-- Verticals Links -->
+                  <div class="verticals-menu">
+                     <ul id="verticalsLinks"></ul>
+                  </div>
+                  <!-- /Verticals Links -->
+             </div> <!-- #search-bar -->
+        </div> <!-- container-fluid -->
+    </section> <!-- #flag -->
+
+   <nav id="site-navigation" role="navigation" class="navbar">
+   <a href="#main-content" class="hidden">Skip to Main Window</a>
+	<div class="navbar-inner">
+		<div class="container-fluid">
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-responsive-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+        	</a>
+			<div class="nav-collapse collapse navbar-responsive-collapse">
+				<ul class="nav">
+					<li class="dropdown">
+                        <a href="http://www.macombdaily.com/news" class="dropdown-toggle">News<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.macombdaily.com/local-news">Local</a></li>
+							<li><a href="http://www.macombdaily.com/dataworks">DataWorks</a></li>
+							<li><a href="http://www.macombdaily.com/region-news">Region</a></li>
+							<li><a href="http://www.macombdaily.com/state-news">State</a></li>
+							<li><a href="http://www.macombdaily.com/weather">Weather</a></li>
+							<li><a href="http://www.macombdaily.com/traffic">Traffic</a></li>
+							<li><a href="http://www.macombdaily.com/closings">Closings</a></li>
+							<li><a href="http://www.macombdaily.com/national-news-video">National News Video</a></li>
+							<li><a href="http://www.macombdaily.com/news-video">Video</a></li>
+							<li><a href="http://www.macombdaily.com/news-blogs">Blogs</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.macombdaily.com/sports" class="dropdown-toggle">Sports<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.macombdaily.com/mi-prep-zone">MIPrepZone</a></li>
+							<li><a href="http://www.macombdaily.com/oakland-university">Oakland University</a></li>
+							<li><a href="http://www.macombdaily.com/michigan-state">Michigan State</a></li>
+							<li><a href="http://www.macombdaily.com/university-of-michigan">University of Michigan</a></li>
+							<li><a href="http://www.macombdaily.com/lions">Detroit Lions</a></li>
+							<li><a href="http://www.macombdaily.com/pistons">Detroit Pistons</a></li>
+							<li><a href="http://www.macombdaily.com/red-wings">Detroit Red Wings</a></li>
+							<li><a href="http://www.macombdaily.com/tigers">Detroit Tigers</a></li>
+							<li><a href="http://www.macombdaily.com/fitness-outdoors">Fitness/Outdoors</a></li>
+							<li><a href="http://www.macombdaily.com/pro-sports">Pros</a></li>
+							<li><a href="http://www.macombdaily.com/college-sports">College</a></li>
+							<li><a href="http://www.macombdaily.com/national-sports-video">National Sports Video</a></li>
+							<li><a href="http://www.macombdaily.com/sports-video">Video</a></li>
+							<li><a href="http://www.macombdaily.com/sports-blogs">Blogs</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.macombdaily.com/business" class="dropdown-toggle">Business</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.macombdaily.com/entertainment" class="dropdown-toggle">Entertainment<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.macombdaily.com/entertainment-blogs">Blogs</a></li>
+							<li><a href="http://www.macombdaily.com/entertainment-video">Video</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.macombdaily.com/lifestyle" class="dropdown-toggle">Lifestyle<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.macombdaily.com/features-people">Features / People</a></li>
+							<li><a href="http://www.macombdaily.com/health">Health</a></li>
+							<li><a href="http://www.macombdaily.com/food">Food &amp; Dining</a></li>
+							<li><a href="http://www.macombdaily.com/lifestyle-video">Video</a></li>
+							<li><a href="http://www.macombdaily.com/lifestyle-blogs">Blogs</a></li>
+							<li><a href="http://www.macombdaily.com/vitality">Vitality Senior Living</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.macombdaily.com/obituaries" class="dropdown-toggle">Obituaries</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.macombdaily.com/opinion" class="dropdown-toggle">Opinion<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.macombdaily.com/sound-off">Sound off</a></li>
+							<li><a href="http://www.macombdaily.com/letters-to-the-editor">Letters to the Editor</a></li>
+							<li><a href="http://www.macombdaily.com/columnists">Columnists</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://macombdaily.mi.newsmemory.com/" class="dropdown-toggle">E-Paper</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.macombdaily.com/marketplace" class="dropdown-toggle">Marketplace<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.macombdaily.com/jobs">Jobs</a></li>
+							<li><a href="http://www.macombdaily.com/weekly-ads">Weekly Ads</a></li>
+							<li><a href="http://www.macombdaily.com/local-guide">Local Guide</a></li>
+							<li><a href="http://www.macombdaily.com/todays-ads">Today's Ads</a></li>
+							<li><a href="http://www.macombdaily.com/classifieds">Classifieds</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+                    <li class="dropdown">
+                        <a href="http://www.macombdaily.com/apps/pbcs.dll/section?profile=4001964" class="dropdown-toggle">Tools<b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://www.macombdaily.com/email_signup">Email Newsletter Sign up</a></li>
+							<li><a href="http://www.macombdaily.com/advertise">Advertise with Us</a></li>
+							<li><a href="http://www.macombdaily.com/contact">Contact Us</a></li>
+							<li><a href="http://www.macombdaily.com/careers">Work for Us</a></li>
+							<li><a href="http://www.macombdaily.com/photo-reprints">Order Photo Reprints</a></li>
+							<li><a href="http://www.macombdaily.com/contest">Contests</a></li>
+							<li><a href="http://www.macombdaily.com/subscribe">Subscribe</a></li>
+							<li><a href="http://www.macombdaily.com/manage-subscription">Manage Your Subscription</a></li>
+							<li><a href="http://www.macombdaily.com/newsstands">Newsstand Locations</a></li>
+							<li><a href="http://www.macombdaily.com/mi-epaper">E-Paper</a></li>
+							<li><a href="http://www.macombdaily.com/sms">Text Alerts</a></li>
+							<li><a href="http://www.macombdaily.com/rss">RSS</a></li>
+							<li><a href="http://www.macombdaily.com/nie">Newspapers in Education</a></li>
+							<li><a href="http://www.macombdaily.com/gasbuddy">GasBuddy</a></li>
+                        </ul> <!-- .dropdown-menu -->
+                    </li>
+				</ul> <!-- .nav -->
+			</div> <!-- .nav-collapse -->
+		</div> <!-- .container-fluid -->
+	</div> <!-- .navbar-inner -->
+</nav> <!-- #site-navigation -->
+
+
+<!-- Begin ShareBar.pbo-->
+<script type="text/javascript">
+	var smrtPhone   = false;
+	var domainUrl   = dfm.api("data","siteDomain");
+	var thisTitle   = dfm.api("data","pageTitle");
+	var thisURL     = dfm.api("data","pageUrl");
+	var thisTumb    = thisURL.replace(/.*?:\/\//g, "");
+	var aArticleid  = dfm.api("data","contentId");
+	var twitterAdd  = "https://twitter.com/macombdaily";
+	var splittWIT   = twitterAdd.split("/");	
+	var twitterHand = splittWIT[3];	
+	var splitUrl    = domainUrl.split(".");
+	var splitDom    = splitUrl[0];
+</script>
+<div id="shareBarWrapper" class="shareBarHide">
+	<div class="share-barADD">
+		<ul>
+			<li class="facebook">
+				<a>#</a>
+				<ul class="share-options">
+					<li class="shareBarFacebook">
+						<div class="fb-like" data-href="http://www.macombdaily.com/article/MD/20120304/NEWS/303049983" data-layout="box_count" data-action="like" data-show-faces="true" data-share="true"></div>
+					</li>
+				</ul>
+        </li>
+        <li class="twitter">
+        <a>Twitter</a>
+            <ul class="share-options"></ul>
+ 			</li>
+			<li class="google">
+				<a onclick="javascript:window.open('http://plus.google.com/share?url=http://www.macombdaily.com/article/MD/20120304/NEWS/303049983', 'gpluswin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=1');"></a>
+			</li>
+			<li class="reddit">
+				<a href="javascript:void(open('http://reddit.com/submit?url=http://www.macombdaily.com/article/MD/20120304/NEWS/303049983&amp;title='+thisTitle+''));" title="Share on Reddit">
+					<i class="reddit"></i>
+					Reddit
+				</a>
+			</li>
+			<li class="pinterest">
+				<a href="javascript:javascript:void((function(){var e=document.createElement('script');e.setAttribute('type','text/javascript');e.setAttribute('charset','UTF-8');e.setAttribute('src','http://assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);document.body.appendChild(e)})());" title="Pin It!" title="Share on Pinterest">
+					<i class="pinterest"></i>
+					Pinterest
+				</a>
+			</li>
+			<li class="comments-share">
+				<div id="shareDisqus">
+					<a class="timestamp shareBarCommentCount" href="#disqus_thread" data-disqus-identifier="macombdaily-303049983"></a>
+				</div>
+			</li>
+			<li class="more">
+				<a>...</a>
+				<script type="text/javascript">
+					var addthis_options = 'facebook, myspace, google, delicious, digg, favorites, live, buzz, twitter, fark, friendfeed';
+					addthis_pub = 'ra-4f66dc816a9c96c2';
+					var addthis_config = {"data_track_clickback": true};
+				</script>
+				<ul class="more-share-options">
+					<li>
+						<a href="http://www.addthis.com/bookmark.php" class="addthis_button_email">
+							<i class="icon-inbox"></i>
+							Email
+						</a>
+					</li>
+					<li>					
+						<a href="http://www.macombdaily.com/article/MD/20120304/NEWS/303049983&amp;template=printart" class="articleOptions">
+							<i class="icon-print"></i>
+							Print
+						</a>					
+					</li>
+					<li>
+						<a href="javascript:void(open('https://www.tumblr.com/share?s=&amp;v=3&amp;t='+thisTitle+'&amp;u='+thisTumb+''));" title="Share on Tumblr">
+							<i class="tumblr"></i>
+							Tumblr
+						</a>
+					</li>
+					<li>
+						<a href="javascript:void(open('http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.macombdaily.com/article/MD/20120304/NEWS/303049983&amp;title='+thisTitle+'&amp;source=http://www.macombdaily.com/article/MD/20120304/NEWS/303049983'));" title="Share on LinkedIn">
+							<i class="linkedin"></i>
+							LinkedIn
+						</a>
+					</li>
+					<li>
+						<a href="javascript:void(open('https://www.stumbleupon.com/submit?url=http://www.macombdaily.com/article/MD/20120304/NEWS/303049983&amp;title='+thisTitle+''));" title="Share on StumbleUpon">
+							<i class="stumbleupon"></i>
+							StumbleUpon
+						</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+<div id="fb-root"></div>
+<script type="text/javascript">
+	(function(d, s, id) {
+		var js, fjs=d.getElementsByTagName(s)[0];
+		if (d.getElementById(id)) return;
+		js = d.createElement(s);
+		js.id = id; js.src = "http://connect.facebook.net/en_US/all.js#xfbml=1";
+		fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+</script>
+<div id="tempTwitterDiv" style="height:0px; overflow:hidden; width: 50px">
+	<!-- FireFox does not like iframes being created or moved into currently hidden elements so we have to create it here and move it into place on hover -->
+	<li><a href="https://twitter.com/share" class="twitter-share-button" data-via="macombdaily" data-count="vertical" data-url="http://www.macombdaily.com/article/MD/20120304/NEWS/303049983">Tweet</a>                
+	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="http://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
+</div>
+<script>
+	placeSbarTop = function(){
+		var t=$(window).scrollTop()+($('#topbar').height()-60);
+		var articleOffset=$("#main-story").offset().top - t;
+		var articleEnd=$("#main-story").height()-400;
+		var newArticleEnd=articleEnd+$("#main-story").offset().top;
+		var t=$(window).scrollTop()+($('#topbar').height()+90);
+		if (articleOffset>100)    { $('#shareBarWrapper').css({'top':articleOffset,'position':'fixed','margin-top':0}); }
+		else if (t>newArticleEnd) { $('#shareBarWrapper').css({'position':'absolute','margin-top':newArticleEnd}); }
+		else                      { $('#shareBarWrapper').css({'top':100,'position':'fixed','margin-top':0}); }
+	}
+	placeSbar = function(){
+		var divPos     = $("#main-story").offset();
+		var sBarWidth  = $('#shareBarWrapper').outerWidth();
+		var newLeftPos = divPos.left - sBarWidth -70;
+		$('#shareBarWrapper').css('left', newLeftPos);
+		$('#shareBarWrapper').css('display','block');
+		$('#shareBarWrapper').removeClass('shareBarHide');
+	}
+	//placeSbarTop must run before placeSbar
+	$(document).ready(placeSbarTop);
+	$(document).ready(placeSbar);
+	$(document).ready(function(){
+		/* FireFox does not like iframes being created or moved into currently hidden elements so we had to create the twitter buttons on the page and move them into place on hover */
+		$(".share-barADD .twitter").hover(
+			function(){
+				if($('#tempTwitterDiv').width()>0) {
+					$('#tempTwitterDiv li').appendTo($('.share-barADD .twitter .share-options'));
+					$('#tempTwitterDiv').remove();
+				}
+			},
+			function(){}
+		);
+   });
+	$(window).bind('resize', placeSbar);
+	$(window).scroll('resize', placeSbarTop);
+</script>
+<script>
+	$shareBarRegions = $(".share-barADD ul li");
+	$shareBarRegions.hover(
+		function(){ $(this).addClass("shareBarHover"); },
+		function(){ if(!$(this).hasClass("shareBarInternalHover")){ $(this).removeClass("shareBarHover"); } }
+	);
+	$(".share-barADD ul li ul.share-options li").hover(
+		function(){ $shareBarRegions.addClass("shareBarInternalHover"); },
+		function(){ $shareBarRegions.removeClass("shareBarInternalHover"); }
+	);
+</script>
+<!-- End ShareBar.pbo-->
+
+<div id="DFM-adPos-pencil"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-pencil');});</script></div>
+</header> <!-- #site-header -->
+
+<section id="content" class="container-fluid">
+    <div class="row-fluid">
+        <!-- This article call will be used for all standard data -->
+                <div class="span4">
+            <article id="main-story" class="full-story">
+                <div class="body">
+                        <div class="article">  
+                            <div class="hnews hentry item">
+                                <header id="article-top">
+                                    <!-- built by /article/MD/20120304/NEWS/303049983 on 20170119013744 -->
+<ul class="breadcrumb block small hide-for-phone">
+    <li><a href="http://www.macombdaily.com/">Home</a><span class="divider"> →</span></li>
+    <li class="active">News</li>
+</ul>
+                                    <h1 class="title entry-title cleanprint-title">Shooting outside Arizona club leaves 14 wounded</h1>
+                                      <div class="ndn_embed" id="ndn-video-player-1" data-config-distributor-id="91718" data-config-width="100%" data-config-aspect-ratio="16:9"></div>
+                                        <!-- The Design Class is -->
+                                            <!-- start shared ArticlePicture1.pbo -->
+<div id="main-media" class="single-image">
+	<figure>
+    <img src="http://image.macombdaily.com/storyimage/MD/20120304/NEWS/303049983/AR/0/AR-303049983.jpg&amp;maxh=400&amp;maxw=667" alt="Tempe police officer T. Williams secures  the scene at the Clubhouse Music Venue, Saturday, March 3, 2012 in Tempe, Ariz. Police in the Phoenix suburb of Tempe say they've made one arrest and are looking for two other suspects after a shooting outside a nightclub left more than a dozen people wounded. (AP Photo/The Arizona Republic, David Wallace)"/>
+    <figcaption>
+        Tempe police officer T. Williams secures  the scene at the Clubhouse Music Venue, Saturday, March 3, 2012 in Tempe, Ariz. Police in the Phoenix suburb of Tempe say they've made one arrest and are looking for two other suspects after a shooting outside a nightclub left more than a dozen people wounded. (AP Photo/The Arizona Republic, David Wallace)
+        <span class="photographer"></span>
+    </figcaption>
+	</figure>
+</div><!--/main-photo-->
+<!-- end ArticlePicture1.pbo -->
+                                </header>
+                            </div>
+                            <section id="body-text">
+                                <div class="byline-bar">
+                                    <div class="meta">
+                                        <p class="timestamp">
+                                            Posted: 
+                                        <time datetime="">03/04/12, 12:01 AM EST</time>
+                                            <span class="divider">|</span>
+                                                <time datetime="">Updated: on 03/04/2012</time>
+                                        </p>
+                                        <a class="timestamp bylineCommentCount" href="#disqus_thread" data-disqus-identifier="macombdaily-303049983"># Comments</a>
+                                    </div><!-- /meta -->
+                                </div><!-- /byline-bar -->
+                              <div class="ndn_embed" id="ndn-video-player-2" data-config-distributor-id="91718" data-config-width="100%" data-config-aspect-ratio="16:9"></div>
+                             <div id="body-copy">
+                                    <!--Begin Article7.pbo -->
+<!-- End Article7.pbo -->
+										<!-- start articleparagraph1.pbo -->
+<p>
+<strong>TEMPE, Ariz. (AP) -</strong> Hundreds of concert-goers waiting outside an Arizona nightclub for a hip-hop show fled in panic as shooting erupted involving three gunmen, leaving at least 14 people wounded. Police arrested one suspect and were hunting two others.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+"People were running in all different directions, and some people were trying to force their way into the bar to get away," police spokesman Lt. Mike Horn said. "It was incredibly chaotic, and understandably so. Again, we're just fortunate that no one was killed."
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Two of those wounded late Friday night in the Phoenix suburb of Tempe were in serious condition, while the 12 others had relatively minor injuries, authorities said.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Witness Paul Butler was among the crowd lined up to get into the club to hear Los Angeles rapper Nipsey Hussle perform. Butler told KTVK-TV that he heard a series of pops as the gunfire erupted.
+<style>
+#AD_text{
+	font-size: 11px;
+	color: #999999;
+}
+</style>
+<div id="div_Cube_Article"> 
+<script type="text/javascript">
+(function() {
+	var secondaryMedia =  $("#secondary-media").css('height');
+	var factbox =  $("#factbox").css('height');
+	var internalContent = parseInt(secondaryMedia + factbox);
+	if((internalContent<400) || (!internalContent)) {
+		console.log("Article within AD")	
+	   googletag.cmd.push(function() {
+	   googletag.display("div_Cube_Article");
+	   googletag.pubads().refresh();
+	   });
+	}else { 
+		console.log("No AD in article");
+		$("#div_Cube_Article").css('display', 'none');
+	}
+})(jQuery);
+</script>
+<script>
+$( document ).ready(function() {
+  var ADbox =  parseInt($("#div_Cube_Article").css('height'));
+		if((ADbox<200)){
+			$("#div_Cube_Article").css('display', 'none');
+		}
+})(jQuery);
+</script>
+<span id="AD_text">Advertisement</span>
+</div>
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+"And you see everybody running, couple more shots, everybody running," Butler said. "It was pure chaos."
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+The man in custody is one of three who opened fire at one another after they began arguing as a crowd of at least 250 people lined up at The Clubhouse Music Venue, Horn said. He was in a car that a patrol officer stopped just after the shooting.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Horn said all three men are believed to be affiliated with Phoenix-area gangs. He asked for the public's help in identifying the two still at large.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Police had only a vague description of suspects wearing dark clothing who ran away from the club on East Broadway Road, about 7 miles east of downtown Phoenix.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Hussle never took the stage for the midnight show but tweeted after the shooting: "Az ※. y'all gotta be cool man. This ※ ain't rite."
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+A phone call and email to his publicist weren't immediately returned.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Four hours after the shooting, the parking lot was virtually empty with only police activity apparent. All entrances to the lot were cordoned off with tape, and squad cars were posted around the area.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+The website for the business - located in a strip mall within two miles of Arizona State University's main campus in Tempe - says it's been in operation for six years hosting music shows nightly for all age groups.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Horn said the one suspect in custody was being held on 13 counts of aggravated assault and one count of assisting a criminal street gang.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+There have been problems at the club in the past, Horn said, including a 2007 fatal shooting that remains unsolved. Police worked with the club owner then after learning he was turning over his business to promoters for events, believing the owner was absolving himself of responsibility for anything that happened, Horn said. Police followed up with the owner about a year and a half ago, to make sure he was providing adequate security.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+That may not have been in place late Friday, Horn said. Some witnesses told police that some people in line refused to be searched for weapons.
+<p>
+<!-- end articleparagraph1.pbo --><!-- start articleparagraph1.pbo -->
+<p>
+Horn urged anyone who can help identify the two men being sought to call Tempe police or the local "silent witness" telephone line at 480-WITNESS.
+<p>
+<!-- end articleparagraph1.pbo -->
+                             </div><!--/body-copy-->
+                              <div class="ndn_embed" id="ndn-video-player-3" data-config-distributor-id="91718" data-config-width="100%" data-config-aspect-ratio="16:9"></div>
+                             	<a class="subscriber" id="subscriber-offer-button" href="https://ads.digitalfirstmedia.com/jrc/splashhtml/17732/MacombDailySubscription.html" target="_blank">Subscribe to Home Delvery for as low as $1.50 per week</a>
+                             </section><!-- /body-text -->
+                            <!--no left rail needed here and  needleftrail is 0-->
+                        </div>
+                    </div>
+                </article>
+                <script>
+                	 $("#body-copy a").each(function(){if($(this).attr("target")==undefined)$(this).attr("target","_blank")});
+                </script>
+                	<!-- Outbrain Begin -->   <script type="text/javascript">
+      var outbrainurl = window.location.protocol + "//" + window.location.host + "/" + window.location.pathname;
+      document.write('<div class="OUTBRAIN" data-src="' + outbrainurl + '" data-widget-id="AR_1" data-ob-template="Michigan"></div>');
+      document.write('<div class="OUTBRAIN" data-src="' + outbrainurl + '" data-widget-id="AR_2" data-ob-template="Michigan"></div>');
+   </script>
+   <script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>
+<!-- Outbrain End -->
+                <div id="most-popular-rotator">
+                    <script type="text/javascript" src="http://local.macombdaily.com/common/dfm/assets/js/jCarouselLite_1.0.1.min.js"></script>
+<h4><a id="popular-rotator-title">Top Stories</a></h4>
+<!-- Initialize the rotator -->
+<script type="text/javascript">
+$(document).ready(function() {
+    rotatorInt = setInterval(function(){
+        if ( 'jCarouselLite' in $("#popular-widget-large-carousel") && $('#popular-widget-items li').length > 1 ) {
+            $("#popular-widget-large-carousel").jCarouselLite({ vertical: false, btnNext: "#popular-widget-large-forward", btnPrev: "#popular-widget-large-backward", speed: 550, scroll:1, circular:true});
+            window.clearInterval(rotatorInt);
+        }
+    },500);
+});
+</script>
+<!-- Rotator container markup -->
+<div id="popular-widget-container-large">
+    <div class="carousel slide three-image">
+        <div id="popular-widget-large-carousel" class="carousel-inner">
+                <ul id="popular-widget-items"></ul>
+        </div>
+    </div>
+    <a id="popular-widget-large-backward" class="carousel-control left">&lsaquo;</a>
+    <a id="popular-widget-large-forward" class="carousel-control right">&rsaquo;</a>
+</div>
+<!-- script to generate data for the rotator -->
+<script>
+var siteDebug = "";
+var parentProfile = "1000010";
+DEFAULT_IMAGE = "http://local.macombdaily.com/common/dfm/assets/img/top-stories-rotator/default-saxo.jpg";
+$(function() {
+    var most_pop_list = 'Morning shots at Warren condo complex claim Oak Park woman~!~/general-news/20170113/morning-shots-at-warren-condo-complex-claim-oak-park-woman~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119801/AR/0/0/AR-170119801.jpg&exactW=150&exactH=108~#~Coyotes crash through window of Washington Township home ~!~/general-news/20170116/coyotes-crash-through-window-of-washington-township-home~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119673/AR/0/0/AR-170119673.jpg&exactW=150&exactH=108~#~Two people killed in three-car crash in Sterling Heights ~!~/general-news/20170116/two-people-killed-in-three-car-crash-in-sterling-heights~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119688/AR/0/0/AR-170119688.jpg&exactW=150&exactH=108~#~In wake of teen&#8217;s death, speed limits to drop near Dakota~!~/government-and-politics/20170113/in-wake-of-teens-death-speed-limits-to-drop-near-dakota~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119799/AR/0/0/AR-170119799.jpg&exactW=150&exactH=108~#~Former Macomb Twp. steakhouse torn down to make way for new sports bar ~!~/general-news/20170116/former-macomb-twp-steakhouse-torn-down-to-make-way-for-new-sports-bar~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119668/AR/0/0/AR-170119668.jpg&exactW=150&exactH=108~#~Macomb County has new facility to host life&#8217;s big events~!~/general-news/20170113/macomb-county-has-new-facility-to-host-lifes-big-events~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119780/AR/0/0/AR-170119780.jpg&exactW=150&exactH=108~#~Pit bull shot and killed after attacking family at Warren home~!~/general-news/20170113/pit-bull-shot-and-killed-after-attacking-family-at-warren-home~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119772/AR/0/0/AR-170119772.jpg&exactW=150&exactH=108~#~Implicated New Haven trustees supposedly wanted to branch out to medical marijuana~!~/general-news/20170113/implicated-new-haven-trustees-supposedly-wanted-to-branch-out-to-medical-marijuana~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119779/AR/0/0/AR-170119779.jpg&exactW=150&exactH=108~#~Macomb County Clerk Spranger cut off from government computer access~!~/government-and-politics/20170116/macomb-county-clerk-spranger-cut-off-from-government-computer-access~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119674/AR/0/0/AR-170119674.jpg&exactW=150&exactH=108~#~Man admits to threatening comment during cop funeral in St. Clair Shores~!~/general-news/20170113/man-admits-to-threatening-comment-during-cop-funeral-in-st-clair-shores~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119786/AR/0/0/AR-170119786.jpg&exactW=150&exactH=108~#~Big Brother takes aim at Sterling Heights, Eastpointe~!~/opinion/20170113/big-brother-takes-aim-at-sterling-heights-eastpointe~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119789/AR/0/0/AR-170119789.jpg&exactW=150&exactH=108~#~Warren Mayor Fouts defiant as more recordings surface: &#145;I will overcome this&#8217;~!~/government-and-politics/20170116/warren-mayor-fouts-defiant-as-more-recordings-surface-i-will-overcome-this~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119700/AR/0/0/AR-170119700.jpg&exactW=150&exactH=108~#~Fraser mayor calls on Trump to return to Macomb County for sinkhole emergency~!~/general-news/20170115/fraser-mayor-calls-on-trump-to-return-to-macomb-county-for-sinkhole-emergency~!~http://image.macombdaily.com/storyimage/MD/20170115/NEWS/170119729/AR/0/0/AR-170119729.jpg&exactW=150&exactH=108~#~Roseville police: Woman stabs man who won&#8217;t commit to relationship~!~/general-news/20170116/roseville-police-woman-stabs-man-who-wont-commit-to-relationship~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119708/AR/0/0/AR-170119708.jpg&exactW=150&exactH=108~#~Miller pegs sinkhole cost at $78 million, possibly more~!~/general-news/20170113/miller-pegs-sinkhole-cost-at-78-million-possibly-more~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119767/AR/0/0/AR-170119767.jpg&exactW=150&exactH=108~#~Michigan communities given &#145;open and obvious&#8217; defense in sidewalk slip-and-fall claims~!~/government-and-politics/20170113/michigan-communities-given-open-and-obvious-defense-in-sidewalk-slip-and-fall-claims~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119781/AR/0/0/AR-170119781.jpg&exactW=150&exactH=108~#~South Macomb Dems call on Warren Mayor Fouts to resign~!~/government-and-politics/20170117/south-macomb-dems-call-on-warren-mayor-fouts-to-resign~!~http://image.macombdaily.com/storyimage/MD/20170117/NEWS/170119646/AR/0/0/AR-170119646.jpg&exactW=150&exactH=108~#~Fisherman falls through ice near spillway in Harrison Township~!~/general-news/20170116/fisherman-falls-through-ice-near-spillway-in-harrison-township~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119694/AR/0/0/AR-170119694.jpg&exactW=150&exactH=108~#~St. Clair Shores votes against a Dollar General store ~!~/general-news/20170116/st-clair-shores-votes-against-a-dollar-general-store~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119663/AR/0/0/AR-170119663.jpg&exactW=150&exactH=108~#~Mother of accused Roseville stabber says daughter acted in self defense~!~/general-news/20170117/mother-of-accused-roseville-stabber-says-daughter-acted-in-self-defense~!~http://image.macombdaily.com/storyimage/MD/20170117/NEWS/170119598/AR/0/0/AR-170119598.jpg&exactW=150&exactH=108~#~';
+    most_pop_list = most_pop_list.split("~#~");
+    if(most_pop_list.length < 7) {
+        /* pull stories for parent profile */
+        var most_pop_list = '';
+        most_pop_list = most_pop_list.split("~#~");
+    }
+    if(most_pop_list.length < 7) {
+        /* pull stories for profile 1030040 */
+        var most_pop_list = 'Coyotes crash through window of Washington Township home ~!~/general-news/20170116/coyotes-crash-through-window-of-washington-township-home~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119673/AR/0/0/AR-170119673.jpg&exactW=150&exactH=108~#~Two people killed in three-car crash in Sterling Heights ~!~/general-news/20170116/two-people-killed-in-three-car-crash-in-sterling-heights~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119688/AR/0/0/AR-170119688.jpg&exactW=150&exactH=108~#~Former Macomb Twp. steakhouse torn down to make way for new sports bar ~!~/general-news/20170116/former-macomb-twp-steakhouse-torn-down-to-make-way-for-new-sports-bar~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119668/AR/0/0/AR-170119668.jpg&exactW=150&exactH=108~#~Macomb County Clerk Spranger cut off from government computer access~!~/government-and-politics/20170116/macomb-county-clerk-spranger-cut-off-from-government-computer-access~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119674/AR/0/0/AR-170119674.jpg&exactW=150&exactH=108~#~Warren Mayor Fouts defiant as more recordings surface: &#145;I will overcome this&#8217;~!~/government-and-politics/20170116/warren-mayor-fouts-defiant-as-more-recordings-surface-i-will-overcome-this~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119700/AR/0/0/AR-170119700.jpg&exactW=150&exactH=108~#~Morning shots at Warren condo complex claim Oak Park woman~!~/general-news/20170113/morning-shots-at-warren-condo-complex-claim-oak-park-woman~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119801/AR/0/0/AR-170119801.jpg&exactW=150&exactH=108~#~Roseville police: Woman stabs man who won&#8217;t commit to relationship~!~/general-news/20170116/roseville-police-woman-stabs-man-who-wont-commit-to-relationship~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119708/AR/0/0/AR-170119708.jpg&exactW=150&exactH=108~#~Fraser mayor calls on Trump to return to Macomb County for sinkhole emergency~!~/general-news/20170115/fraser-mayor-calls-on-trump-to-return-to-macomb-county-for-sinkhole-emergency~!~http://image.macombdaily.com/storyimage/MD/20170115/NEWS/170119729/AR/0/0/AR-170119729.jpg&exactW=150&exactH=108~#~South Macomb Dems call on Warren Mayor Fouts to resign~!~/government-and-politics/20170117/south-macomb-dems-call-on-warren-mayor-fouts-to-resign~!~http://image.macombdaily.com/storyimage/MD/20170117/NEWS/170119646/AR/0/0/AR-170119646.jpg&exactW=150&exactH=108~#~Fisherman falls through ice near spillway in Harrison Township~!~/general-news/20170116/fisherman-falls-through-ice-near-spillway-in-harrison-township~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119694/AR/0/0/AR-170119694.jpg&exactW=150&exactH=108~#~St. Clair Shores votes against a Dollar General store ~!~/general-news/20170116/st-clair-shores-votes-against-a-dollar-general-store~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119663/AR/0/0/AR-170119663.jpg&exactW=150&exactH=108~#~Mother of accused Roseville stabber says daughter acted in self defense~!~/general-news/20170117/mother-of-accused-roseville-stabber-says-daughter-acted-in-self-defense~!~http://image.macombdaily.com/storyimage/MD/20170117/NEWS/170119598/AR/0/0/AR-170119598.jpg&exactW=150&exactH=108~#~Macomb County has new facility to host life&#8217;s big events~!~/general-news/20170113/macomb-county-has-new-facility-to-host-lifes-big-events~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119780/AR/0/0/AR-170119780.jpg&exactW=150&exactH=108~#~Pit bull shot and killed after attacking family at Warren home~!~/general-news/20170113/pit-bull-shot-and-killed-after-attacking-family-at-warren-home~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119772/AR/0/0/AR-170119772.jpg&exactW=150&exactH=108~#~Macomb Community College girls&#8217; basketball captain accuses two Warren cops of brutality~!~/general-news/20170117/macomb-community-college-girls-basketball-captain-accuses-two-warren-cops-of-brutality~!~http://image.macombdaily.com/storyimage/MD/20170117/NEWS/170119585/AR/0/0/AR-170119585.jpg&exactW=150&exactH=108~#~Accused ex New Haven official hires prominent Detroit attorney~!~/government-and-politics/20170117/accused-ex-new-haven-official-hires-prominent-detroit-attorney~!~http://image.macombdaily.com/storyimage/MD/20170117/NEWS/170119628/AR/0/0/AR-170119628.jpg&exactW=150&exactH=108~#~In wake of teen&#8217;s death, speed limits to drop near Dakota~!~/government-and-politics/20170113/in-wake-of-teens-death-speed-limits-to-drop-near-dakota~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119799/AR/0/0/AR-170119799.jpg&exactW=150&exactH=108~#~Implicated New Haven trustees supposedly wanted to branch out to medical marijuana~!~/general-news/20170113/implicated-new-haven-trustees-supposedly-wanted-to-branch-out-to-medical-marijuana~!~http://image.macombdaily.com/storyimage/MD/20170113/NEWS/170119779/AR/0/0/AR-170119779.jpg&exactW=150&exactH=108~#~Route for Fraser sinkhole bypass system outlined~!~/general-news/20170117/route-for-fraser-sinkhole-bypass-system-outlined~!~http://image.macombdaily.com/storyimage/MD/20170117/NEWS/170119567/AR/0/0/AR-170119567.jpg&exactW=150&exactH=108~#~Shelby Township, Sterling Heights college students win diversity scholarship awards~!~/general-news/20170116/shelby-township-sterling-heights-college-students-win-diversity-scholarship-awards~!~http://image.macombdaily.com/storyimage/MD/20170116/NEWS/170119709/AR/0/0/AR-170119709.jpg&exactW=150&exactH=108~#~';
+        most_pop_list = most_pop_list.split("~#~");
+    }
+    if(most_pop_list.length < 7) {
+        $("#most-popular-rotator").hide();
+        console.log("Most Popular Rotator hidden because there are less than 7 articles");
+    }
+    /* fill widget data */
+    // data format => title~!~link~!~imagelink~#!title~!~link~!~imagelink
+    var widgetdata = [];
+    for (var i=0;i<most_pop_list.length;i++) {
+        /* return for empty itme */
+        if(most_pop_list[i].length < 1) continue;
+        widgetdata[i] = [];
+        var story_item = most_pop_list[i];
+        story_item = story_item.split("~!~");
+        if( story_item[0] != "" ) {
+			while( story_item[0].indexOf( '&#x201c;' ) > -1 ) {
+				story_item[0] = story_item[0].replace( '&#x201c;', '"' );
+			}
+			while( story_item[0].indexOf( '&#x201d;' ) > -1 ) {
+				story_item[0] = story_item[0].replace( '&#x201d;', '"' );
+			}
+			while( story_item[0].indexOf( '#x201c;' ) > -1 ) {
+				story_item[0] = story_item[0].replace( '#x201c;', '"' );
+			}
+			while( story_item[0].indexOf( '#x201d;' ) > -1 ) {
+				story_item[0] = story_item[0].replace( '#x201d;', '"' );
+			}
+			while( story_item[0].indexOf( '\\' ) > -1 ) {
+				story_item[0] = story_item[0].replace( '\\', '' );
+			}
+			while( story_item[0].indexOf( '`' ) > -1 ) {
+				story_item[0] = story_item[0].replace( '`', "'" );
+			}
+        }
+        /* 3rd item is an imagelink, if any */
+        if(typeof story_item[2] != 'undefined') {
+            widgetdata[i]['image'] = story_item[2];    
+        }
+        /* 2nd item is a story link */
+        if(typeof story_item[1] != 'undefined') {
+            widgetdata[i]['link'] = story_item[1];    
+        }
+        /* 1st item is a story title */
+        if(typeof story_item[0] != 'undefined') {
+            widgetdata[i]['title'] = story_item[0];
+        }
+    }
+    // site debug information
+    if(siteDebug) { console.log('widget data:');console.log(widgetdata);}
+    /* move stories with no image to last positions */
+    var copytable = $.extend({}, widgetdata);    
+    var datasize = widgetdata.length-1;
+    var nextinc = 1;
+    for(var i=0; i < datasize;i++) {
+        if(typeof widgetdata[i]['image'] == 'undefined') {
+            copytable[datasize+nextinc] = widgetdata[i];
+            copytable[i] = ""; nextinc++;
+        }
+    }
+    //renumbering array elements, if any
+    var i=0;
+    var widgetdata = new Array();
+    for(key in copytable) {    
+        if($.isEmptyObject(copytable[key])) { continue;} 
+        /* no image story gets default image */
+        if( $.isEmptyObject(copytable[key]['image']) ) {
+            copytable[key]['image'] = DEFAULT_IMAGE;
+        } else {
+            copytable[key]['image'] = copytable[key]['image'] + "&imageversion=Carousel";
+        } 
+            widgetdata[i] = new Array();
+            widgetdata[i]['image'] = copytable[key]['image'];
+            widgetdata[i]['link'] = copytable[key]['link'] + '?source=topstoriesrot';
+            widgetdata[i]['title'] = copytable[key]['title'];
+            i++;        
+    }    
+    /* start generating widget markup */
+    var output = '<li class="item"><div class="slide">';  
+    var size = widgetdata.length; var rem = size % 3; var setsize = size-rem; var i=0;
+    if(siteDebug) {
+        console.log('size: ');console.log(size); 
+        console.log(setsize);console.log(rem);
+        console.log('widget data  (after sort):');console.log(widgetdata);
+    }
+    for(key in widgetdata) {    
+        if( i >= setsize) break;
+        if ((key%3 === 0) && key != 0) { output += '</div></li><li class="item"><div class="slide">'; }
+        output += '<div class="was-figure">';
+        output += '	  <a href="' + widgetdata[key]['link'] + '" title="' + widgetdata[key]['title'] + '">';
+        output += '      <div style="width:151px; "></div>';
+        if(typeof widgetdata[key]['image'] != 'undefined') {
+            output += '      <img src="'+ widgetdata[key]['image'] + '" alt="' + widgetdata[key]['title'] + '" style="width:151px;" onError="this.onerror=null;this.src=\'http://local.macombdaily.com/assets/images/defaultBlog.png\';">';
+        }
+        output += '	  </a>';
+        output += '   <h3>';
+        output += '      <a href="' + widgetdata[key]['link'] + '" title="' + widgetdata[key]['title'] + '">' + widgetdata[key]['title'] + '</a>';
+        output += '   </h3>';
+        output += '</div>'; i++;
+    }
+    output += '</div></li>';
+    $('#popular-widget-items').html(output);
+    $('#most-popular-rotator').css('clear','both');
+});
+</script>
+                </div>
+                   <div id="circularhub_module_3482"></div>
+   <script src="http://api.circularhub.com/3482/8efe8889577fbfd0/circularhub_module.js"></script>
+                <div id="dfm_disqus_comments"></div>
+            </div>
+
+        	 <section id="right-rail" class="span2">
+		  <ul class="widgets">
+				<li class="ad">
+					<div id="DFM-adPos-cube1"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-cube1');});</script></div>
+				</li>
+			  	<li class="widget link-list">
+					<div id="rightrailwidget" style="width:300px;">
+						<script type="text/javascript">
+//note: "days" is for how old the content is.  For testing on dev sites, you may need to turn it off with -1.  But please remove or change it before deployment.  Note contentstats tag below as well may need to be changed.
+    var pop_list = {};
+    pop_list['day'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20170118/two-new-eateries-coming-to-hall-road-old-favorite-stays?source=most_viewed\">Two new eateries coming to Hall Road, old favorite stays</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170118/may-trial-set-for-former-warren-firefighter-charged-in-fatal-crash?source=most_viewed\">May trial set for former Warren firefighter charged in fatal crash</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170116/two-people-killed-in-three-car-crash-in-sterling-heights?source=most_viewed\">Two people killed in three-car crash in Sterling Heights </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170118/non-working-elevators-frustrate-users-of-old-macomb-county-building?source=most_viewed\">Non-working elevators frustrate users of Old Macomb County Building</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170116/former-macomb-twp-steakhouse-torn-down-to-make-way-for-new-sports-bar?source=most_viewed\">Former Macomb Twp. steakhouse torn down to make way for new sports bar </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170118/mount-clemens-man-arrested-14th-time-for-drunken-driving?source=most_viewed\">Mount Clemens man arrested 14th time for drunken driving</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/government-and-politics/20170118/warren-clerk-joins-councilman-city-treasurer-in-urging-mayor-fouts-to-resign?source=most_viewed\">Warren clerk joins councilman, city treasurer in urging Mayor Fouts to resign</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170116/coyotes-crash-through-window-of-washington-township-home?source=most_viewed\">Coyotes crash through window of Washington Township home </a></li></ul> ';
+    pop_list['week'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170113/morning-shots-at-warren-condo-complex-claim-oak-park-woman?source=most_viewed\">Morning shots at Warren condo complex claim Oak Park woman</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170116/two-people-killed-in-three-car-crash-in-sterling-heights?source=most_viewed\">Two people killed in three-car crash in Sterling Heights </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170116/coyotes-crash-through-window-of-washington-township-home?source=most_viewed\">Coyotes crash through window of Washington Township home </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170116/former-macomb-twp-steakhouse-torn-down-to-make-way-for-new-sports-bar?source=most_viewed\">Former Macomb Twp. steakhouse torn down to make way for new sports bar </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/government-and-politics/20170113/in-wake-of-teens-death-speed-limits-to-drop-near-dakota?source=most_viewed\">In wake of teen&#8217;s death, speed limits to drop near Dakota</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170113/pit-bull-shot-and-killed-after-attacking-family-at-warren-home?source=most_viewed\">Pit bull shot and killed after attacking family at Warren home</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/government-and-politics/20170116/macomb-county-clerk-spranger-cut-off-from-government-computer-access?source=most_viewed\">Macomb County Clerk Spranger cut off from government computer access</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170113/macomb-county-has-new-facility-to-host-lifes-big-events?source=most_viewed\">Macomb County has new facility to host life&#8217;s big events</a></li></ul> ';
+    pop_list['news'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170116/two-people-killed-in-three-car-crash-in-sterling-heights?source=most_viewed\">Two people killed in three-car crash in Sterling Heights </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170116/coyotes-crash-through-window-of-washington-township-home?source=most_viewed\">Coyotes crash through window of Washington Township home </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170116/former-macomb-twp-steakhouse-torn-down-to-make-way-for-new-sports-bar?source=most_viewed\">Former Macomb Twp. steakhouse torn down to make way for new sports bar </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/government-and-politics/20170116/macomb-county-clerk-spranger-cut-off-from-government-computer-access?source=most_viewed\">Macomb County Clerk Spranger cut off from government computer access</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/government-and-politics/20170116/warren-mayor-fouts-defiant-as-more-recordings-surface-i-will-overcome-this?source=most_viewed\">Warren Mayor Fouts defiant as more recordings surface: &#145;I will overcome this&#8217;</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170113/morning-shots-at-warren-condo-complex-claim-oak-park-woman?source=most_viewed\">Morning shots at Warren condo complex claim Oak Park woman</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170116/roseville-police-woman-stabs-man-who-wont-commit-to-relationship?source=most_viewed\">Roseville police: Woman stabs man who won&#8217;t commit to relationship</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170115/fraser-mayor-calls-on-trump-to-return-to-macomb-county-for-sinkhole-emergency?source=most_viewed\">Fraser mayor calls on Trump to return to Macomb County for sinkhole emergency</a></li></ul> ';
+    pop_list['sports'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20170114/roseville-drive-one-program-gets-racing-assist-from-nascar-manufacturers?source=most_viewed\">Roseville DRIVE ONE program gets racing assist from NASCAR manufacturers</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20170113/pat-caputo-why-there-is-genuine-hope-for-the-2017-detroit-tigers?source=most_viewed\">Pat Caputo - Why there is genuine hope for the 2017 Detroit Tigers</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20170118/tigers-shuffle-cf-options-trading-for-mahtook-dfaing-gose?source=most_viewed\">Tigers shuffle CF options, trading for Mahtook, DFA&#8217;ing Gose</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20170115/pat-caputo-detroit-red-wings-nhl-trade-deadline-and-the-new-reality?source=most_viewed\">Pat Caputo - Detroit Red Wings, NHL trade deadline and the new reality</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20170116/falcons-matt-ryan-is-keeping-some-special-company-these-days?source=most_viewed\">Falcons&#8217; Matt Ryan is keeping some special company these days</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20170116/golden-grizzlies-lose-2nd-straight-at-home-to-a-last-place-team?source=most_viewed\">Golden Grizzlies lose 2nd straight at home to a last-place team</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20170117/cowboys-delay-talk-of-romos-future-likely-knowing-answer?source=most_viewed\">Cowboys delay talk of Romo&#8217;s future, likely knowing answer</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/sports/20170116/ap-analysis-a-rods-biggest-call-in-weekend-full-of-them?source=most_viewed\">AP Analysis: A-Rod&#8217;s biggest call in weekend full of them</a></li></ul> ';
+    pop_list['biz'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170113/macomb-county-has-new-facility-to-host-lifes-big-events?source=most_viewed\">Macomb County has new facility to host life&#8217;s big events</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20170117/nintendo-switch-launches-march-3-for-29999-5-games-to-keep-an-eye-on?source=most_viewed\">Nintendo Switch launches March 3 for $299.99; 5 games to keep an eye on</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/business/20170117/michigan-milk-drinkers-could-be-in-for-a-refund?source=most_viewed\">Michigan milk drinkers could be in for a refund</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/business/20170117/6-social-security-secrets?source=most_viewed\">6 Social Security secrets</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/business/20170117/mortgage-rates-remain-at-their-highest-since-2014?source=most_viewed\">Mortgage rates remain at their highest since 2014</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/business/20170117/how-and-why-to-stop-wasting-your-time-banking-offline?source=most_viewed\">How and why to stop wasting your time banking offline</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/business/20170117/gm-to-invest-1b-add-or-keep-7000-jobs?source=most_viewed\">GM to invest $1B, add or keep 7,000 jobs</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/business/20170117/hidden-factors-that-determine-your-life-insurance-rate?source=most_viewed\">Hidden factors that determine your life insurance rate</a></li></ul> ';
+    pop_list['a&e'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20170118/detroit-monster-jam-at-ford-field-ten-things-to-appreciate-about-monster-jam?source=most_viewed\">Detroit Monster Jam at Ford Field: Ten things to appreciate about Monster Jam</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20170118/bob-seger-releases-glenn-frey-tribute-song?source=most_viewed\">Bob Seger releases Glenn Frey tribute song</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20170116/dso-digs-into-mozart-for-three-week-festival?source=most_viewed\">DSO digs into Mozart for three-week festival</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20170117/idina-menzel-dave-matthews-announce-summer-shows?source=most_viewed\">Idina Menzel, Dave Matthews announce summer shows</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20170115/motown-veteran-pours-some-hot-coffey-on-new-release?source=most_viewed\">Motown veteran pours some &#147;Hot Coffey&#148; on new release</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20170113/listening-room-the-xx-flaming-lips-band-of-heathens-dennis-coffey-more-releases?source=most_viewed\">Listening Room: The xx, Flaming Lips, Band of Heathens, Dennis Coffey, more releases</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20170113/review-new-phantom-is-fresh-but-still-fabulous-at-the-detroit-opera-house?source=most_viewed\">Review: New &#147;Phantom&#148; is fresh but still fabulous at the Detroit Opera House</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/arts-and-entertainment/20170115/rebirth-brass-band-at-otus-supply-3-things-to-know?source=most_viewed\">Rebirth Brass Band at Otus Supply, 3 Things To Know</a></li></ul> ';
+    if ( typeof(pop_list) === 'undefined' ) var pop_list = {};
+pop_list['emailed'] = '<ul class=\"pop\">';
+temp_item_check = '<li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.macombdaily.com/article/MD/20170116/NEWS/170119673#at_pco=cfd-1.0\">Coyotes crash through window of Washington Township home</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.macombdaily.com/article/MD/20170112/NEWS/170119844#at_pco=cfd-1.0\">New Haven official, ex official charged in federal corruption probe</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.macombdaily.com/article/MD/20170116/NEWS/170119668#at_pco=cfd-1.0\">Former Macomb Twp. steakhouse torn down to make way for new sports bar</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.macombdaily.com/article/MD/20170116/NEWS/170119674#at_pco=cfd-1.0\">Macomb County Clerk Spranger cut off from government computer access</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.macombdaily.com/article/MD/20170117/NEWS/170119585#at_pco=cfd-1.0\">Macomb Community College girls� basketball captain accuses two Warren cops of brutality</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.macombdaily.com/article/MD/20170113/NEWS/170119779#at_pco=cfd-1.0\">Implicated New Haven trustees supposedly wanted to branch out to medical marijuana</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.macombdaily.com/article/MD/20170118/NEWS/170119538#at_pco=cfd-1.0\">Fouts appointee fined; state seeks answers about public resources in political fundraiser</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"http://www.macombdaily.com/article/MD/20170116/NEWS/170119708#at_pco=cfd-1.0\">Roseville police: Woman stabs man who won�t commit to relationship</a></li>';
+pop_list['emailed'] += (temp_item_check !== "") ? temp_item_check + '</ul>' : '<li>No items to display</li></ul>' ;
+     pop_list['life'] = '<ul class=\"pop\"><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20170118/two-new-eateries-coming-to-hall-road-old-favorite-stays?source=most_viewed\">Two new eateries coming to Hall Road, old favorite stays</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170116/turning-point-fundraiser-in-time-for-national-stalking-awareness-month?source=most_viewed\">Turning Point fundraiser in time for National Stalking Awareness Month</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20170115/cure-the-winter-blues-with-a-class-at-the-library?source=most_viewed\">Cure the winter blues with a class at the library </a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20170117/easy-ways-to-make-your-bathroom-safer?source=most_viewed\">Easy ways to make your bathroom safer</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20170117/faith-in-culture-rogue-one-could-use-some-moral-clarity?source=most_viewed\">Faith in Culture: &#145;Rogue One&#8217; could use some moral clarity</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20170116/students-prove-theyre-never-too-old-to-master-another-language?source=most_viewed\">Students prove they&#8217;re never too old to master another language</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/lifestyle/20170117/sitting-on-old-electronics-its-time-to-cut-the-cord?source=most_viewed\">Sitting on old electronics? It&#8217;s time to cut the cord</a></li><li class=\"listNoImage\"><a class=\"complexListingLink\" href=\"/general-news/20170113/pickleball-kalosomatics-yoga-oh-boy?source=most_viewed\">Pickleball, kalosomatics, yoga, oh boy!   </a></li></ul> ';
+</script>
+<script type="text/javascript">
+	function pop_load_tab(id, content) {
+		if ( typeof id == 'undefined' || id == null && !'id' in id ) return false;
+		$('#pop-feed').html(content);
+		$('.activetab').addClass('righttab').removeClass('activetab');
+		$('#' + id.id).addClass('activetab').removeClass('righttab');
+	}
+        setTimeout(function(){$("#pop_news").trigger('mouseover');}, 500);
+</script>
+<ul id="mostPopWidget">
+	<li>
+		<a href="http://www.macombdaily.com/popular"><h4>MOST POPULAR</h4></a>
+		<div class="tabbedbox complexListingBox">
+			<div onmouseover="pop_load_tab(this, pop_list['day']);" id="pop_day" class="righttab">
+				<a title="Most-popular posts in the last day" href="javascript:return:false">Day</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['week']);" id="pop_week" class="righttab">
+				<a title="Most-popular posts in the last week" href="javascript:return:false">Week</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['news']);" id="pop_news" class="activetab">
+				<a title="Most-popular News posts" href="javascript:return:false">News</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['sports']);" id="pop_sports" class="righttab">
+				<a title="Most-popular Sports posts" href="javascript:return:false">Sports</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['biz']);" id="pop_business" class="righttab">
+				<a title="Most-popular Biz posts" href="javascript:return:false">Biz</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['a&amp;e']);" id="pop_entertainment" class="righttab">
+				<a title="Most-popular A&amp;E posts" href="javascript:return:false">A&amp;E</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['emailed']);" id="pop_emailed" class="righttab">
+				<a title="Most-popular Email posts" href="javascript:return:false">Email</a>
+			</div>
+			<div onmouseover="pop_load_tab(this, pop_list['life']);" id="pop_style" class="righttab">
+				<a title="Most-popular Life posts" href="javascript:return:false">Life</a>
+			</div>
+			<br clear="all">
+			<div id="pop-feed" class="tabboxoutline">
+				<ul class="pop"><li class="</ul"> 
+			</div>
+		</div>
+	</li>
+</ul>
+					</div>
+					<div class="clear"></div>
+				</li>
+ 				<li class="widget">
+ 				</li>
+				<li class="widget">
+					<div id="tout-right-rail"></div>
+				</li>
+				<li class="ad">
+					<div id="DFM-adPos-cube3"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-cube3');});</script></div>
+				</li>
+            <li class="ad">
+               <div id="DFM-adPos-cube3b_Flex"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-cube3b_Flex');});</script></div>
+            </li>
+				<li class="widget" style="width: 100%;">
+						<var id="ownlocal"><script async id="ownlocal-script" src="http://mylocal.macombdaily.com/embed.js?h=600"></script></var>
+				</li>
+				<li class="ad">
+					 <div class="ad ad-bottomline" id="DFM-adPos-bottomline"><script type="text/javascript">googletag.cmd.push(function(){googletag.display('DFM-adPos-bottomline');});</script></div>
+				</li>
+		  </ul>
+	 </section> <!-- #right-rail -->
+
+    </div> <!-- .row-fluid -->
+</section>
+ 
+<script type="text/javascript" src="http://local.macombdaily.com/common/dfm/assets/js/dfm-core-level2.min.js"></script>
+<script type="text/javascript" src="http://local.macombdaily.com/common/dfm/assets/js/bootstrap-carousel.js"></script> 
+<script type="text/javascript" src="http://local.macombdaily.com/common/dfm/assets/js/bootstrap-transition.js"></script>
+<script type="text/javascript" src="http://local.macombdaily.com/common/dfm/assets/js/handlebars-1.0.0-rc.4.min.js"></script>
+<script type="text/javascript">
+    function removeHrefsFromNav(){
+        $('.dropdown').each(function(){
+        switch($(this).children('a').text()){
+          case 'Tools':
+          case 'Services':
+          case 'Marketplace':
+          case 'Special Reports':
+            $(this).children('a').attr({href:'',onclick:'return false'})
+            break;
+        }
+        })
+    }
+</script>
+<script type="text/javascript">
+  $.getScript("http://local.macombdaily.com/common/dfm/assets/js/disqus/dfm_disqus_drawer_saxo.js",function(){
+    loadDfmDisqusDrawer("#dfm_disqus_comments",'mimacombdaily','macombdaily-303049983', window.location.href);
+  });
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+<script>
+    $(document).ready(function(){
+        removeHrefsFromNav();
+        setTimeout("$('#topbar, .weather-bar, .traffic-bar').removeClass('zero-height').hide()", 750);
+    });
+    function create_DFM_ad(d){
+        if($('#'+d).html()==''){
+            var tagOrd=Math.random()*10000000000000000;
+            switch(d){                
+                case 'DFM-adPos-weather':     DFM_temp_Ad_string="<iframe width='120px' height='60px'  frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=pos%3Dweather_report&sz=120x60&c="+tagOrd+"'></iframe>"; break;
+                case 'DFM-adPos-traffic':     DFM_temp_Ad_string="<iframe width='120px' height='60px'  frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=pos%3Dtraffic_report&sz=120x60&c="+tagOrd+"'></iframe>"; break;
+                //case 'DFM-adPos-jBar-teaser': DFM_temp_Ad_string="<iframe width='300px' height='30px'  frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=kv%3Dtoolbar&sz=300x30&c="+tagOrd+"'></iframe>"; break;
+                //case 'DFM-adPos-jBar-popup':  DFM_temp_Ad_string="<iframe width='300px' height='250px' frameborder=0 scrolling=no seamless src='http://pubads.g.doubleclick.net/gampad/adx?iu="+DFM_ad_loc+"&t=kv%3Dtoolbar&sz=300x250&c="+tagOrd+"'></iframe>"; break;
+            }
+        DFM_temp_Ad_location=d;
+        setTimeout('finish_DFM_ad()',50);
+        }
+    setTimeout('finish_DFM_chk_el()',500);
+    }
+    function finish_DFM_ad(){
+        $('#'+DFM_temp_Ad_location).html(DFM_temp_Ad_string);
+        $("#"+DFM_temp_Ad_location+" iFrame").on("mouseover", function(){ 
+            $(this).parents(".dropdown-menu").css('display', 'block');
+        });
+        $("#"+DFM_temp_Ad_location+" iFrame").on("mouseout", function(){ 
+            $(this).parents(".dropdown-menu").css('display', '');
+        });
+    }
+    function finish_DFM_chk_el(){ if($('#topbar').height()<100) { $('#shareBarWrapper').css('display','block') } }
+    var DFM_temp_Ad_location=DFM_temp_Ad_string='';
+//***** AccuWeather *****//
+var siteDebug = "";
+        $(function () {
+            var isMetric = false;            
+            var language = "en";            
+            var apiUrl = "http://api.accuweather.com/";
+            var apiKey = "230548dfe5d54776aaaf5a1f2a19b3f5";
+            var current = new Array();
+            var forecasts = new Array();
+            //weatherUrl = "";
+            var isDayTime = false;            
+            var getWeather = function (zipcode) {                
+                var locationUrl = apiUrl + "/locations/v1/US/search?q=" + zipcode + "&apikey=" + apiKey;
+                //var locationKey = "";
+                $.ajax({
+                    type: "GET",
+                    url: locationUrl,
+                    dataType: "jsonp",
+                    cache: true,
+                    jsonpCallback: "awxCallback",
+                    success: function (data) {                        
+                        if(data && data.length > 0) {
+                            locationKey = data[0].Key;
+                            //city = data[0].LocalizedName+","+data[0].AdministrativeArea.ID;                            
+                            getCurrentConditions(locationKey);
+                            getForecasts(locationKey);
+                        } else {
+                            msg = "No locations found."
+                            console.log(msg);                            
+                        }                                                   
+                    }
+                });
+            };
+            // Gets current conditions for the location.            
+             var getCurrentConditions = function (locationKey) {
+                var currentConditionsUrl = apiUrl + "/currentconditions/v1/" + locationKey + ".json?language=" + language + "&apikey=" + apiKey;
+                $.ajax({
+                    type: "GET",
+                    url: currentConditionsUrl,
+                    dataType: "jsonp",
+                    cache: true,
+                    jsonpCallback: "awxCallback",
+                    success: function (data) {                            
+                            if(data && data.length > 0) {
+                                var conditions = data[0];                                   
+                                var temp = isMetric ? conditions.Temperature.Metric.Value : conditions.Temperature.Imperial.Value;                                
+                                current['icon'] = (conditions.WeatherIcon < 10) ? "0"+conditions.WeatherIcon : conditions.WeatherIcon;                                                                                                
+                                current['weatherurl'] = conditions.Link;
+                                if(siteDebug) {
+                                    console.log("Current ");console.log(current);
+                                }
+                                //set global leaf page weather url and current condition here..
+                                $('.current-weather .current-temp h5').html(temp+'&deg;')
+                                $('#topbar-wrapper .currImg')   .html('<img src="http://local.dailynews.com/common/dfm/assets/img/accuweather/'+current['icon']+'.png" alt="" class="weather-icon" />');
+                            }
+                            else {
+                                msg = "No data returned for locaton key: "+locationKey;
+                                console.log(msg);
+                            }                        
+                    }
+                });
+                //console.log(current);
+            };
+            var getForecasts = function(locationKey) {
+                var forcastUrl = apiUrl + "/forecasts/v1/daily/10day/" + locationKey + ".json?language=" + language + "&apikey=" + apiKey;
+                var days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+                $.ajax({
+                    type: "GET",
+                    url: forcastUrl,
+                    dataType: "jsonp",
+                    cache: true,
+                    //jsonpCallback: "awxCallback",
+                    success: function (data) {
+                            var html;
+                            if(data) {                                                                
+                                var forecast = data.DailyForecasts;                                
+                                for(var day in forecast) {                                    
+                                    if (day == 7) { break;} 
+                                    var dateobj = new Date(forecast[day].Date);
+                                    //var icon = isDayTime ? forecast[day].Day.Icon : forecast[day].Night.Icon;     
+                                    if(day == 0) {
+                                        $('#topbar-wrapper .todayshigh').html(forecast[day].Temperature.Maximum.Value + '&deg;');                                        
+                                        $('#topbar-wrapper .todayslow') .html(forecast[day].Temperature.Minimum.Value  + '&deg;');
+                                    } else {
+                                        icon = (forecast[day].Day.Icon < 10) ? "0"+forecast[day].Day.Icon : forecast[day].Day.Icon;                                    
+                                        $('#topbar-wrapper .day'+day+'Name')  .html(days[dateobj.getDay()]);
+                                        $('#topbar-wrapper .day'+day+'High')  .html(forecast[day].Temperature.Maximum.Value + '&deg;');
+                                        $('#topbar-wrapper .day'+day+'Img')   .html('<img src="http://local.dailynews.com/common/dfm/assets/img/accuweather/'+icon+'.png" alt="" class="weather-icon" />');
+                                        $('#topbar-wrapper .day'+day+'Low')   .html(forecast[day].Temperature.Minimum.Value  + '&deg;').siblings('h6').html();
+                                    }
+                                }   
+                                if(siteDebug) {
+                                    console.log("Forecasts");console.log(forecasts);
+                                }
+                                //set forecast values here..
+                            }
+                            else {
+                                msg = "No data returned for location key: "+locationKey;
+                                console.log(msg);
+                            }                        
+                    }
+                });
+            };
+                getWeather("48043");
+            });
+
+//***** QuantCast *****//
+    _qoptions={qacct:"p-BdLLmNP313cFc", labels: "21CM%2eMichigan"};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript><img src="http://pixel.quantserve.com/pixel/p-BdLLmNP313cFc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
+<script>
+//***** Breaking News Alert Cookie *****//
+    if(!$.cookie('DFM_BNA')){$('#alerts').animate({'height':'62'},'fast');}
+    function DFM_BNA_COOKIE(){var date=new Date();date.setTime(date.getTime()+(3600*1000));$.cookie('DFM_BNA','set',{expires: date});}
+    $('.weather-toggle').click(function(e){ e.preventDefault(); activateTopBar($(this), $('.weather-bar')); $('.traffic-toggle').removeClass('active'); });
+    $('.traffic-toggle').click(function(e){ e.preventDefault(); activateTopBar($(this), $('.traffic-bar')); $('.weather-toggle').removeClass('active'); });
+    function activateTopBar($btn, $target) {
+        if($('#topbar').is(':visible')) {
+            if($btn.hasClass('active')) { $('#topbar').slideUp('fast', function(){ $('.weather-bar, .traffic-bar').hide();});}
+            else {
+                $('#topbar').slideUp('fast', function(){
+                    $('.weather-bar, .traffic-bar').hide();
+                    $target.show();
+                    $('#topbar').slideDown('fast');
+                });
+            }
+        } else {
+            $('.weather-bar, .traffic-bar').hide();
+            $target.addClass('visible').show();
+            $('#topbar').slideDown('fast');
+        }
+        $btn.toggleClass('active');
+    }
+// ***** MediaCenterWidget ***** //
+    if (document.getElementById("mc-widget-container-large")){
+        var mc_rotator_large_options = {
+            domain:  'macombdaily' 
+        }
+    $.ajax({async:true, url:"http://local.macombdaily.com/common/dfm/assets/js/mc-widget-large.min.js", dataType:'script', timeout:500});
+    }
+     function create_mc_gallery(){
+       $.ajax({async:true, url:"http://extras.mnginteractive.com/live/partners/MediaCenter/embedded_galleries/mc_embed_1.0.8.1.js", dataType:'script', timeout:500});
+       var mediaCenterCodeLoadTester = self.setInterval(
+           function(){
+               if(typeof mc_embed_gallery != 'undefined'){
+                   mc_embed_gallery.initWidget();
+                   window.clearInterval(mediaCenterCodeLoadTester);
+               }
+           },100
+       )
+    }
+</script>
+<script type="text/javascript" src="http://extras.mnginteractive.com/live/js/jquery/jBar/plugIns_SAXO.js"></script>
+<script type="text/javascript" src="http://local.macombdaily.com/common/dfm/assets/js/tout/tout-functions.js"></script>
+<script type="text/javascript">
+// ***** BrightTag ***** //
+    (function () {
+        var tagjs = document.createElement("script");
+        var s = document.getElementsByTagName("script")[0];
+        tagjs.text = "{'site':'sfWGaRL'}";
+        tagjs.async = true;
+        tagjs.src = "http://s.btstatic.com/tag.js";
+        s.parentNode.insertBefore(tagjs, s);
+    }());
+</script>
+<noscript>
+    <iframe src="http://s.thebrighttag.com/iframe?c=sfWGaRL" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</noscript>
+    <!-- CleanPrint functionality -->
+<script type="text/javascript">    
+    $(".icon-print").next().removeAttr("onclick")    
+    $(".icon-print").next().attr("href", "/apps/pbcs.dll/article?avis=MD&date=20120304&category=NEWS&lopenr=303049983&Ref=AR&template=printart");    
+</script>
+<!-- End: CleanPrint functionality -->
+<!-- iPad Paywall -->
+    <script type="text/javascript" src="http://www.mediapass.com/static/js/mm.js"></script>
+    <script type="text/javascript">MediaPass.init(3804, { asset:3820 });</script>
+<!-- End: iPad Paywall -->
+
+<!-- ChartBeat -->
+<script>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 53628;
+    _sf_async_config.domain = dfm.data("actualDomain");
+    _sf_async_config.useCanonical = true;
+	if(dfm.data("pageType")=='frontpage'){
+		_sf_async_config.sections = dfm.data("Taxonomy1");
+	}
+	else{
+		if(dfm.data('sectionName')){
+			_sf_async_config.sections = dfm.data('sectionName');
+		}
+		else{
+			_sf_async_config.sections = dfm.data('kv');
+		}
+	}
+	if(dfm.data("byline")){
+		_sf_async_config.authors = dfm.data("byline");
+	}
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', 'http://static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<!-- End: ChartBeat -->
+
+<!-- Verticals links -->
+<script type="text/javascript">
+(function($) {
+   var domain = "http://local.macombdaily.com/";
+   //JSON file lives in Akamai netstorage
+   var jsonToGet = domain + '/assets/verticals.json';
+   $.ajax({
+      url: jsonToGet,
+      dataType: 'jsonp',
+      contentType: 'application/json',
+      cache: true,
+      async: false,
+      jsonpCallback: 'pubData',
+      success: function (data) {
+         //Check to see if each item exists, and if it does, append it to verticalsLinks list in FinishHead.pbo
+        if (typeof data.verticalsCustom !== 'undefined'  && data.verticalsCustom.length > 0) 
+       {
+          for(var i=0;i<data.verticalsCustom.length;i++)
+          {
+            $('ul#verticalsLinks').append('<li><a href="'+ data.verticalsCustom[i].link +'">' + data.verticalsCustom[i].title + '</a></li>');
+            if(i<(data.verticalsCustom.length-1))
+              $('ul#verticalsLinks').append('<li>|</li>');
+          }         
+       }
+       else
+       {
+           //Autos
+           if(typeof data.verticals.autos.link !== 'undefined' && data.verticals.autos.link !== '') {
+              if(data.verticals.autos.link.substring(0,1) == "/") {
+                 data.verticals.autos.link = "http://www.macombdaily.com/" + data.verticals.autos.link;
+              }
+              $('ul#verticalsLinks').append('<li><a href="'+ data.verticals.autos.link +'">' + data.verticals.autos.title + '</a></li><li>|</li>');
+           }
+           //Real Estate
+           if(typeof data.verticals.realestate.link !== 'undefined' && data.verticals.realestate.link !== '') {
+              if(data.verticals.realestate.link.substring(0,1) == "/") {
+                 data.verticals.realestate.link = "http://www.macombdaily.com/" + data.verticals.realestate.link;
+              }
+              $('ul#verticalsLinks').append('<li><a href="'+ data.verticals.realestate.link +'">' + data.verticals.realestate.title + '</a></li><li>|</li>');
+           }
+           //Jobs
+           if(typeof data.verticals.jobs.link !== 'undefined' && data.verticals.jobs.link !== '') {
+              if(data.verticals.jobs.link.substring(0,1) == "/") {
+                 data.verticals.jobs.link = "http://www.macombdaily.com/" + data.verticals.jobs.link;
+              }
+              $('ul#verticalsLinks').append('<li><a href="'+ data.verticals.jobs.link +'">' + data.verticals.jobs.title + '</a></li>');
+           }
+        }
+      },
+      error: function(jqXHR, textStatus, errorThrown) {
+         //log the error to the console
+         console.log("The following error occured: " + textStatus, errorThrown);
+      },
+   });
+}(jQuery));
+</script>
+
+<footer id="site-footer">
+    <div class="foot">
+        <div class="container-fluid">
+            <div class="branding" style="text-align:center; width:437px; margin:0 auto;">
+                <a href="http://www.macombdaily.com/"><img src="http://local.macombdaily.com/assets/logo-small.png"><h4 class="property-logo">The Macomb Daily</h4></a>
+            </div>
+            <ul class="share-widget">
+                  <li>
+                     <a rel="tooltip" data-placement="top" title="Follow us on Facebook" data-original-title="Follow us on Facebook" class="fc-webicon facebook" href="https://www.facebook.com/pages/Macomb-Daily/167187400091">Facebook</a>
+                  </li>
+                  <li>
+                     <a rel="tooltip" data-placement="top" title="Follow us on Twitter" data-original-title="Follow us on Twitter" class="fc-webicon twitter" href="https://twitter.com/macombdaily">Twitter</a>
+                  </li>
+                  <li>
+                     <a rel="publisher" data-placement="top" title="Follow us on Pinterest" data-original-title="Follow us on Pinterest" class="fc-webicon pinterest" href="https://www.pinterest.com/MacombDaily/">Pinterest</a>
+                  </li>
+                  <li>
+                     <a rel="publisher" data-placement="top" title="Follow us on Instagram" data-original-title="Follow us on Instagram" class="fc-webicon instagram" href="http://instagram.com/macombdaily">Instagram</a>
+                  </li>
+               <li>
+                  <a rel="tooltip" data-placement="top" title="RSS Feed" data-original-title="RSS Feed" class="fc-webicon rss" href="http://www.macombdaily.com/rss">RSS Feed</a>
+               </li>
+            </ul> <!-- .share-widget -->
+            <p class="top-border">
+              <span>Copyright &copy; The Macomb Daily</span>
+              <a href="http://www.macombdaily.com/copyright">Copyright notice</a>
+              <a href="http://www.macombdaily.com/privacy">Privacy Policy</a>
+              <a href="http://www.macombdaily.com/section?template=sitemap_page">Site Map</a>
+              <a href="http://local.macombdaily.com/common/dfm/arbitration.pdf">Arbitration</a>
+              <a href="http://www.digitalfirstmedia.com/">Digital First Media</a> 
+            </p>
+        </div> <!-- .container-fluid -->
+    </div> <!-- .foot -->
+</footer><!-- #site-footer -->
+
+    </body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 23:40:24 Jan 19, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:48:04 Mar 31, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 673.255 (3)
+  esindex: 0.007
+  captures_list: 714.811
+  CDXLines.iter: 14.926 (3)
+  PetaboxLoader3.datanode: 613.847 (4)
+  exclusion.robots: 0.144
+  exclusion.robots.policy: 0.133
+  RedisCDXSource: 23.998
+  load_resource: 6.594
+-->

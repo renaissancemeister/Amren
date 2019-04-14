@@ -1,0 +1,1196 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>
+Web site offers to report illegal immigrants ---- for a fee : North County Times - Californian </title>
+</head>
+
+<body>
+<script type="text/javascript" src="http://www.nctimes.com/shared-content/stats/common/tracker.js"></script>
+<script type="text/javascript">
+<!--
+ if(typeof(TNStats_Tracker) !== 'undefined' && typeof(TNTracker) === 'undefined') { TNTracker = new TNStats_Tracker('nctimes.com'); TNTracker.setTracker('http://www.nctimes.com/shared-content/stats/common/tracker.gif', 'https://secure.townnews.com/shared-content/stats/common/tracker.gif'); TNTracker.trackPageView(); }
+// -->
+</script>
+<!-- HEADER -->
+<div id="header_wrap">
+
+<!-- HEADER -->
+   <div id="header">
+                
+        <!-- *************************************************************************************************************************** --> 
+              <div id="headerlogo_ad">
+    
+                    <a href="http://www.nctimes.com/"><img id="nctheaderlogo" class="clear" src="http://images.townnews.com/nctimes.com/zimages/08/logo-nct.png" alt="NCTimes.com" width="235" height="89"/></a> 
+                    
+                    <div class="bannerad">
+                        <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/biz_leaderboard/static.js"></script>
+                    </div> 
+                       
+            </div>        <!-- *************************************************************************************************************************** --> 
+                
+        <!-- *************************************************************************************************************************** --> 
+               <div id="midlink" class="clear">
+				
+			<ul id="main_menu" class="lava">
+                <li id="mNews"><a href="http://www.nctimes.com/news/">News</a></li>
+				<li id="mOpinion"><a href="http://www.nctimes.com/opinion/">Opinion</a></li>
+                <li id="mSports"><a href="http://www.nctimes.com/sports/">Sports</a></li>
+				<li id="mEntertainment"><a href="http://www.nctimes.com/entertainment/">Entertainment</a></li>
+                <li id="mFeatures"><a href="http://www.nctimes.com/features/">Features</a></li>   
+                <li id="mMarket" class="ads_menu"><a href="http://www.nctimes.com/admarket/">Marketplace</a></li>             
+                <li id="mCars" class="ads_menu"><a href="http://wheels.nctimes.com/">Cars</a></li>
+                <li id="mHomes" class="ads_menu"><a href="http://homes.nctimes.com/">Homes</a></li>
+                <li id="mJobs" class="ads_menu"><a href="http://www.nctimes.com/jobs/">Jobs</a></li>
+   			</ul>
+           
+		</div>
+        
+        <div id="botlink">
+			<ul>
+			  	<li><a href="http://www.nctimes.com/" title="Home">HOME</a></li>
+				<li><a href="http://www.nctimes.com/contact_us/" title="Contact Us">CONTACT US</a></li>
+                <li><a href="http://www.nctimes.com/advertising/" title="Advertise">ADVERTISE</a></li>
+                <li><a href="http://www.nctimes.com/web_services/" title="Subscriber Services">SUBSCRIBER SERVICES</a></li>
+            <!--<li><a href="/" title="Site Map">SITE MAP</a></li>-->
+            </ul>
+		</div> <!-- end of botlink -->
+        <!-- *************************************************************************************************************************** --> 
+        
+        <!-- *************************************************************************************************************************** --> 
+              <div id="header-search">
+	<script language="javascript" type="text/javascript">
+	jQuery(document).ready(function() {
+		var search_value = $('input[@name=query]').val();
+		jQuery('#yahooSearchBox').val(search_value);
+	});
+	</script>
+		 <img class="floatleft margin15top" alt="yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+				    
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+			<input class="searchfield" type="text" name="search" size="15" value="Search..." id="yahooSearchBox"/> 
+			<label>in </label>
+			<select name="searchType" id="searchType">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="videos">Videos</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+				<option value="web">Web</option>
+			</select>
+			
+			<input class="submitbutton" name="submitsearch" type="submit" value="Go"/>
+		</form>
+</div> <!-- end of search -->        <!-- *************************************************************************************************************************** --> 		
+                
+        </div><!-- end of header -->
+	
+</div>
+
+<!-- BODY -->
+<div id="content_wrap">
+ 	  <div id="maincontent">
+<!-- *************************************************************************************************************************** --> 
+        <div style="position:relative; z-index:999;">
+
+<!-- NEWS/LOCAL -->
+
+	<div id="submNews" class="subnav-group">
+
+        <div class="subs lead">
+		  <h1><a href="http://www.nctimes.com/news">News Home Page</a></h1>
+          <ul class="lead">
+		    <li><a href="http://www.nctimes.com/news/top_stories">Top Stories</a></li>
+		    <li><a href="http://www.nctimes.com/news/coastal">Coastal</a></li>
+		    <li><a href="http://www.nctimes.com/news/inland">Inland</a></li>
+		    <li><a href="http://www.nctimes.com/news/californian">The Californian</a></li>
+            <li><a href="http://www.nctimes.com/news/sandiego">Region</a></li> 
+			<li><a href="http://www.nctimes.com/news/state">State</a> | <a href="http://www.nctimes.com/news/nation">National</a></li> 
+			<li><a href="http://www.nctimes.com/ap">Today's AP Headlines</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/rss">RSS Feeds</a></li>
+          </ul>
+        </div>
+      
+        <div class="subs">
+          <h1>City News</h1>
+          <ul>
+          	<li><a href="http://www.nctimes.com/news/coastal/carlsbad">Carlsbad</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/del_mar">Del Mar</a></li> 
+			<li><a href="http://www.nctimes.com/news/coastal/encinitas">Encinitas</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/escondido">Escondido</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/fallbrook">Fallbrook</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/lake_elsinore">Lake Elsinore</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/menifee">Menifee</a></li> 
+            <li><a href="http://www.nctimes.com/news/californian/murrieta">Murrieta</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/oceanside">Oceanside</a></li>
+          </ul>
+        </div>
+        
+        <div class="subs">
+          <ul>
+			<li><a href="http://www.nctimes.com/news/inland/poway">Poway</a></li>
+          	<li><a href="http://www.nctimes.com/news/inland/ramona">Ramona</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/rb">Rancho Bernardo</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/riverside">Riverside County</a></li>
+            <li><a href="http://www.nctimes.com/news/inland/san_marcos">San Marcos</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/sb">Solana Beach</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/temecula">Temecula</a></li>
+            <li><a href="http://www.nctimes.com/news/inland//vc">Valley Center</a></li>
+            <li><a href="http://www.nctimes.com/news/coastal/vista">Vista</a></li>
+            <li><a href="http://www.nctimes.com/news/californian/wildomar">Wildomar</a></li>
+          </ul>
+        </div>
+        
+        <div class="subs">
+			<h1><a href="http://www.nctimes.com/business">Business Home Page</a></h1>
+			<ul>
+          		<li><a href="http://www.nctimes.com/blogs/minding_your_business/">Business Blog</a></li>
+          		<li><a href="http://www.nctimes.com/columnists/business/">Business Columnists</a></li>
+          		<li><a href="http://www.nctimes.com/gas_prices">Gas Gauge</a></li>
+		  		<li><a href="http://www.nctimes.com/business/stocks">Stocks</a></li>
+          		
+                <li class="h1-subhead">Other News</li>
+          		<li><a href="http://www.nctimes.com/military">Military</a></li> 
+		  		<li><a href="http://www.nctimes.com/elections2008">Elections</a></li> 
+		  		<li><a href="http://www.nctimes.com/corrections">Corrections</a></li>
+		  		<li><a href="http://www.nctimes.com/backpage">Backpage</a></li>
+		  <!--<li><a href="/business/chamberlin">George Chamberlin</a></li>
+		  <li><a href="/business/bahr">Candace Bahr</a></li>
+		  <li><a href="/business/vanderspek">Jim VanderSpek</a></li>
+		  <li><a href="/business/knight">Gary Knight</a></li>-->
+			</ul> 
+   		</div>
+		  
+          <div class="subs"> 
+          	<h1><a href="http://www.nctimes.com/columnists/local/">Local Columnists</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/news/columnists/baier/">Paul Baier</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/jeff_frank">Jeff Frank</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/betty_johnston/">Betty Johnston</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/john_hunneman/">John Hunneman</a></li>
+                <li><a href="http://www.nctimes.com/news/columnists/tom_morrow/">Tom Morrow</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/observer/">John Van Doorn</a></li>
+				<li><a href="http://www.nctimes.com/columnists/local/">More Local Columnists</a></li>
+                <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+           	</ul>
+		 </div> 
+          
+		  <div class="subs"> 
+          	<ul>
+				<li><a href="http://www.nctimes.com/weather">Weather</a></li>
+				<li><a href="http://www.nctimes.com/traffic">Traffic</a></li>
+		  		<li><a href="http://www.nctimes.com/earthquake">Earthquake Reports</a></li>
+		  		<li><a href="http://videos.nctimes.com/">Videos</a></li>
+            	<li><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+                <li><a href="http://www.nctimes.com/archives/">Archives</a></li>
+                <li class="h1-subhead">News Extras</li>
+          		<li><a href="http://www.nctimes.com/maillist/index.php">Daily Headline Alerts</a></li> 
+				<li><a href="http://www.nctimes.com/pdfs">View Front Pages</a></li> 
+           </ul>
+		 </div> 
+	</div>
+	
+<!-- OPINION -->
+	<div id="submOpinion" class="subnav-group">
+	<div class="subs lead"> 
+          <h1><a href="http://www.nctimes.com/opinion/">Opinion Home Page</a></h1>
+          <ul>
+				<!-- <li><a href="/blog">Blogs</a></li> -->
+                <li><a href="http://www.nctimes.com/blogs/editorscorner">Editor's Corner Blog</a></li>
+				<li><a href="http://www.nctimes.com/opinion/editorials">Editorials</a></li>
+				<li><a href="http://www.nctimes.com/opinion/cartoon">Editorial Cartoons</a></li>
+				<li><a href="http://www.nctimes.com/opinion/commentary">Community Forums</a></li>
+				<li><a href="http://www.nctimes.com/perspective/">Perspective</a></li>
+                <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+          </ul>
+		 </div> 
+         
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/columnists/opinion">Opinion Columnists</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/opinion/brett/">Brigid Brett</a></li>
+				<li><a href="http://www.nctimes.com/opinion/chatfield/">Gail Chatfield</a></li>
+                <li><a href="http://www.nctimes.com/opinion/clausen/">Dennis Clausen</a></li>
+                <li><a href="http://www.nctimes.com/opinion/davy">Kent Davy</a></li>
+				<li><a href="http://www.nctimes.com/opinion/jacobs/">Paul Jacobs</a></li>
+				<li><a href="http://www.nctimes.com/opinion/kirk/">Richard Kirk</a></li>
+				<li><a href="http://www.nctimes.com/opinion/rider/">Richard Rider</a></li>
+				<li><a href="http://www.nctimes.com/opinion/riehl/">Richard Riehl</a></li>
+           	</ul>
+          </div>     
+                
+         <div class="subs">
+         	<ul>
+            	<li><a href="http://www.nctimes.com/opinion/scharf/">Greg Scharf</a></li>
+				<li><a href="http://www.nctimes.com/opinion/strickland/">Phil Strickland</a></li>
+                <li><a href="http://www.nctimes.com/opinion/trageser/">Jim Trageser</a></li>
+                <li><a href="http://www.nctimes.com/columnists/opinion">More Columnists</a></li>
+          	</ul>
+		 </div> 
+         
+		 <div class="subs"> 
+          <h1><a href="http://www.nctimes.com/columnists/opinion">National Columnists</a></h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/opinion/goodman/">Ellen Goodman</a></li>
+                <li><a href="http://www.nctimes.com/opinion/north/">Oliver North</a></li>
+				<li><a href="http://www.nctimes.com/opinion/will">George Will</a></li>
+          </ul>
+		 </div>
+         
+		 <div class="subs"> 
+         <h1>Letters</h1>
+		 <ul>
+				<li><a href="http://www.nctimes.com/opinion/letters">Letters to the editor</a></li>
+				<li><a href="http://www.nctimes.com/faith/letters">Faith &amp; Values Letters</a></li>
+          </ul>
+		 </div>
+     </div>
+	 
+<!-- SPORTS -->
+
+	<div style="display: none;" id="submSports" class="subnav-group">
+	   	<div class="subs lead">
+
+        	<h1><a href="http://www.nctimes.com/sports/">Sports Main Page</a></h1>
+            <ul>
+                <li><a href="http://www.nctimes.com/sports/chargers">Chargers</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/teams/083/team.aspx?id=083">Stats</a></li>
+                <li><a href="http://www.nctimes.com/sports/padres">Padres</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/teams/010/team.aspx?id=010">Stats</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=4">Blog</a></li>
+                <li><a href="http://www.nctimes.com/sports/angels/">Angels</a></li>
+		    	<li><a href="http://www.nctimes.com/sports/action">Action Sports</a></li>
+                <li><a href="http://www.nctimes.com/sports/communitysports">Community Sports</a></li>
+				<li><a href="http://www.nctimes.com/sports/golf">Golf</a></li>
+                <li><a href="http://www.nctimes.com/sports/horseracing">Horse Racing</a></li>	
+                <li><a href="http://www.nctimes.com/sports/motorsports">Motorsports</a></li>
+				<li><a href="http://www.nctimes.com/sports/outdoors">Outdoors</a></li>
+          </ul>
+   	    </div>
+
+        <div class="subs">
+	   	  <h1><a href="http://www.nctimes.com/columnists/sports">Columnists</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/sports/nelson">Loren Nelson</a> | <a href="http://www.nctimes.com/blogs/sports_insider/?cat=20">Blog</a></li>
+		    <li><a href="http://www.nctimes.com/sports/paris">Jay Paris</a></li>
+		    <li><a href="http://www.nctimes.com/sports/maffei">John Maffei</a></li>
+			<li class="h1-subhead">Sunday Slant</li>
+		    <li><a href="http://www.nctimes.com/sports/sides">Choosing Sides</a></li>
+		    <li><a href="http://www.nctimes.com/sports/net">Nothin' But Net</a></li>
+            <li><a href="http://www.nctimes.com/sports/take5">Take 5</a></li>
+            <li><a href="http://www.nctimes.com/sports/letters">Letters</a></li>
+		  </ul>
+   	    </div>
+        
+	   	<div class="subs">
+          <h1>Colleges</h1>
+          <ul>  
+          	<li><a href="http://www.nctimes.com/sports/aztecs">San Diego State</a></li>
+			<li><a href="http://www.nctimes.com/sports/collegesports">Local Colleges</a></li>
+		    <li><a href="http://www.nctimes.com/sports/ncaabasketball">NCAA Basketball</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cbask/news/index.aspx?sport=AE">Stats</a></li>
+		  	<li><a href="http://www.nctimes.com/sports/ncaafootball">NCAA Football</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=cfoot/news/index.aspx?sport=AF">Stats</a></li>
+			<li class="h1-subhead">High Schools</li>
+		    <li><a href="http://www.nctvarsity.com/">NCTVarsity</a> | <a href="http://www.nctimes.com/sports/highschool">Stats</a></li>
+		    <li><a href="http://www.calvarsity.com/">CALVarsity</a> | <a href="http://www.nctimes.com/sports/highschool/calhighschool">Stats</a></li>
+          </ul>
+   	    </div>
+		
+		<div class="subs">
+	   	  <h1>More Sports</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/sports/nba">NBA</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nba/news/index.aspx?sport=AC">Stats</a></li>		    		<li><a href="http://www.nctimes.com/sports/nfl">NFL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nfl/news/index.aspx?sport=AB">Stats</a></li>		    		<li><a href="http://www.nctimes.com/sports/nhl">NHL</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=nhl/news/index.aspx?sport=AD">Stats</a></li>            <li><a href="http://www.nctimes.com/sports/mlb">MLB</a> | <a href="http://www.sportsnetwork.com/merge/tsnform.aspx?c=nctimes&amp;page=mlb/news/index.aspx?sport=AA">Stats</a></li>
+            <li><a href="http://www.nctimes.com/sports/storm">Storm</a></li>
+		    <li><a href="http://www.nctimes.com/sports/tennis">Tennis</a></li>
+            <li><a href="http://www.nctimes.com/sports/olympics">Olympics</a></li>
+			<li><a href="http://www.nctimes.com/sports/boxing">Boxing</a></li>
+		  </ul>
+   	    </div>
+		
+		 <div class="subs">
+	   	  <h1><a href="http://www.nctimes.com/special_reports">Special Reports</a></h1>
+		  <ul>
+			<li><a href="http://www.nctimes.com/special_reports/football2007/">NCT Prep Football - 2007</a></li>
+		    <li><a href="http://www.nctimes.com/special_reports/football2007/">CAL Prep Football - 2007</a></li>
+            <li><a href="http://www.nctimes.com/special_reports/gwynn/">Tribute to Tony Gywnn</a></li>
+            <li><a href="http://www.nctimes.com/articles/2008/05/06/sports/highschool/023d5a64e94bd0998825744000582c05.txt">Star Power: Big-name athletes turned coaches</a></li>
+	      	<li><a href="http://www.nctimes.com/usopen2008/">US Open 2008</a></li>
+            	<li class="h1-subhead"><a href="http://www.nctimes.com/blogs/sports_insider">Sports Main Blog Page</a></li>
+          </ul>
+   	    </div>
+  
+	</div>
+
+
+<!--5 ENTERTAINMENT DROP DOWNS -->
+
+	<div id="submEntertainment" class="subnav-group">
+	    
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/entertainment">Entertainment Home Page</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/entertainment/television">T.V.</a> | <a href="http://www.nctimes.com/entertainment/television/listings/">Listings</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/movies">Movies</a> | <a href="http://www.nctimes.com/cinema-source/movies/">Listings</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/art">Art</a></li>
+			<li><a href="http://www.nctimes.com/entertainment/theater">Theater</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/music">Music</a></li>
+	        <li><a href="http://www.nctimes.com/books">Books</a></li>
+		    <li><a href="http://www.nctimes.com/comics">Comics</a></li>
+		    <li><a href="http://www.nctimes.com/go">Go!</a></li>
+	      </ul>
+        </div>
+        
+		 <div class="subs">
+          <h1><a href="http://www.nctimes.com/entertainment/calendar">Local Events</a></h1>
+          	<ul>
+            <li><a href="http://www.nctimes.com/entertainment/local_events/">North County</a></li>	
+		    <li><a href="http://www.nctimes.com/entertainment/localcal_events/">Southwest Riverside County</a></li>
+			<!--<li class="h1-subhead">Contests</li>
+			<li><a href="http://www.nctimes.com/PetPinUp/">Pet Pin Up 2008</a></li>-->
+		    </ul>
+        </div>         
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/food">Food &amp; Drink</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/food/wischkaemper">Let's Dish</a></li>
+		    <li><a href="http://www.nctimes.com/food/groch">Bites &amp; Pieces</a></li>
+            <li><a href="http://www.nctimes.com/goout/">Let's Go Out</a></li>
+			<li><a href="http://www.nctimes.com/admarket/restaurants/">Local Restaurant Ads</a></li>
+		  </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="http://www.nctimes.com/columnists/entertainment">Entertainment Columnists</a></h1>
+          <ul>
+		    <li><a href="http://www.nctimes.com/entertainment/television">TV: Ann Zivotsky</a></li>
+            <li><a href="http://www.nctimes.com/entertainment/radio/">Radio: Randy Dotinga</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/backstage">Theater: Pam Kragen</a></li>
+		    <li><a href="http://www.nctimes.com/entertainment/sorocco">Music: Erika Sorocco</a></li>
+            <li class="h1-subhead"><a href="http://www.nctimes.com/special_reports">Special Reports</a></li>
+            <li class="h1-subhead"><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+		    </ul>
+        </div>
+	</div>
+	
+<!--5 FEATURES DROP DOWNS -->   
+
+	<div id="submFeatures" class="subnav-group">
+	    
+        <div class="subs lead">
+          		<h1><a href="http://www.nctimes.com/features">Features Home Page</a></h1>
+          <ul class="lead">
+				<li><a href="http://www.nctimes.com/books">Books</a></li>
+				<li><a href="http://www.nctimes.com/comics">Comics</a></li>
+				<li><a href="http://www.nctimes.com/faith">Faith &amp; Values</a></li>
+		  		<li><a href="http://www.nctimes.com/food">Food</a></li>
+				<li><a href="http://www.nctimes.com/homes">Homes</a></li>
+          		<li><a href="http://www.nctimes.com/health">Health</a></li>
+          		<li><a href="http://www.nctimes.com/lifeandtimes">Life</a></li>
+				<li><a href="http://www.nctimes.com/science">Science &amp; Technology</a></li>
+				<li><a href="http://www.nctimes.com/travel">Travel</a></li>	
+	      </ul>
+        </div>
+        
+		  <div class="subs"> 
+          	<h1><a href="http://www.nctimes.com/community">Community</a></h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/community">Community News</a></li>
+				<li><a href="http://www.nctimes.com/socialscene">Social Scene</a></li>
+				<li><a href="http://www.nctimes.com/community/charities_fund">Charities Fund</a></li>
+				<li><a href="http://www.nctimes.com/obituaries">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Births</a></li>
+				<li><a href="http://www.nctimes.com/celebrations">Celebrations</a></li>
+           </ul>
+		 </div>
+         
+      	<div class="subs">
+        	<h1><a href="http://www.nctimes.com/special_reports">Special Reports</a></h1>
+         	<ul>
+				<li><a href="http://www.nctimes.com/gogreen">Go Green</a></li>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>
+				<li><a href="http://www.nctimes.com/pop/">The Power of Parenting</a></li>
+                <li><a href="http://www.nctimes.com/special/meth/">The Power of Parenting - Part 2</a></li>
+                <li><a href="http://www.nctimes.com/special_reports">More Special Reports</a></li>
+            	<li class="h1-subhead"><a href="http://www.nctimes.com/inpictures/">Slideshows</a></li>
+            </ul>
+      	</div>
+
+		<div class="subs">
+          	<h1><a href="http://www.nctimes.com/columnists/features">Features Columnists</a></h1>
+			<ul>
+				<li><a href="http://www.nctimes.com/news/columnists/erdos/">Irv Erdos</a></li>
+				<li><a href="http://www.nctimes.com/news/columnists/deneve">Cyndie C. de Neve</a></li>
+				<li><a href="http://www.nctimes.com/homes/crawford">Rose Crawford</a></li>
+                <li><a href="http://www.nctimes.com/food/groch">Laura Groch</a></li>
+            	<li><a href="http://www.nctimes.com/homes/wilders">Tineke Wilders</a></li>
+                <li><a href="http://www.nctimes.com/news/columnists/petperspective">Pet Perspective</a></li>
+            	<li><a href="http://www.nctimes.com/features">More Features</a></li>
+			</ul>
+        </div>    
+	</div>
+
+<!--5 COMMUNITY DROP DOWNS 
+
+	<div id="submCommunity" class="subnav-group">
+	    
+	</div> -->
+
+<!-- SHOPPING-->
+	
+	<div id="submMarket" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://www.nctimes.com/admarket/merchandise/">Buy Stuff</a></h1>
+          <ul class="lead">
+            <li><a href="http://www.nctimes.com/admarket/">Classifieds</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/furniture_furnishings/">Furniture</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/appliances/">Appliances</a></li>
+			<li><a href="http://www.nctimes.com/admarket/print_ads/">Browse Print Ads</a></li>
+			<li><a href="http://www.nctimes.com/admarket/garage_sales/">Garage Sales</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/give_aways/">Give Aways</a></li>
+			<li><a href="http://www.nctimes.com/admarket/merchandise/misc_wanted/">Wanted</a></li>
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">Sell Stuff</a></h1>
+          <ul>
+           <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Animals</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34363">Boats &amp; Marine</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34354">Garage and Yard Sales</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34319">General Merchandise</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Real Estate</a></li>
+	  	   <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo">More...</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1><a href="http://pets.nctimes.com/">Pets</a></h1>
+          <ul>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Dogs">Dogs</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Cats">Cats</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx?type=Birds">Birds</a></li>
+				<li><a href="http://www.gadzoo.com/nctimes/PetsSearch.aspx">Browse All Pet Ads</a></li>
+				<li><a href="http://www.nctimes.com/admarket/announcements/lost_found/">Lost and Found</a></li>
+			  <li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34301">Place An Ad</a></li>
+		    </ul>
+        </div>
+        	  <div class="subs">
+		  <h1>Directories</h1>
+          <ul>
+				<li><a href="http://www.nctimes.com/medical/">Medical</a></li>
+				<li><a href="http://www.nctimes.com/cars/directory/">Auto Dealers</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Real Estate Experts</a></li>
+				<li><a href="http://www.nctimes.com/goout/">Restaurants</a></li>
+				<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_marketplace_button/static.js"></script></li>
+				
+		    </ul>
+        </div> 
+        
+        <div class="subs">
+          <h1>Services</h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/asktheexpert">Ask The Expert</a></li>	
+				<li><a href="http://www.nctimes.com/admarket/personal_services/">Personal Services</a></li>
+				<li><a href="http://www.nctimes.com/admarket/home_services/">Home Services</a></li>
+				<li><a href="http://www.nctimes.com/admarket/business_services/">Business Services</a></li>
+               </ul>
+
+        </div>
+        
+        <div class="subs">
+          <h1>Announcements</h1>
+          	<ul>
+				<li><a href="http://www.nctimes.com/admarket/legals/">Legals</a></li>
+				<li><a href="http://www.legacy.com/NCTimes/Obituaries.asp">Obituaries</a></li>
+				<li><a href="http://www.nctimes.com/celebrations/">Engagements, Weddings, Celebrations</a></li>
+				<li><a href="http://www.nctimes.com/admarket/announcements/lost_found/">Lost and Found</a></li>
+               </ul>
+
+        </div>
+         
+
+		
+        </div> 	
+    
+ <!-- CARS -->  
+    <div id="submCars" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://wheels.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+			<li><a href="http://wheels.nctimes.com/">Wheels For You</a></li>
+			<li><a href="http://www.nctimes.com/admarket/transportation/?ad_type=display">Auto Print Ads</a></li>
+			<li><a href="http://wheels.nctimes.com/results.php?eqdealerid=202095">Classified Ads</a></li>
+			<li><a href="http://nctimes.outdoormotors.com/">Outdoor Motors</a></li>
+			<li><a href="http://www.nctimes.com/cars/directory/">Local Dealer Directory</a></li>		
+			<li><a href="http://www.nctimes.com/admarket/transportation/specialty_antiques/">Specialty &amp; Antiques</a></li>	
+		    </ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Sell</h1>
+          <ul>
+			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34358">Place an Ad</a></li>	
+			<li><a href="http://www.nctimes.com/admarket/transportation/wanted_to_buy/">Wanted to Buy</a></li>
+		    </ul>
+        </div>
+        
+        
+        <div class="subs">
+          <h1>Research and Tools</h1>
+          <ul>
+			<li><a href="http://wheels.nctimes.com/research.php">Research and Advice</a></li>		
+			<li><a href="http://wheels.nctimes.com/tools.php">Payment Calculator</a></li>
+		    </ul>
+        </div>
+          <div class="subs">
+          <h1>Parts &amp; Service</h1>
+          <ul>		
+			<li><a href="http://www.nctimes.com/admarket/transportation/auto_parts/">Auto Parts</a></li>
+			<li><a href="http://www.nctimes.com/admarket/personal_services/automotive_service_repair/">Service &amp; Repair</a></li>
+			<li class="h1-subhead">Quick Searches</li>
+			<li><a href="http://www.nctimes.com/admarket/?=&amp;change_path=%2F&amp;query=auto+repair&amp;sort=featured+desc+start_date+desc&amp;limit=25">Auto Repair</a></li>
+			<li><a href="http://www.nctimes.com/admarket/?=&amp;change_path=%2F&amp;query=oil+change&amp;sort=featured+desc+start_date+desc&amp;limit=25">Oil Change</a></li>
+		    </ul>
+        </div>      
+        <div class="subs">
+          	<ul>		
+         	 <li><a href="http://wheels.nctimes.com/"><img src="http://wheels.nctimes.com/art/nctimes-wheels-logo.jpg" alt="wheels.nctimes.com" border="0"/></a></li>
+			 <li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_cars_button/static.js"></script></li>
+		 	</ul>
+		</div>
+	</div>
+    
+ <!-- HOMES -->  
+    <div id="submHomes" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1><a href="http://homes.nctimes.com/">Buy</a></h1>
+          <ul class="lead">
+		  		<li><a href="http://homes.nctimes.com/">Search Local MLS</a></li>
+            	<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=11%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=6&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C16%2C14%2C15&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=S&amp;WebSearches=Y">Classifieds</a></li>
+				<li><a href="http://www.nctimes.com/homes/tophomes/">Top Homes</a></li>
+			  	<li><a href="http://www.nctimes.com/newhomes/">New Homes</a></li>
+				<li><a href="http://www.nctimes.com/tourofhomes/">Open House Map</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+				<li><a href="http://www.nctimes.com/homes/">Homes News</a></li>
+		    </ul>
+        </div>
+		  <div class="subs">
+          <h1>Quick Searches</h1>
+          <ul>	
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=0&amp;HPrice=400000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Under $400,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=400000&amp;HPrice=500000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$400,000-$500,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=500000&amp;HPrice=600000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$500,000-$600,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=600000&amp;HPrice=700000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$600,000-$700,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=700000&amp;HPrice=800000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$700,000-$800,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=800000&amp;HPrice=900000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$800,000-$900,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=900000&amp;HPrice=1000000&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">$900,000-$1,000,000</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Sales/SearchResults.asp?RoS=S&amp;RegionIds=10%2C11%2C12%2C13%2C14%2C15%2C16%2C99&amp;RegionIdCount=8&amp;LPrice=1000000&amp;HPrice=&amp;CID=999&amp;CountyIds=10%2C14%2C11%2C99%2C12%2C16%2C13%2C15&amp;SOrder=1&amp;ReportSection=S&amp;WebSearches=Y">Over $1,000,000</a></li>
+				</ul>
+        </div>
+        
+        
+        <div class="subs">
+         <h1><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Sell</a></h1>
+		  	<ul>
+				<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34268">Place an Ad</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Agents/AgentDirectory.asp">Find an Agent</a></li>
+          </ul>
+		  </div>
+         
+		 <div class="subs">
+         	<h1><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchIndex.asp">Rent</a></h1>
+	  	   	<ul>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=0&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Classified Ads</a></li>
+		  		<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=8&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Apartments</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=4&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Houses</a></li>
+				<li><a href="http://homes.nctimes.com/RealEstate/Rentals/SearchResults.asp?RoS=R&amp;RegionIds=11%2C13%2C14%2C15%2C99&amp;RegionIdCount=5&amp;SaveField=&amp;NewLflag=&amp;BRooms=0&amp;Bath=0&amp;LPrice=0&amp;HPrice=99000000&amp;BType=32&amp;Amenities=&amp;Amenity=0&amp;AmenityN=0&amp;CType=C&amp;CID=999&amp;SCountyId=0&amp;AdTagCountyId=&amp;sRegionId=&amp;CountyId=&amp;CountyIds=11%2C99%2C13%2C15%2C14&amp;p=&amp;SOrder=1&amp;KeyWord=&amp;NewListings=0&amp;Acreage=0&amp;SqFoot=0&amp;SearchFor=&amp;SearchBy=&amp;SearchFlag=&amp;SearchName=Enter+Search+Name&amp;EmailAlert=&amp;EmailType=&amp;OH=&amp;PhotoNum=&amp;ReportSection=R&amp;WebSearches=Y">Condos</a></li>
+		   		<li><a href="http://www.nctimes.com/homes/toprentals/">Top Rentals</a></li>
+	  			<li><a href="https://secure.townnews.com/shared-content/adowl/front-end.php?domain=nctimes.com&amp;instance=adowl&amp;ui=peekaboo&amp;order[category_id]=34283">Place an Ad</a></li>
+		    </ul>
+        </div>
+
+        
+        <div class="subs">
+          <h1>Homes Columns</h1>
+          <ul>
+            <li><a href="http://www.nctimes.com/news/columnists/cal_gardens">Tineke Wilders - California Gardens</a></li>
+			<li><a href="http://www.nctimes.com/news/columnists/crawford/">Rose Crawford - Ask Rose</a></li>
+			<li class="h1-subhead"><script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_homes_button/static.js"></script></li>
+		   </ul>
+        </div>
+        
+     
+	</div>
+ 
+  <!-- JOBS -->  
+    <div id="submJobs" class="subnav-group">
+		
+        <div class="subs lead">
+          <h1>Find a Job</h1>
+          <ul class="lead">
+		  	<li><a href="http://www.nctimes.com/jobs">Job Search</a></li>
+            <li><a href="http://www.nctimes.com/jobs">Log In</a></li> 
+			<li><a href="http://nctimes.com/hotjobs_topads">View Top Jobs</a></li>
+			<li><a href="http://hotjobs.yahoo.com/create-resume?partner=oceansideescondido">Post Resume</a></li>
+			<li><a href="http://help.yahoo.com/l/us/yahoo/hotjobs/?partner=oceansideescondido">Jobs FAQ and Help</a></li>
+			<li class="h1-subhead"><a href="http://hotjobs.yahoo.com/careertools?partner=oceansideescondido">Research Tools</a></li>       
+			<li><a href="http://hotjobs.yahoo.com/career-articles?partner=oceansideescondido">Career Articles</a></li>
+			<li><a href="http://hotjobs.yahoo.com/salary?partner=oceansideescondido">Salary Info</a></li>
+			<li><a href="http://hotjobs.yahoo.com/interview?partner=oceansideescondido">Interviewing Tips</a></li>
+			</ul>
+        </div>
+        
+        <div class="subs">
+          <h1>Quick Search</h1>
+          <ul>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Accounting_Finance-t-anytime-g-578132?partner=oceansideescondido">Accounting &amp; Finance</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Construction_Facilities-t-anytime-g-578132?partner=oceansideescondido">Construction</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Education_Training-t-anytime-g-578132?partner=oceansideescondido">Education</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Healthcare-t-anytime-g-578132?partner=oceansideescondido">Healthcare</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Manufacturing_Operations-t-anytime-g-578132?partner=oceansideescondido">Manufacturing</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Sales-t-anytime-g-578132?partner=oceansideescondido">Sales</a></li>
+			<li><a href="http://hotjobs.yahoo.com/job-search-c-Government_Military-t-anytime-g-578132?partner=oceansideescondido">Government &amp; Military</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido&amp;keywords_all=part+time&amp;type=main&amp;metro_area=1">Part Time</a></li>
+			<li><a href="http://hotjobs.yahoo.com/jobseeker/jobsearch/search_results.html?company_gid=578132&amp;partner=oceansideescondido">Browse All</a></li>
+		    </ul>
+        </div>
+        
+		<div class="subs">
+          <h1>For Employers</h1>
+          <ul>	
+        	<li><a href="http://www.nctimes.com/jobs/packages/">Place an Ad</a></li>
+			<li><a href="http://selfcare.hotjobs.yahoo.com/hjss/hjss_partners.php?P=oceansideescondido">Sign In</a></li>
+			<li class="h1-subhead"><a href="http://www.nctimes.com/workhere">Jobs at NCT</a></li> 
+		  </ul>
+		</div>
+		
+     	<div class="subs">
+			<h1>Yahoo! HotJobs Local Search</h1>
+			<script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/nav_jobs_button/static.js"></script>
+		</div>
+     
+	</div>
+    
+
+</div><!-- *************************************************************************************************************************** -->      
+
+ 	    <!-- COL 1,2 -->  
+ 	    <div id="twocols" class="c980 floatleft">
+ 	      
+ 	      <!-- COLUMN 1 - STORY CONTENT -->	  
+ 	      <div id="col1_story" class="c640 floatleft rborder">
+ 	        
+ 	        <div class="groupItem">
+ 	          <h1>Web site offers to report illegal immigrants ---- for a fee</h1>
+               <h2></h2>
+		      <p class="by">By: EDWARD SIFUENTES - Staff Writer |<span class="published"> <span class="timestamp">Friday, December 24, 2004 8:54 PM PST</span></span> <a href="https://secure.townnews.com/nctimes.com/forms/link/linkform.php?des=Web site offers to report illegal immigrants ---- for a fee" target="_blank"> &infin;</a></p>
+				      
+              <div class="tool_options"> 				     
+                   <ul id="storytools">
+                      <li class="comment"><a href="#nctcomments"><span class="simpleblog-count">73 comment(s)</span></a></li>
+                        <li class="fontup"><a href="javascript:IncreaseFontSize(2)" title="Enlarge article font size.">Increase Font</a></li>
+                        <li class="fontdown"><a href="javascript:DecreaseFontSize(2)" title="decrease font size.">Decrease Font </a></li>
+                        <li class="email">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2004/12/25/news/top_stories/12_27_4312_24_04.eml" target="emailafriend">email this story</a>                         </li>  
+                        <li class="print">
+                              <!--needed to overwrite  configure.ini setting, can remove once completely changed... -->
+                            <a href="http://www.nctimes.com/articles/2004/12/25/news/top_stories/12_27_4312_24_04.prt" target="printable">print this story</a>                        </li>
+                </ul>
+                            
+                    <div class="clearleft"></div>
+              </div>
+                      
+                  
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+              <div class="instory-content clearboth">
+                
+                              </div>
+                      
+			  <p>There are many Web sites on the Internet that tell people how to report illegal immigrants. Most groups sponsoring those sites direct concerned residents to a government-sponsored, free tip line.<br/><br/>But one business gaining notoriety goes a step further and offers to act, for a fee, as the middleman between citizens and federal authorities.<br/><br/>The Web-based service charges customers &#036;10 to file reports with federal agencies about suspected illegal immigrants.<br/><br/>Immigrant-rights groups say they are concerned about the business because they believe it could stir anger aimed at illegal immigrants.<br/><br/>Dave Caulkett, a Florida man, founded the private, for-profit Web site, called ReportIllegals.com. It aims, he said, to facilitate reporting illegal immigrants and business owners who hire them to federal authorities, including the FBI and Department of Homeland Security.<br/><br/>Federal authorities said they are discouraging people from using the site, pointing out that immigration agencies have their own free tip line to report immigration crimes.<br/><br/>Other anti-illegal-immigrant groups that offer information on how to report illegal immigrants on their Web sites include Voice of Citizens Together, American Border Patrol and Stop the Invasion.<br/><br/>Caulkett's site has been around for about a year, but recently the service has received national and international media attention, causing business to skyrocket, Caulkett said in a phone recent interview with the North County Times.<br/><br/>Caulkett wouldn't say how many hits his site had received, but did say his business tripled after a story about the Web site ran in the Orange County Register.<br/><br/>"It's not a lucrative business, but it's getting to be," he said.<br/><br/>The service has some immigrant advocates worried that the site may foster hatred against illegal immigrants and may exploit people's anger at immigrants for profit.<br/><br/>"It's easier to stir public anger with fear and loathing of immigrants than it is to understand the very important, positive role that immigrants play in this country," said Rick Swartz, an immigration attorney and founder of the National Immigration Forum, a immigrant-rights advocacy group.<br/><br/>Swartz said he is concerned that the Web site could be misused to report legal immigrants and that it raises legal questions, such as possible slander. But he added that he was not familiar enough with the service the Web site provides to form a legal opinion.<br/><br/>Officials with the U.S. Immigration and Customs Enforcement, an investigative arm of the former Immigration and Naturalization Service, said the site is not government-sponsored and that the federal agency has its own toll-free service where people can report illegal immigrants.<br/><br/>"We highly recommend that the public use our toll-free tip line, and individuals can be assured confidentiality and that we respond to all leads," said Lauren Mack, a spokeswoman for Immigration and Customs Enforcement in San Diego.<br/><br/>Mack said that all leads, including those the agency receives from Caulkett, are thoroughly investigated by immigration officials paying close attention to false accusations. Mack said she didn't know how many cases the federal agency has received from ReportIllegals.com.<br/><br/>Caulkett said the government's tip line often frustrates people because they are often put on hold. He also complained that, in his view, people find it difficult to keep straight the various phone numbers needed to report crimes to different agencies.<br/><br/>"People have a hard time finding the number or the number is busy," Caulkett said. "In some areas, (federal offices) don't even accept reports except in writing."<br/><br/>Caulkett, of Pompano Beach, Fla., lost his job in information technology a year ago and decided to merge his work as an anti-illegal immigration advocate with his work in computers, he said. He had been running another Web site that targeted illegal immigration before he got the idea for ReportIllegals.com.<br/><br/>The Web site offers "a simple, fast and anonymous way to report illegal immigrants and their employers," Caulkett said. But he can't guarantee that complaints will be quickly acted upon, he said.<br/><br/>To file a complaint, customers are asked to fill out as much information about the suspected illegal immigrants and their employers as they have, such as name, address, nationality, age, gender, and recognizable marks, such as tattoos.<br/><br/>The &#036;10 fee can be paid by check or credit card.<br/><br/>Depending on the information, Caulkett said, he files complaints with the Department of Homeland Security, Social Security Administration, Internal Revenue Service or FBI.<br/><br/>"I've been surprised by the level of detailed information that people provide," Caulkett said. "It's clear that the people who report know these individuals."<br/><br/>Caulkett rejected the accusation that his Web site fosters hatred or racism.<br/><br/>"The fact is that a good portion of our clients are Hispanics," he said. "I firmly believe that legal Hispanics are not (illegal immigrant) advocates."<br/><br/>He added: "I try to at least equally focus on the employer. I know that I'm pushing the envelope, but I reject any notion that race has anything to do with it."<br/><br/>The U.S. Immigration and Customs Enforcement's free tip line is (866) 347-2423.<br/><br/>Contact staff writer Edward Sifuentes at (760) 740-5426 or <a href="mailto:esifuentes@nctimes.com">esifuentes@nctimes.com</a>.</p>
+		     
+            <!-- *************************************************************************************************************************** --> 
+                    <div class="margin20top">
+            	 	<span class="floatright">
+<a href="http://www.nctimes.com/articles/2004/12/25/news/top_stories/20_43_1412_24_04.txt"><img src="http://images.townnews.com/nctimes.com/zimages/08/next_story.gif" border="0" alt="Next"></a></span>
+             		<a href="http://www.nctimes.com/articles/2004/12/25/news/top_stories/12_24_2212_24_04.txt"><img src="http://images.townnews.com/nctimes.com/zimages/08/previous_story.gif" border="0" alt="Previous"></a>
+                    <div class="clearboth"></div>
+  </div>                    <!-- *************************************************************************************************************************** -->      
+             
+	        </div>
+            
+            <div class="groupItem8-8-8-8">
+                    
+                    <!-- *************************************************************************************************************************** --> 
+                    					<div class="boxed floatleft" style="width:300px;">
+                            <h2 class="bottomdottedborder textcenter">More Stories</h2>
+                               <ul class="secondary clearleft">
+                                     
+                                     <li><a href="http://www.nctimes.com/articles/2004/12/25/news/top_stories/12_24_2212_24_04.txt">Celebrating a special Christmas - Residents of hospices, shelters give thanks for blessings</a></li><li><a href="http://www.nctimes.com/articles/2004/12/25/news/top_stories/12_27_4312_24_04.txt">Web site offers to report illegal immigrants ---- for a fee</a></li><li><a href="http://www.nctimes.com/articles/2004/12/25/news/top_stories/20_43_1412_24_04.txt">Christmas weather: warm, sunny</a></li>
+                               </ul>
+                    </div>
+                    <!-- *************************************************************************************************************************** -->      
+                    
+                    
+                    <div class="boxed floatright" style="width:290px;">
+                    <!-- *************************************************************************************************************************** --> 
+                    <!--	 <p class="tags margin10bottom"><span>More Stories:</span> <a href="/pages/?q=[component:byline]&byline=1">[component:byline]</a></p>
+-->                   
+                                                     <!-- *************************************************************************************************************************** -->      
+                    </div>
+                    
+                  <div class="clearboth"></div>
+            </div>
+            
+            
+            <div id="socialbookmarking" class=" groupItem tool_options">
+ 	            
+ 	            <div class="clearboth"></div>
+                
+            </div>
+            
+            <div class="groupItem">
+            	<!-- ******************[yahoo_content_match]************************************************************************************ --> 
+        		 
+<!-- Yahoo Content Match Category = news -->
+
+                <style type="text/css">
+                        @import url('http://www.nctimes.com/shared-content/newsys-yahoo-search/css/content_match_styles.css');
+                </style>
+                <div class="yahoo_content_match"><h1><a class="side_ads" href="http://searchmarketing.yahoo.com/srch/contentmatch.php" rel="nofollow">Ads by Yahoo!</a></h1>
+
+<div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ABi3z7rJxqHXmcRyIIXH4Wliu3_MGz5ZwFyOvqdGimomAgaqfviIPGNgV0tE2Z6AKJ0lbFI1WjCABraIvodlkxGxWtPhYG1mwVLe_EBevKWpL8Uac0YtQc3p-_akiiC80ZGFrtmhp1vpeKiwIPgi6Z2U7CjeQUMnmGhYPkW0esdaCPSarbcAXCPFfR9wPBOUdfbTL7WqXonqLZvFWk5sq5O3rMQaRJuAjavo_3EngTR5-ABAcW0Rki4LhOGpvaJaZQ" rel="nofollow">No Time for School? Graduate Online</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ABi3z7rJxqHXmcRyIIXH4Wliu3_MGz5ZwFyOvqdGimomAgaqfviIPGNgV0tE2Z6AKJ0lbFI1WjCABraIvodlkxGxWtPhYG1mwVLe_EBevKWpL8Uac0YtQc3p-_akiiC80ZGFrtmhp1vpeKiwIPgi6Z2U7CjeQUMnmGhYPkW0esdaCPSarbcAXCPFfR9wPBOUdfbTL7WqXonqLZvFWk5sq5O3rMQaRJuAjavo_3EngTR5-ABAcW0Rki4LhOGpvaJaZQ" rel="nofollow">Get a Degree in as Few as 2 Yrs- Graduate Faster with Online Classes.<br/>
+
+<em>www.ClassesUSA.com</em></a></p></div><div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AAUzSxQ5k4BNrRSbOlhAlnIL3NdsqnefiGYuP0w2lklbY3g5S88qG1v3jiKRfst4mhGH9vtnmjYFVRY1EObb-xVX3g9Epc03HfFqRNuaR2K2GS3igqfEbL3rh0gaPAvmnDkkbCreDhPM6fUTg0sqJ2jq9bprXhxSrWkA-qu1oz-LSjyH6ShWW2eORsynbL7fBocafTphiOU6MQVbLzSrGYCZAV6zNrqE9bLtej9Yi43Mup2MR1gJRILsDDq0487tyg" rel="nofollow">Online Degrees</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20AAUzSxQ5k4BNrRSbOlhAlnIL3NdsqnefiGYuP0w2lklbY3g5S88qG1v3jiKRfst4mhGH9vtnmjYFVRY1EObb-xVX3g9Epc03HfFqRNuaR2K2GS3igqfEbL3rh0gaPAvmnDkkbCreDhPM6fUTg0sqJ2jq9bprXhxSrWkA-qu1oz-LSjyH6ShWW2eORsynbL7fBocafTphiOU6MQVbLzSrGYCZAV6zNrqE9bLtej9Yi43Mup2MR1gJRILsDDq0487tyg" rel="nofollow">Get Your AA, BA, Masters or PhD at a Top Online School. Start Now.<br/>
+
+<em>www.NexTag.com</em></a></p></div><div><h2><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ABi3z7rJxqHXvgmRoSCqDQo3pbZD6_GgHbMjGkLVfhoGlythO-H5rtGv5IgHYSp-XfWH7T_Y39C5kuK2vzkNDC6VjyY92mTjT5mPvsdAYCR2aoAWl1it_Il5t8xZ7iLLwO74RQAENTFVAkdXGVhKpQE3nlODTRiupUYOcL-SYrPxNXl32qS5ktD3gO0EXmzg2TZ28c1ufJLL6LoMRFBCiHktFWQ7Z643wB4f4zi9PxXBkmIzdhCw8InmxFPSTkn7Nw" rel="nofollow">See Today's Mortgage Rates</a></h2>
+
+<p><a href="http://rc.us-east.srv.overture.com/d/sr/?xargs=20ABi3z7rJxqHXvgmRoSCqDQo3pbZD6_GgHbMjGkLVfhoGlythO-H5rtGv5IgHYSp-XfWH7T_Y39C5kuK2vzkNDC6VjyY92mTjT5mPvsdAYCR2aoAWl1it_Il5t8xZ7iLLwO74RQAENTFVAkdXGVhKpQE3nlODTRiupUYOcL-SYrPxNXl32qS5ktD3gO0EXmzg2TZ28c1ufJLL6LoMRFBCiHktFWQ7Z643wB4f4zi9PxXBkmIzdhCw8InmxFPSTkn7Nw" rel="nofollow">Calculate Your New Mortgage Payment. See Rates- No Credit Check Req.<br/>
+
+<em>www.LowerMyBills.com</em></a></p></div></div>				<!-- *************************************************************************************************************************** -->   
+            </div>
+
+
+		      <!-- comments -->
+ 	        
+ 	        <div id="nctcomments" class="groupItem clearboth">
+                 
+
+ 	          <div class="itemHeader"><span class="simpleblog-count">73 comment(s)</span><a href="#" class="closeEl plus-minus">[-]</a><span class="more-section"><a href="#">Go to Top</a></span></div>
+					    
+				<div class="itemContent">
+					  
+				    
+					<a id="blogcomments"></a><div class="simpleblog-results"><a id="9f1610a037e0bb280e7197a6eef0e5c2"></a><p><span class="simpleblog-name">andrea</span> wrote on <span class="simpleblog-date">Oct 19, 2005 5:17 PM:</span><span class="simpleblog-response">where do you report national company that has employed illegal immigrants with false documentations in the states of texas and oklahoma
+</span></p>
+<a id="80d42a2b35434da3715d1c1e1d4a5f1e"></a><p><span class="simpleblog-name">Susan</span> wrote on <span class="simpleblog-date">Nov 14, 2005 7:03 AM:</span><span class="simpleblog-response">I have reported several times to the DHS Custom and Immigration Department. But no action is being taken. I think US is just making an propaganda on the immigrant issue.
+
+If you want to see the immigrant flow and working under table, pay no taxes, focus not only mexican but also other immigrants, such as asian owned businesses, Inidan restaurants. I can guarantee you 3 in 5 employees in Indian cusine are illegally working.
+
+Have you ever thought that?
+
+</span></p>
+<a id="461f44a6ce74040c6a5584d6fc4581c7"></a><p><span class="simpleblog-name">Debra</span> wrote on <span class="simpleblog-date">Nov 29, 2005 2:45 PM:</span><span class="simpleblog-response">where do i report a company that has known illegal  immigrants that take up most of the workforce with false paperwork in order to work at motorola?</span></p>
+<a id="d03b609c1da5693f844430ef79ceade2"></a><p><span class="simpleblog-name">Dan</span> wrote on <span class="simpleblog-date">Dec 14, 2005 3:20 PM:</span><span class="simpleblog-response">I would like to get all of the "no Hablas" out of America.</span></p>
+<a id="a9f00cd608ddbd293a144b7ec78a6323"></a><p><span class="simpleblog-name">Clyde</span> wrote on <span class="simpleblog-date">Jan 17, 2006 11:58 AM:</span><span class="simpleblog-response">Being a victom of marriage fraud, I to have reported to fact to I.C., and this was 9 months age. Mow that this has accured there is a sister doing the same thing to another man here in this area. Why and who cares anymore. They are both here to work and send money home to aid rebellion agains the United States. CONCERNED!</span></p>
+<a id="b0ba9c9563c41e01b8b269e190c3116e"></a><p><span class="simpleblog-name">Karl</span> wrote on <span class="simpleblog-date">Feb 2, 2006 7:33 PM:</span><span class="simpleblog-response">Can you citizen arrest an illegal?</span></p>
+<a id="375b257f6115130ef9f5412303558933"></a><p><span class="simpleblog-name">Rocio</span> wrote on <span class="simpleblog-date">Feb 27, 2006 2:11 PM:</span><span class="simpleblog-response">Ok, well I just want to know how you can report someone that is using other people's papers? And how I can I tell imigration?  </span></p>
+<a id="d606021e6bd7e8454528548ef10f4ad5"></a><p><span class="simpleblog-name">sarah</span> wrote on <span class="simpleblog-date">Apr 19, 2006 11:30 AM:</span><span class="simpleblog-response">I know of 10 illegal Brazilians working in New Hampshire and Mass. who live and work among us. They have false documents and the police have looked at their FALSE PASSPORTS and let them go with out questioning the Brazilians. How can I report them to be deported without being charged a fee for giving the government information about them? </span></p>
+<a id="fa92ca06b42a1ee41ef27e27d0afb08c"></a><p><span class="simpleblog-name">Viejo</span> wrote on <span class="simpleblog-date">Apr 21, 2006 9:32 AM:</span><span class="simpleblog-response">"Undocumented Immigrants" is incorrect; many illegal aliens have fake documents out the kazoo.</span></p>
+<a id="ffe08e3b630383ff672dce61db62af6b"></a><p><span class="simpleblog-name">Habu@reno.com</span> wrote on <span class="simpleblog-date">Apr 21, 2006 9:33 AM:</span><span class="simpleblog-response">What is a web site or email address where I can send reports of illegal aliens using safehouses in my neighborhood?</span></p>
+<a id="536bc1cddd1b36a03fb5b20335c99241"></a><p><span class="simpleblog-name">milli</span> wrote on <span class="simpleblog-date">May 1, 2006 5:00 AM:</span><span class="simpleblog-response">I feel these ILLEGAL IMMIGRANTS have some nerve coming in here ILLEGAL and expect the same rights as us united States citizens they drain our resources and keep on bringing in more and more ILLEGAL mojados we need to build higher borders. People dont realize they affect their childs education by over crowding our schools with ILLEGALS WHO DONT PAY TAXES they also take away the future from their children when they become adults and look for work but cant find any because the ILLEGALS KEEP STEALING WHATS NOT THERES .</span></p>
+<a id="eb74d93e2865ba2bc4098df65238ea14"></a><p><span class="simpleblog-name">leonardc.</span> wrote on <span class="simpleblog-date">May 5, 2006 4:10 PM:</span><span class="simpleblog-response">it is sad that people come here and see the waste the american people create, the throw away effect. If it is broken then throw it away. If a marriage is broken then get rid of it. We made our horrible lives seep into others and addict the " I DON'T GIVE A CRAP ADDITUDE, AND THATS TOO BAD". We got what we sow, a goverment that has no direction. We put on our money " IN GOD WE TRUST ", Now we can blame God for our uselessness. Lets try being HONEST for once.</span></p>
+<a id="7251cadd89fda4351a781a5608014e91"></a><p><span class="simpleblog-name">Dave from California</span> wrote on <span class="simpleblog-date">May 13, 2006 8:21 PM:</span><span class="simpleblog-response">After the May 1st rallies all across the U.S. It is now time our voices are heard. We are not going to stand by and let our country continue to be over run by illegals! It's time we come into the spotlight, raise our voices and push President Bush to take a stronger, bolder stance on illegal immigration. We will not stand for this any longer. </span></p>
+<a id="13410e0f448f08b8a319060092e66ba5"></a><p><span class="simpleblog-name">laura from colorado</span> wrote on <span class="simpleblog-date">May 17, 2006 6:47 PM:</span><span class="simpleblog-response">I know a family who is here illegal and they own a business .the owners pay people to cross the others and they have them working at the location .who do i report this to ? and one of the came over with a visitors visa and when its time to return she sends the permit back with someone else. she has lived here for 8 years and works with a visiter visa and renews it all the time and she tells immigration she lives in mexico,i guess our goverment needs to do checks more often. so who do i call to report this and will someone do something about it?</span></p>
+<a id="e8eebee258f5022639440615f59efd4c"></a><p><span class="simpleblog-name">Nathan greeley colorado</span> wrote on <span class="simpleblog-date">May 17, 2006 6:53 PM:</span><span class="simpleblog-response">all the illegals need to go !!!!!! be deported no matter what. if they break the law they need to go, why do we pay for things we do and they dont! wake up america they need to be stopped now!!!!!!!!!!!!!!!!!</span></p>
+<a id="9413edba115fab972a316cd685dd9b9c"></a><p><span class="simpleblog-name">Erika</span> wrote on <span class="simpleblog-date">May 25, 2006 8:44 PM:</span><span class="simpleblog-response">America is the land of immigrants if anything the NATIVE AMERICANS (INDIANS) are the only ones that can kick all of us out. So stop pretending like this is your country because I bet your ancestors and parents are from other countries also. And please stop calling us the no hablas dan because soon some no hablas is going to take your job. And with the other comment said about taking your jobs. You have to be dam stupid to think that in order to take something away from you so called native americans a good job and education you need real good back ground check social security. So stop pointing fingers and blameing others for your broken dreams and unaccomplished life ok. If you don't like it go back to your countries I bet your back ground is not 100% american so hush and live your life its a battle deal with it grow up.  </span></p>
+<a id="4025f337c5936a2fe0e4c009f727f826"></a><p><span class="simpleblog-name">leticia, California</span> wrote on <span class="simpleblog-date">May 26, 2006 2:01 PM:</span><span class="simpleblog-response">as said by erika.... we might not all be native americans. My ancestor were nbot native americans but yet they moved here and whe it came time for them to actually have to fill out papers to get legalized they did. Now they are legal citizens of our beloved USA if they could do it barely knowing how to speak or write english so can the illegals try to at least be legal citizens instead of just moving over here like it's "no man's" land and just take over. </span></p>
+<a id="576c44fe29860e51e52f561dbc9c18cd"></a><p><span class="simpleblog-name">Daniel Spellman</span> wrote on <span class="simpleblog-date">May 31, 2006 11:20 AM:</span><span class="simpleblog-response">Illegals are like those that get into movies for free with out paying. They get the benifits of the show but do ont do the right thing to get in. The want the benifits of America but do not want to do the right thing to get those benifits. Robers they are. The illegals in my city have bid on jobs so low, that true Americans want, that they are running the American contractors out of business. what would you say if they took your job away from you unjustly?</span></p>
+<a id="b6a9e1cb1454bab0391bf033c4184366"></a><p><span class="simpleblog-name">Lisa</span> wrote on <span class="simpleblog-date">Jun 14, 2006 6:36 AM:</span><span class="simpleblog-response">I want to report an illigal immigrant who came here as a worker contract and didn't leave the country by the time her visa expired.  She has no legal document to stay so she decides to seduce a marriage man to divorce his family and marrige her so she can stay.  Her dream is broken because it didn't happen. Should i report this woman?. Right now she is involve in fraudule marriage scam so she can stay. She would do anything to harm anybody for her benefit.  Is that a right attitude for a new US citizen? </span></p>
+<a id="dea5fc2a823a70311994a50443e5d6ec"></a><p><span class="simpleblog-name">Dave</span> wrote on <span class="simpleblog-date">Jun 14, 2006 9:18 PM:</span><span class="simpleblog-response">I met someone, Manuel is his name who is on an H1 (worker's) visa who is now applying for a green card. They have some nerve since they brought an illegal nanny from the Philippines!  the nerve to break the law but want to gain lawful residency in the US! And they justify the nanny's presence by saying that why do we judge them since the nanny is trying to make a better life here.  The worse of it is the lawyer who is doing their application in New York knows all about the illegal nanny! Does anybody have any more morals left? </span></p>
+<a id="c0a00f7abcb4d3db483a5fc4c46e5a86"></a><p><span class="simpleblog-name">Susan</span> wrote on <span class="simpleblog-date">Jul 13, 2006 5:42 PM:</span><span class="simpleblog-response">America is one land of opportunity...anyone who's illegal here should understand that concept and make the best out of it. What's sad is most of the illegal aliens are taking advantage of the opportunity.  Pay tax....get higher education....make a difference.....stop the crime, stop the teenager unwanted pregnancies, and non-sense gangs!!! Those people SHOULD GET DEPORTED!! but not the ones who are making effort to live and work hard toward American dreams and make a difference.</span></p>
+<a id="61e3c9f40241bd94dc894de5561bdfc7"></a><p><span class="simpleblog-name">Nicole</span> wrote on <span class="simpleblog-date">Aug 8, 2006 1:10 AM:</span><span class="simpleblog-response">My mother and I both liscenced house keepers have lost several jobs to illegals who would do the work for a much lower wage. We also have a difficult time getting new jobs at a decent wage when there are the illegals who will do the labor for minimum wage. I also work another job part time were one hispanic man has admited to me that he struck a deal with the store owner that he would work for so and so and is paid under the table. The owner gets the same cook 6 days a week 12 hours a day at a lower wage and the cook gets paid no questions asked. I wonder about the other people working there?</span></p>
+<a id="b767dd3d19f6db2ffe99403be699eec1"></a><p><span class="simpleblog-name">carmen</span> wrote on <span class="simpleblog-date">Aug 8, 2006 12:57 PM:</span><span class="simpleblog-response">who do i call when a huge staffing agency located in Georgia, Orlando, New Orleans, and Alambama has 80% of the workers are illegal. I was fired because i did not want to sign 1-9's which i did not see proper documentation.i will not let the owner get away with paying these people 5.15 hour and him getting richer and richer by the day off of the illegal workers.who do i call to notify that this is the way he runs his business?</span></p>
+<a id="748da2afd29c14378e15d1bc9ffb32da"></a><p><span class="simpleblog-name">shantay</span> wrote on <span class="simpleblog-date">Oct 27, 2006 8:00 AM:</span><span class="simpleblog-response">The father of my children is an illegal immigrant. I did not know at the time, because I was young and stupid.Now I know that he is and I would like to turn him in and his brothers. I don't feel it's right for them to come here and have children with american citizens, get married,try to get their papers and than leave the family that they cared so much about.That is heart breaking to the people that do love them.</span></p>
+<a id="0a908c89d05a7ed17beb970cf77a1030"></a><p><span class="simpleblog-name">George</span> wrote on <span class="simpleblog-date">Oct 28, 2006 2:57 PM:</span><span class="simpleblog-response">I am a production supervisor and 99% of my crew are known to be illegal by the HR department.  What happens to me if I report my company and then I have no workers to do the job?  The company would shut down and I would be out of a job.</span></p>
+<a id="e063d81dcdeb6fd7af403b5145be86ea"></a><p><span class="simpleblog-name">khan</span> wrote on <span class="simpleblog-date">Nov 18, 2006 8:40 AM:</span><span class="simpleblog-response">Hi...i want to report someone in uk whos illegal...can you please tell me how do I do that?</span></p>
+<a id="63a9811c4bb20dce04012cf7f9237fd1"></a><p><span class="simpleblog-name">Brian</span> wrote on <span class="simpleblog-date">Nov 29, 2006 10:51 AM:</span><span class="simpleblog-response">I want to first start off by saying its sad that we need to pay to report illegal immigrants and send in the form. It should be free cause after all, were helping the country by cracking down on the laws. Anyway, i am from a small town in PA called Doylestown. It is in bucks county. there are many landscaper that are using these illegal from an apartment across the street from a WAWA in Plumbsteadville, North of doylestown, off of rt611. During the summer time, there's about 200 guys there, and winter season about 50ish? I am tired of these guys and i got laid off by my employer because of this problem. if you could look in to it or possibly lead me in the right direction so i could solve this problem, id appreciate it.  
+
+</span></p>
+<a id="07adce8c07f75ab2a30734b797e3b9aa"></a><p><span class="simpleblog-name">julia</span> wrote on <span class="simpleblog-date">Dec 5, 2006 11:18 AM:</span><span class="simpleblog-response">I had report some tenants from Argentina and are making my life miserable, but there is no resolt from Home Land and Security
+This people claim they are not affraid of any one reporting them because nothing is going to happen, mean while they keep a pig home, not paying on time wanting me to physically attack them so they can get money from me etc, I am going crazy</span></p>
+<a id="78ee91cc4a144f8b211c189868890898"></a><p><span class="simpleblog-name">smblitz</span> wrote on <span class="simpleblog-date">Dec 9, 2006 11:28 AM:</span><span class="simpleblog-response">My daughter is only 18 years and going out with illegal immigrant. he told her the his what to get marriage asap, but i told her the she should finish high school first. I know from his action, he's after papers because i hearing from somebody, but she does believes.He also work with fake documentation, do drugs.
+What do i do in this situation?</span></p>
+<a id="9b3cce3ede848ce0a2d3bc211a4ee929"></a><p><span class="simpleblog-name">rach</span> wrote on <span class="simpleblog-date">Dec 13, 2006 5:26 PM:</span><span class="simpleblog-response">Illegal immigration is something that I think is too overlooked in our country.  In order to get anything done we have to do it ourselves; but pay a fee too?  Why should we (legal US citiens) have to pay a fee to report ILLEGALS so that we can send them back home.  Unfortunately there are those out there that believe that the immigrants are coming here to do the cheap labor that we don't want to do so it's fine- but it's not. One of my restaurant managers is an illegal, along with a number of other employees.  They have their fake papers, cards, id's, etc. I'm a waitress and I would much rather have his job.  He works to support himself, his illegal girlfriend, and her kid, plus he sends money to Mexico.  He pays his taxes and what not, but the fact remains, he's an illegal. It's not fair that he should be able to live the way he does while there are others that are in fact busting their ... so that they can be legal US citizens- why can't everyone do that. I just say that we close our borders all together for a couple of years and only allow tourists and vacationers to come for a limited time and then see where our economy lies. Increase border patrol, punishments, instill the fear. We're the US and we don't want illegals here.</span></p>
+<a id="f4ec4f30723bb486a218c606df0d7dd9"></a><p><span class="simpleblog-name">Beatriz</span> wrote on <span class="simpleblog-date">Dec 21, 2006 7:07 AM:</span><span class="simpleblog-response">I can't believe how much ignorant there is posted in these site. You white folks need to understand one thing, we the so call illegal immigrants do not come here to steal anything, we come after a dream just like everyone back in the early 1900 came with. We wouldn't come to the states unless we had, our countries are rich in beauty and history but unfortunately the goverments makes it hard for us too stay, so we come here to work and give out families a better life styles, yes is true if you life here get legalize, but is not that easy it is a very hard process, and noone unless you've been on that boat could understand how hard it is to get your papers.  So please thing these immigrants are giving their lives and living families behind to go and fight for this country, do we give them credit for that NO!!! If you are a criminal and are doing things to harm another by all means they should be punished, but not all hispanics or asians, or indians, etc. are bad.</span></p>
+<a id="b30eb514e8e2105f486d338b1be562ef"></a><p><span class="simpleblog-name">rob</span> wrote on <span class="simpleblog-date">Jan 2, 2007 11:09 PM:</span><span class="simpleblog-response">I Know someone a family that is illegal and they are fugitive and work with fake documentation how can I report them? please let me know .</span></p>
+<a id="586b0b35246346f7edd168f96ec58b36"></a><p><span class="simpleblog-name">aracely</span> wrote on <span class="simpleblog-date">Jan 22, 2007 5:42 PM:</span><span class="simpleblog-response">how can i report people working with papers of family members that are deceased? what if they bought a house with a deceased person's social security number in las vegas, nv</span></p>
+<a id="396ea558c43430b3ad2e6b90901b920b"></a><p><span class="simpleblog-name">monica</span> wrote on <span class="simpleblog-date">Feb 22, 2007 10:28 AM:</span><span class="simpleblog-response"> how can i report ilegal person workin in a warehouse in los angeles</span></p>
+<a id="d9139b78c12a212d131c08803f56c041"></a><p><span class="simpleblog-name">veronica</span> wrote on <span class="simpleblog-date">Mar 7, 2007 4:25 PM:</span><span class="simpleblog-response">how can i report ilegal south america  person's working in a restaurant, in los angeles the only thing the owner will save money is to hire one ilegal person, rather than three person paying the minimun salary for each of them.</span></p>
+<a id="cd7d4ba4d3d9dc9690d7c0415fe5bf34"></a><p><span class="simpleblog-name">Rosa</span> wrote on <span class="simpleblog-date">Mar 14, 2007 3:59 PM:</span><span class="simpleblog-response">I WANT TO KNOW IF I REPORT A PERSON, DO YOU PAY FOR THAT? HOW LONG WOULD IT TAKE FOR YOU GUYS TO PICK UP THIS PERSON? I HAVE HER NAME, HER COUNTRY NAME, AND HER PASSAPORT NUMBER, </span></p>
+<a id="498e17b26edee2f2d7ea3fe8fc3cc25a"></a><p><span class="simpleblog-name">Mari</span> wrote on <span class="simpleblog-date">Mar 16, 2007 9:52 PM:</span><span class="simpleblog-response">From what I see, all the people that have written in this chat room want to report someone illegal.  Does the goverment really do something about it?  Where I work there are also illegals, I've been waiting for years for a raise and can't work overtime because I need to go home to my kids early.  But my boss is very happy with the illegals, since he doesn't pay OT, minimum way and explotes them working 12 hours daily.  Workers don't care because they are paid cash.  WHAT DO I DO?</span></p>
+<a id="5bb12c39cbbc68821ce6ce0ced13019c"></a><p><span class="simpleblog-name">tom</span> wrote on <span class="simpleblog-date">Mar 22, 2007 9:11 PM:</span><span class="simpleblog-response">i work for a company in ...ohio... the owner hear has trucks going to mexico and back every week. there's allwaysnew mexicans hear all the time and they tell me. they all live in an apartment paid for by the owner and he gives them 40.00 dollars a week for food and pays them 2.00 an hour to work. is that illegal or what. plus the romanian group at our place who has people come and go back and forth all the time. they  come hear to work for cash labor for 6 months then go back and then come more. is that illegal.</span></p>
+<a id="74ee03f418efa2bc99e47d9c10d0f8ad"></a><p><span class="simpleblog-name">Kamel</span> wrote on <span class="simpleblog-date">Jun 11, 2007 9:41 AM:</span><span class="simpleblog-response">Hi,
+
+I want to report a undocumented illegal immigrant but I don't want to give my name. Is there a way?
+Thanks a lot</span></p>
+<a id="72579fefac7339202257e1711575523a"></a><p><span class="simpleblog-name">lynn</span> wrote on <span class="simpleblog-date">Jun 13, 2007 7:11 AM:</span><span class="simpleblog-response">I work in uk we are full of illegal immigrants here FULL</span></p>
+<a id="7a1d5dcb999f4a036bb9e5bcccffed3c"></a><p><span class="simpleblog-name">carmina</span> wrote on <span class="simpleblog-date">Jul 2, 2007 2:57 PM:</span><span class="simpleblog-response">have all of you guys ever thought who cuts the vegetables so all you guys can buy them from the market fresh and ready..... you guys are full of it where do all you guys come from? nobody belongs in this country, but the native american's they are the only ones. not only mexican's are illegal; asians, african americans, vietnamese, chinese etc. everybody in the united states is an illegal,but native's. i dont think all those lazzy white men in the exits and entrance of the freeways can't work they're just lazzy, while they there one mexican is doing their job !!!!!!!!!! 
+will any of you guys bust your self up working in the fields cutting cleaning the fruits and vegetables more than 8 hours a day  ? i dont think so can u please stop being so ignorant because thats what you guys are i feel sorry for all you guys. i bet some of you guys favorite food is mexican, but yet here you are talking about them. eventhough you are an illegal and they get there paycheck they pay taxes just like all of us not only you white people pay them..........</span></p>
+<a id="68bee6febb03c4c3ed2f8f8d5649cb2f"></a><p><span class="simpleblog-name">me</span> wrote on <span class="simpleblog-date">Jul 2, 2007 3:09 PM:</span><span class="simpleblog-response">Have all of you guys ever thought who cuts the vegetables so all you guys can buy them from the market fresh and ready..... You guys are full of it where do all you guys come from? Nobody belongs in this country, but the Native American�s they are the only ones. Not only Mexican�s are illegal; Asians, African Americans, Vietnamese, Chinese etc. everybody in the United States is an illegal, but native's. I don�t think all those lazy white men in the exits and entrance of the freeways can't work they're just lazy, while they there one Mexican is doing their job!!!!!!!!!! 
+Will any of you guys bust your self up working in the fields cutting cleaning the fruits and vegetables more than 8 hours a day? I don�t think so can u please stop being so ignorant because that�s what you guys are I feel sorry for all you guys. I bet some of you guys favorite food is Mexican, but yet here you are talking about them. Even though you are an illegal and they get there paycheck they pay taxes just like all of us not only you white people pay them..........
+</span></p>
+<a id="570c7710c17ec88b028bbdd641eb9ec2"></a><p><span class="simpleblog-name">EVA</span> wrote on <span class="simpleblog-date">Jul 16, 2007 7:03 PM:</span><span class="simpleblog-response">I WOULD LIKE TO KNOW HOW TO REPORT AN EILLEGAL THE PERSON TOOK MY IDENITY AND WORKED UNDER MY NAME,DOB AND HAD MY BRITHCRET., SHE ONLY GOT 1 YEAR ON THE MONITER, AND 1 DAY IN JAIL. AFTER SHE TOOK MY IDENITY FOR 5 YEARS. IAM STILL DELLING WITH THE IRS AND AND CREDIT. HELP ME...  </span></p>
+<a id="1646d998063b3ad179f5596170f8a1a5"></a><p><span class="simpleblog-name">carmen</span> wrote on <span class="simpleblog-date">Jul 17, 2007 4:49 PM:</span><span class="simpleblog-response">how can i report an immigrant person who is going to get marry and paid a citizen person for papers?</span></p>
+<a id="c853c097d8da45f3565ecd25e8c8782b"></a><p><span class="simpleblog-name">MIchelle</span> wrote on <span class="simpleblog-date">Aug 12, 2007 10:30 AM:</span><span class="simpleblog-response">Where do i report a company that has known illegal immigrants that take up most of the workforce with false paperwork in order to work at a well known restaurant in western ma.?</span></p>
+<a id="8e586e8acacf5211d2d71a29f6ce6135"></a><p><span class="simpleblog-name">latha</span> wrote on <span class="simpleblog-date">Aug 27, 2007 7:21 PM:</span><span class="simpleblog-response">whom do i have to report if i knew a person who is illegaly livinf in uk?</span></p>
+<a id="0dd41cb6dcf752924f4cc307f5216075"></a><p><span class="simpleblog-name">Cindy</span> wrote on <span class="simpleblog-date">Sep 1, 2007 8:06 PM:</span><span class="simpleblog-response">Hi everyone and many thanks for your comments.
+Do the DHS take all these comments into consideration? what do they do? We all want something to be done to deported illegal alliens in order to avoid crimes and people who breaks federal laws. I actually have contacts of an illegal alien, actually working with illegal documents under a visitor visa.
+She's both visa violotor and illegal alien, so US Immigration what are you up to with all these comments, we are doing the job and we are having no answers? We want a Peaceful and Blessed America. So ca someone tell me where to report?
+Tks</span></p>
+<a id="dd3cb9048369557ee5ba067c1b8c9d5f"></a><p><span class="simpleblog-name">Kelly</span> wrote on <span class="simpleblog-date">Sep 18, 2007 10:01 PM:</span><span class="simpleblog-response">" have all of you guys ever thought who cuts the vegetables so all you guys can buy them from the market fresh and ready..... you guys are full of it where do all you guys come from? nobody belongs in this country, but the native american's they are the only ones. not only mexican's are illegal; asians, african americans, vietnamese, chinese etc. everybody in the united states is an illegal,but native's. i dont think all those lazzy white men in the exits and entrance of the freeways can't work they're just lazzy, while they there one mexican is doing their job !!!!!!!!!! will any of you guys bust your self up working in the fields cutting cleaning the fruits and vegetables more than 8 hours a day ? i dont think so can u please stop being so ignorant because thats what you guys are i feel sorry for all you guys. i bet some of you guys favorite food is mexican, but yet here you are talking about them. eventhough you are an illegal and they get there paycheck they pay taxes just like all of us not only you white people pay them.......... " BIEN DICHO!!!!!!!
+</span></p>
+<a id="53af2147ef7deb5ba64977f6f5c4538d"></a><p><span class="simpleblog-name">sue</span> wrote on <span class="simpleblog-date">Sep 20, 2007 12:06 AM:</span><span class="simpleblog-response">There so many illegal immgrants working  for  Los  Angeles  from Africa and Mexico  as manger  and city officlal.</span></p>
+<a id="65b96935dad67c979b7d017c9a8eadf9"></a><p><span class="simpleblog-name">carmela</span> wrote on <span class="simpleblog-date">Sep 21, 2007 1:32 PM:</span><span class="simpleblog-response">I know a woman who has marreied twice for a green card .by the time she divorced her first husband her papers were still not in order,but she managed to get a degree on an american grant.she now married an american navy soldier she pays a monthly amount to and has all the military benefits until he gets out in another year or so.This is america folks!,I dont even qualify for a student loan because "I make to much money"does anyone care?</span></p>
+<a id="c51a08fad61d0653bb2d509872f9dcd5"></a><p><span class="simpleblog-name">barry</span> wrote on <span class="simpleblog-date">Oct 1, 2007 6:53 AM:</span><span class="simpleblog-response">little river s carolina ; myrtle beach s carolina we are over whelmed with illegal immigrants and nothing being done my neighbors are illegals cops know it yet nothing being done... no dl no insurance no taxes they show other illegals how to work the system (for a fee0 SEND THEM ALL HOME- </span></p>
+<a id="1cef089c09de6b0051d986ecc5bc7b5c"></a><p><span class="simpleblog-name">Angeline</span> wrote on <span class="simpleblog-date">Oct 11, 2007 10:00 PM:</span><span class="simpleblog-response">There's to many illegal Mexican's working with false documents in Riverside Ca. Restaurants, Our children go and apply and they dont't even get hire , because the illegal has taken all positions. Our freeways are full with illegals ,they should stay in  Mexico and dont't come and here! I think the government should do something about this situation and fast!!!!</span></p>
+<a id="a7a29010dd7860f764230a961f69a0a4"></a><p><span class="simpleblog-name">melissa</span> wrote on <span class="simpleblog-date">Oct 31, 2007 10:26 AM:</span><span class="simpleblog-response">i wanted to know how can i reaport someone that has a visa from mexico just to use as tourist and has been using it to get ca id and has been living on this side without any permits also has a fake ss card</span></p>
+<a id="772fa87342876380217ce731711115f7"></a><p><span class="simpleblog-name">Christal</span> wrote on <span class="simpleblog-date">Dec 10, 2007 12:27 PM:</span><span class="simpleblog-response">I know of to businesses that hire illegals with false documents. The two businesses take advantage of the illegals situation. I want to put a stop to it and report the business and employees.</span></p>
+<a id="272a31533118296f929e8fc83009e563"></a><p><span class="simpleblog-name">Angelo</span> wrote on <span class="simpleblog-date">Jan 13, 2008 7:36 PM:</span><span class="simpleblog-response">someone I'm aware of is from afghanstan I know she is not a us citizen and she said she hasn't filled out any paperwork to become a us citizen and she thinks she is a refugee, is she legal or illegal...sounds illegal to me...do the afgannies have refugee status in our country and are there any others? </span></p>
+<a id="902233026aa815d3b4839c3d24a0f9e7"></a><p><span class="simpleblog-name">peter</span> wrote on <span class="simpleblog-date">Jan 20, 2008 1:32 AM:</span><span class="simpleblog-response">Applebees in Chicago ,,,,,,,Bloomingdale and other sites have many illegal workers that do not pay taxes.It is a joke around this time of year as they all claim 8 on their w-2s,,,,they pay nothing,,,,,,</span></p>
+<a id="91d1472741b35f320e5586bff1d6d3d6"></a><p><span class="simpleblog-name">letty</span> wrote on <span class="simpleblog-date">Feb 7, 2008 1:35 PM:</span><span class="simpleblog-response">illegal people don't pay taxes and they own business and buildings,with false resident papers</span></p>
+<a id="c29a705294ea2c82093ed65991cb6189"></a><p><span class="simpleblog-name">livinginfear</span> wrote on <span class="simpleblog-date">Feb 17, 2008 12:19 AM:</span><span class="simpleblog-response">I have a no trespassing order against people that are illegal aliens due to their violence and threats towards myself and family. They have been in this country for about 15 yrs, have valid SS cards, and DLs. I am sick of living in fear of them and feel that they need to go back to their country if they are just here to leech off this country and hurt others in the process. They have even said "we're better than all the citizens here, look how much money we have." That pisses me off because how else did they climb the economic ladder?? If I report them, will something really be done about it? Please help I've already gone to the police about the situation and they keep saying we will see what else they do.</span></p>
+<a id="a33a9bfddce8174575e8c02a1a106355"></a><p><span class="simpleblog-name">clearlikewater</span> wrote on <span class="simpleblog-date">Mar 3, 2008 9:54 PM:</span><span class="simpleblog-response">I reported to reportillegal.com a janitorial company in California which has illegal people working for them. This people have management positions, even though the company knows they are using false documentation. Reportillegal.com already sent to ICE my report but nothing has been done yet, I am really dissapointed about this agency for not been doing their work. </span></p>
+<a id="264a3d44370a56507d47b35238ca72ac"></a><p><span class="simpleblog-name">RUSSIANS</span> wrote on <span class="simpleblog-date">Mar 6, 2008 10:44 AM:</span><span class="simpleblog-response">America [messed]... up again !</span></p>
+<a id="c3b83f46059135a709ce0c71d16698b8"></a><p><span class="simpleblog-name">Cathy</span> wrote on <span class="simpleblog-date">Mar 11, 2008 6:12 PM:</span><span class="simpleblog-response">I just want to know how to report a company that is hiring illegal imigrants. These people have management positions. I don't think its fair for the us citizens that are born here. </span></p>
+<a id="395225c2a9a3815e27f11b51b8c0ca91"></a><p><span class="simpleblog-name">Micaela</span> wrote on <span class="simpleblog-date">Mar 12, 2008 10:18 AM:</span><span class="simpleblog-response">where do you report a company that has illegal immigrants with false documentations in the state of Michigan.?</span></p>
+<a id="0188f7995c1d6fbff7c4bbbd1606b54a"></a><p><span class="simpleblog-name">Ashley</span> wrote on <span class="simpleblog-date">Mar 25, 2008 5:23 PM:</span><span class="simpleblog-response">i am just saying that is there such thing where the immigrants can get caught? if there is then this is the third time i am telling you there there are many immigrants at this location that dont pay taxes and work under the table as we all know this is unfair. this state does not only have mexican people working illegal but there are many for example indians and many more. this location 320 beverly rancocas road willingboro new jersey 08016. i would like this to be checked out as soon as possible if there is such a thing where they get caught thank you very much. </span></p>
+<a id="b00e94b361e556e8ce05f36cb75156fa"></a><p><span class="simpleblog-name">terryann</span> wrote on <span class="simpleblog-date">Apr 5, 2008 11:15 AM:</span><span class="simpleblog-response">i know a set of family that live in brooklyn that is illegal immigrants that work in some one name and number. the daughter married to a man to get her paper and have three and getting free money from the state and the son did the same thing too. the mother dateing a drug man that i think he have a shot gun in the house with the kids.can you please looking to this thank you </span></p>
+<a id="899f6f735a5f0ac54da222b21e3af424"></a><p><span class="simpleblog-name">eliza</span> wrote on <span class="simpleblog-date">Apr 9, 2008 1:10 PM:</span><span class="simpleblog-response">ok well im a citizen of the unnited states of america. but when we talk about immigration i think other people from other countries are, but mexicans i strongly disagree because it was their land first and got stolen away so their just COMING BACK HOME!!!!!!!! so stop saying oh get them out because lets see what american is going to go and clean the nasty things that your not going to do.....</span></p>
+<a id="c0f7c48e7fa6e14b3404b66be5022dfc"></a><p><span class="simpleblog-name">Ashlyn</span> wrote on <span class="simpleblog-date">Apr 19, 2008 6:22 AM:</span><span class="simpleblog-response">I know a few illegal immigrant who lives in the area of LA and Las Vegas! I f I reported this people is there a guarantee that this people will be automatically deported? Is it true it wont do any good to report illegal immigrant unless in violation against the law such as crimes and any other illegal activity.</span></p>
+<a id="d935bad1bf737c71744d6a0512637880"></a><p><span class="simpleblog-name">Luz</span> wrote on <span class="simpleblog-date">May 8, 2008 9:10 PM:</span><span class="simpleblog-response">Ok, well I just want to know how you can report someone that is using  Fake  papers? And how I can I tell imigration? </span></p>
+<a id="5cf9ac1550c25627f256702f43a19625"></a><p><span class="simpleblog-name">heather</span> wrote on <span class="simpleblog-date">May 10, 2008 10:45 AM:</span><span class="simpleblog-response">i just want to know why an illegal alien is able to stay here after being reported to ice, irs and local authorities. i've been trying to get rid of an entire problem company and the apt bldg where the illegals work. if i didn't pay my taxes for 7 yrs i know i'd be in jail.</span></p>
+<a id="ae202c856615926413c83012eeff13bf"></a><p><span class="simpleblog-name">report</span> wrote on <span class="simpleblog-date">May 25, 2008 6:04 PM:</span><span class="simpleblog-response">at work ther is ilegals geting the uper hand at work, but they are illeagals!!!!!!!!! I live in california what do I do.</span></p>
+<a id="4e73810da4c8c9cb293fba69825f9613"></a><p><span class="simpleblog-name">Ed</span> wrote on <span class="simpleblog-date">Jun 23, 2008 5:14 PM:</span><span class="simpleblog-response">I just want to know how to report a company that is hiring illegal imigrants. These people have management positions. I don't think its fair for the us citizens that are born here.</span></p>
+<a id="a8915fb1001fb974e88d1971c4c12acb"></a><p><span class="simpleblog-name">FED UP</span> wrote on <span class="simpleblog-date">Jul 14, 2008 12:43 AM:</span><span class="simpleblog-response">[With] ILLEGALS AND THE DO-NOTHING POLITICIANS. The founders of the US would not stand around waiting for the government to do something abt the invasion we are witnessing.</span></p>
+<a id="8a4a0fd49b06a8761650a7e3788f98a4"></a><p><span class="simpleblog-name">anonymous</span> wrote on <span class="simpleblog-date">Jul 24, 2008 1:00 PM:</span><span class="simpleblog-response">ilive in laughlin, nevada i went to the avi resort and casino and applied for a job and i was neglected the job for no appearent reason. days later i found out that they hired an illegal immigrant for the job. i have nothing against these people but i do ont believe that it is fair that they got the job instead of me now i lost my home due to a foreclosure.. and my children have no money for their school supplies.. i am very dissapointed that our government allows these matters.. please do our country a big favor and check out this casino... it is the AVI RESORT AND CASINO located in LAUGHLIN, NEVADA... please take action towards this</span></p>
+<a id="463e1d050422c2aa34bd829338ebc13c"></a><p><span class="simpleblog-name">sansan</span> wrote on <span class="simpleblog-date">Aug 30, 2008 2:28 PM:</span><span class="simpleblog-response">Hi, Has someone been reported for this? I'm thinking prosecute for company and immigration office. but I do not have idea which department accsept this problem. I know someone is working big company without working status. The porson is getting big position. I do not understand US suport for this parson. Please help me. If you have good idea or infromation and let me know.</span></p>
+</div>
+                    			    
+                </div>
+                
+	        </div>
+			    
+ 			<!--forms -->		
+ 	        <div id="commentform" class="groupItem">
+			
+			<!-- *************************************************************************************************************************** --> 
+        	<p id="commentPolicy">First name only. Comments including last names, contact addresses, e-mail addresses or phone numbers will be deleted. Attempts to misrepresent your identity or impersonate any person will not be approved. All comments are screened before they appear online, so please keep them brief. Comments reflect the views of those commenting and not necessarily those of the North County Times or its staff writers. <a href="http://www.nctimes.com/blogpolicy">Click here</a> to view additional comment policies.</p>			<!-- *************************************************************************************************************************** --> 
+ 	          
+ 	          <div class="itemHeader">Submit Comment<a href="#" class="closeEl plus-minus">[-]</a></div>
+					    
+				<div class="itemContent">
+					  
+				    <p><a id="blogform"></a><div id="simpleblog-form" class="simpleblog-form"><form method="post" name="simpleblog" action="http://www.nctimes.com/articles/2004/12/25/news/top_stories/12_27_4312_24_04.txt#blogcomments"><div class="simpleblog-form-block"><label for="personname" class="simpleblog-form-label">Name:</label> <input type="text" id="personname" name="personname" value=""/></div><div class="simpleblog-email-block"><label for="personemail" class="simpleblog-form-label">Email:</label> <span class="simpleblog-email-field">(optional)</span> <input type="text" id="personemail" name="personemail" value=""/></div><div class="simpleblog-form-block"><label for="comments" class="simpleblog-form-label">Comments:</label><textarea id="comments" rows="10" cols="40" name="comments"></textarea></div><div class="simpleblog-form-block"><label for="usernumber" class="simpleblog-form-label">Image Verification: </label><img id="simpleblog-captcha" width="125" height="50" src="http://www.nctimes.com/shared-content/newsys/common/generatecaptcha.php?1221023785"/>&nbsp;&nbsp;&nbsp;<input type="text" id="usernumber" name="usernumber" title="Please enter the numbers from the image to the left" size="5"/><input type="SUBMIT" value="Post Comment"/></div></form></div></p>
+				</div>
+	        </div>
+            
+ 	     	<!-- *********************************** LETTER TO EDITOR INCLUDE ******************************************************* --> 
+        		<div id="letterToEditor" class="groupItem clearboth">
+			
+
+					    
+				<div class="itemContent">
+					  
+				    <h1><a href="http://www.nctimes.com/forms/letters/editor.php">Click to submit LETTER TO THE EDITOR</a></h1>
+					
+				</div>
+</div>			<!-- *************************************************************************************************************************** --> 
+            
+            
+            
+            
+          </div>
+          
+          
+                
+                
+<!-- COLUMN 2 -->
+		  
+ 	     	<!-- *********************************** SECTION SPECIFI INCLUDE ******************************************************* --> 
+        		<div id="col2_story" class="c339 floatright lborder margin-1left">
+ 	        <!-- TABS -->	  				
+ 	        
+ 	        <!-- *************************************************************************************************************************** --> 
+        	<div id="most-tabs" class="groupItem8-4-4-4 clearboth">
+ 	          <ul>
+ 	            <li><a href="#tab-1"><span>Most Comments</span></a></li>
+                <li><a href="#tab-2"><span>Popular News</span></a></li>
+                <li><a href="#tab-3"><span>Breaking News</span></a></li>
+              </ul>
+                   
+                <div id="tab-1" class="ui-tabs-hide">  
+                    <p>Today's Stories</p>
+                    <ul class="secondary clearleft">
+                        <ul class="topblogs-list"><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/09/09/opinion/letters/z923a5635dd7a5cd5882574be00797ff0.txt">LETTERS: NCT, Sept. 9, 2008</a> <span class="topblogs-count">(183)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/09/08/opinion/letters/z60f1ef65c5350092882574bb007efbd8.txt">LETTERS: NCT, Sept. 8, 2008</a> <span class="topblogs-count">(173)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/09/08/news/inland/san_marcos/za6a6954f626ef9cd882574be005f4f9d.txt">SAN MARCOS: Palomar to receive &#036;2.9M grant to boost Latino instruction</a> <span class="topblogs-count">(45)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/09/08/news/inland/escondido/z403e24c15b3aaaaf882574be0078123b.txt">ESCONDIDO: Neighborhood petition prompts council hearing on stadium lights</a> <span class="topblogs-count">(33)</span></li><li class="topblogs-entry"><a href="http://www.nctimes.com/articles/2008/09/08/news/coastal/encinitas/zfdbd05066e9997ee882574b80049264c.txt">ENCINITAS: Exercise enthusiasts want YMCA to open earlier</a> <span class="topblogs-count">(31)</span></li></ul>
+                    </ul>
+                </div>
+                  
+                <div id="tab-2" class="ui-tabs-hide">           
+                     <ul class="secondary clearleft">
+                        
+                        <li><a href="http://www.nctimes.com/articles/2008/09/06/news/sandiego/zf3d710240d206e4b882574bc00005784.txt">OCEANSIDE: Slaying followed failed response to 911 call <span class="popular-count">(2984)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/09/07/sports/chargers/z6e98af8bd0c4d32a882574be00148dce.txt">CHARGERS: No answer for Panthers' last-second heroics <span class="popular-count">(1696)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/09/06/news/inland/fallbrook/z7ebe5427c3c0e970882574bc00779b2c.txt">FALLBROOK: Suspect in Fallbrook strangling found dead <span class="popular-count">(1564)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/09/08/news/coastal/oceanside/zae780755858958b0882574bb0074fd0c.txt">OCEANSIDE: Wal-Mart appears to be planning local grocery store <span class="popular-count">(1513)</span></a></li><li><a href="http://www.nctimes.com/articles/2008/09/07/opinion/letters/z7ae37a98b09662e5882574bb007d7c05.txt">LETTERS: NCT, Sept. 7, 2008 <span class="popular-count">(1468)</span></a></li>
+                    </ul>
+                </div>
+                  
+                <div id="tab-3" class="ui-tabs-hide">
+                   
+                       <ul class="secondary clearleft">
+                       		
+                           
+                       </ul>
+                          
+                </div>
+	        </div>			<!-- *************************************************************************************************************************** -->      
+   
+<!-- AD -->				
+ 	        <div class="story_ad groupItem floatright display-inline-ie">
+ 	          <p class="adv">Advertisement</p>
+	  		    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/biz_bigad/static.js"></script>
+            </div>       
+    
+<!-- VIDEOS -->
+ 	        <div id="videos" class="groupItem floatright display-inline-ie">
+ 	          
+ 	          <h1 class="heading">Videos </h1>
+                        
+                <div class="itemContent" style="text-align:center">
+                	<!-- *************************************************************************************************************************** --> 
+                	
+<!-- News -->
+<script type="text/javascript" language="javascript" src="http://api.vmixcore.com/widgets/video_list_player.js.php?token=9a0ed32259503ae76b8adc4cfc5e86df"></script>
+<script type="text/javascript" language="javascript">
+var wid = new VideoListPlayerWidget();
+wid.play_url = 'http://videos.nctimes.com/p/video?id=';
+wid.genre_name='News';
+wid.show_featured=1;
+wid.hide_post=1;
+wid.width = 320;
+wid.height = 515;
+wid.script1 = 'http://www.nctimes.com/s_code.js'; 
+wid.script2 = 'http://www.nctimes.com/zincludes/08/omniture/vmix_code.js';
+wid.drawWidget();
+</script>                 	<!-- *************************************************************************************************************************** -->      
+                </div>
+		    </div>
+                
+                
+<!-- TopAds -->                
+            <!-- *************************************************************************************************************************** --> 
+        	<div id="topads335" class="c335 clearboth">
+                <div class="margin4left clearboth floatleft">
+                    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_jobs_new/static.js"></script>
+                </div>
+                
+                <div class="margin4right floatright">
+                    <script type="text/javascript" src="http://adsys.townnews.com/creative/nctimes.com/top_ads_new/static.js"></script>
+                </div>
+</div>			<!-- *************************************************************************************************************************** -->      
+
+ 	        <div class="clearer"></div> 
+	      </div>			<!-- *************************************************************************************************************************** --> 
+
+<!-- COLUMN 2 END -->             
+    	</div>
+    
+    <div class="clearer"></div>
+   </div>
+</div>
+  <!-- end of maincontent -->
+
+<!-- FOOTER -->
+<div id="footer_wrap">
+ 	    <div id="footer">
+<!-- *************************************************************************************************************************** --> 
+      <!--       		<div id="pageInfo" class="crumlinks">		
+					<a href="/">HOME</a>&nbsp;&rarr;&nbsp;[section_name:4:1:&nbsp;&rarr;&nbsp;]
+				</div>
+-->
+            
+            <div id="address">
+                <div class="groupItem8-8-8-8 clearboth floatleft">
+                    <p class="office">Escondido</p>
+                    <p>(760) 745-6611</p>
+                    <p>207 East Penn. Ave.</p>
+                    <p>Escondido, CA 92025</p>
+                </div>
+                 <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office">Oceanside</p>          
+                    <p>(760) 433-7333</p>
+                    <p>1722 South Coast Highway</p>
+                    <p>Oceanside, CA 92054</p>
+                </div>
+                <div class="groupItem8-8-8-8 floatleft">
+                    <p class="office">The Californian</p>         
+                    <p>(951) 676-4315</p>
+                    <p>28765 Single Oak Drive, Suite 100</p>
+                    <p>Temecula, CA 92590</p>
+                </div>
+                <div class="groupItem8-8-8-8  floatleft">
+                    <p class="office"> Fallbrook</p>       
+                    <p>(760) 728-6116</p>
+                    <p>1112 S. Main Ave.</p>
+                    <p>Fallbrook, CA 92028</p>
+                </div>
+             </div>
+       
+       <!-- search -->
+        <div id="footer-search">
+        <img alt="powered by yahoo search" src="http://images.townnews.com/nctimes.com/zimages/08/yahoo_search.gif"/>
+        
+		<form method="post" action="http://www.nctimes.com/zincludes/08/search.php">
+         	
+			<input class="searchfield" type="text" name="search" size="15" value="Search..."/>
+			<label>in </label>
+			<select name="searchType" id="searchTypeFoot">
+				<option value="archives" selected="selected">Archives</option>
+				<option value="marketplace">Marketplace</option>
+				<option value="rentals">Rentals</option>
+				<option value="homes">Homes</option>
+				<option value="pets">Pets</option>
+				<option value="garage_sales">Garage Sales</option>
+				<option value="legals">Legals</option>
+				<option value="jobs">Jobs</option>
+				<option value="wheels">Wheels</option>
+		<!--	<option value="web">Web</option>-->
+			</select>
+			
+			<input class="submitbutton" id="submitsearchFoot" name="submitsearchFoot" type="submit" value="Go"/>
+       
+		</form>
+		</div> <!-- end of search -->
+ 	   <!-- *************************************************************************************************************************** --> 
+     </div>
+</div><!-- end of footer -->
+
+<!-- Omniture  -->                    
+<!-- *************************************************************************************************************************** --> 
+      	<!-- general code-->
+
+<!-- SiteCatalyst code version: H.7.
+Copyright 1997-2006 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="http://www.nctimes.com/s_code.js"></script>
+<script language="JavaScript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server="escondido"
+s.channel="nctimes.com"
+s.pageType=""
+s.prop1="news"
+s.prop2="top_stories"
+s.prop3=""
+s.prop4=""
+s.prop5=""
+s.prop6=""
+s.prop7=""
+s.prop8=""
+s.prop9=""
+s.prop10=""
+s.prop11=""
+s.prop12=""
+s.prop13=""
+s.prop14=""
+s.prop15=""
+s.prop16=""
+s.prop17=""
+s.prop18=""
+s.prop19=""
+s.prop20=""
+s.prop21=""
+s.prop22=""
+s.prop23=""
+
+
+
+/* E-commerce Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+
+/* Hierarchy Variables */
+s.hier1="Lee Enterprises," + s.server + "," + s.channel + "," + s.prop1 + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
+s.hier2="Lee Enterprises," + s.prop1 + "," + s.server + "," + s.channel + "," + s.prop2 + "," + s.prop3 + "," + s.prop4 + "," + s.prop5
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.7. -->
+
+<!-- Begin Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl./" : "http://www./");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5512081-1");
+pageTracker._trackPageview();
+</script>
+<!-- End Google Analytics --><!-- *************************************************************************************************************************** --> 
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 05:16:26 Sep 10, 2008 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 21:26:39 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 70.348 (3)
+  esindex: 0.007
+  captures_list: 92.358
+  CDXLines.iter: 13.051 (3)
+  PetaboxLoader3.datanode: 123.672 (4)
+  exclusion.robots: 0.135
+  exclusion.robots.policy: 0.126
+  RedisCDXSource: 5.954
+  PetaboxLoader3.resolve: 85.566
+  load_resource: 171.236
+-->

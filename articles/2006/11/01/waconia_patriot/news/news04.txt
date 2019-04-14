@@ -1,0 +1,582 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<!-- #bbinclude "meta.incl" -->
+<!-- end bbinclude -->
+	<title>
+      </title>
+</head>
+
+<body>
+  <div id="page" class="hfeed site">
+    <nav id="offcanvas" class="offcanvas" role="navigation">
+      <form class="top-search-form" action="http://sunpatriot.com/">
+    <input type="text" value="" id="top-search-input" name="s" placeholder="Search">
+    <label id="top-search-label" for="top-search-input">Search</label>
+</form>      <div id="offcanvas-menu" class="offcanvas-menu"><ul id="menu-main-menu" class="menu"><li id="menu-item-54615" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-54615"><a href="http://sunpatriot.com/">Home</a></li>
+<li id="menu-item-54617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54617"><a>Sections</a>
+<ul class="sub-menu depth-0">
+	<li id="menu-item-36337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-36337"><a>Announcements</a>
+	<ul class="sub-menu depth-1">
+		<li id="menu-item-54619" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54619"><a href="http://sunpatriot.com/category/announcements/">View Announcements</a></li>
+		<li id="menu-item-46639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46639"><a href="https://announcements.ecmpublishers.com/announcements/">Submit an Announcement</a></li>
+		<li id="menu-item-26528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26528"><a href="http://sunpatriot.com/tag/obituaries">View Obituaries</a></li>
+		<li id="menu-item-46640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-46640"><a href="https://obits.ecmpublishers.com/obits/">Submit an Obituary</a></li>
+	</ul>
+</li>
+	<li id="menu-item-38069" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38069"><a href="http://sunpatriot.com/category/arts-entertainment/">Arts &#038; Entertainment</a></li>
+	<li id="menu-item-54620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54620"><a href="http://sunpatriot.com/category/business/">Business</a></li>
+	<li id="menu-item-40936" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-40936"><a href="http://sunpatriot.com/category/opinion-columns/">Columns &#038; Opinion</a></li>
+	<li id="menu-item-15" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-15"><a href="http://sunpatriot.com/category/community-people/">Community &#038; People</a></li>
+	<li id="menu-item-38071" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38071"><a href="http://sunpatriot.com/category/education/">Education</a></li>
+	<li id="menu-item-54621" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-54621"><a href="http://sunpatriot.com/category/faith/">Faith</a></li>
+	<li id="menu-item-38072" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38072"><a href="http://sunpatriot.com/category/government/">Government</a></li>
+	<li id="menu-item-55014" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55014"><a href="http://sunpatriot.com/category/lifestyle/">Lifestyle</a></li>
+	<li id="menu-item-36306" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36306"><a href="http://sunpatriot.com/category/public-notices/?tag=mortgage-foreclosures,postponements,certificates-of-assumed-name,county,city,townships,school-board,agendas,ordinances,notice-of-public-hearing,public-notices,notice-of-sales,notice-of-court-hearings,summons,probates,order-to-show-cause,financial-statements,delinquent-tax-list">Public Notices</a></li>
+	<li id="menu-item-38070" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-38070"><a href="http://sunpatriot.com/category/public-safety/">Public Safety</a></li>
+	<li id="menu-item-18" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-18"><a href="http://sunpatriot.com/category/sports/">Sports</a></li>
+</ul>
+</li>
+<li id="menu-item-54616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-54616"><a href="#">Communities</a>
+<ul class="sub-menu depth-0">
+	<li id="menu-item-54627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54627"><a href="http://sunpatriot.com/watertown-area/">Watertown / Mayer</a></li>
+	<li id="menu-item-54626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54626"><a href="http://sunpatriot.com/waconia/">Waconia</a></li>
+	<li id="menu-item-54625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54625"><a href="http://sunpatriot.com/norwood-young-america/">Norwood &#8211; Young America</a></li>
+</ul>
+</li>
+<li id="menu-item-38068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38068"><a href="http://sunpatriot.com/more/">More</a>
+<ul class="sub-menu depth-0">
+	<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="http://theadspider.com/browse/awpcp/setregion/280/SunPatriot.com">Classifieds</a></li>
+</ul>
+</li>
+</ul></div>              <div class="site-social">
+                      <div class="social-icon">
+              <a href="https://www.facebook.com/SunPatriot" title="Facebook">
+                <svg class="facebooksvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="32px" height="32px" viewbox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve"><path d="M0 0v32h32V0H0L0 0z M13.741 24.704V16h-1.796v-3h1.796v-1.801 c0-2.447 1.015-3.902 3.897-3.902h2.4v3h-1.5c-1.122 0-1.197 0.42-1.197 1.202L17.338 13h2.717l-0.317 2.999h-2.399v8.705H13.741 L13.741 24.704z M13.741 24.7"/></svg>              </a>
+            </div>
+            
+                        </div>
+                      </nav>
+          <!--END: offcanvas -->
+          <div id="canvas">
+            <nav class="links-menu-wrapper" role="navigation">
+	<span class="links-menu-intro"></span> 
+	<div class="links-menu"><ul id="menu-links-menu" class="menu"><li id="menu-item-54609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54609"><a href="http://sunpatriot.com/advertising-information/">Advertising Information</a></li>
+<li id="menu-item-54610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54610"><a href="http://sunpatriot.com/contact-us/">Contact Us</a></li>
+<li id="menu-item-54611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54611"><a href="http://sunpatriot.com/subscribe/">Subscribe</a></li>
+<li id="menu-item-60913" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60913"><a href="http://theadspider.com/">Jobs &#038; Classifieds</a></li>
+</ul></div></nav>            <header id="masthead">
+              <div id="logobar">
+                <div id="top-navicon">
+                  <div class="nav-icon">
+                    <div></div>
+                  </div>
+                  <div class="nav-description">Sections &amp; Communities</div>
+                </div>
+                <div id="top-sitelogo">
+                  <a href="http://sunpatriot.com/" title="Sun Patriot" rel="home">
+                                          <img src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2015/10/sunpatriot-white.png" alt="Logo">
+                                      </a>
+                </div>
+                <div id="top-sitesearch">
+                  <form class="top-search-form" action="http://sunpatriot.com/">
+    <input type="text" value="" id="top-search-input" name="s" placeholder="Search">
+    <label id="top-search-label" for="top-search-input">Search</label>
+</form>                </div>
+              </div>
+                <div id="top-alertbar">
+    <div id="alert-innerwrap" class="alert-slick">
+            <div class="alert-slide">
+      <div class="alert-title featured alert-column">
+        featured NEWS      </div>
+      <div class="alert-story" class="alert-column">
+        <a href="http://sunpatriot.com/2016/11/11/showtimes-adjusted-for-central-play/" title="Showtimes adjusted for Central play">Showtimes adjusted for Central play</a>
+      </div>
+    </div>
+      </div>
+  <div id="alert-sponsor" class="alert-column">
+          <aside class="widget-1 widget-first widget-last widget-odd alert-column">			<div class="textwidget"><script type="text/javascript">broadstreet.zone(44526);</script>
+</div>
+		</aside>      </div>
+</div>
+
+
+                            <div id="top-adslot">
+                <div class="billboard">
+                  <script type="text/javascript" src="http://sunpatriot.com/wp-content/themes/paperboy/js/premiumad.js"></script>
+                </div>
+              </div>
+                          </header>
+            <!--END: masthead -->
+<div id="frontpage-content">
+	<!-- SET:Featured Section -->
+	<section id="row1">
+		<div class="col1">
+			<div id="featured-wrapper">
+				
+    <div id="featured-slider" class="featured-slider"><div data-wp-post-url="http://sunpatriot.com/crusaders-head-to-state-championship/" class="carousel-slide"><div class="carousel-image"><span class="carousel-helper"></span><img width="400" height="300" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/IMG_0687-400x300.jpg" class="lazy lazy-hidden slideshow-img wp-post-image" alt="img_0687" srcset="" data-srcset="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/IMG_0687-400x300.jpg 400w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/IMG_0687-120x90.jpg 120w" sizes="(max-width: 400px) 100vw, 400px"/><noscript><img width="400" height="300" src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/IMG_0687-400x300.jpg" class="slideshow-img wp-post-image" alt="img_0687" srcset="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/IMG_0687-400x300.jpg 400w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/IMG_0687-120x90.jpg 120w" sizes="(max-width: 400px) 100vw, 400px"/></noscript></div><h1>Crusaders head to state championship &raquo;</h1></div><div data-wp-post-url="http://sunpatriot.com/showtimes-adjusted-for-central-play/" class="carousel-slide"><div class="carousel-image"><span class="carousel-helper"></span><img width="400" height="300" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/Theater-5-400x300.jpg" class="lazy lazy-hidden slideshow-img wp-post-image" alt="Theater 5" srcset="" data-srcset="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/Theater-5-400x300.jpg 400w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/Theater-5-120x90.jpg 120w" sizes="(max-width: 400px) 100vw, 400px"/><noscript><img width="400" height="300" src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/Theater-5-400x300.jpg" class="slideshow-img wp-post-image" alt="Theater 5" srcset="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/Theater-5-400x300.jpg 400w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/Theater-5-120x90.jpg 120w" sizes="(max-width: 400px) 100vw, 400px"/></noscript></div><h1>Showtimes adjusted for Central play &raquo;</h1></div><div data-wp-post-url="http://sunpatriot.com/central-football-makes-state-tournament-2/" class="carousel-slide"><div class="carousel-image"><span class="carousel-helper"></span><img width="400" height="300" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/1796-2-e1478704342557-400x300.jpg" class="lazy lazy-hidden slideshow-img wp-post-image" alt="1796 2" srcset="" data-srcset="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/1796-2-e1478704342557-400x300.jpg 400w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/1796-2-e1478704342557-120x90.jpg 120w" sizes="(max-width: 400px) 100vw, 400px"/><noscript><img width="400" height="300" src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/1796-2-e1478704342557-400x300.jpg" class="slideshow-img wp-post-image" alt="1796 2" srcset="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/1796-2-e1478704342557-400x300.jpg 400w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/1796-2-e1478704342557-120x90.jpg 120w" sizes="(max-width: 400px) 100vw, 400px"/></noscript></div><h1>Central football makes state tournament &raquo;</h1></div><div data-wp-post-url="http://sunpatriot.com/dont-forget-to-vote-in-nov-8-general-election/" class="carousel-slide"><div class="carousel-image"><span class="carousel-helper"></span><img width="400" height="300" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/YourVote20161col-400x300.jpg" class="lazy lazy-hidden slideshow-img wp-post-image" alt="YourVote20161col" srcset="" data-srcset="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/YourVote20161col-400x300.jpg 400w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/YourVote20161col-120x90.jpg 120w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/YourVote20161col-478x360.jpg 478w" sizes="(max-width: 400px) 100vw, 400px"/><noscript><img width="400" height="300" src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/YourVote20161col-400x300.jpg" class="slideshow-img wp-post-image" alt="YourVote20161col" srcset="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/YourVote20161col-400x300.jpg 400w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/YourVote20161col-120x90.jpg 120w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/YourVote20161col-478x360.jpg 478w" sizes="(max-width: 400px) 100vw, 400px"/></noscript></div><h1>Don’t forget to vote in Nov. 8 general election &raquo;</h1></div></div>    <div id="featured-stories"><div class="slider-story" id="slider-story-1">Crusaders head to state championship<br/><span class="slider-category"><a href="http://sunpatriot.com/category/sports/" title="View all posts in Sports">Sports &raquo;</a></span></div><div class="slider-story" id="slider-story-2">Showtimes adjusted for Central play<br/><span class="slider-category"><a href="http://sunpatriot.com/category/arts-entertainment/" title="View all posts in Arts &amp; Entertainment">Arts &amp; Entertainment &raquo;</a> <a href="http://sunpatriot.com/category/community-people/" title="View all posts in Community &amp; People">Community &amp; People &raquo;</a> <a href="http://sunpatriot.com/category/education/" title="View all posts in Education">Education &raquo;</a></span></div><div class="slider-story" id="slider-story-3">Central football makes state tournament<br/><span class="slider-category"><a href="http://sunpatriot.com/category/sports/" title="View all posts in Sports">Sports &raquo;</a></span></div><div class="slider-story" id="slider-story-4">Don’t forget to vote in Nov. 8 general election<br/><span class="slider-category"><a href="http://sunpatriot.com/category/community-people/" title="View all posts in Community &amp; People">Community &amp; People &raquo;</a> <a href="http://sunpatriot.com/category/government/" title="View all posts in Government">Government &raquo;</a></span></div></div>
+			</div>
+		</div>
+		<div class="col2">
+							<div id="widget1a" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-odd section1a-widget widget"><div id="awesome-weather-waconia-mn" class="temp2 awesome-weather-wrap awecf awe_with_stats awe_with_icons awe_without_forecast  awe_wide awe-version-1-1-9 awe-cityid-5051640 awe-code-800 awe-desc-clear-sky awe-preset-sunny" style=" color: #ffffff; ">
+
+	<div class="awesome-weather-cover" style="background-image: url(http://patriot.ecmpublishers.com/wp-content/plugins/awesome-weather-pro/img/awe-backgrounds/sunny.jpg);">
+	<div class="awesome-weather-darken">
+
+	
+	<div class="awesome-weather-header awecf"><span>Sun Patriot Area Weather</span></div>
+
+		
+		<div class="awecf">
+		<div class="awesome-weather-current-temp">
+			<strong>
+			33<sup>&deg;</sup>
+			<i class="wi wi-owm-800"></i>			</strong>
+		</div><!-- /.awesome-weather-current-temp -->
+		
+				<div class="awesome-weather-todays-stats">
+			<div class="awe_desc">clear sky</div>
+			<div class="awe_humidty">80% humidity</div>
+			<div class="awe_wind">wind: 3m/s SW</div>
+			<div class="awe_highlow">H 37 &bull; L 28</div>	
+		</div><!-- /.awesome-weather-todays-stats -->
+				</div>
+		
+		
+		
+		
+	
+	</div><!-- /.awesome-weather-cover -->
+	</div><!-- /.awesome-weather-darken -->
+
+</div><!-- /.awesome-weather-wrap: wide --></aside><aside class="widget-2 widget-last widget-even section1a-widget widget">			<div class="textwidget"><div style="width:320px;height:50px">
+<script type="text/javascript">broadstreet.zone(44533);</script>
+</div>
+</div>
+		</aside>				</div>
+										<div id="widget1b" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-odd section1b-widget widget"><h2>Upcoming Events</h2>	<p>There are no upcoming events at this time.</p>
+</aside><aside class="widget-2 widget-last widget-even section1b-widget widget">			<div class="textwidget"><div style="width:320px;height:50px">
+<script type="text/javascript">broadstreet.zone(44527);</script>
+</div>
+</div>
+		</aside>				</div>
+					</div>
+	</section>
+	<!-- END:Featured Section -->
+	<!-- SET:Sponsored Post Section -->
+	<section id="row2" class="2column">
+		<div class="col1">
+			        <div id="sponsored-story">
+    <div class="sponsored-image">
+        <a href="http://sunpatriot.com/2016/10/06/advertise-smarter-with-konectdirect/"><img width="1200" height="456" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo.jpg" class="lazy lazy-hidden attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="KonectDirect-Logo" srcset="" data-srcset="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo.jpg 1200w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo-300x114.jpg 300w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo-768x292.jpg 768w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo-1024x389.jpg 1024w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo-600x228.jpg 600w" sizes="(max-width: 1200px) 100vw, 1200px"/><noscript><img width="1200" height="456" src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="KonectDirect-Logo" srcset="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo.jpg 1200w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo-300x114.jpg 300w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo-768x292.jpg 768w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo-1024x389.jpg 1024w, http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/KonectDirect-Logo-600x228.jpg 600w" sizes="(max-width: 1200px) 100vw, 1200px"/></noscript></a>
+    </div>
+    <div class="sponsored-wrap">
+        <div class="sponsored-headline">
+        <a href="http://sunpatriot.com/2016/10/06/advertise-smarter-with-konectdirect/">Advertise Smarter with KonectDirect</a>
+        </div>
+        <div class="sponsored-excerpt">
+        <a href="http://sunpatriot.com/2016/10/06/advertise-smarter-with-konectdirect/"><p>Picture this. You&#8217;re thinking about getting a new truck. After a couple searches on your computer or phone, you have the information you need. Yet, everywhere you go online, you&#8217;re seeing offers, deals, and pictures of trucks. It&#8217;s on your news sites. It&#8217;s running alongside your mobile games. It&#8217;s in your social media feed. And,&#8230;</p>
+</a>
+        </div>
+        <div class="sponsored-credit"><strong>Sponsored by:</strong> <a href="http://konectdirect.com/" title="KonectDirect">KonectDirect</a></div>
+    </div>
+</div>
+
+		</div>
+		<div class="col2">
+							<div id="widget2" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget">			<div class="textwidget"><script type="text/javascript">broadstreet.zone(44530);</script></div>
+		</aside>				</div>
+					</div>
+	</section>
+	<!-- SET:Content Section -->
+	<section id="row3" class="section-wrapper">
+		<h1 class="section-title"><a href="http://sunpatriot.com/category/community-people/">Community &amp; People &raquo;</a></h1>
+		<div class="col1">
+			<div class="storylist"><div class="storylist-item firststory"><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/11/sheriff-suspicious-device-found-on-luce-line-trail/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="A suspicious item was found on the Luce Line Trail in Watertown on Nov. 8, 2016. (Courtesy of the Carver County Sheriff's Office)" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/Suspicious-item-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/11/sheriff-suspicious-device-found-on-luce-line-trail/">Sheriff: Suspicious device found on Luce Line Trail</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/community-people/">Community &amp; People &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/11/showtimes-adjusted-for-central-play/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="Theater 5" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/Theater-5-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/11/showtimes-adjusted-for-central-play/">Showtimes adjusted for Central play</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/arts-entertainment/">Arts &amp; Entertainment &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/11/honor-and-valor-u-s-army-veteran-shares-his-story/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="Retired Staff Sergeant Travis Mills talks to residents of Carver County at the Veteran Appreciation Dinner on Thursday, Nov. 3. (Melissa Priebe/Carver County News)" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/IMG_3342-web-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/11/honor-and-valor-u-s-army-veteran-shares-his-story/">Honor and Valor: U.S. Army veteran shares his story</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/community-people/">Community &amp; People &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/10/workers-stalled-after-theft/">Workers stalled after theft</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/community-people/">Community &amp; People &raquo;</a></div></div></div></div>		</div>
+		<div class="col2">
+							<div id="widget3a" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget">			<div class="textwidget"><var id="ownlocal"><script async id="ownlocal-script" src="http://local.sunpatriot.com/embed.js?h=350"></script></var></div>
+		</aside>				</div>
+					</div>
+		<div class="col3">
+							<div id="widget3b" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget">			<div class="textwidget"><script type="text/javascript">broadstreet.zone(44531);</script>
+</div>
+		</aside>				</div>
+					</div>
+	</section>
+	<!-- END:Content Section -->
+	<!-- SET:Content Section -->
+	<section id="row4" class="section-wrapper">
+		<h1 class="section-title"><a href="http://sunpatriot.com/category/public-safety/">Public Safety &raquo;</a></h1>
+		<div class="col1">
+			<div class="storylist"><div class="storylist-item firststory"><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/10/sheriffs-discuss-mutual-aid-deployment-to-north-dakota/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="Left to right, Executive Director of the Minnesota Sheriffs’ Association Jim Franklin, Washington County Sheriff William Hutton, Hennepin County Sheriff Rich Stanek, Anoka County Sheriff James Stuart,and Hennepin County Commissioner Randy Johnson.  (Photo courtesy of the Hennepin County Sheriff’s Office)" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/FW10nwHCSODakota-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/10/sheriffs-discuss-mutual-aid-deployment-to-north-dakota/">Sheriffs discuss mutual aid, deployment to North Dakota</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/public-safety/">Public Safety &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/09/carver-county-sheriffs-report-16/">Carver County Sheriff&#8217;s Report</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/public-safety/">Public Safety &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/01/minnetristast-boni-police-report-oct-16-to-oct-22/">Minnetrista/St. Boni Police Report: Oct. 16 to Oct. 22</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/public-safety/">Public Safety &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/10/30/water-show-comes-to-nya/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="NT - Science Museum Water" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/10/NT-Science-Museum-Water-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/10/30/water-show-comes-to-nya/">Water! show comes to NYA</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/arts-entertainment/">Arts &amp; Entertainment &raquo;</a></div></div></div></div>		</div>
+		<div class="col2">
+							<div id="widget4a" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget">			<div class="textwidget"><div id="fp-announce">
+<div class="staticlist-header">
+<div class="staticlist-icon">
+<a href="http://sunpatriot.com/category/announcements">
+<svg class="announcesvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="75px" height="75px" viewbox="268.5 358.5 75 75" enable-background="new 268.5 358.5 75 75" xml:space="preserve"><path class="announcesvg" d="M342.711 367.102c-0.494-0.354-1.128-0.449-1.703-0.254l-71.23 24.117c-0.766 0.26-1.281 0.978-1.281 1.786v6.497 c0 0.8 0.5 1.5 1.3 1.785l10.864 3.679l-1.076 3.344c-0.62 1.925-0.452 4 0.5 5.8 c0.923 1.8 2.5 3.1 4.4 3.75l12.857 4.137c0.753 0.2 1.5 0.4 2.3 0.365c3.298 0 6.194-2.11 7.205-5.252l0.942-2.931 l33.229 11.251c0.197 0.1 0.4 0.1 0.6 0.1c0.389 0 0.774-0.121 1.099-0.354c0.494-0.354 0.787-0.925 0.787-1.532v-54.73 C343.498 368 343.2 367.5 342.7 367.102z M303.246 415.674c-0.508 1.577-1.961 2.637-3.615 2.6 c-0.393 0-0.785-0.062-1.165-0.184l-12.857-4.138c-0.966-0.311-1.753-0.979-2.217-1.882c-0.463-0.902-0.547-1.932-0.236-2.897 l1.059-3.289l19.992 6.769L303.246 415.674z"/></svg>
+</a>
+</div>
+<div class="staticlist-text">
+<h2><a href="http://sunpatriot.com/category/announcements/" title="">Announcements</a></h2>
+<a href="http://sunpatriot.com/category/announcements/" title="">Browse all Announcements &raquo;</a>
+</div>
+</div>
+<ul>
+    <li><a href="http://sunpatriot.com/?tag=obituaries,death-notices,in-memory" title="“obituaries," death notices and in memory">Obituaries, Death Notices &amp; In Memory</a></li>
+    <li><a href="http://sunpatriot.com/?tag=births,birthdays" title="Births and birthdays">Births &amp; Birthdays</a></li>
+    <li><a href="http://sunpatriot.com/?tag=graduations" title="graduations">Graduations</a></li>
+    <li><a href="http://sunpatriot.com/?tag=engagements,weddings" title="engagements and weddings">Engagements &amp; Weddings</a></li>
+    <li><a href="http://sunpatriot.com/?tag=anniversaries" title="anniversaries">Anniversaries</a></li>
+    <li><a href="http://sunpatriot.com/?tag=congratulations" title="congratulations">Congratulations</a></li>
+    <li><a href="http://sunpatriot.com/?tag=reunions" title="reunions">Reunions</a></li>
+</ul>
+
+<a href="https://announcements.ecmpublishers.com/announcements/" title="">Place your announcement! &raquo;</a>
+<br>
+<a href="https://obits.ecmpublishers.com/obits/" title="">Place an obituary &raquo;</a>
+</div></div>
+		</aside>				</div>
+					</div>
+		<div class="col3">
+							<div id="widget4b" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget">			<div class="textwidget"><script type="text/javascript">broadstreet.zone(44532);</script></div>
+		</aside>				</div>
+					</div>
+	</section>
+	<!-- END:Content Section -->
+	<!-- SET:Content Section -->
+	<section id="row5" class="section-wrapper">
+		<h1 class="section-title"><a href="http://sunpatriot.com/category/education/">Education &raquo;</a></h1>
+		<div class="col1">
+			<div class="storylist"><div class="storylist-item firststory"><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/11/showtimes-adjusted-for-central-play/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="Theater 5" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/Theater-5-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/11/showtimes-adjusted-for-central-play/">Showtimes adjusted for Central play</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/arts-entertainment/">Arts &amp; Entertainment &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/09/incumbent-newcomers-selected-by-isd-110-voters/">Incumbent, newcomers selected by ISD 110 voters</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/education/">Education &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/03/waconia-school-board-hopefuls-face-off/">Waconia school board hopefuls face off</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/education/">Education &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/01/panning-named-central-senior-student-of-october/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="Panning Emma" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/10/Panning-Emma-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/01/panning-named-central-senior-student-of-october/">Panning named Central Senior Student of October</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/community-people/">Community &amp; People &raquo;</a></div></div></div></div>		</div>
+		<div class="col2">
+							<div id="widget5a" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget"><h2>Back 2 School</h2>			<div class="textwidget"><iframe class="lazy lazy-hidden" name="Joomag_embed_192ffc47-8f97-487c-88a8-90301f6d2bb9" style="width:320px;height:320px" width="320px" height="320px" hspace="0" vspace="0" frameborder="0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="iframe" data-src="//www.joomag.com/magazine/sun-patriot-2016-back-to-school/0773279001470668373?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe><noscript><iframe name="Joomag_embed_192ffc47-8f97-487c-88a8-90301f6d2bb9" style="width:320px;height:320px" width="320px" height="320px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/sun-patriot-2016-back-to-school/0773279001470668373?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe></noscript></div>
+		</aside>				</div>
+					</div>
+		<div class="col3">
+							<div id="widget5b" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget"><h2>Fall Home Improvement</h2>			<div class="textwidget"><iframe class="lazy lazy-hidden" name="Joomag_embed_47d31087-6c6b-4c7a-962c-18cbdd1ce108" style="width:320px;height:320px" width="320px" height="320px" hspace="0" vspace="0" frameborder="0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="iframe" data-src="//www.joomag.com/magazine/sun-patriot-fall-home-improvement/0397846001474033101?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe><noscript><iframe name="Joomag_embed_47d31087-6c6b-4c7a-962c-18cbdd1ce108" style="width:320px;height:320px" width="320px" height="320px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/sun-patriot-fall-home-improvement/0397846001474033101?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe></noscript></div>
+		</aside>				</div>
+					</div>
+	</section>
+	<!-- END:Content Section -->
+	<!-- SET:Content Section -->
+	<section id="row6" class="section-wrapper">
+		<h1 class="section-title"><a href="http://sunpatriot.com/category/government/">Government &raquo;</a></h1>
+		<div class="col1">
+			<div class="storylist"><div class="storylist-item firststory"><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/09/trump-takes-white-house-with-support-from-carver-county-voters/">Trump takes White House with support from Carver County voters</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/government/">Government &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/09/emmer-keeps-seat-in-6th-district/">Emmer keeps seat in 6th District</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/government/">Government &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/09/w-m-school-board-candidates-secure-open-seats/">W-M School Board: Candidates secure open seats</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/community-people/">Community &amp; People &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/09/incumbent-newcomers-selected-by-isd-110-voters/">Incumbent, newcomers selected by ISD 110 voters</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/education/">Education &raquo;</a></div></div></div></div>		</div>
+		<div class="col2">
+							<div id="widget6a" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-odd widget">			<div class="textwidget"><div id="fp-publicn">
+<div class="staticlist-header">
+<div class="staticlist-icon">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="75px" height="75px" viewbox="441.299 441.3 75 75" enable-background="new 441.299 441.3 75 75" xml:space="preserve"><g><path class="publicnsvg" d="M505.359 449.789h-2.193v53.878c0 3.578-2.914 6.491-6.492 6.491h-22.22h-17.669v1.998c0 2.3 1.9 4.1 4.1 4.1 h22.212h22.211c2.287 0 4.144-1.855 4.144-4.143v-58.224C509.494 451.6 507.6 449.8 505.4 449.789z"/><path class="publicnsvg" d="M474.453 507.81h22.211c2.287 0 4.144-1.856 4.144-4.143v-53.878v-4.347c0-2.287-1.856-4.143-4.144-4.143h-22.211h-7.386 v1.371c0.016 0.1 0 0.3 0 0.438v9.03v2.318c0 3.219-2.616 5.835-5.835 5.835h-2.318h-9.03 c-0.118 0-0.243-0.008-0.36-0.016h-1.441v43.391c0 2.3 1.9 4.1 4.1 4.143h4.542H474.453L474.453 507.81z M475.291 493.7 H460.81c-1.081 0-1.958-0.876-1.958-1.957s0.877-1.958 1.958-1.958h14.489c1.081 0 2 0.9 2 2 S476.372 493.7 475.3 493.727z M489.781 483.733H460.81c-1.081 0-1.958-0.877-1.958-1.958c0-1.08 0.877-1.958 1.958-1.958 h28.971c1.08 0 2 0.9 2 1.958C491.739 482.9 490.9 483.7 489.8 483.733z M460.81 469.205h28.971 c1.08 0 2 0.9 2 1.958s-0.878 1.958-1.958 1.958H460.81c-1.081 0-1.958-0.877-1.958-1.958 S459.729 469.2 460.8 469.205z"/><path class="publicnsvg" d="M449.907 457.942h11.349c0.008 0 0 0 0 0c1.895-0.016 3.43-1.55 3.446-3.446c0-0.007 0-0.023 0-0.031v-11.357 c0-1.05-0.862-1.747-1.754-1.747c-0.431 0-0.861 0.157-1.222 0.517l-13.087 13.1 C447.573 456.1 448.3 457.9 449.9 457.942z"/></g></svg>
+</div>
+<div class="staticlist-text">
+<h2>Communities</h2>
+</div>
+</div>
+<ul>
+    <li><a href="./watertown-area" title="Watertown Area">Watertown Area</a></li>
+    <li><a href="./waconia" title="Waconia">Waconia</a></li>
+    <li><a href="./norwood-young-america" title="Norwood - Young America">Norwood - Young America</a></li>
+</ul>
+</div></div>
+		</aside><aside class="widget-2 widget-last widget-even widget">			<div class="textwidget"><a href="http://sunpatriot.com/community-guides/"><img class="lazy lazy-hidden" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/06/SpecialSectionPLUG.jpg"><noscript><img src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/06/SpecialSectionPLUG.jpg"></noscript></img></a></div>
+		</aside>				</div>
+					</div>
+		<div class="col3">
+							<div id="widget6b" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget">			<div class="textwidget"><div id="fp-publicn">
+<div class="staticlist-header">
+<div class="staticlist-icon">
+<a href="http://sunpatriot.com/">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="75px" height="75px" viewbox="441.299 441.3 75 75" enable-background="new 441.299 441.3 75 75" xml:space="preserve"><g><path class="publicnsvg" d="M505.359 449.789h-2.193v53.878c0 3.578-2.914 6.491-6.492 6.491h-22.22h-17.669v1.998c0 2.3 1.9 4.1 4.1 4.1 h22.212h22.211c2.287 0 4.144-1.855 4.144-4.143v-58.224C509.494 451.6 507.6 449.8 505.4 449.789z"/><path class="publicnsvg" d="M474.453 507.81h22.211c2.287 0 4.144-1.856 4.144-4.143v-53.878v-4.347c0-2.287-1.856-4.143-4.144-4.143h-22.211h-7.386 v1.371c0.016 0.1 0 0.3 0 0.438v9.03v2.318c0 3.219-2.616 5.835-5.835 5.835h-2.318h-9.03 c-0.118 0-0.243-0.008-0.36-0.016h-1.441v43.391c0 2.3 1.9 4.1 4.1 4.143h4.542H474.453L474.453 507.81z M475.291 493.7 H460.81c-1.081 0-1.958-0.876-1.958-1.957s0.877-1.958 1.958-1.958h14.489c1.081 0 2 0.9 2 2 S476.372 493.7 475.3 493.727z M489.781 483.733H460.81c-1.081 0-1.958-0.877-1.958-1.958c0-1.08 0.877-1.958 1.958-1.958 h28.971c1.08 0 2 0.9 2 1.958C491.739 482.9 490.9 483.7 489.8 483.733z M460.81 469.205h28.971 c1.08 0 2 0.9 2 1.958s-0.878 1.958-1.958 1.958H460.81c-1.081 0-1.958-0.877-1.958-1.958 S459.729 469.2 460.8 469.205z"/><path class="publicnsvg" d="M449.907 457.942h11.349c0.008 0 0 0 0 0c1.895-0.016 3.43-1.55 3.446-3.446c0-0.007 0-0.023 0-0.031v-11.357 c0-1.05-0.862-1.747-1.754-1.747c-0.431 0-0.861 0.157-1.222 0.517l-13.087 13.1 C447.573 456.1 448.3 457.9 449.9 457.942z"/></g></svg>
+</a>
+</div>
+<div class="staticlist-text">
+<h2>Public Notices</h2>
+</div>
+</div>
+<ul>
+    <li><a href="http://sunpatriot.com/?tag=mortgage-foreclosures,postponements" title="Mortgage Foreclosures">Mortgage Foreclosures &amp; Postponements</a></li>
+    <li><a href="http://sunpatriot.com/?tag=certificates-of-assumed-name" title="Certificates of Assumed Name">Certificates of Assumed Name</a></li>
+    <li><a href="http://sunpatriot.com/?tag=city,county,townships" title="County, City and Townships
+">County, City &amp; Townships</a></li>
+    <li><a href="http://sunpatriot.com/?tag=school-board,agendas,ordinances" title="School Board, Agendas and Ordinances
+">School Board, Agendas and Ordinances</a></li>
+    <li><a href="http://sunpatriot.com/?tag=notice-of-public-hearings,public-notices" title="Notice of Public Hearings  and Public Notices
+">Notice of Public Hearings  &amp; Public Notices</a></li>
+    <li><a href="http://sunpatriot.com/?tag=advertisement-for-bids,notice-of-sales" title="Advertisement for Bids and Notice of Sales
+">Advertisement for Bids &amp; Notice of Sales</a></li>
+    <li><a href="http://sunpatriot.com/?tag=notice-of-court-hearings,summons,probate" title="Notice of Court Hearings, Summons and Probates
+">Notice of Court Hearings, Summons &amp; Probates</a></li>
+    <li><a href="http://sunpatriot.com/?tag=order-to-show-cause" title="“order" to show cause">Order to Show Cause</a></li>
+    <li><a href="http://sunpatriot.com/?tag=financial-statements,delinquent-tax-lists" title="financial statements and deliquent tax lists">Financial Statements &amp; Delinquent Tax Lists</a></li>
+    <li><a href="http://sunpatriot.com/?tag=special-legals" title="“special" legals">Special Legals</a></li>
+</ul>
+</div></div>
+		</aside>				</div>
+					</div>
+	</section>
+	<!-- END:Content Section -->
+	<!-- SET:Content Section -->
+	<section id="row7" class="section-wrapper">
+		<h1 class="section-title"><a href="http://sunpatriot.com/category/opinion-columns/">Opinion &amp; Columns &raquo;</a></h1>
+		<div class="col1">
+			<div class="storylist"><div class="storylist-item firststory"><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/11/on-veterans-day-and-every-day-honoring-service/">On Veterans Day and Every Day, Honoring Service</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/opinion-columns/">Opinion &amp; Columns &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/10/politics-in-the-age-of-social-media/">Politics in the age of social media</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/opinion-columns/">Opinion &amp; Columns &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/02/ecm-editorial-dont-you-dare-not-vote/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="Vote-Square" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/Vote-Square-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/02/ecm-editorial-dont-you-dare-not-vote/">ECM Editorial: Don’t you dare not vote!</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/opinion-columns/">Opinion &amp; Columns &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/10/31/lte-republicans-should-be-ashamed-of-trump/">LTE: Republicans should be ashamed of Trump</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/opinion-columns/">Opinion &amp; Columns &raquo;</a></div></div></div></div>		</div>
+		<div class="col2">
+							<div id="widget7a" class="widgetized-area">
+					
+<!-- Recently widget v1.0.2 [regular] -->
+<aside class="widget-1 widget-first widget-last widget-odd widget">
+<h2>ECM Editorial Board</h2>
+<ul class="recently-list">
+<li><a href="http://sunpatriot.com/2016/11/02/ecm-editorial-dont-you-dare-not-vote/" title="ECM Editorial: Don’t you dare not vote!" class="recently-post-title" target="_self" rel="bookmark">ECM Editorial: Don’t you dare not vote!</a>  <span class="recently-meta"><span class="recently-date">posted on November 2, 2016</span></span> </li>
+<li><a href="http://sunpatriot.com/2016/10/12/ecm-editorial-emmer-has-earned-another-term-in-congress/" title="ECM Editorial: Emmer has earned another term in Congress" class="recently-post-title" target="_self" rel="bookmark">ECM Editorial: Emmer has earned another term in Congress</a>  <span class="recently-meta"><span class="recently-date">posted on October 12, 2016</span></span> </li>
+<li><a href="http://sunpatriot.com/2016/09/07/ecm-editorial-time-to-confront-college-affordability-tuition-costs/" title="ECM Editorial: Time to confront college affordability, tuition costs" class="recently-post-title" target="_self" rel="bookmark">ECM Editorial: Time to confront college affordability, tuition costs</a>  <span class="recently-meta"><span class="recently-date">posted on September 7, 2016</span></span> </li>
+<li><a href="http://sunpatriot.com/2016/07/29/ecm-editorial-change-critical-in-maintaining-safe-ample-water-supply-here/" title="ECM Editorial: Change critical in maintaining safe, ample water supply here" class="recently-post-title" target="_self" rel="bookmark">ECM Editorial: Change critical in maintaining safe, ample water supply here</a>  <span class="recently-meta"><span class="recently-date">posted on July 29, 2016</span></span> </li>
+<li><a href="http://sunpatriot.com/2016/06/24/agriculture-needs-to-take-the-lead-in-managing-pollutants/" title="Agriculture needs to take the lead in managing pollutants" class="recently-post-title" target="_self" rel="bookmark">Agriculture needs to take the lead in managing pollutants</a>  <span class="recently-meta"><span class="recently-date">posted on June 24, 2016</span></span> </li>
+
+</ul>
+</aside>
+<!-- End Recently Plugin v1.0.2 -->
+				</div>
+					</div>
+		<div class="col3">
+							<div id="widget7b" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget">			<div class="textwidget"><!-- Begin DMC HTML 5 Object Code -->
+<script src="http://widgets.digitalmediacommunications.com/embed/employment/300x415/1372/ecm" type="text/javascript"></script>
+<!-- End DMC HTML 5 Object Code -->
+                    </div>
+		</aside>				</div>
+					</div>
+	</section>
+	<!-- END:Content Section -->
+	<!-- SET:Content Section -->
+	<section id="row8" class="section-wrapper">
+		<h1 class="section-title"><a href="http://sunpatriot.com/category/sports/">Sports &raquo;</a></h1>
+		<div class="col1">
+			<div class="storylist"><div class="storylist-item firststory"><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/11/crusaders-head-to-state-championship/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="img_0687" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/IMG_0687-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/11/crusaders-head-to-state-championship/">Crusaders head to state championship</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/sports/">Sports &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/11/houston-runs-at-state-meet/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="img_0014" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/IMG_0014-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/11/houston-runs-at-state-meet/">Houston runs at state meet</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/sports/">Sports &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/10/crusaders-football-falls-to-north-in-section-final/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="2673" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/2673-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/10/crusaders-football-falls-to-north-in-section-final/">Crusaders football falls to North in section final</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/sports/">Sports &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/09/central-football-makes-state-tournament-2/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="1796 2" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/1796-2-e1478704342557-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/09/central-football-makes-state-tournament-2/">Central football makes state tournament</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/sports/">Sports &raquo;</a></div></div></div></div>		</div>
+		<div class="col2">
+							<div id="widget8a" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget"><h2>2016 Homecoming</h2>			<div class="textwidget"><iframe class="lazy lazy-hidden" name="Joomag_embed_427c0445-17ac-4322-b609-1d05f754ca1e" style="width:320px;height:420px" width="320px" height="420px" hspace="0" vspace="0" frameborder="0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="iframe" data-src="//www.joomag.com/magazine/sun-patriot-homecoming-2016/0778738001474033518?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe><noscript><iframe name="Joomag_embed_427c0445-17ac-4322-b609-1d05f754ca1e" style="width:320px;height:420px" width="320px" height="420px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/sun-patriot-homecoming-2016/0778738001474033518?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe></noscript></div>
+		</aside>				</div>
+					</div>
+		<div class="col3">
+							<div id="widget8b" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget"><h2>Scene in the west metro</h2>			<div class="textwidget"><iframe class="lazy lazy-hidden" name="Joomag_embed_249c5e2f-a8e3-464a-b6ba-1a6baed967e8" style="width:320px;height:420px" width="320px" height="420px" hspace="0" vspace="0" frameborder="0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="iframe" data-src="//www.joomag.com/magazine/scene-sept-oct-2016/0464465001472669382?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe><noscript><iframe name="Joomag_embed_249c5e2f-a8e3-464a-b6ba-1a6baed967e8" style="width:320px;height:420px" width="320px" height="420px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/scene-sept-oct-2016/0464465001472669382?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe></noscript></div>
+		</aside>				</div>
+					</div>
+	</section>
+	<!-- END:Content Section -->
+	<!-- SET:Content Section -->
+	<section id="row9" class="section-wrapper">
+		<h1 class="section-title"><a href="http://sunpatriot.com/category/arts-entertainment/">Arts &amp; Entertainment &raquo;</a></h1>
+		<div class="col1">
+			<div class="storylist"><div class="storylist-item firststory"><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/11/showtimes-adjusted-for-central-play/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="Theater 5" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/Theater-5-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/11/showtimes-adjusted-for-central-play/">Showtimes adjusted for Central play</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/arts-entertainment/">Arts &amp; Entertainment &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/11/05/halloween-frights-and-fun/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="004" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/11/004-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/05/halloween-frights-and-fun/">Halloween frights and fun</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/arts-entertainment/">Arts &amp; Entertainment &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/10/31/central-students-will-put-on-romantic-comedy-nov-10-12/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="NT - Central play 226" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/10/NT-Central-play-226-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/10/31/central-students-will-put-on-romantic-comedy-nov-10-12/">Central students will put on romantic comedy Nov. 10-12</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/arts-entertainment/">Arts &amp; Entertainment &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/10/30/water-show-comes-to-nya/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="NT - Science Museum Water" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/10/NT-Science-Museum-Water-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/10/30/water-show-comes-to-nya/">Water! show comes to NYA</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/arts-entertainment/">Arts &amp; Entertainment &raquo;</a></div></div></div></div>		</div>
+		<div class="col2">
+							<div id="widget9a" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-odd widget"><h2>Signup for our Newsletter!</h2><div class="widget_wysija_cont"><div id="msg-form-wysija-2" class="wysija-msg ajax"></div><form id="form-wysija-2" method="post" action="#wysija" class="widget_wysija">
+<p class="wysija-paragraph">
+    
+    
+    	<input type="text" name="wysija[user][email]" class="wysija-input validate[required,custom[email]]" title="Email" placeholder="Email" value=""/>
+    
+    
+    
+    <span class="abs-req">
+        <input type="text" name="wysija[user][abs][email]" class="wysija-input validated[abs][email]" value=""/>
+    </span>
+    
+</p>
+<input class="wysija-submit wysija-submit-field" type="submit" value="Subscribe!"/>
+
+    <input type="hidden" name="form_id" value="1"/>
+    <input type="hidden" name="action" value="save"/>
+    <input type="hidden" name="controller" value="subscribers"/>
+    <input type="hidden" value="1" name="wysija-page"/>
+
+    
+        <input type="hidden" name="wysija[user_list][list_ids]" value="3"/>
+    
+ </form></div></aside><aside class="widget-2 widget-last widget-even widget"><h2>Photo Reprints</h2>			<div class="textwidget"><a title="Photo Reprints" href="http://ecmpublishers.smugmug.com/SunPatriot">
+<img class="lazy lazy-hidden" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://abcnewspapers.com/wp-content/uploads/sites/19/2015/08/SmugMug-300x100.jpg"><noscript><img src="http://abcnewspapers.com/wp-content/uploads/sites/19/2015/08/SmugMug-300x100.jpg"></noscript>
+</a></div>
+		</aside>				</div>
+					</div>
+		<div class="col3">
+							<div id="widget9b" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget"><h2>Readers Choice</h2>			<div class="textwidget"><iframe class="lazy lazy-hidden" name="Joomag_embed_a714cfa2-90da-408e-8e93-56cdac684853" style="width:320px;height:320px" width="320px" height="320px" hspace="0" vspace="0" frameborder="0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="iframe" data-src="//www.joomag.com/magazine/sun-patriot-2016-readers-choice/0256242001476994681?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe><noscript><iframe name="Joomag_embed_a714cfa2-90da-408e-8e93-56cdac684853" style="width:320px;height:320px" width="320px" height="320px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/sun-patriot-2016-readers-choice/0256242001476994681?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe></noscript></div>
+		</aside>				</div>
+					</div>
+	</section>
+	<!-- END:Content Section -->
+	<!-- SET:Content Section -->
+	<section id="row10" class="section-wrapper">
+		<h1 class="section-title"><a href="http://sunpatriot.com/category/business/">Business &raquo;</a></h1>
+		<div class="col1">
+			<div class="storylist"><div class="storylist-item firststory"><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/11/02/distillery-rolls-out-2-new-grain-to-glass-spirits/">Distillery rolls out 2 new grain-to-glass spirits</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/business/">Business &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-wrap noimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/10/29/theater-unveils-plans-for-facelift/">Theater unveils plans for facelift</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/business/">Business &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/10/23/store-debuts-new-look-increased-emphasis-on-customers/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="farm supply 1" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/10/farm-supply-1-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/10/23/store-debuts-new-look-increased-emphasis-on-customers/">Store debuts new look, increased emphasis on customers</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/business/">Business &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/10/16/businesses-support-student-stability/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="NT - Stability 007" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/10/NT-Stability-007-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/10/16/businesses-support-student-stability/">Businesses support student stability</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/business/">Business &raquo;</a></div></div></div></div>		</div>
+		<div class="col2">
+							<div id="widget10a" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-odd widget"><h2>Personal Finance</h2>			<div class="textwidget"><a href="http://sunpatriot.com/category/lifestyle" title="financial articles"><img class="lazy lazy-hidden" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" data-lazy-type="image" data-src="http://abcnewspapers.com/wp-content/uploads/sites/19/2014/12/image001.jpg" alt="financial articles"/><noscript><img src="http://abcnewspapers.com/wp-content/uploads/sites/19/2014/12/image001.jpg" alt="financial articles"/></noscript></a></div>
+		</aside><aside class="widget-2 widget-last widget-even widget"><h2>Senior Living</h2>			<div class="textwidget"><iframe class="lazy lazy-hidden" name="Joomag_embed_fcc74c7a-a865-431f-b1ea-b67b0a62d5b7" style="width:320px;height:320px" width="320px" height="320px" hspace="0" vspace="0" frameborder="0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="iframe" data-src="//www.joomag.com/magazine/sun-patriot-2016-senior-living/0419044001468528377?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe><noscript><iframe name="Joomag_embed_fcc74c7a-a865-431f-b1ea-b67b0a62d5b7" style="width:320px;height:320px" width="320px" height="320px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/sun-patriot-2016-senior-living/0419044001468528377?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358,ffffff;none"></iframe></noscript></div>
+		</aside>				</div>
+					</div>
+		<div class="col3">
+							<div id="widget10b" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget">			<div class="textwidget"><iframe class="lazy lazy-hidden" name="Joomag_embed_df157fc8-44a7-453d-bb30-7d16e603c4e2" style="width:320px;height:320px" width="320px" height="320px" hspace="0" vspace="0" frameborder="0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="iframe" data-src="//www.joomag.com/magazine/sun-patriot-2015-business-card-directory/0795724001446566927?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358;none"></iframe><noscript><iframe name="Joomag_embed_df157fc8-44a7-453d-bb30-7d16e603c4e2" style="width:320px;height:320px" width="320px" height="320px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/sun-patriot-2015-business-card-directory/0795724001446566927?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358;none"></iframe></noscript></div>
+		</aside>				</div>
+					</div>
+	</section>
+	<!-- END:Content Section -->
+	<!-- SET:Content Section -->
+	<section id="row11" class="section-wrapper">
+		<h1 class="section-title"><a href="http://sunpatriot.com/category/faith/">Faith &raquo;</a></h1>
+		<div class="col1">
+			<div class="storylist"><div class="storylist-item firststory"><div class="storylist-img "><a href="http://sunpatriot.com/2016/09/11/float-highlights-hamburg-church-history/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="NT - Parade 994 2" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/09/NT-Parade-994-2-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/09/11/float-highlights-hamburg-church-history/">Float highlights Hamburg church history</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/arts-entertainment/">Arts &amp; Entertainment &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/05/10/spreading-the-word/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="WP faith lutheran standalone" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/05/WP-faith-lutheran-standalone-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/05/10/spreading-the-word/">SPREADING THE WORD</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/community-people/">Community &amp; People &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/04/22/drawing-inspiration/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="carver lifelines" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/04/carver-lifelines-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/04/22/drawing-inspiration/">Drawing inspiration</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/community-people/">Community &amp; People &raquo;</a></div></div></div><div class="storylist-item "><div class="storylist-img "><a href="http://sunpatriot.com/2016/03/23/trinity-offers-drive-thru-prayers-for-holy-week/"><img width="160" height="80" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif" class="lazy-hidden attachment-storylist size-storylist wp-post-image" alt="IMG_2393" data-src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2016/03/IMG_2393-160x80.jpg" data-lazy-type="image"/></a></div><div class="storylist-wrap hasimage"><div class="storylist-title"><a href="http://sunpatriot.com/2016/03/23/trinity-offers-drive-thru-prayers-for-holy-week/">Trinity offers drive thru prayers for Holy Week</a></div> <div class="storylist-cat"><a href="http://sunpatriot.com/category/community-people/">Community &amp; People &raquo;</a></div></div></div></div>		</div>
+		<div class="col2">
+							<div id="widget11a" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-odd widget">			<div class="textwidget"><div id="fp-announce">
+<div class="staticlist-header">
+<div class="staticlist-icon">
+<a href="http://www.theadspider.com/">
+<svg class="announcesvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="75px" height="75px" viewbox="268.5 358.5 75 75" enable-background="new 268.5 358.5 75 75" xml:space="preserve"><path class="announcesvg" d="M342.711 367.102c-0.494-0.354-1.128-0.449-1.703-0.254l-71.23 24.117c-0.766 0.26-1.281 0.978-1.281 1.786v6.497 c0 0.8 0.5 1.5 1.3 1.785l10.864 3.679l-1.076 3.344c-0.62 1.925-0.452 4 0.5 5.8 c0.923 1.8 2.5 3.1 4.4 3.75l12.857 4.137c0.753 0.2 1.5 0.4 2.3 0.365c3.298 0 6.194-2.11 7.205-5.252l0.942-2.931 l33.229 11.251c0.197 0.1 0.4 0.1 0.6 0.1c0.389 0 0.774-0.121 1.099-0.354c0.494-0.354 0.787-0.925 0.787-1.532v-54.73 C343.498 368 343.2 367.5 342.7 367.102z M303.246 415.674c-0.508 1.577-1.961 2.637-3.615 2.6 c-0.393 0-0.785-0.062-1.165-0.184l-12.857-4.138c-0.966-0.311-1.753-0.979-2.217-1.882c-0.463-0.902-0.547-1.932-0.236-2.897 l1.059-3.289l19.992 6.769L303.246 415.674z"/></svg>
+</a>
+</div>
+<div class="staticlist-text">
+<h2><a href="http://www.theadspider.com/" title="">Classifieds</a></h2>
+<a href="http://www.theadspider.com/" title="">Browse all Classifieds &raquo;</a>
+</div>
+</div>
+<ul>
+    <li><a href="http://theadspider.com/browse/ads/category/21/" title="Employment">Employment</a></li>
+    <li><a href="http://theadspider.com/browse/ads/category/14/" title="Wheels">Wheels</a></li>
+    <li><a href="http://theadspider.com/browse/ads/category/19/" title="Rentals and Real Estate">Rentals &amp; Real Estate</a></li>
+    <li><a href="http://theadspider.com/browse/ads/category/20/" title="Services">Services</a></li>
+    <li><a href="http://theadspider.com/browse/ads/category/16/" title="Pets">Pets</a></li>
+    <li><a href="http://theadspider.com/browse/ads/category/15/" title="Farm">Farm</a></li>
+    <li><a href="http://theadspider.com/browse/ads/category/17/" title="Merchandise">Merchandise</a></li>
+    <li><a href="http://theadspider.com/browse/ads/category/18/" title="Sales">Sales</a></li>
+    <li><a href="http://theadspider.com/browse/ads/category/1/" title="Sporting">Sporting</a></li>
+
+</ul>
+
+<a href="https://order.theadspider.com/placead/?placead=Place+an+Ad" title="Place an Ad">Place your ad today! &raquo;</a>
+</div></div>
+		</aside><aside class="widget-2 widget-last widget-even widget">			<div class="textwidget"><iframe class="lazy lazy-hidden" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="iframe" data-src="https://www.triggerex.com/GetAd/Campaign/script/2cbef7b5-85d3-4107-a79d-eceac7c728df?clickTAG=%%CLICK_URL_ESC%%" width="300" height="250" scrolling="no" frameborder="0"></iframe><noscript><iframe src="https://www.triggerex.com/GetAd/Campaign/script/2cbef7b5-85d3-4107-a79d-eceac7c728df?clickTAG=%%CLICK_URL_ESC%%" width="300" height="250" scrolling="no" frameborder="0"></iframe></noscript></div>
+		</aside>				</div>
+					</div>
+		<div class="col3">
+							<div id="widget11b" class="widgetized-area">
+					<aside class="widget-1 widget-first widget-last widget-odd widget"><h2>Destination Up North</h2>			<div class="textwidget"><iframe class="lazy lazy-hidden" name="Joomag_embed_5a0b5a77-c62c-43e3-9a67-95f81633af00" style="width:320px;height:420px" width="320px" height="420px" hspace="0" vspace="0" frameborder="0" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-type="iframe" data-src="//www.joomag.com/magazine/destination-up-north-2016-up-north/0535984001457644645?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358;none"></iframe><noscript><iframe name="Joomag_embed_5a0b5a77-c62c-43e3-9a67-95f81633af00" style="width:320px;height:420px" width="320px" height="420px" hspace="0" vspace="0" frameborder="0" src="http://www.joomag.com/magazine/destination-up-north-2016-up-north/0535984001457644645?page=1&amp;e=1&amp;embedInfo=theme,293042,151b26,ffffff,ffe358;none"></iframe></noscript></div>
+		</aside>				</div>
+					</div>
+	</section>
+	<!-- END:Content Section -->
+</div>
+<footer>
+  <div id="footer-sitelogo"><a href="http://sunpatriot.com/">
+    <a href="http://sunpatriot.com/" title="Sun Patriot" rel="home">
+              <img src="http://patriot.ecmpublishers.com/wp-content/uploads/sites/31/2015/10/sunpatriot.png" alt="Logo">
+          </a>
+  </div>
+  <nav class="links-menu-wrapper" role="navigation">
+	<span class="links-menu-intro"></span> 
+	<div class="links-menu"><ul id="menu-links-menu-1" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54609"><a href="http://sunpatriot.com/advertising-information/">Advertising Information</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54610"><a href="http://sunpatriot.com/contact-us/">Contact Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54611"><a href="http://sunpatriot.com/subscribe/">Subscribe</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60913"><a href="http://theadspider.com/">Jobs &#038; Classifieds</a></li>
+</ul></div></nav>  <div id="footer-credit">Copyright &copy;2016 <a href="http://ecmpublishers.com/" title="ECM Publishers Inc">ECM Publishers, Inc.</a> &#8226; All Rights Reserved</div>
+  <div id="scrolltotop">
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 64 64">
+      <path d="M32 2l-30 30h18v32h24v-32h18z"></path>
+    </svg>
+  </div>
+  <!-- <div id="p2_player_inject_6b267ea23d8a330fa0a25444f15b46a3"></div>
+<SCRIPT SRC="http://dat.localyokelmedia.com/ttj?id=5599062" TYPE="text/javascript"></SCRIPT>
+ -->      <script type="text/javascript" src="http://sunpatriot.com/wp-content/plugins/awesome-weather-pro/js/awesome-weather-widget-frontend.js?ver=1.1"></script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/plugins/awesome-weather-pro/js/js-cookie.js?ver=1.1"></script>
+<script type="text/javascript" src="http://patriot.ecmpublishers.com/wp-content/plugins/wens-responsive-column-layout-shortcodes/assets/js/custom.js?ver=3.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var JQLBSettings = {"fitToScreen":"0","resizeSpeed":"400","displayDownloadLink":"0","navbarOnTop":"0","loopImages":"","resizeCenter":"","marginSize":"","linkTarget":"","help":"","prevLinkTitle":"previous image","nextLinkTitle":"next image","prevLinkText":"\u00ab Previous","nextLinkText":"Next \u00bb","closeTitle":"close image gallery","image":"Image ","of":" of ","download":"Download","jqlb_overlay_opacity":"80","jqlb_overlay_color":"#000000","jqlb_overlay_close":"1","jqlb_border_width":"10","jqlb_border_color":"#ffffff","jqlb_border_radius":"0","jqlb_image_info_background_transparency":"100","jqlb_image_info_bg_color":"#ffffff","jqlb_image_info_text_color":"#000000","jqlb_image_info_text_fontsize":"10","jqlb_show_text_for_image":"1","jqlb_next_image_title":"next image","jqlb_previous_image_title":"previous image","jqlb_next_button_image":"http:\/\/sunpatriot.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/next.gif","jqlb_previous_button_image":"http:\/\/sunpatriot.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/prev.gif","jqlb_maximum_width":"","jqlb_maximum_height":"","jqlb_show_close_button":"1","jqlb_close_image_title":"close image gallery","jqlb_close_image_max_heght":"22","jqlb_image_for_close_lightbox":"http:\/\/sunpatriot.com\/wp-content\/plugins\/wp-lightbox-2\/styles\/images\/closelabel.gif","jqlb_keyboard_navigation":"1","jqlb_popup_size_fix":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/plugins/wp-lightbox-2/wp-lightbox-2.min.js?ver=1.3.4.1"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js?ver=1.5.18"></script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/themes/paperboy/js/slick/slick.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/themes/paperboy/js/jquery.inview.min.js?ver=1.1"></script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/themes/paperboy/js/paperboy.js?ver=1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+var a3_lazyload_params = {"apply_images":"1","apply_videos":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.min.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js?ver=1.7.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var a3_lazyload_extend_params = {"edgeY":"0"};
+var a3_lazyload_extend_params = {"edgeY":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js?ver=1.7.1"></script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-includes/js/wp-embed.min.js?ver=310a2aab2a96a9b32ab6752f3bdd0a43"></script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/plugins/wysija-newsletters/js/validate/languages/jquery.validationEngine-en.js?ver=2.7.5"></script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/plugins/wysija-newsletters/js/validate/jquery.validationEngine.js?ver=2.7.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wysijaAJAX = {"action":"wysija_ajax","controller":"subscribers","ajaxurl":"http:\/\/sunpatriot.com\/wp-admin\/admin-ajax.php","loadingTrans":"Loading...","is_rtl":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/plugins/wysija-newsletters/js/front-subscribers.js?ver=2.7.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"sunpatriot"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://sunpatriot.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=310a2aab2a96a9b32ab6752f3bdd0a43"></script>
+
+<!--Plugin WP Missed Schedule Active - Secured with Genuine Authenticity KeyTag-->
+
+<!-- This site is patched against a big problem not solved since WordPress 2.5 -->
+
+</footer>
+</div>
+<!--END: Canvas -->
+</div>
+<!--END: Page -->
+</body>
+</html>
+
+<!--
+     FILE ARCHIVED ON 06:31:02 Nov 12, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:07:26 Mar 29, 2019.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 127.191 (3)
+  esindex: 0.007
+  captures_list: 154.824
+  CDXLines.iter: 13.466 (3)
+  PetaboxLoader3.datanode: 70.827 (4)
+  exclusion.robots: 0.224
+  exclusion.robots.policy: 0.208
+  RedisCDXSource: 8.226
+  PetaboxLoader3.resolve: 78.655
+  load_resource: 139.068
+-->
