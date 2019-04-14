@@ -22,25 +22,27 @@
 
 #separator
 {
-	background-color: #4B7AAA;
 	height: 6px;
+	background-color: #4b7aaa;
 }
 
 /* styles for the menu system */
 .navbar-brand { font-family: Georgia, serif; }
 
 /* background color for top menu bar background */
-.navbar-bg, .navbar-inverse, #navbar-bg
+.navbar-bg,
+.navbar-inverse,
+#navbar-bg
 {
-	background-color: #4B7AAA;
 	color: white;
+	background-color: #4b7aaa;
 }
 
 .navbar1
 {
-	color: white;
 	font-size: 110%;
 	font-weight: bold;
+	color: white;
 }
 
 /* style the container for the left column */
@@ -52,7 +54,8 @@
 }
 
 /* style the left column contents */
-#column_left, #left-ads
+#column_left,
+#left-ads
 {
 	font-size: 90%;
 	padding-top: 4px;
@@ -62,15 +65,15 @@
 /* styles for all the inside pages: content */
 /* style the container for the live content area */
 #center { background-color: #fafaff; }
-
-h1, h2 { text-align: center; }
+h1,
+h2 { text-align: center; }
 
 table#dateline
 {
-	background-color: #cccccc;
 	width: 100%;
 	margin: 0 auto 0 auto;
 	padding: 0 4px 0 4px;
+	background-color: #ccc;
 }
 
 #content li
@@ -79,20 +82,21 @@ table#dateline
 	margin-bottom: .5em;
 }
 
-p, blockquote
+p,
+blockquote
 {
 	font-size: 16px;
-	text-align: justify;
 	line-height: 125%;
+	text-align: justify;
 }
 
 p#contents_listing { font-family: Arial, Helvetica, sans-serif; }
 
 p.subhead
 {
-	text-align: center;
-	font-size: 1.25em;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.25em;
+	text-align: center;
 }
 
 p.byline
@@ -101,76 +105,78 @@ p.byline
 	text-align: center;
 }
 
+figure { margin-bottom: 1em; }
+
 .photocaption
 {
-	font-family: "Times New Roman", Times, serif;
-	font-size: 0.85em;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: .85em;
 }
 
 /* style the reviewed-item information that appears beneath the subhead */
 .bookreview
 {
-	background-color: #ddd;
-	margin: 0.5em;
-	padding: 0.5em;
-	text-align: center;
-	font-family: "Times New Roman", Times, serif;
+	font-family: 'Times New Roman', Times, serif;
 	font-size: 1.25em;
 	font-weight: bold;
+	margin: .5em;
+	padding: .5em;
+	text-align: center;
+	background-color: #ddd;
 }
 
 /* O Tempora start */
 .otomhead
 {
-	text-align: left;
-	font-size: 1.25em;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 1.25em;
+	text-align: left;
 }
 
 .backtotop
 {
-	margin-top: 30px;
-	margin-bottom: 30px;
-	text-align: center;
 	font-family: Arial;
 	font-size: x-small;
 	clear: both;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	text-align: center;
 }
 
 /* separate the sections in the all-up versions of AR online */
 .redhead
 {
-	color: white;
-	background-color: #B70303;
 	font-weight: bold;
-	letter-spacing: 4px;
-	white-space: nowrap;
-	margin-bottom: 1em;
 	margin-top: 1em;
+	margin-bottom: 1em;
 	padding-right: .8em;
 	padding-left: 1em;
+	white-space: nowrap;
+	letter-spacing: 4px;
+	color: white;
+	background-color: #b70303;
 }
 
 li.link
 {
 	padding-top: 2em;
-	border-top: 1px navy solid;
 	padding-bottom: 2em;
+	border-top: 1px navy solid;
 }
 
 /* separate the letters from readers */
 .quill
 {
-	text-align: center;
-	margin-bottom: 30px;
 	clear: both;
+	margin-bottom: 30px;
+	text-align: center;
 }
 
 /* fieldset and legend are used to wrap comments and sections in the Readers Guide */
 #content fieldset
 {
-	background-color: white;
 	margin-top: 6px;
+	background-color: white;
 }
 
 #content legend { font-weight: bold; }
@@ -178,21 +184,19 @@ li.link
 /* styles for the front page only: contentii */
 #containerii
 {
-	margin-left: 1em;
 	margin-right: 1em;
+	margin-left: 1em;
 }
 
 #containerii p
 {
+	font-family: 'Times New Roman', serif;
+	font-size: .8em;
+	line-height: 1.2em;
+	text-align: left;
 	color: #000;
 	background-color: inherit;
-	font-family: "Times New Roman", serif;
-	text-align: left;
-	line-height: 1.2em;
-	font-size: .8em;
 }
-
-.newissue { }
 
 /* style the announcement banner */
 .announcement
@@ -201,107 +205,116 @@ li.link
 	padding-bottom: 6px;
 }
 
-.announcement a:link, .announcement a:visited { text-decoration: none; }
-.announcement a:hover, .announcement a:focus, .announcement a:active { text-decoration: none; }
+.announcement a:link,
+.announcement a:visited { text-decoration: none; }
+.announcement a:hover,
+.announcement a:focus,
+.announcement a:active { text-decoration: none; }
 
 /* style linked text site-wide */
-a:link, a:visited
+a:link,
+a:visited
 {
 	text-decoration: none;
 	color: #103994;
 }
 
-a:hover, a:focus { color: #66F; }
+a:hover,
+a:focus { color: #66f; }
 
 a:active
 {
 	font-weight: bold;
 	text-decoration: none;
-	color: #66F;
+	color: #66f;
 }
 
 /* dropcap follows h1, dropcap 2 follows h2 */
 span.dropcap
 {
-	float: left;
-	font-family: "Times New Roman", Georgia, serif;
+	font-family: 'Times New Roman', Georgia, serif;
 	font-size: 4.4em;
-	line-height: 0.85em;
-	margin-right: 0.03em;
-	margin-bottom: -0.25em;
+	line-height: .85em;
+	float: left;
+	margin-right: .03em;
+	margin-bottom: -.25em;
 	color: #009;
 }
 
 span.dropcap2
 {
-	float: left;
-	font-family: "Times New Roman", Georgia, serif;
+	font-family: 'Times New Roman', Georgia, serif;
 	font-size: 3em;
-	line-height: 0.85em;
-	margin-right: 0.03em;
-	margin-bottom: -0.25em;
+	line-height: .85em;
+	float: left;
+	margin-right: .03em;
+	margin-bottom: -.25em;
 	color: #009;
 }
 
 /* box containing images */
 .boxleft
 {
-	margin-right: 1em;
 	float: left;
+	margin-right: 1em;
 }
 
 .boxcenter { margin: .5em auto .5em auto; }
 
 .boxright
 {
-	margin-left: 1em;
 	float: right;
+	margin-left: 1em;
 }
 
-.boxleft td img, .boxcenter td img, .boxright td img
+.boxleft td img,
+.boxcenter td img,
+.boxright td img
 {
-	background-color: #fff;
-	border: 1px solid #bbb;
-	box-shadow: 0 0 5px #888;
 	padding: 4px;
-	-moz-box-shadow: 0 0 5px #888;
+	border: 1px solid #bbb;
+	background-color: #fff;
 	-webkit-box-shadow: 0 0 5px#888;
+	-moz-box-shadow: 0 0 5px #888;
+	box-shadow: 0 0 5px #888;
 }
-.pull-left { margin-right: 1em; }
 
+.pull-left { margin-right: 1em; }
 .pull-right { margin-left: 1em; }
+
 /* quote contains pull quotes */
 .quoteleft
 {
-	background-color: #ccc;
-	margin: .5em 1em .5em 0;
 	float: left;
 	width: 40%;
+	margin: .5em 1em .5em 0;
+	background-color: #ccc;
 }
 
 .quotecenter
 {
-	background-color: #ccc;
-	padding: 1em;
 	margin: .5em auto .5em auto;
+	padding: 1em;
+	background-color: #ccc;
 }
 
 .quoteright
 {
-	background-color: #ccc;
-	margin: .5em 0 .5em 1em;
 	float: right;
 	width: 40%;
+	margin: .5em 0 .5em 1em;
+	background-color: #ccc;
 }
 
 /* hide the comment form until they agree to terms */
 #v-form { display: none; }
 
 /* style sup and sub preserve line spacing */
-sup, sub
+sup,
+sub
 {
-	line-height: 0em;
 	font-size: .7em;
+	line-height: 0;
 }
 
 .hellip { letter-spacing: .3em; }
@@ -315,7 +328,8 @@ sup, sub
 }
 
 /* style the right column contents */
-#column_right, #right-ads
+#column_right,
+#right-ads
 {
 	font-size: 90%;
 	padding-top: 6px;
@@ -331,61 +345,65 @@ sup, sub
 	padding: 0 0 20px 0;
 }
 
-.pages a, .pages span
+.pages a,
+.pages span
 {
 	display: block;
 	float: left;
-	padding: 0.2em 0.5em;
-	margin-right: 0.1em;
+	margin-right: .1em;
+	padding: .2em .5em;
 	border: 1px solid #808080;
 	background: #4b7aaa;
 }
 
 .pages a.current
 {
+	color: #fff;
 	border: 1px solid #808080;
-	background: #eeeeee;
-	color: #ffffff;
+	background: #eee;
 }
 
-.pages a.current:link, .pages a.current:visited
+.pages a.current:link,
+.pages a.current:visited
 {
+	color: #000;
 	border: 1px solid #808080;
-	background: #eeeeee;
-	color: #000000;
+	background: #eee;
 }
 
 .pages a
 {
-	border: 1px solid #808080;
 	font-weight: bold;
-	color: #ffffff;
 	text-decoration: none;
-}
-
-.pages a:link, .pages a:visited
-{
+	color: #fff;
 	border: 1px solid #808080;
-	color: #ffffff;
-	text-decoration: none;
 }
 
-.pages a:hover, .pages a:active
+.pages a:link,
+.pages a:visited
 {
-	background: #eeeeee;
+	text-decoration: none;
+	color: #fff;
+	border: 1px solid #808080;
+}
+
+.pages a:hover,
+.pages a:active
+{
+	color: #000;
 	border-color: #808080;
-	color: #000000;
+	background: #eee;
 }
 
 .pages a.nextprev
 {
-	color: #666666;
 	font-weight: bold;
+	color: #666;
 }
 
 .pages span.nextprev
 {
-	border: 0px solid #ffffff;
-	background: #ffffff;
-	color: #000000;
+	color: #000;
+	border: 0 solid #fff;
+	background: #fff;
 }
