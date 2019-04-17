@@ -1,0 +1,118 @@
+/* --- disqus css -- */
+#comments {	background-color: #fafaff; }
+#disqus_thread
+{
+	color: black;
+	border-style: 0px solid;
+	border-color: #cccccc;
+	padding: 5px;
+}
+
+#dsq-content #dsq-comments .dsq-comment-body
+{
+	color: black;
+	background-color: #fafaff;
+}
+
+.dsq-reaction-body { color: #fff; }
+.dsq-reaction-header cite, .dsq-reaction-header span { color: #ccc; }
+.dsq-reaction-retweets { color: #ccc; }
+
+#dsq-content #dsq-comments .dsq-comment-header
+{
+	background: #fafaff;
+	/* Header background color */
+	border-top: black 1px solid;
+	/* Header top border */
+	border-left: black 1px solid;
+	/* Header left border */
+	border-right: black 1px solid;
+	/* Header bottom border */
+}
+
+/*
+Disqus comment header consists of an avatar, hyperlinked text (author or business name) and comment date time entries. Customization is extremely easy. You only have to provide 4 color codes for background and borders.
+
+The following code will be used to customize comment body where the actual comment text will appear.
+ */
+
+#dsq-content #dsq-comments .dsq-comment-body
+{
+	padding: 0.571em 0.786em;
+	/* Space between comment text and border */
+	background: #fafafa;
+	/* Comment body background color */
+	min-height: 70px;
+	/* Minimum comment body box height */
+	border-bottom: black 1px solid;
+	/* Comment body bottom border */
+	border-left: black 1px solid;
+	/* Comment body left border */
+	border-right: black 1px solid;
+	/* Comment body right border */
+	border-top: black 1px solid;
+	/* Comment body top border */
+	font-family: Lucida Sans Unicode, Helvetica, sans-serif;
+	font-size: 13px;
+	/* Font used for comment text */
+}
+
+/*
+Apart from background and border colors, there are 3 extra attributes in this code. Leave the padding attribute as it is. min-height ensures that one line comments don’t look ugly with extremely congested comment box. font-famiy attribute is used to choose your favorite font for comment text. You can change it to suit your needs.
+
+Disqus options contains the sorting options, community page link, and subscribe link. If you want to turn them off you can do it by using the following code. This piece of code is optional and can be safely ignored.
+ */
+
+.dsq-options
+{
+	display: none;
+	/* Turns off various disqus options */
+}
+
+/*
+As the name implies, the following code turns off the large Disqus graphical logo. This code is also optional and can be safely ignored.
+ */
+
+.dsq-dc-logo
+{
+	display: none;
+	/* Turns off display of disqus logo */
+}
+
+/*
+I prefer to switch off Disqus comment footer by using the following code. If you want to keep it, you can replace the display attribute with all the attributes used in customizing header or body.
+ */
+
+#dsq-content #dsq-comments .dsq-comment-footer
+{
+	display: none;
+	/* Turns off comment footer */
+}
+
+/*
+The following code is extremely important as it introduces reasonable gap between two comments.
+ */
+
+#dsq-content #dsq-comments .dsq-comment
+{
+	margin-bottom: 25px;
+	/* Space between two comments */
+}
+
+/*
+Once you have saved all your CSS code, you can see the effect instantly. I’ll advice you to first try these customizations on a test blog. Once you are satisfied with the theme, you can safely transfer the code to main blog. I hope this customization will give a new look to your blog and visitors will enjoy leaving comments.
+
+Update: I’ve been observing comment threads on this post and noticed that lot of people are asking about removing Disqus logo, ‘Expand Community’ box, RSS button, and ‘Subscribe by email’ link . So here’s that magic code to completely remove these elements from your Disqus thread.
+ */
+
+#dsq-content #dsq-authenticate .dsq-login-buttons
+{
+	background: none !important;
+	background-image: none !important;
+	margin-bottom: 0 !important;
+}
+
+#dsq-subscribe a { display: none !important; }
+#dsq-content #dsq-global-toolbar { display: none !important; }
+#dsq-sort-by { display: none !important; }
+/*--- end disqus css --*/

@@ -22,122 +22,56 @@
 <script type="text/javascript" src="http://www.nj.com/js/jquery-1.2.6.pack.js"></script>
 <script type="text/javascript" src="http://www.nj.com/08design/js/toprail.js"></script>
 <script type="text/javascript" src="http://www.nj.com/dhtml/includes/Pop.js"></script>
-<link rel="stylesheet" href="http://www.nj.com/08design/toprail/css/toprail.css" type="text/css"/>
-<link rel="stylesheet" href="http://www.nj.com/08design/css/footer.css" type="text/css"/>
+<link rel="stylesheet" href="http://www.nj.com/08design/toprail/css/toprail.css" type="text/css" />
+<link rel="stylesheet" href="http://www.nj.com/08design/css/footer.css" type="text/css" />
 <!-- OAS SETUP start -->
-<script type="text/javascript">
 
-//configuration
-
-
-
-OAS_listpos = "Leaderboard,SecSponsor,Rectangle,SkyScraper2,BannerBottom,SiteSponsor,TxtLink1,TxtLink2,TxtLink3,TxtLink4,Feature1,Feature2,Feature3,Feature4,ImpactAd,BannerShared";
-OAS_url = "http://ads.nj.com/RealMedia/ads/";
-OAS_sitepage = "www.nj.com/opinion/times/oped/index.ssf";
-OAS_target = "_top";
-OAS_query = "NULL";
-
-
-
-//end of configuration
-
-function OAS_AD (pos) {
-if (OAS_version >= 11) OAS_RICH(pos);
-else OAS_NORMAL(pos);
-}
-OAS_version = 10;
-OAS_rn = new String(Math.random()); OAS_rns = OAS_rn.substring(2, 11);
-function OAS_NORMAL(pos) {
-document.write('<a href="' + OAS_url + 'click_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" target=' + OAS_target + '>');
-document.write('<img sr' + 'C="' + OAS_url + 'adstream_nx.cgi/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" border=0 /></a>');
-}
-OAS_version = 11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1) OAS_version = 10;
-if (OAS_version >= 11) document.write('<script language=JavaScript1.1 sr' + 'C="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
-</script>
 <!-- OAS SETUP end -->
 <script type="text/javascript" src="http://media.nj.com/design/baseline/js/jquery-plugins.js"></script>
-<link rel="stylesheet" href="http://media.nj.com/design/baseline/css/mt4_toprail.css" type="text/css"/>
-<script type="text/javascript">
-/* <![CDATA[ */
-var isSSF = true;
+<link rel="stylesheet" href="http://media.nj.com/design/baseline/css/mt4_toprail.css" type="text/css" />
 
-if (!blogURL) {
-var blogId = 0;
-var blogIdStr = "";
-var blogURL = "";
-
-var mediaURL = "http://media.nj.com/design/baseline";
-var advVersion = "baseline";
-var advAffiliate = "njo";
-var advDomain = "nj.com";
-var advEnvPrefix = "";	
-
-var signinSubDomain = 'https://signup/';
-var mtRegistrationAllowed = false;
-var mtRegistrationRequired = false;
-var mtRegisterCGIPath = signinSubDomain+".advance.net/";
-var mtRelativeCGIPath = "/cgi-bin/mte/";
-var mtCommunityScript = "community/";
-var mtUserSessionCookieName = "mt_blog_user";
-var mtUserSessionCookiePath = "/";
-var mtUserSessionCookieTimeout = 14400;
-var mtUserSessionCookieDomain = advDomain;
-var mtAdminScript = "mt.cgi";
-var mtCaptchaFields = "";
-var mtAffiliate = advAffiliate;
-var mtArmorValue = "";
-}
-/* ]]> */
-</script>
 <script type="text/javascript" src="http://media.nj.com/design/baseline/js/movabletype.js"></script>
 <script type="text/javascript" src="http://media.nj.com/design/baseline/js/advance.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-m_toprail_category1="nj";
 
-
-/* ]]> */
-</script>
 <div id="Toprail">
 <div id="Masthead">
 <div id="Toprail_Affiliate_Logo">
-<a href="http://www.nj.com/" title="http://www.nj.com"><img src="http://media.nj.com/design/baseline/img/logo_njo.gif" alt="http://www.nj.com"/></a>
+<a href="http://www.nj.com/" title="http://www.nj.com"><img src="http://media.nj.com/design/baseline/img/logo_njo.gif" alt="http://www.nj.com" /></a>
 <div id="ToprailSignin" style="display:none;">
 <div id="logged_in_widget">
-<img src="http://media.nj.com/design/baseline/img/user_default_40.png" alt="" id="signin-user-icon" style="width:40px;height:40px;"/>
+<img src="http://media.nj.com/design/baseline/img/user_default_40.png" alt="" id="signin-user-icon" style="width:40px;height:40px;" />
 <div id="signin-widget-content"></div>
 </div>
 <div id="logged_out_widget">
 <a href="" class="jqModal" id="SigninLink" title="Sign in to nj.com">Sign in to nj.com &raquo;</a>
-<br/>Not a member? <a href="" title="Register Now" id="toprail-register-link">Register Now &raquo;</a>
+<br>Not a member? <a href="" title="Register Now" id="toprail-register-link">Register Now &raquo;</a>
 </div>
 <div id="SignInDialog" class="jqmWindow">
 <div class="signin_box_top"><!-- --></div>
 <div class="top">
 <form id="ToprailSigninForm" name="ToprailSignInForm" method="post" action="" onsubmit="document.getElementById('login_return_url').value=document.location.href;return true;">
-<input type="hidden" name="__mode" value="do_login"/>
-<input type="hidden" name="return_to" id="login_return_url" value=""/>
-<input type="hidden" name="affiliate" id="affiliate" value=""/>
-<input type="hidden" name="v" id="v" value=""/>
+<input type="hidden" name="__mode" value="do_login" />
+<input type="hidden" name="return_to" id="login_return_url" value="" />
+<input type="hidden" name="affiliate" id="affiliate" value="" />
+<input type="hidden" name="v" id="v" value="" />
 <div>
-<span class="right"><a href="" title="Click to close" class="jqmClose"><img src="http://media.nj.com/design/baseline/img/tr_signin_dialog_x.gif" alt="Close"/></a></span>
+<span class="right"><a href="" title="Click to close" class="jqmClose"><img src="http://media.nj.com/design/baseline/img/tr_signin_dialog_x.gif" alt="Close" /></a></span>
 <div class="title">Sign in to nj.com</div>
 </div>
 <div>
 <div class="left">
 <label for="tr_login_author">Username</label>
-<input type="text" id="tr_login_author" name="username" value="" class="field" size="30"/>
+<input type="text" id="tr_login_author" name="username" value="" class="field" size="30" />
 </div>
 <div class="f_space left">&nbsp;</div>
 <div class="left">
 <label for="tr_login_password">Password</label>
-<input type="password" id="tr_login_password" name="password" value="" class="field" size="30"/>
+<input type="password" id="tr_login_password" name="password" value="" class="field" size="30" />
 </div>
 </div>
 <div class="clear"><!-- --></div>
-<div class="remember"><div class="left"><input type="checkbox" id="remember"/></div><div class="left"><label for="remember">Remember me</label></div></div>
-<div class="signin"><input type="submit" class="btn_signin" value=""/></div>
+<div class="remember"><div class="left"><input type="checkbox" id="remember" /></div><div class="left"><label for="remember">Remember me</label></div></div>
+<div class="signin"><input type="submit" class="btn_signin" value="" /></div>
 <div class="forgot clear"><a href="#" title="Forgot password?" id="ForgotPassword">I forgot my username or password &raquo;</a></div>
 </form>
 <div class="clear"><!-- --></div>
@@ -153,7 +87,7 @@ or sign in using your
 </div>
 </div>
 <div id="Toprail_Leaderboard">
-<div class="Leaderboard"><script type="text/javascript">OAS_AD('Leaderboard');</script></div>
+<div class="Leaderboard"></div>
 </div>
 <div id="Topsearch">
 <ul id="ToprailSearchTabs">
@@ -171,20 +105,20 @@ or sign in using your
 <div id="ToprailSearchForms">
 <div class="vertical_line left"></div>
 <form id="Toprail_Search" method="get" action="http://search.nj.com/sp" onsubmit="checkSearchValues(this); return filterSiteSearch('http://www.nj.com',this.Search_Field)">
-<input type="hidden" value="100" name="aff"/>
-<input id="Search_Field" type="text" size="27" value="Search by keyword, town name, Web ID and more..." onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="keywords" class="site_search_field"/>
-<input id="Search_Button" type="submit" value="" class="imageGo_toprail" title="Go"/>
+<input type="hidden" value="100" name="aff" />
+<input id="Search_Field" type="text" size="27" value="Search by keyword, town name, Web ID and more..." onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="keywords" class="site_search_field" />
+<input id="Search_Button" type="submit" value="" class="imageGo_toprail" title="Go" />
 </form>
 <form id="Toprail_BusinessSearch" method="get" action="http://businessfinder.nj.com/BL/Listings.aspx" onsubmit="return checkSearchValues(this);">
-<input id="Search_Field_Business1" type="text" value="Business name or category" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="s"/>
-<input id="Search_Field_Business2" type="text" value="City OR zip code" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="locString"/>
-<input id="Search_Button_Business" type="submit" value="" class="imageGo_toprail" title="Go"/>
+<input id="Search_Field_Business1" type="text" value="Business name or category" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="s" />
+<input id="Search_Field_Business2" type="text" value="City OR zip code" onfocus="prepSiteSearch(this,true)" onblur="prepSiteSearch(this,false)" name="locString" />
+<input id="Search_Button_Business" type="submit" value="" class="imageGo_toprail" title="Go" />
 </form>
 <div class="vertical_line right"><!-- --></div>
 </div>
 </div>
 <div id="Sponsor_Ad">
-<div class="SiteSponsor"><script type="text/javascript">OAS_AD('SiteSponsor');</script></div>
+<div class="SiteSponsor"></div>
 </div>
 </div>
 <div id="Topnav">
@@ -206,7 +140,7 @@ or sign in using your
 </div>
 </div>
 <div class="ImpactAd">
-<div class="ImpactAd"><script type="text/javascript">OAS_AD("ImpactAd");</script></div>
+<div class="ImpactAd"></div>
 </div>
 <div id="main">	<div class="masthead">
 <div class="fr">
@@ -228,11 +162,11 @@ or sign in using your
 <div class="col one234">
 <div class="col one">
 <div class="SecSponsor">
-<div class="SecSponsor"><script type="text/javascript">OAS_AD("SecSponsor");</script></div>
+<div class="SecSponsor"></div>
 </div>
 <dl class="intnav">
 <dt>
-INSIDE NEWS<br/><a href="http://www.nj.com/times"><img src="http://www.nj.com/centraljersey/images/times.jpg" width="154" height="20"></a>
+INSIDE NEWS<br><a href="http://www.nj.com/times"><img src="http://www.nj.com/centraljersey/images/times.jpg" width="154" height="20"></a>
 </dt>
 <dd>
 <menu>
@@ -249,7 +183,7 @@ PHOTOS
 <dd class="thumb">
 <dir>
 <div class="feedwidget">
-<a href="http://photos.nj.com/the-times/2010/01/pennington_steinertzip_2.html"><img src="http://media.nj.com/the-times/photo/-f5e6e91a55aa6ccd_large.jpg" width="198" class="photo" alt=""/></a>
+<a href="http://photos.nj.com/the-times/2010/01/pennington_steinertzip_2.html"><img src="http://media.nj.com/the-times/photo/-f5e6e91a55aa6ccd_large.jpg" width="198" class="photo" alt="" /></a>
 <div class="redhed"><a href="http://photos.nj.com/the-times/2010/01/pennington_steinertzip_2.html">Pennington Steinert boys hoops</a></div>
 <div class="deck">
 </div>
@@ -285,7 +219,7 @@ PHOTOS
 Latest user-submitted photos:<br>
 <dd class="thumb">
 <div class="multimediafeed">
-<a href="http://photos.nj.com/photogallery/2009/08/vote_for_anyone_but_corzine.html"><img src="http://blog.nj.com/photos/c655a931793ecee3fa6a2ffb74a0e995.JPG" width="198" class="photo" alt=""/></a>
+<a href="http://photos.nj.com/photogallery/2009/08/vote_for_anyone_but_corzine.html"><img src="http://blog.nj.com/photos/c655a931793ecee3fa6a2ffb74a0e995.JPG" width="198" class="photo" alt="" /></a>
 <div class="redhed"><a href="http://photos.nj.com/photogallery/2009/08/vote_for_anyone_but_corzine.html">Vote for anyone but Corzine</a></div>
 <div class="deck">
 </div>
@@ -308,7 +242,7 @@ Share the videos you've shot - it's easy!
 </dd>
 <dd class="thumb">
 <div class="multimediafeed">
-<a href="http://videos.nj.com/2010/01/voss_spencer_vainieri_huttle_o.html"><img src="http://advance.images.vidavee.com/advance/rest/file/GetFileThumbnail/D0EEC40600DEE95FEC72EDEB93B27504/thumbnail.jpg" width="198" class="photo" alt=""/></a>
+<a href="http://videos.nj.com/2010/01/voss_spencer_vainieri_huttle_o.html"><img src="http://advance.images.vidavee.com/advance/rest/file/GetFileThumbnail/D0EEC40600DEE95FEC72EDEB93B27504/thumbnail.jpg" width="198" class="photo" alt="" /></a>
 <div class="redhed"><a href="http://videos.nj.com/2010/01/voss_spencer_vainieri_huttle_o.html">Voss, Spencer &amp; Vainieri Huttle on New Laws to Benefit Adults with Autism (A-4225 &amp; A-4226)</a></div>
 <div class="deck">
 In this video press release, Assemblywomen Dr. Joan M. Voss (D-Bergen), L. Grace Spencer (D-Essex) and Valerie Vainieri Huttle (D-Bergen) discuss two new laws - championed by former-Assembly Speaker Joseph J. Roberts, Jr. - that extend benefits and protections to adults with autism. The first law (A-4225) permits adults with autism to voluntarily place their names on a new state registry to help New Jersey improve its planning and services for those with the disorder. The second law (A-4226) revises the state's Law Against Discrimination to specifically prohibit discriminatory acts against people with autism. The laws were signed by Senate President/acting Governor Stephen M. Sweeney (D-Gloucester) during a public ceremony Jan. 15 at the Alpine Learning Group in Paramus.</div>
@@ -325,10 +259,10 @@ In this video press release, Assemblywomen Dr. Joan M. Voss (D-Bergen), L. Grace
 </dd>
 </dl>
 <div class="Feature1">
-<div class="Feature1"><script type="text/javascript">OAS_AD("Feature1");</script></div>
+<div class="Feature1"></div>
 </div>
 <div class="Feature2">
-<div class="Feature2"><script type="text/javascript">OAS_AD("Feature2");</script></div>
+<div class="Feature2"></div>
 </div>
 <style type="text/css">
 .textlinks a, .textlinks li	{ font-size: 9px; color: #977f46 ! important }
@@ -354,10 +288,10 @@ menu li:first-letter	{ margin-left: -8px }
 </div>
 </div>
 <div class="Feature3">
-<div class="Feature3"><script type="text/javascript">OAS_AD("Feature3");</script></div>
+<div class="Feature3"></div>
 </div>
 <div class="Feature4">
-<div class="Feature4"><script type="text/javascript">OAS_AD("Feature4");</script></div>
+<div class="Feature4"></div>
 </div>
 </div>
 <div class="col two34 last">
@@ -389,9 +323,7 @@ needs to be considered.</p>
 																	document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nj.com/RealMedia/ads/adstream_sx.ads/www.nj.com/xml/story/trenton_times/op/op/@StoryAd"></IFRAME>');
 																	}
 																	--></script>
-<noscript>
-<a href="http://ads.nj.com/RealMedia/ads/click_nx.ads/www.nj.com/xml/story/trenton_times/op/op/@StoryAd?x"><img src="http://ads.nj.com/RealMedia/ads/adstream_nx.ads/www.nj.com/xml/story/trenton_times/op/op/@StoryAd?x"></a>
-</noscript>
+
 <p>Before I am accused of any black-on-black "crime"
 for even raising such a question (I am black), consider that
 in a Jan. 15 New York Times op-ed by Clyde Haberman,
@@ -468,11 +400,11 @@ U.S. Senate those legislative initiatives that Johnson
 subsequently signed into law as the Civil Rights Act of 1964
 and the Voting Rights Act of 1965. Something to think about, eh?</p>
 <p>Donald Roscoe Brown is a lawyer who writes and lives in Ewing.</p>
-<div class="story_bottom_ad"><script type="text/javascript">OAS_AD("BannerShared");</script></div>
+<div class="story_bottom_ad"></div>
 <p style="margin: 18px 0px 24px 0px" align="right">
 </p>
 </div>
-<br clear="all"/>
+<br clear="all" />
 <script language="javascript">
 																o_pagetype="story";
 																o_indexpage="trenton_times";
@@ -485,15 +417,15 @@ and the Voting Rights Act of 1965. Something to think about, eh?</p>
 															</script>
 </div>
 <div style="padding:6px 0px 30px 0px;color:#626b77;border-top: #cfd0d2 1px solid">
-<a href="http://www.nj.com/opinion/times/oped/index.ssf?/sendthispage/sendthispage.ssf" onclick="POP('/sendthispage/sendthispage.ssf?'+location.href,'send_window',490,510,'resizable'); return false;"><img src="http://blog.nj.com/images/mail.gif" alt="Email to a friend"/></a> <a href="http://www.nj.com/opinion/times/oped/index.ssf?/sendthispage/sendthispage.ssf" onclick="POP('/sendthispage/sendthispage.ssf?'+location.href,'send_window',490,510,'resizable'); return false;">Send To A Friend</a>
-&nbsp; <a href="http://www.nj.com/opinion/times/oped/index.ssf?/base/news-0/126440193377830.xml&amp;coll=5" onclick="POP('/printer/printer.ssf?/base/news-0/126440193377830.xml&amp;coll=5','print_window',640,400,'scrollbars,status,menubar,location,resizable'); return false;"><img src="http://blog.nj.com/images/printer.gif" alt="Print this!"/></a> <a href="http://www.nj.com/opinion/times/oped/index.ssf?/base/news-0/126440193377830.xml&amp;coll=5" onclick="POP('/printer/printer.ssf?/base/news-0/126440193377830.xml&amp;coll=5','print_window',640,400,'scrollbars,status,menubar,location,resizable'); return false;">Print This</a>
+<a href="http://www.nj.com/opinion/times/oped/index.ssf?/sendthispage/sendthispage.ssf" onclick="POP('/sendthispage/sendthispage.ssf?'+location.href,'send_window',490,510,'resizable'); return false;"><img src="http://blog.nj.com/images/mail.gif" alt="Email to a friend" /></a> <a href="http://www.nj.com/opinion/times/oped/index.ssf?/sendthispage/sendthispage.ssf" onclick="POP('/sendthispage/sendthispage.ssf?'+location.href,'send_window',490,510,'resizable'); return false;">Send To A Friend</a>
+&nbsp; <a href="http://www.nj.com/opinion/times/oped/index.ssf?/base/news-0/126440193377830.xml&amp;coll=5" onclick="POP('/printer/printer.ssf?/base/news-0/126440193377830.xml&amp;coll=5','print_window',640,400,'scrollbars,status,menubar,location,resizable'); return false;"><img src="http://blog.nj.com/images/printer.gif" alt="Print this!" /></a> <a href="http://www.nj.com/opinion/times/oped/index.ssf?/base/news-0/126440193377830.xml&amp;coll=5" onclick="POP('/printer/printer.ssf?/base/news-0/126440193377830.xml&amp;coll=5','print_window',640,400,'scrollbars,status,menubar,location,resizable'); return false;">Print This</a>
 <div style="padding-bottom:10px"></div>
-<a href="http://reddit.com/submit" onclick="POP('http://reddit.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'reddit','800','500','toolbar=no'); return false;"><img src="http://www.nj.com/images/article/reddit_icon.gif" align="absmiddle" alt="Reddit"/></a> <a href="http://reddit.com/submit" onclick="POP('http://reddit.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'reddit','800','500','toolbar=no'); return false;">Reddit</a>
-&nbsp; <a href="http://digg.com/submit" onclick="POP('http://digg.com/submit?phase=2&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'Digg','970','600','resizable=yes,scrollbars=1'); return false;"><img src="http://www.nj.com/images/article/digg_icon.gif" align="absmiddle" alt="Digg"/></a> <a href="http://digg.com/submit" onclick="POP('http://digg.com/submit?phase=2&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'Digg','970','600','resizable=yes,scrollbars=1'); return false;">Digg</a>
-&nbsp; <a href="http://del.icio.us/post" onclick="POP('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','700','400','toolbar=no'); return false;"><img src="http://www.nj.com/images/article/del.icio.us_icon.gif" align="absmiddle" alt="del.icio.us"/></a> <a href="http://del.icio.us/post" onclick="POP('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','700','400','toolbar=no'); return false;">del.icio.us</a>
-&nbsp; <a href="http://www.google.com/bookmarks/" onclick="POP('http://www.google.com/bookmarks/mark?op=add&amp;title='+encodeURIComponent(document.title)+'&amp;bkmk='+encodeURIComponent(location.href), 'Google','700','700','toolbar=no'); return false;"><img src="http://www.nj.com/images/article/google_icon.gif" align="absmiddle" alt="Google"/></a> <a href="http://www.google.com/bookmarks/" onclick="POP('http://www.google.com/bookmarks/mark?op=add&amp;title='+encodeURIComponent(document.title)+'&amp;bkmk='+encodeURIComponent(location.href), 'Google','700','700','toolbar=no'); return false;">Google</a>
-&nbsp; <a href="http://myweb2.search.yahoo.com/myresults/bookmarklet" onclick="POP('http://myweb2.search.yahoo.com/myresults/bookmarklet?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title), 'Yahoo','700','400','toolbar=no'); return false;"><img src="http://www.nj.com/images/article/yahoo_icon.gif" align="absmiddle" alt="Yahoo"/></a> <a href="http://myweb2.search.yahoo.com/myresults/bookmarklet" onclick="POP('http://myweb2.search.yahoo.com/myresults/bookmarklet?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title), 'Yahoo','700','400','toolbar=no'); return false;">Yahoo</a>
-&nbsp; <a onclick="POP('http://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title), 'sharer','700','400','toolbar=no'); return false;" href="http://www.facebook.com/share.php"><img src="http://www.nj.com/images/article/facebook_icon.gif" align="absmiddle" alt="Facebook"/></a> <a onclick="POP('http://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title), 'sharer','700','400','toolbar=no'); return false;" href="http://www.facebook.com/share.php">Facebook</a>
+<a href="http://reddit.com/submit" onclick="POP('http://reddit.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'reddit','800','500','toolbar=no'); return false;"><img src="http://www.nj.com/images/article/reddit_icon.gif" align="absmiddle" alt="Reddit" /></a> <a href="http://reddit.com/submit" onclick="POP('http://reddit.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'reddit','800','500','toolbar=no'); return false;">Reddit</a>
+&nbsp; <a href="http://digg.com/submit" onclick="POP('http://digg.com/submit?phase=2&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'Digg','970','600','resizable=yes,scrollbars=1'); return false;"><img src="http://www.nj.com/images/article/digg_icon.gif" align="absmiddle" alt="Digg" /></a> <a href="http://digg.com/submit" onclick="POP('http://digg.com/submit?phase=2&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'Digg','970','600','resizable=yes,scrollbars=1'); return false;">Digg</a>
+&nbsp; <a href="http://del.icio.us/post" onclick="POP('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','700','400','toolbar=no'); return false;"><img src="http://www.nj.com/images/article/del.icio.us_icon.gif" align="absmiddle" alt="del.icio.us" /></a> <a href="http://del.icio.us/post" onclick="POP('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title), 'delicious','700','400','toolbar=no'); return false;">del.icio.us</a>
+&nbsp; <a href="http://www.google.com/bookmarks/" onclick="POP('http://www.google.com/bookmarks/mark?op=add&amp;title='+encodeURIComponent(document.title)+'&amp;bkmk='+encodeURIComponent(location.href), 'Google','700','700','toolbar=no'); return false;"><img src="http://www.nj.com/images/article/google_icon.gif" align="absmiddle" alt="Google" /></a> <a href="http://www.google.com/bookmarks/" onclick="POP('http://www.google.com/bookmarks/mark?op=add&amp;title='+encodeURIComponent(document.title)+'&amp;bkmk='+encodeURIComponent(location.href), 'Google','700','700','toolbar=no'); return false;">Google</a>
+&nbsp; <a href="http://myweb2.search.yahoo.com/myresults/bookmarklet" onclick="POP('http://myweb2.search.yahoo.com/myresults/bookmarklet?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title), 'Yahoo','700','400','toolbar=no'); return false;"><img src="http://www.nj.com/images/article/yahoo_icon.gif" align="absmiddle" alt="Yahoo" /></a> <a href="http://myweb2.search.yahoo.com/myresults/bookmarklet" onclick="POP('http://myweb2.search.yahoo.com/myresults/bookmarklet?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title), 'Yahoo','700','400','toolbar=no'); return false;">Yahoo</a>
+&nbsp; <a onclick="POP('http://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title), 'sharer','700','400','toolbar=no'); return false;" href="http://www.facebook.com/share.php"><img src="http://www.nj.com/images/article/facebook_icon.gif" align="absmiddle" alt="Facebook" /></a> <a onclick="POP('http://www.facebook.com/sharer.php?u='+encodeURIComponent(location.href)+'&amp;t='+encodeURIComponent(document.title), 'sharer','700','400','toolbar=no'); return false;" href="http://www.facebook.com/share.php">Facebook</a>
 </div>
 </div>
 <div class="clear"></div>
@@ -501,7 +433,7 @@ and the Voting Rights Act of 1965. Something to think about, eh?</p>
 <div class="col five6 last">
 <div class="mini_module">
 <div class="mini_module_label">NEW JERSEY WEATHER</div>
-<div class=""><script type="text/javascript">OAS_AD("");</script></div>
+<div class=""></div>
 <div class="clear"></div> <div class="condition_location">
 <!--(qs~display)-->
 Newark, NJ
@@ -526,10 +458,10 @@ Newark, NJ
 </center>
 </div>
 <div class="Rectangle">
-<div class="Rectangle"><script type="text/javascript">OAS_AD("Rectangle");</script></div>
+<div class="Rectangle"></div>
 </div>
-<div><a href="http://www.nj.com/classifieds/free/" onmouseover="this.firstChild.src='/08design/images/buttons/freeclassifieds_nj_mo.gif'" onmouseout="this.firstChild.src='/08design/images/buttons/freeclassifieds_nj.gif'"><img src="http://www.nj.com/08design/images/buttons/freeclassifieds_nj.gif" alt="Post Free Classifieds"/></a></div>
-<br class="content_gap"/>
+<div><a href="http://www.nj.com/classifieds/free/" onmouseover="this.firstChild.src='/08design/images/buttons/freeclassifieds_nj_mo.gif'" onmouseout="this.firstChild.src='/08design/images/buttons/freeclassifieds_nj.gif'"><img src="http://www.nj.com/08design/images/buttons/freeclassifieds_nj.gif" alt="Post Free Classifieds" /></a></div>
+<br class="content_gap" />
 <div class="col five">
 <dl>
 <dt>FORUMS</dt>
@@ -587,14 +519,14 @@ Talk about the news in our forums.
 </dl>
 </div>
 <div class="col six last">
-<div class="SkyScraper2"><script type="text/javascript">OAS_AD("SkyScraper2");</script></div>
-</div>	<br clear="all"/>
+<div class="SkyScraper2"></div>
+</div>	<br clear="all" />
 </div>
-<br clear="all"/>
+<br clear="all" />
 </div>
 </div>
 <div id="Footer">
-<div id="FooterLogos"><a href="http://www.advanceinternet.com/" title="Advance Internet"><img src="http://www.nj.com/08design/images/logo_footer_advanceinternet.gif" alt="Advance Internet" id="AdvanceLogo"/></a><a href="http://www.nj.com/" title="NJ.com"><img id="AffiliateLogo" src="http://www.nj.com/images/footer/affiliatelogo.gif" alt="NJ.com"/></a></div>
+<div id="FooterLogos"><a href="http://www.advanceinternet.com/" title="Advance Internet"><img src="http://www.nj.com/08design/images/logo_footer_advanceinternet.gif" alt="Advance Internet" id="AdvanceLogo" /></a><a href="http://www.nj.com/" title="NJ.com"><img id="AffiliateLogo" src="http://www.nj.com/images/footer/affiliatelogo.gif" alt="NJ.com" /></a></div>
 <div id="Footersearch">
 <ul id="FooterSearchTabs">
 <li id="FooterSearchTab1" class="search_tab_on">
@@ -611,16 +543,16 @@ Talk about the news in our forums.
 <div id="FooterSearchForms">
 <div class="vertical_line left"></div>
 <form id="Footer_Search" method="get" action="http://search.nj.com/sp" onsubmit="checkSearchValues(this); return filterSiteSearch('http://www.nj.com',this.Search_Field)">
-<input type="hidden" value="100" name="aff"/>
-<input id="Footer_SearchField_Keyword" class="site_search_field" type="text" size="27" value="Search by keyword, town name, Web ID and more..." onfocus="prepSiteSearch(this,true);" onblur="prepSiteSearch(this,false);" name="keywords"/> <input id="Footer_SearchButton" type="submit" value="" class="imageGo" title="Go"/>
+<input type="hidden" value="100" name="aff" />
+<input id="Footer_SearchField_Keyword" class="site_search_field" type="text" size="27" value="Search by keyword, town name, Web ID and more..." onfocus="prepSiteSearch(this,true);" onblur="prepSiteSearch(this,false);" name="keywords" /> <input id="Footer_SearchButton" type="submit" value="" class="imageGo" title="Go" />
 </form>
-<form onsubmit="return checkSearchValues(this);" action="http://businessfinder.nj.com/BL/Listings.aspx" method="get" id="Footer_BusinessSearch"> <input type="text" name="s" onblur="prepSiteSearch(this,false);" onfocus="prepSiteSearch(this,true);" value="Business name or category" size="27" class="footer_search_field" id="Footer_SearchField_Name"/> <input type="text" name="locString" onblur="prepSiteSearch(this,false);" onfocus="prepSiteSearch(this,true);" value="City or zip code" size="27" class="footer_search_field" id="Footer_SearchField_Zip"/> <input type="submit" title="Go" class="imageGo" value="" id="Footer_SearchButton2"/> </form>
+<form onsubmit="return checkSearchValues(this);" action="http://businessfinder.nj.com/BL/Listings.aspx" method="get" id="Footer_BusinessSearch"> <input type="text" name="s" onblur="prepSiteSearch(this,false);" onfocus="prepSiteSearch(this,true);" value="Business name or category" size="27" class="footer_search_field" id="Footer_SearchField_Name" /> <input type="text" name="locString" onblur="prepSiteSearch(this,false);" onfocus="prepSiteSearch(this,true);" value="City or zip code" size="27" class="footer_search_field" id="Footer_SearchField_Zip" /> <input type="submit" title="Go" class="imageGo" value="" id="Footer_SearchButton2" /> </form>
 <div class="vertical_line right"></div>
 </div>
 </div>
 <div id="FooterMiniLinks">
 <div id="MiniLinks_Top"><a href="http://www.nj.com/siteindex/" title="Site Map">Site Map</a>| <a href="http://www.nj.com/advertise/" title="Advertise">Advertise</a> | <a href="http://www.nj.com/contactus/" title="Contact">Contact</a></div>
-<div id="MiniLinks_Bottom"><img src="http://www.nj.com/08design/images/green_arrow.gif" alt=""/> <a href="http://www.nj.com/aboutus/index.ssf?/aboutus/content/homepage.html" title="Make us your home page">Make us your home page</a></div>
+<div id="MiniLinks_Bottom"><img src="http://www.nj.com/08design/images/green_arrow.gif" alt="" /> <a href="http://www.nj.com/aboutus/index.ssf?/aboutus/content/homepage.html" title="Make us your home page">Make us your home page</a></div>
 </div>
 <div class="clear"></div> <div id="FooterMainLinks">
 <a href="http://www.nj.com/" title="Home">Home</a> | <a href="http://www.nj.com/news" title="News">News</a> | <a href="http://www.nj.com/weather" title="Weather">Weather</a> | <a href="http://www.nj.com/sports" title="Sports">Sports</a> | <a href="http://www.nj.com/entertainment" title="Entertainment">Entertainment</a> | <a href="http://www.nj.com/living" title="Living">Living</a> | <a href="http://www.nj.com/interact" title="Interact">Interact</a> | <a href="http://www.nj.com/jobs/" title="Jobs">Jobs</a> | <a href="http://autos.nj.com/" title="Autos">Autos</a> | <a href="http://realestate.nj.com/">Real Estate</a> | <a href="http://www.nj.com/classifieds/">Classifieds</a> | <a href="http://www.nj.com/shopping/">Shopping</a> | <a href="http://www.nj.com/placead/">Place an Ad</a> </div>
@@ -642,7 +574,7 @@ Talk about the news in our forums.
 <li><a href="http://www.nj.com/placead">Sell Your Car</a></li>
 <li><a href="placead">Sell/Rent Your Home</a></li>
 <li><a href="http://realestate.nj.com/for-rent">Apartments &amp; Rentals</a></li>
-<li><a href="http://www.nj.com/businessfinder">Claim Your Business<br/>&nbsp;&nbsp;&nbsp;Listing for Free</a></li>
+<li><a href="http://www.nj.com/businessfinder">Claim Your Business<br>&nbsp;&nbsp;&nbsp;Listing for Free</a></li>
 </ul>
 </div>
 <div id="Footer_Zone_C">
@@ -657,24 +589,24 @@ Talk about the news in our forums.
 </div>
 <div id="Footer_Zone_X">
 <div class="bkgd_lightgray">
-<div class="gray_top"><img height="7" width="7" alt="" class="gray_corner" src="http://www.nj.com/08design/images/roundcorner_gray_topleft.gif"/></div>
+<div class="gray_top"><img height="7" width="7" alt="" class="gray_corner" src="http://www.nj.com/08design/images/roundcorner_gray_topleft.gif" /></div>
 <div class="gray_body"> <ul class="footer_zone_columns">
-<li><span><img src="http://www.nj.com/08design/images/icon_rss.gif" alt="RSS"/></span><a href="http://www.nj.com/rss/">Subscribe to our content (RSS)</a></li>
-<li><span><img src="http://www.nj.com/08design/images/icon_email.gif" alt="Alerts"/></span><a href="http://update.nj.com/adv_nj/newsletters/nj/subscribe.htm">Sign up for news alerts</a></li>
-<li><span><img src="http://www.nj.com/08design/images/icon_twitter.gif" alt="Twitter Feeds"/></span><a href="http://www.nj.com/twitter/">NJ.com Twitter feed</a></li>
-<li><span><img src="http://www.nj.com/08design/images/icon_video_small.gif" alt="Podcasts"/></span><a href="http://www.nj.com/ledgerlive/">Ledger Live vodcast</a></li>
-<li><span><img src="http://www.nj.com/08design/images/icon_mobile.gif" alt="Mobile"/></span><a href="http://www.nj.com/mobile/home.ssf">View NJ.com mobile site</a></li>
-<li><span><img src="http://www.nj.com/08design/images/icon_mobile.gif" alt="Mobile"/></span><a href="http://www.nj.com/mobile-device/">View mobile product offerings</a></li>
+<li><span><img src="http://www.nj.com/08design/images/icon_rss.gif" alt="RSS" /></span><a href="http://www.nj.com/rss/">Subscribe to our content (RSS)</a></li>
+<li><span><img src="http://www.nj.com/08design/images/icon_email.gif" alt="Alerts" /></span><a href="http://update.nj.com/adv_nj/newsletters/nj/subscribe.htm">Sign up for news alerts</a></li>
+<li><span><img src="http://www.nj.com/08design/images/icon_twitter.gif" alt="Twitter Feeds" /></span><a href="http://www.nj.com/twitter/">NJ.com Twitter feed</a></li>
+<li><span><img src="http://www.nj.com/08design/images/icon_video_small.gif" alt="Podcasts" /></span><a href="http://www.nj.com/ledgerlive/">Ledger Live vodcast</a></li>
+<li><span><img src="http://www.nj.com/08design/images/icon_mobile.gif" alt="Mobile" /></span><a href="http://www.nj.com/mobile/home.ssf">View NJ.com mobile site</a></li>
+<li><span><img src="http://www.nj.com/08design/images/icon_mobile.gif" alt="Mobile" /></span><a href="http://www.nj.com/mobile-device/">View mobile product offerings</a></li>
 </ul>
 </div>
-<div class="gray_bottom"><img height="7" width="7" alt="" class="gray_corner" src="http://www.nj.com/08design/images/roundcorner_lightgray_bottomleft.gif"/></div>
+<div class="gray_bottom"><img height="7" width="7" alt="" class="gray_corner" src="http://www.nj.com/08design/images/roundcorner_lightgray_bottomleft.gif" /></div>
 </div> </div> <div class="clear"></div>
 </div> <div id="FooterSubscribe_Multi"> <div class="subscribe_logo">
-<a href="http://www.nj.com/subscribe/" title="Subscribe"><img src="http://www.nj.com/images/footer/subscribe.gif" alt="Subscribe"/></a> <span>Special home delivery offers!</span>
+<a href="http://www.nj.com/subscribe/" title="Subscribe"><img src="http://www.nj.com/images/footer/subscribe.gif" alt="Subscribe" /></a> <span>Special home delivery offers!</span>
 </div> <div id="FooterSubscribe_Newspapers">
-<a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/SubLedgeClick.html/" title="The Star-Ledger">The Star-Ledger</a> | <a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/SubTimesClick.html/" title="The Times, Trenton">The Times, Trenton</a> | <a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/SubJournalClick.html/" title="The Jersey Journal">The Jersey Journal</a> | <a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/GloucesterClick.html/" title="Gloucester Co. Times">Gloucester Co. Times</a><br/><a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/BridgeClick.html/" title="Bridgeton News">The News of Cumberland County</a> | <a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/SunClick.html/" title="Today's Sunbeam">Today's Sunbeam</a>
+<a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/SubLedgeClick.html/" title="The Star-Ledger">The Star-Ledger</a> | <a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/SubTimesClick.html/" title="The Times, Trenton">The Times, Trenton</a> | <a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/SubJournalClick.html/" title="The Jersey Journal">The Jersey Journal</a> | <a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/GloucesterClick.html/" title="Gloucester Co. Times">Gloucester Co. Times</a><br><a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/BridgeClick.html/" title="Bridgeton News">The News of Cumberland County</a> | <a href="http://ads.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/////ProxyLink/NJONLINE/CLICK_NJ10/SunClick.html/" title="Today's Sunbeam">Today's Sunbeam</a>
 </div> <div class="clear"></div>
-</div> <div id="Copyright">&copy; 2009 New Jersey On-Line LLC. All Rights Reserved (<a href="http://www.nj.com/aboutus/">About Us</a>). Use of this site constitutes acceptance of our <a href="http://www.nj.com/useragreement/" title="User Agreement">User Agreement</a>. Please read our <a href="http://www.nj.com/privacypolicy/" title="Privacy Policy">Privacy Policy</a>.<br/> <a href="http://www.nj.com/forums/index.ssf?rules.html" title="Community Rules">Community Rules</a> apply to all content you upload or otherwise submit to this site. <a href="http://www.nj.com/interactivity/" title="Contact interactivity management">Contact interactivity management</a>.</div>
+</div> <div id="Copyright">&copy; 2009 New Jersey On-Line LLC. All Rights Reserved (<a href="http://www.nj.com/aboutus/">About Us</a>). Use of this site constitutes acceptance of our <a href="http://www.nj.com/useragreement/" title="User Agreement">User Agreement</a>. Please read our <a href="http://www.nj.com/privacypolicy/" title="Privacy Policy">Privacy Policy</a>.<br> <a href="http://www.nj.com/forums/index.ssf?rules.html" title="Community Rules">Community Rules</a> apply to all content you upload or otherwise submit to this site. <a href="http://www.nj.com/interactivity/" title="Contact interactivity management">Contact interactivity management</a>.</div>
 </div>
 <script language="javascript" src="http://geoip.nj.com/media/js/geoip.js"></script>
 <script language="JavaScript">
