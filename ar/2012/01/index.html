@@ -37,25 +37,32 @@ $(document).ready(function () {
 	<div class="row">
 		<div class="col-md-12">
 <!-- end bbinclude -->
-			<table id="dateline">
-				
-				<tr>
-					<td>&nbsp;Vol. 23, No. 1 </td>
-					<td class="text-right"> January 2012&nbsp; </td>
-				</tr>
-			</table>
-			<br />
-		</div>
-<!-- ************************** Contents ************************** -->
-		<table cellpadding="2">
-			<tr>
-				<td bgcolor="#b70303">
-				<div class="text-center">
-					<b><font face="arial, helvetica, sans-serif" color="#ffffff" size="-1">&nbsp;C O N T E N T S&nbsp;</font></b>
-				</div>
-				</td>
-			</tr>
-		</table>
+<!-- #bbinclude "AR-masthead.incl"
+#VOLUME#="23"
+#NUMBER#="1"
+#MONTH#="January"
+#YEAR#="2012"
+-->
+<table class="table">
+	<thead>
+		<tr>
+			<th colspan="2" class="text-center"> <h1><i>American Renaissance</i> magazine</h1></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td> Vol. 23, No. 1 </td>
+			<td class="text-right">January <a href="/ar/2012/index.html">2012</a></td>
+		</tr>
+	</tbody>
+</table>
+<!-- end bbinclude -->
+
+<!-- #bbinclude "contents.incl" -->
+<p class="btn redhead" id="contents">
+    CONTENTS
+</p>
+<!-- end bbinclude -->
 		<table width="100%">
 			<tr>
 				<td>
