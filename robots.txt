@@ -1,1 +1,1 @@
-Sitemap: http://amren.com/sitemap.xml
+Sitemap: https://archive.amren.com/sitemap.txt
