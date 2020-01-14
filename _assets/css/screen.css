@@ -90,7 +90,7 @@ blockquote
 	text-align: justify;
 }
 
-p#contents_listing { font-family: Arial, Helvetica, sans-serif; }
+p#contents_listing { font-family: Arial, Helvetica, sans-serif; margin-top: 1em; }
 
 p.subhead
 {
@@ -149,7 +149,7 @@ figure { margin-bottom: 1em; }
 	font-weight: bold;
 	margin-top: 1em;
 	margin-bottom: 1em;
-	padding-right: .8em;
+	padding-right: .4em;
 	padding-left: 1em;
 	white-space: nowrap;
 	letter-spacing: 4px;
