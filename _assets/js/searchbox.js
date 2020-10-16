@@ -1,3 +1,0 @@
-// global include file for the search box
-
-document.write('<form id="searchbox_009148206432049679303:ublljjeli10" action="https://archive.amren.com/search.html"><fieldset style="border: 0;"><input type=hidden name="cx" value=009148206432049679303:ublljjeli10> <input type=hidden name="cof" value=FORID:11> <input name="q" type=text size=20><br><input type=submit name="sa" value=Search></fieldset></form>');
