@@ -1,5 +1,5 @@
 {
-"AAInfo": "This is a CodeKit 3 project config file. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. Doing so will cause CodeKit to crash and/or corrupt your project. I know it looks like JSON, but it is *not*. Many numbers in this file are 64-bit long long bitFlags, which JSON does not support. These numbers *cannot* be treated as discrete values and if you attempt to parse this file as standard JSON with any public JSON parser, these values will be corrupted. This file is not backwards-compatible with CodeKit 1 or 2. For more information, see https://codekitapp.com/",
+"AAInfo": "This is a CodeKit 3 project config file. EDITING THIS FILE IS A POOR LIFE DECISION. Doing so may cause CodeKit to crash and/or corrupt your project. Several critical values in this file are 64-bit integers, which JavaScript JSON parsers do not support because JavaScript cannot handle 64-bit integers. These values will be corrupted if the file is parsed with JavaScript. This file is not backwards-compatible with CodeKit 1 or 2. For details, see https://codekitapp.com/",
 "buildSteps": [
 	{
 		"name": "Process All Remaining Files and Folders",
@@ -7,7 +7,7 @@
 		"uuidString": "617BB629-629D-4629-93D7-0D34608C6557"
 		}
 	],
-"creatorBuild": "32186",
+"creatorBuild": "33081",
 "files": {
 	"/.editorconfig": {
 		"cB": 0,
@@ -15,6 +15,30 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/.editorconfig",
+		"oF": 0
+		},
+	"/2021/soviet-censorship/index-PreviewTemp-9531CAC7-1BA9-4578-8AF2-4E317A15AB76.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/soviet-censorship/index-PreviewTemp-9531CAC7-1BA9-4578-8AF2-4E317A15AB76.html",
+		"oF": 0
+		},
+	"/2021/soviet-censorship/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/2021/soviet-censorship/index.html",
+		"oF": 0
+		},
+	"/404.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/404.html",
 		"oF": 0
 		},
 	"/_assets/css/handheld.css": {
@@ -116,7 +140,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/graphics/archiv_nav.gif": {
 		"ft": 4194304,
@@ -124,7 +150,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/archiv_nav.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/armast.gif": {
 		"ft": 4194304,
@@ -132,7 +160,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/armast.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/armast2.gif": {
 		"ft": 4194304,
@@ -140,7 +170,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/armast2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/article.gif": {
 		"ft": 4194304,
@@ -148,7 +180,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/article.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/articles.gif": {
 		"ft": 4194304,
@@ -156,7 +190,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/articles.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/b_ang_bd_F1_L6.gif": {
 		"ft": 4194304,
@@ -164,7 +200,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/b_ang_bd_F1_L6.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/b_ang_bg_F1_L6.gif": {
 		"ft": 4194304,
@@ -172,7 +210,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/b_ang_bg_F1_L6.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/b_ang_hd_F5_L6.gif": {
 		"ft": 4194304,
@@ -180,7 +220,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/b_ang_hd_F5_L6.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/b_ang_hg_F5_L6.gif": {
 		"ft": 4194304,
@@ -188,7 +230,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/b_ang_hg_F5_L6.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/b_bas_F1_L6.gif": {
 		"ft": 4194304,
@@ -196,7 +240,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/b_bas_F1_L6.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/b_h_F5_L6.gif": {
 		"ft": 4194304,
@@ -204,7 +250,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/b_h_F5_L6.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/back.gif": {
 		"ft": 4194304,
@@ -212,7 +260,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/back.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/back_nav.gif": {
 		"ft": 4194304,
@@ -220,7 +270,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/back_nav.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/bdf2f2f2.gif": {
 		"ft": 4194304,
@@ -228,7 +280,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/bdf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/bdffffff.gif": {
 		"ft": 4194304,
@@ -236,7 +290,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/bdffffff.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/bdimg.gif": {
 		"ft": 4194304,
@@ -244,7 +300,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/bdimg.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/bf2f2f2.gif": {
 		"ft": 4194304,
@@ -252,7 +310,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/bf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/bffffff.gif": {
 		"ft": 4194304,
@@ -260,7 +320,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/bffffff.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/bgf2f2f2.gif": {
 		"ft": 4194304,
@@ -268,7 +330,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/bgf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/bgffffff.gif": {
 		"ft": 4194304,
@@ -276,7 +340,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/bgffffff.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/bgimg.gif": {
 		"ft": 4194304,
@@ -284,7 +350,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/bgimg.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/bgT.gif": {
 		"ft": 4194304,
@@ -292,7 +360,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/bgT.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/blank.gif": {
 		"ft": 4194304,
@@ -300,7 +370,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/blank.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/df2f2f2.gif": {
 		"ft": 4194304,
@@ -308,7 +380,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/df2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/dffffff.gif": {
 		"ft": 4194304,
@@ -316,7 +390,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/dffffff.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/droite_pub.gif": {
 		"ft": 4194304,
@@ -324,7 +400,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/droite_pub.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/feed_atom.png": {
 		"ft": 32768,
@@ -335,7 +413,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/graphics/feed_rss1.png": {
 		"ft": 32768,
@@ -346,7 +426,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/graphics/feed_rss2.png": {
 		"ft": 32768,
@@ -357,7 +439,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/graphics/fond1px.gif": {
 		"ft": 4194304,
@@ -365,7 +449,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/fond1px.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/fond_menu.gif": {
 		"ft": 4194304,
@@ -373,7 +459,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/fond_menu.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/fond_renvoi_de_traffic.gif": {
 		"ft": 4194304,
@@ -381,7 +469,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/fond_renvoi_de_traffic.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gauche_pub.gif": {
 		"ft": 4194304,
@@ -389,7 +479,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/gauche_pub.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gf2f2f2.gif": {
 		"ft": 4194304,
@@ -397,7 +489,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/gf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gffffff.gif": {
 		"ft": 4194304,
@@ -405,7 +499,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/gffffff.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gradient-left.jpg": {
 		"ft": 16384,
@@ -416,7 +512,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/graphics/gradient-right.jpg": {
 		"ft": 16384,
@@ -427,7 +525,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/graphics/greyline-1.gif": {
 		"ft": 4194304,
@@ -435,7 +535,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/greyline-1.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/greyline.GIF": {
 		"ft": 4194304,
@@ -443,7 +545,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/greyline.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gtbdf2f2f2.gif": {
 		"ft": 4194304,
@@ -451,7 +555,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/gtbdf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gtbf2f2f2.gif": {
 		"ft": 4194304,
@@ -459,7 +565,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/gtbf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gtbgf2f2f2.gif": {
 		"ft": 4194304,
@@ -467,7 +575,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/gtbgf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gtdf2f2f2.gif": {
 		"ft": 4194304,
@@ -475,7 +585,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/gtdf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gtgf2f2f2.gif": {
 		"ft": 4194304,
@@ -483,7 +595,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/gtgf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gthdf2f2f2.gif": {
 		"ft": 4194304,
@@ -491,7 +605,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/gthdf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gthf2f2f2.gif": {
 		"ft": 4194304,
@@ -499,7 +615,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/gthf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/gthgf2f2f2.gif": {
 		"ft": 4194304,
@@ -507,7 +625,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/gthgf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/hdf2f2f2.gif": {
 		"ft": 4194304,
@@ -515,7 +635,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/hdf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/hdffffff.gif": {
 		"ft": 4194304,
@@ -523,7 +645,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/hdffffff.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/hdimg.gif": {
 		"ft": 4194304,
@@ -531,7 +655,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/hdimg.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/hf2f2f2.gif": {
 		"ft": 4194304,
@@ -539,7 +665,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/hf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/hffffff.gif": {
 		"ft": 4194304,
@@ -547,7 +675,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/hffffff.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/hgf2f2f2.gif": {
 		"ft": 4194304,
@@ -555,7 +685,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/hgf2f2f2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/hgffffff.gif": {
 		"ft": 4194304,
@@ -563,7 +695,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/hgffffff.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/hgimg.gif": {
 		"ft": 4194304,
@@ -571,7 +705,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/hgimg.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/home_nav.gif": {
 		"ft": 4194304,
@@ -579,7 +715,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/home_nav.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/image2.gif": {
 		"ft": 4194304,
@@ -587,7 +725,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/image2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/invisible.gif": {
 		"ft": 4194304,
@@ -595,7 +735,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/invisible.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/PTImbz_2ZWRmYjkwNTVjNzc_MGIwYTg_MTU5MTJlZDRlYWQ3NSZvZj_w.gif": {
 		"ft": 4194304,
@@ -603,7 +745,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/PTImbz_2ZWRmYjkwNTVjNzc_MGIwYTg_MTU5MTJlZDRlYWQ3NSZvZj_w.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/puce_titre.gif": {
 		"ft": 4194304,
@@ -611,7 +755,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/puce_titre.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/puce_titre_2.gif": {
 		"ft": 4194304,
@@ -619,7 +765,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/puce_titre_2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/quill96.gif": {
 		"ft": 4194304,
@@ -627,7 +775,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/quill96.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/scribd-large.gif": {
 		"ft": 4194304,
@@ -635,7 +785,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/scribd-large.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/search_nav.gif": {
 		"ft": 4194304,
@@ -643,7 +795,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/search_nav.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/sep_v.gif": {
 		"ft": 4194304,
@@ -651,7 +805,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/sep_v.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/shim.gif": {
 		"ft": 4194304,
@@ -659,7 +815,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/shim.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/spacer.gif": {
 		"ft": 4194304,
@@ -667,7 +825,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/spacer.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/store_nav.gif": {
 		"ft": 4194304,
@@ -675,7 +835,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/store_nav.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/text.gif": {
 		"ft": 4194304,
@@ -683,7 +845,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/text.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/textend.gif": {
 		"ft": 4194304,
@@ -691,7 +855,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/textend.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/titre-arrdroite.gif": {
 		"ft": 4194304,
@@ -699,7 +865,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/titre-arrdroite.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/titre-arrgauche.gif": {
 		"ft": 4194304,
@@ -707,7 +875,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/titre-arrgauche.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/unknown.gif": {
 		"ft": 4194304,
@@ -715,7 +885,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/unknown.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/warning.gif": {
 		"ft": 4194304,
@@ -723,7 +895,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/warning.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/warning2.gif": {
 		"ft": 4194304,
@@ -731,7 +905,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/warning2.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/whiteline.GIF": {
 		"ft": 4194304,
@@ -739,7 +915,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/whiteline.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/graphics/writer96.gif": {
 		"ft": 4194304,
@@ -747,7 +925,9 @@
 		"oA": 0,
 		"oAP": "/_assets/graphics/writer96.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/img/1111vet1rl5.jpg": {
 		"ft": 16384,
@@ -758,7 +938,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/135-1.jpg": {
 		"ft": 16384,
@@ -769,7 +951,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/2-chainz-2012-01-03-300x300.jpg": {
 		"ft": 16384,
@@ -780,7 +964,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/260uyad.jpg": {
 		"ft": 16384,
@@ -791,7 +977,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/2ywu6a8.jpg": {
 		"ft": 16384,
@@ -802,7 +990,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/3845248722_127afcc911.jpg": {
 		"ft": 16384,
@@ -813,7 +1003,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/50CentsongPics1KspBNQoQdD8U0M.jpg": {
 		"ft": 16384,
@@ -824,7 +1016,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/airblaster.jpg": {
 		"ft": 16384,
@@ -835,7 +1029,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/alessandra_ambrosio_01.jpg": {
 		"ft": 16384,
@@ -846,7 +1042,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/amd_alvinhenry.jpg": {
 		"ft": 16384,
@@ -857,7 +1055,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/amd_suspect.jpg": {
 		"ft": 16384,
@@ -868,7 +1068,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/Anti-White_20PSU.png": {
 		"ft": 32768,
@@ -879,7 +1081,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/b38c5bc5fc390c24f78a4d8b189c3107.jpg": {
 		"ft": 16384,
@@ -890,7 +1094,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/bhx3m14.jpg": {
 		"ft": 16384,
@@ -901,7 +1107,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/boardhost.gif": {
 		"ft": 4194304,
@@ -909,7 +1117,9 @@
 		"oA": 0,
 		"oAP": "/_assets/img/boardhost.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/img/bostonglobe.jpg": {
 		"ft": 16384,
@@ -920,7 +1130,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/BrandonAbrams.jpg": {
 		"ft": 16384,
@@ -931,7 +1143,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/bushfoxcumbre_N.jpg": {
 		"ft": 16384,
@@ -942,7 +1156,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/city.jpg": {
 		"ft": 16384,
@@ -953,7 +1169,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/crbst_amanullah_20germany1.jpg": {
 		"ft": 16384,
@@ -964,7 +1182,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/crbst_soraia_20afghan.jpg": {
 		"ft": 16384,
@@ -975,7 +1195,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/crime_murder.gif": {
 		"ft": 4194304,
@@ -983,7 +1205,9 @@
 		"oA": 0,
 		"oAP": "/_assets/img/crime_murder.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/img/ct1uc.jpg": {
 		"ft": 16384,
@@ -994,7 +1218,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/DayLaborerRude.jpg": {
 		"ft": 16384,
@@ -1005,7 +1231,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/dollhouse.jpg": {
 		"ft": 16384,
@@ -1016,7 +1244,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/dw9gmd.gif": {
 		"ft": 4194304,
@@ -1024,7 +1254,9 @@
 		"oA": 0,
 		"oAP": "/_assets/img/dw9gmd.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/img/eurospaleonlyrecentlypu0.jpg": {
 		"ft": 16384,
@@ -1035,7 +1267,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/Family_Communion.JPG": {
 		"ft": 16384,
@@ -1046,7 +1280,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/footballevo.jpg": {
 		"ft": 16384,
@@ -1057,7 +1293,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/Geert_Wilders_Ground_Zero.jpg": {
 		"ft": 16384,
@@ -1068,7 +1306,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/gisele-bundchen-1.jpg": {
 		"ft": 16384,
@@ -1079,7 +1319,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/golden_muraldetail2007ww.jpg": {
 		"ft": 16384,
@@ -1090,7 +1332,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/greg-mcnicol_freddie-young.jpg": {
 		"ft": 16384,
@@ -1101,7 +1345,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/h.webber.png": {
 		"ft": 32768,
@@ -1112,7 +1358,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/haiti_at_night_j.jpg": {
 		"ft": 16384,
@@ -1123,7 +1371,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/il_fullxfull.215640674.jpg": {
 		"ft": 16384,
@@ -1134,7 +1384,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/img0462alzw1.jpg": {
 		"ft": 16384,
@@ -1145,7 +1397,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/img1185cz5.jpg": {
 		"ft": 16384,
@@ -1156,7 +1410,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/janjaweed.jpg": {
 		"ft": 16384,
@@ -1167,7 +1423,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/jones_crop_340x234.jpg": {
 		"ft": 16384,
@@ -1178,7 +1436,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/kristin-kreuk.jpg": {
 		"ft": 16384,
@@ -1189,7 +1449,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/lois_hunter.jpg": {
 		"ft": 16384,
@@ -1200,7 +1462,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/metro_dennis_rodman.jpg": {
 		"ft": 16384,
@@ -1211,7 +1475,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/neuschwanstein32sd0.jpg": {
 		"ft": 16384,
@@ -1222,7 +1488,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/neuschwansteinir1.jpg": {
 		"ft": 16384,
@@ -1233,7 +1501,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/original.jpg": {
 		"ft": 16384,
@@ -1244,7 +1514,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/pic18467jc8.jpg": {
 		"ft": 16384,
@@ -1255,7 +1527,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/rembrandt_danae.jpg": {
 		"ft": 16384,
@@ -1266,7 +1540,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/saint_michael_team_5B1_5D.jpg": {
 		"ft": 16384,
@@ -1277,7 +1553,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/Saudi-Arabia-apartheid-road-sign-to-Mecca-non-Muslims.jpg": {
 		"ft": 16384,
@@ -1288,7 +1566,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/Sports-Illustrated-Best-Beards-in-Sports-Patriots_crop_340x234.jpg": {
 		"ft": 16384,
@@ -1299,7 +1579,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/ss-091104-iran-protests-03.jpg": {
 		"ft": 16384,
@@ -1310,7 +1592,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/Sudan2.JPG": {
 		"ft": 16384,
@@ -1321,7 +1605,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/SVP_20Anti-Minaret_20Poster.jpg": {
 		"ft": 16384,
@@ -1332,7 +1618,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/tis-the-season.png": {
 		"ft": 32768,
@@ -1343,7 +1631,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/tumblr_lmy6f5LBPU1qhqzwno1_500.jpg": {
 		"ft": 16384,
@@ -1354,7 +1644,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/tumblr_m6egw75TAx1r1dtnso3_1280.jpg": {
 		"ft": 16384,
@@ -1365,7 +1657,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/videopage_logo.gif": {
 		"ft": 4194304,
@@ -1373,7 +1667,9 @@
 		"oA": 0,
 		"oAP": "/_assets/img/videopage_logo.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/img/viewphoto74.jpg": {
 		"ft": 16384,
@@ -1384,7 +1680,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/white-identity.jpg": {
 		"ft": 16384,
@@ -1395,7 +1693,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/wichita.gif": {
 		"ft": 4194304,
@@ -1403,7 +1703,9 @@
 		"oA": 0,
 		"oAP": "/_assets/img/wichita.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/img/WisePartial.gif": {
 		"ft": 4194304,
@@ -1411,7 +1713,9 @@
 		"oA": 0,
 		"oAP": "/_assets/img/WisePartial.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/img/WiseQuadratic.gif": {
 		"ft": 4194304,
@@ -1419,7 +1723,9 @@
 		"oA": 0,
 		"oAP": "/_assets/img/WiseQuadratic.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/img/wm16.gif": {
 		"ft": 4194304,
@@ -1427,7 +1733,9 @@
 		"oA": 0,
 		"oAP": "/_assets/img/wm16.gif",
 		"oF": 0,
-		"opt": 0
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"rq": 75
 		},
 	"/_assets/img/XXT4i.jpg": {
 		"ft": 16384,
@@ -1438,7 +1746,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/img/yoruk11zk.jpg": {
 		"ft": 16384,
@@ -1449,7 +1759,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/includes/topnav.htm": {
 		"cB": 0,
@@ -1468,7 +1780,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/screenshots/amren-199612.jpg": {
 		"ft": 16384,
@@ -1479,7 +1793,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/screenshots/amren-199901.jpg": {
 		"ft": 16384,
@@ -1490,7 +1806,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/screenshots/amren-199905.jpg": {
 		"ft": 16384,
@@ -1501,7 +1819,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/screenshots/amren-199910.jpg": {
 		"ft": 16384,
@@ -1512,7 +1832,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/screenshots/amren-200008.jpg": {
 		"ft": 16384,
@@ -1523,7 +1845,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/screenshots/amren-200009.jpg": {
 		"ft": 16384,
@@ -1534,7 +1858,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/screenshots/amren-200402.jpg": {
 		"ft": 16384,
@@ -1545,7 +1871,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/screenshots/amren-200812.jpg": {
 		"ft": 16384,
@@ -1556,7 +1884,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/screenshots/amren-201201.jpg": {
 		"ft": 16384,
@@ -1567,7 +1897,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/screenshots/amren-201608.jpg": {
 		"ft": 16384,
@@ -1578,7 +1910,9 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/_assets/screenshots/amren-201710.jpg": {
 		"ft": 16384,
@@ -1589,7 +1923,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/_redirects": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/_redirects",
+		"oF": 0
 		},
 	"/android-chrome-192x192.png": {
 		"ft": 32768,
@@ -1600,7 +1944,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/android-chrome-512x512.png": {
 		"ft": 32768,
@@ -1611,7 +1957,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/apple-touch-icon-precomposed.png": {
 		"ft": 32768,
@@ -1622,7 +1970,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/apple-touch-icon.png": {
 		"ft": 32768,
@@ -1633,7 +1983,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/browserconfig.xml": {
 		"cB": 0,
@@ -1652,7 +2004,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/favicon-32x32.png": {
 		"ft": 32768,
@@ -1663,7 +2017,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/favicon.ico": {
 		"cB": 0,
@@ -1714,7 +2070,9 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/robots.txt": {
 		"cB": 0,
@@ -2249,8 +2607,7 @@
 			"optionString": "{'before': true, 'after': true}"
 			},
 		"block-scoped-var": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"block-spacing": {
 			"active": 0,
@@ -2305,24 +2662,20 @@
 			"optionString": "'that'"
 			},
 		"constructor-super": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"curly": {
 			"active": 0,
 			"optionString": "'all'"
 			},
 		"default-case": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"default-case-last": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"default-param-last": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"dot-location": {
 			"active": 0,
@@ -2341,8 +2694,7 @@
 			"optionString": "'always', {'null': 'always'}"
 			},
 		"for-direction": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"func-call-spacing": {
 			"active": 0,
@@ -2373,16 +2725,14 @@
 			"optionString": "{'allowImplicit': false}"
 			},
 		"global-require": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"grouped-accessor-pairs": {
 			"active": 0,
 			"optionString": "'anyOrder'"
 			},
 		"guard-for-in": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"handle-callback-err": {
 			"active": 0,
@@ -2497,44 +2847,35 @@
 			"optionString": "{'ignoreChainWithDepth': 2}"
 			},
 		"no-alert": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-array-constructor": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-async-promise-executor": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-await-in-loop": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-bitwise": {
 			"active": 0,
 			"optionString": "{'allow': ['~'], 'int32Hint': true}"
 			},
 		"no-buffer-constructor": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-caller": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-case-declarations": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-class-assign": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-compare-neg-zero": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-cond-assign": {
 			"active": 1,
@@ -2549,124 +2890,101 @@
 			"optionString": "{'allow': ['warn', 'error']}"
 			},
 		"no-const-assign": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-constant-condition": {
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
 			},
 		"no-constructor-return": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-continue": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-control-regex": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-debugger": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-delete-var": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-div-regex": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-dupe-args": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-dupe-class-members": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-dupe-else-if": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-dupe-keys": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-duplicate-imports": {
 			"active": 0,
 			"optionString": "{'includeExports': false}"
 			},
 		"no-else-return": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-empty": {
 			"active": 1,
 			"optionString": "{'allowEmptyCatch': false}"
 			},
 		"no-empty-character-class": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-empty-function": {
 			"active": 0,
 			"optionString": "{'allow': []}"
 			},
 		"no-empty-pattern": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-eq-null": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-eval": {
 			"active": 0,
 			"optionString": "{'allowIndirect': false}"
 			},
 		"no-ex-assign": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-extend-native": {
 			"active": 0,
 			"optionString": "{'exceptions': []}"
 			},
 		"no-extra-bind": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-extra-boolean-cast": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-extra-labels": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-extra-parens": {
 			"active": 0,
 			"optionString": "'all', {'conditionalAssign': false, 'returnAssign': false, 'nestedBinaryExpressions': false, 'ignoreJSX': 'none', 'enforceForArrowConditionals': false}"
 			},
 		"no-extra-semi": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-fallthrough": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-floating-decimal": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-func-assign": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-global-assign": {
 			"active": 1,
@@ -2677,20 +2995,16 @@
 			"optionString": "{'boolean': true, 'number': true, 'string': true, 'allow': []}"
 			},
 		"no-implicit-globals": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-implied-eval": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-import-assign": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-inline-comments": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-inner-declarations": {
 			"active": 1,
@@ -2709,40 +3023,33 @@
 			"optionString": "{'skipStrings': true, 'skipComments': false, 'skipRegExps': true, 'skipTemplates': true}"
 			},
 		"no-iterator": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-label-var": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-labels": {
 			"active": 0,
 			"optionString": "{'allowLoop': false, 'allowSwitch': false}"
 			},
 		"no-lone-blocks": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-lonely-if": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-loop-func": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-loss-of-precision": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-magic-numbers": {
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
 			},
 		"no-misleading-character-class": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-mixed-operators": {
 			"active": 0,
@@ -2757,100 +3064,84 @@
 			"optionString": ""
 			},
 		"no-multi-assign": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-multi-spaces": {
 			"active": 0,
 			"optionString": "{'exceptions': {'Property': true, 'BinaryExpression': false, 'VariableDeclarator': false, 'ImportDeclaration': false}}"
 			},
 		"no-multi-str": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-multiple-empty-lines": {
 			"active": 0,
 			"optionString": "{'max': 2, 'maxBOF': 2, 'maxEOF': 2}"
 			},
 		"no-negated-condition": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-nested-ternary": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-new": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-new-func": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-new-object": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-new-require": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-new-symbol": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-new-wrappers": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-obj-calls": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-octal": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-octal-escape": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-param-reassign": {
 			"active": 0,
 			"optionString": "{'props': false}"
 			},
 		"no-path-concat": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-plusplus": {
 			"active": 0,
 			"optionString": "{'allowForLoopAfterthoughts': false}"
 			},
 		"no-process-env": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-process-exit": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
+			},
+		"no-promise-executor-return": {
+			"active": 0
 			},
 		"no-proto": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-prototype-builtins": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-redeclare": {
 			"active": 1,
 			"optionString": "{'builtinGlobals': false}"
 			},
 		"no-regex-spaces": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-restricted-exports": {
 			"active": 0,
@@ -2861,8 +3152,7 @@
 			"optionString": "'event', 'fdescribe'"
 			},
 		"no-restricted-imports": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-restricted-modules": {
 			"active": 0,
@@ -2881,40 +3171,33 @@
 			"optionString": "'except-parens'"
 			},
 		"no-return-await": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-script-url": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-self-assign": {
 			"active": 1,
 			"optionString": "{'props': true}"
 			},
 		"no-self-compare": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-sequences": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-setter-return": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-shadow": {
 			"active": 0,
 			"optionString": "{'builtinGlobals': false, 'hoist': 'functions', 'allow': []}"
 			},
 		"no-shadow-restricted-names": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-sparse-arrays": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-sync": {
 			"active": 0,
@@ -2925,20 +3208,16 @@
 			"optionString": "{allowIndentationTabs: false}"
 			},
 		"no-template-curly-in-string": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-ternary": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-this-before-super": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-throw-literal": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-trailing-spaces": {
 			"active": 0,
@@ -2949,36 +3228,34 @@
 			"optionString": "{'typeof': false}"
 			},
 		"no-undef-init": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-undefined": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-underscore-dangle": {
 			"active": 0,
 			"optionString": "{'allow': [], 'allowAfterThis': false, 'allowAfterSuper': false, 'enforceInMethodNames': false}"
 			},
 		"no-unexpected-multiline": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-unmodified-loop-condition": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-unneeded-ternary": {
 			"active": 0,
 			"optionString": "{'defaultAssignment': true}"
 			},
 		"no-unreachable": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
+			},
+		"no-unreachable-loop": {
+			"active": 0,
+			"optionString": "{'ignore': []}"
 			},
 		"no-unsafe-finally": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-unsafe-negation": {
 			"active": 1,
@@ -2989,8 +3266,7 @@
 			"optionString": "{'allowShortCircuit': false, 'allowTernary': false, 'allowTaggedTemplates': false}"
 			},
 		"no-unused-labels": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"no-unused-vars": {
 			"active": 1,
@@ -3001,44 +3277,36 @@
 			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
 			},
 		"no-useless-backreference": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-useless-call": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-useless-catch": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-useless-computed-key": {
 			"active": 0,
 			"optionString": ""
 			},
 		"no-useless-concat": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-useless-constructor": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-useless-escape": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-useless-rename": {
 			"active": 0,
 			"optionString": "{'ignoreDestructuring': false, 'ignoreImport': false, 'ignoreExport': false}"
 			},
 		"no-useless-return": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-var": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-void": {
 			"active": 0,
@@ -3049,12 +3317,10 @@
 			"optionString": "{'terms': ['todo', 'fixme', 'xxx'], 'location': 'start'}"
 			},
 		"no-whitespace-before-property": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"no-with": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"nonblock-statement-body-position": {
 			"active": 0,
@@ -3101,8 +3367,7 @@
 			"optionString": "{blankLine: 'always', prev:'*', next:'return'}"
 			},
 		"prefer-arrow-callback": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"prefer-const": {
 			"active": 0,
@@ -3113,40 +3378,32 @@
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
 		"prefer-exponentiation-operator": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"prefer-named-capture-group": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"prefer-numeric-literals": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"prefer-object-spread": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
 			},
 		"prefer-regex-literals": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"prefer-rest-params": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"prefer-spread": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"prefer-template": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"quote-props": {
 			"active": 0,
@@ -3161,24 +3418,20 @@
 			"optionString": "'always'"
 			},
 		"require-atomic-updates": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"require-await": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"require-jsdoc": {
 			"active": 0,
 			"optionString": "{'require': {'FunctionDeclaration': true, 'MethodDefinition': false, 'ClassDeclaration': false, 'ArrowFunctionExpression': false}}"
 			},
 		"require-unicode-regexp": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"require-yield": {
-			"active": 1,
-			"optionString": ""
+			"active": 1
 			},
 		"rest-spread-spacing": {
 			"active": 0,
@@ -3241,8 +3494,7 @@
 			"optionString": "{'after': true, 'before': false}"
 			},
 		"symbol-description": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"template-curly-spacing": {
 			"active": 0,
@@ -3269,16 +3521,14 @@
 			"optionString": "{'requireStringLiterals': true}"
 			},
 		"vars-on-top": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"wrap-iife": {
 			"active": 0,
 			"optionString": "'outside'"
 			},
 		"wrap-regex": {
-			"active": 0,
-			"optionString": ""
+			"active": 0
 			},
 		"yield-star-spacing": {
 			"active": 0,
@@ -3673,7 +3923,9 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0
+		"autoOutputPathStyle": 0,
+		"webpOptimizationPresetUUID": "lpckwebp-none",
+		"webpRGBQuality": 75
 		},
 	"languageDefaultsHAML": {
 		"autoOutputAction": 0,
@@ -3699,7 +3951,9 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"outputFormat": 0,
-		"quality": 100
+		"quality": 100,
+		"webpOptimizationPresetUUID": "lpckwebp-none",
+		"webpRGBQuality": 75
 		},
 	"languageDefaultsJS": {
 		"autoOutputAction": 0,
@@ -3791,7 +4045,9 @@
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
 		"optimizerType": 1,
-		"quality": 100
+		"quality": 100,
+		"webpOptimizationPresetUUID": "lpckwebp-none",
+		"webpRGBQuality": 75
 		},
 	"languageDefaultsPUG": {
 		"autoOutputAction": 0,
@@ -4192,6 +4448,8 @@
 		},
 	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$,exports,require",
+	"webpPresets": {
+		},
 	"websiteRelativeRoot": ""
 	},
 "settingsFileVersion": "3"
