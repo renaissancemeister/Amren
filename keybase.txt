@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kmacfactor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://archive.amren.com
+  * I am kmacfactor (https://keybase.io/kmacfactor) on keybase.
+  * I have a public key ASBx-6uH4oK4rMzDe1p7lWViZLV2alNLREbwDkP8gB9k9Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012071fbab87e282b8acccc37b5a7b95656264b5766a534b4446f00e43fc801f64f50a",
+      "host": "keybase.io",
+      "kid": "012071fbab87e282b8acccc37b5a7b95656264b5766a534b4446f00e43fc801f64f50a",
+      "uid": "dac9a354430726228ce91fdf6f983119",
+      "username": "kmacfactor"
+    },
+    "merkle_root": {
+      "ctime": 1617037409,
+      "hash": "1f59caad921b4cdec926eaa7289de1d8fe3fa76672e104585a9e02da3e4c503714b8045fa0391eb5db0fb454a2e1152500c0447d42c4f701d2809c2e365bc148",
+      "hash_meta": "2cce511e267b64dbae84670a9480a00eaf752ea87265f10f2b161d9eec5c3548",
+      "seqno": 19498604
+    },
+    "service": {
+      "entropy": "vgcTb2yg7kJewAlDi6thXweI",
+      "hostname": "archive.amren.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.2"
+  },
+  "ctime": 1617037416,
+  "expire_in": 504576000,
+  "prev": "9f8de7171bc2271c09fc91aa84e212996c85c7e5ff382f8395a30121630be216",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcfurh+KCuKzMw3tae5VlYmS1dmpTS0RG8A5D/IAfZPUKp3BheWxvYWTESpcCJ8Qgn43nFxvCJxwJ/JGqhOISmWyFx+X/OC+DlaMBIWML4hbEIIkkiD/xrESjF+Q9RanCQ4eQQU9yv4QJ2YED0sNW6+GIAgHCo3NpZ8RA+YO5FCK9Sa08BzdFWL2Yj/ULkXNgag53g0uCwBFfEZbDEbt/p9QN4tGkHlLEGYBT8Opt8KDaEcUOu22LY8zyC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAYxr8vO+77dJk/XISI/SoOH7cLy0oikrnsIx4nfvlESo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kmacfactor
+
+==================================================================
